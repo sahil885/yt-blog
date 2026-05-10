@@ -6,6 +6,16 @@ import html from "remark-html";
 
 const postsDirectory = path.join(process.cwd(), "posts");
 
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+export interface HowToStep {
+  name: string;
+  text: string;
+}
+
 export interface PostMeta {
   slug: string;
   title: string;
@@ -16,6 +26,9 @@ export interface PostMeta {
   readingTime: string;
   keywords: string[];
   ogImage?: string;
+  faqItems?: FaqItem[];
+  howToSteps?: HowToStep[];
+  howToName?: string;
 }
 
 export interface Post extends PostMeta {
