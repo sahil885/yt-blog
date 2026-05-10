@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 import Link from "next/link";
 
 const SITE_URL = "https://blog.yttranscript.app";
+const GA_ID = "G-H5P5XCRVL1";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -33,8 +35,22 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_ID}');
+          `}
+        </Script>
+      </head>
       <body className="min-h-screen flex flex-col bg-white text-gray-900 antialiased">
-        {/* ── Header ── */}
+        {/* Header */}
         <header className="border-b border-gray-100 sticky top-0 bg-white/95 backdrop-blur z-40">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 flex items-center justify-between h-14">
             <Link href="/" className="flex items-center gap-2 font-bold text-red-600 text-lg tracking-tight">
@@ -57,10 +73,10 @@ export default function RootLayout({
           </div>
         </header>
 
-        {/* ── Main ── */}
+        {/* Main */}
         <main className="flex-1">{children}</main>
 
-        {/* ── Footer ── */}
+        {/* Footer */}
         <footer className="border-t border-gray-100 mt-20 py-10">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500">
             <p>© {new Date().getFullYear()} YTTranscript. Free YouTube transcript tool.</p>
