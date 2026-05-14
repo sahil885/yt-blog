@@ -4,7 +4,7 @@ import "./globals.css";
 import Link from "next/link";
 
 const SITE_URL = "https://blog.yttranscript.app";
-const GA_ID = "G-H5P5XCRVL1";
+const GA_ID = "G-M75CD8BQWD";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
