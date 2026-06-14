@@ -1,19 +1,67 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getAllPostSlugs, getPostData } from "@/lib/posts";
+import {
+  getAllPostSlugs,
+  getPostData,
+  getRelatedPosts,
+} from "@/lib/posts";
+import {
+  getAllLanguageSlugs,
+  getLanguageByPageSlug,
+  languageTitle,
+  languageDescription,
+  languageFaq,
+  languageSteps,
+} from "@/lib/languages";
+import { isSummarizerIntent } from "@/lib/clusters";
+import LanguageArticle from "@/components/LanguageArticle";
+import SummarizerCTA from "@/components/SummarizerCTA";
+import RelatedPosts from "@/components/RelatedPosts";
 
 interface Props {
   params: Promise<{ slug: string }>;
 }
 
+const SITE_URL = "https://blog.yttranscript.app";
+
 export async function generateStaticParams() {
-  const slugs = getAllPostSlugs();
-  return slugs.map((s) => ({ slug: s.slug }));
+  const slugs = getAllPostSlugs().map((s) => ({ slug: s.slug }));
+  const langSlugs = getAllLanguageSlugs().map((slug) => ({ slug }));
+  return [...slugs, ...langSlugs];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+
+  // Programmatic language page
+  const lang = getLanguageByPageSlug(slug);
+  if (lang) {
+    return {
+      title: languageTitle(lang),
+      description: languageDescription(lang),
+      keywords: [
+        `${lang.name.toLowerCase()} youtube transcript`,
+        `youtube transcript ${lang.name.toLowerCase()}`,
+        `${lang.name.toLowerCase()} transcript generator`,
+        `download ${lang.name.toLowerCase()} youtube transcript`,
+      ],
+      alternates: { canonical: `${SITE_URL}/${slug}` },
+      openGraph: {
+        title: languageTitle(lang),
+        description: languageDescription(lang),
+        type: "article",
+        url: `${SITE_URL}/${slug}`,
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: languageTitle(lang),
+        description: languageDescription(lang),
+      },
+    };
+  }
+
+  // Markdown post
   try {
     const post = await getPostData(slug);
     return {
@@ -21,14 +69,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: post.description,
       keywords: post.keywords,
       authors: [{ name: post.author }],
-      alternates: { canonical: `https://blog.yttranscript.app/${slug}` },
+      alternates: { canonical: `${SITE_URL}/${slug}` },
       openGraph: {
         title: post.title,
         description: post.description,
         type: "article",
         publishedTime: post.date,
         authors: [post.author],
-        url: `https://blog.yttranscript.app/${slug}`,
+        url: `${SITE_URL}/${slug}`,
         images: post.ogImage
           ? [{ url: post.ogImage, width: 1200, height: 630 }]
           : [],
@@ -46,12 +94,71 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function PostPage({ params }: Props) {
   const { slug } = await params;
+
+  // --- Programmatic language page ------------------------------------------
+  const lang = getLanguageByPageSlug(slug);
+  if (lang) {
+    const articleSchema = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: languageTitle(lang),
+      description: languageDescription(lang),
+      author: { "@type": "Organization", name: "YTTranscript" },
+      publisher: {
+        "@type": "Organization",
+        name: "YTTranscript",
+        url: "https://yttranscript.app",
+      },
+      mainEntityOfPage: `${SITE_URL}/${slug}`,
+    };
+    const faqSchema = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: languageFaq(lang).map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: { "@type": "Answer", text: item.answer },
+      })),
+    };
+    const howToSchema = {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      name: `How to get a ${lang.name} YouTube transcript`,
+      step: languageSteps(lang).map((step) => ({
+        "@type": "HowToStep",
+        name: step.name,
+        text: step.text,
+      })),
+    };
+    return (
+      <>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
+        />
+        <LanguageArticle lang={lang} />
+      </>
+    );
+  }
+
+  // --- Markdown post --------------------------------------------------------
   let post;
   try {
     post = await getPostData(slug);
   } catch {
     notFound();
   }
+
+  const related = getRelatedPosts(slug, 4);
+  const showSummarizer = isSummarizerIntent(post);
 
   const articleSchema = {
     "@context": "https://schema.org",
@@ -65,7 +172,7 @@ export default async function PostPage({ params }: Props) {
       name: "YTTranscript",
       url: "https://yttranscript.app",
     },
-    mainEntityOfPage: `https://blog.yttranscript.app/${slug}`,
+    mainEntityOfPage: `${SITE_URL}/${slug}`,
   };
 
   const faqSchema =
@@ -170,6 +277,10 @@ export default async function PostPage({ params }: Props) {
           className="prose"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
+
+        {showSummarizer && <SummarizerCTA />}
+
+        <RelatedPosts posts={related} />
 
         <div className="mt-16 border-t border-gray-100 pt-10 text-center">
           <p className="text-lg font-bold text-gray-900 mb-2">

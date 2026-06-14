@@ -73,3 +73,40 @@ export async function getPostData(slug: string): Promise<Post> {
     ...(matterResult.data as Omit<PostMeta, "slug">),
   };
 }
+
+// --- Related posts -----------------------------------------------------------
+// Scores every other post by category match + shared keywords + slug-token
+// overlap, then returns the top matches. Powers the "Related guides" block
+// and sitewide internal interlinking (concentrates topical authority).
+
+export function getRelatedPosts(slug: string, limit = 4): PostMeta[] {
+  const all = getSortedPostsData();
+  const current = all.find((p) => p.slug === slug);
+  const others = all.filter((p) => p.slug !== slug);
+  if (!current) return others.slice(0, limit);
+
+  const currentKeywords = new Set(
+    (current.keywords || []).map((k) => k.toLowerCase().trim())
+  );
+  const currentTokens = new Set(
+    current.slug.split("-").filter((t) => t.length > 3)
+  );
+
+  const scored = others.map((p) => {
+    let score = 0;
+    if (p.category === current.category) score += 3;
+    for (const k of (p.keywords || []).map((x) => x.toLowerCase().trim())) {
+      if (currentKeywords.has(k)) score += 2;
+    }
+    for (const t of p.slug.split("-")) {
+      if (t.length > 3 && currentTokens.has(t)) score += 1;
+    }
+    return { p, score };
+  });
+
+  scored.sort(
+    (a, b) => b.score - a.score || (a.p.date < b.p.date ? 1 : -1)
+  );
+
+  return scored.slice(0, limit).map((s) => s.p);
+}

@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { getSortedPostsData } from "@/lib/posts";
+import { getAllLanguageSlugs } from "@/lib/languages";
 
 const SITE_URL = "https://blog.yttranscript.app";
 
@@ -13,6 +14,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  const languageEntries: MetadataRoute.Sitemap = getAllLanguageSlugs().map(
+    (slug) => ({
+      url: `${SITE_URL}/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    })
+  );
+
   return [
     {
       url: SITE_URL,
@@ -21,5 +31,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     },
     ...postEntries,
+    ...languageEntries,
   ];
 }
