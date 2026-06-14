@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getSortedPostsData, type PostMeta } from "@/lib/posts";
-import { CLUSTERS, chipColorForCategory } from "@/lib/clusters";
+import { CLUSTERS, chipColorForCategory, PILLAR_SLUGS } from "@/lib/clusters";
 import { LANGUAGES, languagePageSlug } from "@/lib/languages";
 
 export const metadata: Metadata = {
@@ -39,6 +39,9 @@ function PostCard({ post }: { post: PostMeta }) {
 
 export default function Home() {
   const posts = getSortedPostsData();
+  const pillarPosts = PILLAR_SLUGS.map((s) =>
+    posts.find((p) => p.slug === s)
+  ).filter((p): p is PostMeta => Boolean(p));
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -59,10 +62,43 @@ export default function Home() {
         </a>
       </div>
 
-      {/* Clustered sections */}
+      {/* Start Here — pillar / main pages */}
+      {pillarPosts.length > 0 && (
+        <section className="mb-16">
+          <div className="mb-6">
+            <h2 className="text-2xl font-bold text-gray-900 mb-1">Start Here</h2>
+            <p className="text-sm text-gray-500 max-w-2xl">
+              The complete guides to YouTube transcripts — start with these.
+            </p>
+          </div>
+          <div className="grid gap-6 sm:grid-cols-2">
+            {pillarPosts.map((post) => (
+              <Link
+                key={post.slug}
+                href={`/${post.slug}`}
+                className="group flex flex-col border-2 border-red-100 bg-red-50/40 rounded-2xl p-6 hover:border-red-300 hover:shadow-sm transition-all"
+              >
+                <span className="self-start text-xs font-semibold px-2 py-0.5 rounded-full bg-red-100 text-red-700 mb-3">
+                  Complete Guide
+                </span>
+                <h3 className="text-lg font-bold text-gray-900 group-hover:text-red-600 transition-colors mb-2 leading-snug">
+                  {post.title}
+                </h3>
+                <p className="text-sm text-gray-500 line-clamp-2 flex-1">
+                  {post.description}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Clustered sections (pillars excluded so they don't appear twice) */}
       {CLUSTERS.map((cluster) => {
-        const clusterPosts = posts.filter((p) =>
-          cluster.categories.includes(p.category)
+        const clusterPosts = posts.filter(
+          (p) =>
+            cluster.categories.includes(p.category) &&
+            !PILLAR_SLUGS.includes(p.slug)
         );
         if (clusterPosts.length === 0) return null;
         return (

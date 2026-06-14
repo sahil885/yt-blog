@@ -5,6 +5,7 @@ import Link from "next/link";
 
 const SITE_URL = "https://blog.yttranscript.app";
 const GA_ID = "G-M75CD8BQWD";
+const DEFAULT_OG = "/og-default.png";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -20,10 +21,12 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "YTTranscript Blog",
     locale: "en_US",
+    images: [{ url: DEFAULT_OG, width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     site: "@yttranscript",
+    images: [DEFAULT_OG],
   },
   robots: { index: true, follow: true },
 };

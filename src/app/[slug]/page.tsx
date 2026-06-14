@@ -14,7 +14,12 @@ import {
   languageFaq,
   languageSteps,
 } from "@/lib/languages";
-import { isSummarizerIntent } from "@/lib/clusters";
+import {
+  isSummarizerIntent,
+  isPillar,
+  MASTER_PILLAR_SLUG,
+  MASTER_PILLAR_TITLE,
+} from "@/lib/clusters";
 import LanguageArticle from "@/components/LanguageArticle";
 import SummarizerCTA from "@/components/SummarizerCTA";
 import RelatedPosts from "@/components/RelatedPosts";
@@ -24,6 +29,7 @@ interface Props {
 }
 
 const SITE_URL = "https://blog.yttranscript.app";
+const DEFAULT_OG = { url: "/og-default.png", width: 1200, height: 630 };
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs().map((s) => ({ slug: s.slug }));
@@ -34,7 +40,6 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
 
-  // Programmatic language page
   const lang = getLanguageByPageSlug(slug);
   if (lang) {
     return {
@@ -52,18 +57,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         description: languageDescription(lang),
         type: "article",
         url: `${SITE_URL}/${slug}`,
+        images: [DEFAULT_OG],
       },
       twitter: {
         card: "summary_large_image",
         title: languageTitle(lang),
         description: languageDescription(lang),
+        images: [DEFAULT_OG.url],
       },
     };
   }
 
-  // Markdown post
   try {
     const post = await getPostData(slug);
+    const ogImages = post.ogImage
+      ? [{ url: post.ogImage, width: 1200, height: 630 }]
+      : [DEFAULT_OG];
     return {
       title: post.title,
       description: post.description,
@@ -77,14 +86,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         publishedTime: post.date,
         authors: [post.author],
         url: `${SITE_URL}/${slug}`,
-        images: post.ogImage
-          ? [{ url: post.ogImage, width: 1200, height: 630 }]
-          : [],
+        images: ogImages,
       },
       twitter: {
         card: "summary_large_image",
         title: post.title,
         description: post.description,
+        images: [ogImages[0].url],
       },
     };
   } catch {
@@ -159,6 +167,7 @@ export default async function PostPage({ params }: Props) {
 
   const related = getRelatedPosts(slug, 4);
   const showSummarizer = isSummarizerIntent(post);
+  const showBreadcrumb = !isPillar(slug);
 
   const articleSchema = {
     "@context": "https://schema.org",
@@ -174,6 +183,28 @@ export default async function PostPage({ params }: Props) {
     },
     mainEntityOfPage: `${SITE_URL}/${slug}`,
   };
+
+  const breadcrumbSchema = showBreadcrumb
+    ? {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: MASTER_PILLAR_TITLE,
+            item: `${SITE_URL}/${MASTER_PILLAR_SLUG}`,
+          },
+          {
+            "@type": "ListItem",
+            position: 3,
+            name: post.title,
+            item: `${SITE_URL}/${slug}`,
+          },
+        ],
+      }
+    : null;
 
   const faqSchema =
     post.faqItems && post.faqItems.length > 0
@@ -211,6 +242,12 @@ export default async function PostPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
+      {breadcrumbSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
+      )}
       {faqSchema && (
         <script
           type="application/ld+json"
@@ -233,6 +270,20 @@ export default async function PostPage({ params }: Props) {
         </Link>
 
         <header className="mb-10">
+          {showBreadcrumb && (
+            <p className="mb-3 text-sm text-gray-400">
+              <Link href="/" className="hover:text-gray-700">
+                Home
+              </Link>{" "}
+              ›{" "}
+              <Link
+                href={`/${MASTER_PILLAR_SLUG}`}
+                className="hover:text-red-600"
+              >
+                {MASTER_PILLAR_TITLE}
+              </Link>
+            </p>
+          )}
           <div className="flex items-center gap-3 mb-4 text-sm text-gray-400">
             <span className="bg-red-50 text-red-700 font-semibold px-2 py-0.5 rounded-full text-xs">
               {post.category}
