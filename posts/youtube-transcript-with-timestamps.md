@@ -1,6 +1,6 @@
 ---
-title: "YouTube Transcript with Timestamps: How to Get and Use Them"
-description: "Get a YouTube transcript with full timestamps — free, no signup. Learn how to use timestamped transcripts for citations, navigation, and content research."
+title: "YouTube Transcript with Timestamps (Free)"
+description: "Get a YouTube transcript with clickable timestamps. Copy it, download as TXT or SRT, or jump to any moment. Free, no login."
 date: "2026-05-04"
 author: "YTTranscript Team"
 category: "How-To"
@@ -32,6 +32,8 @@ faqItems:
   - question: "Do all YouTube videos have timestamped transcripts?"
     answer: "Any video with captions — human-written or auto-generated — will have timestamps. Videos with no captions at all have no transcript data to extract."
 ---
+
+**To get a YouTube transcript with timestamps, paste the video URL into [YTTranscript](https://yttranscript.app) and keep timestamps on** — you'll get the full text with a time marker on every line, free.
 
 Timestamps turn a YouTube transcript from a block of text into a navigable document. With timestamps, you can jump directly to any moment in a video, cite a specific quote with precision, or create chapter links for your own content. This guide explains how to get a YouTube transcript with timestamps and how to use them effectively.
 

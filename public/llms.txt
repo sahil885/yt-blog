@@ -1,0 +1,34 @@
+# YTTranscript
+
+> YTTranscript (https://yttranscript.app) is a free web tool that turns any YouTube video into text. Paste a video URL and get the full transcript in seconds — no signup, no extension, works on mobile. Export as TXT, DOCX, or PDF.
+
+YTTranscript is free, requires no account, and works in any browser. Use it to read, search, summarize, translate, or repurpose YouTube videos, or to feed transcripts into AI tools like ChatGPT, Claude, Gemini, Perplexity, Copilot, Grok, and DeepSeek. This file lists the key guides on the blog at https://blog.yttranscript.app.
+
+## Start here
+- [YouTube Transcript Generator (complete guide)](https://blog.yttranscript.app/youtube-transcript-generator): What a transcript generator is and how to use one free.
+- [How to Get a YouTube Transcript](https://blog.yttranscript.app/how-to-get-a-youtube-transcript): Three free methods; the fastest takes one click.
+- [YouTube to Text](https://blog.yttranscript.app/youtube-to-text): Convert any video to text free.
+- [Transcribe a YouTube Video](https://blog.yttranscript.app/transcribe-youtube-video): Free, no software, in seconds.
+- [Download a YouTube Transcript](https://blog.yttranscript.app/download-youtube-transcript): Save as TXT, DOCX, PDF, or SRT.
+
+## Use a transcript with AI tools
+- [ChatGPT](https://blog.yttranscript.app/youtube-transcript-for-chatgpt)
+- [Claude](https://blog.yttranscript.app/youtube-transcript-with-claude)
+- [Gemini](https://blog.yttranscript.app/youtube-transcript-with-gemini)
+- [Perplexity](https://blog.yttranscript.app/youtube-transcript-with-perplexity)
+- [Microsoft Copilot](https://blog.yttranscript.app/youtube-transcript-with-copilot)
+- [Grok](https://blog.yttranscript.app/youtube-transcript-with-grok)
+- [DeepSeek](https://blog.yttranscript.app/youtube-transcript-with-deepseek)
+
+## Popular guides
+- [YouTube Shorts transcript](https://blog.yttranscript.app/youtube-shorts-transcript)
+- [Transcript with timestamps](https://blog.yttranscript.app/youtube-transcript-with-timestamps)
+- [Transcript on mobile (iPhone & Android)](https://blog.yttranscript.app/youtube-transcript-on-mobile)
+- [Save to Notion](https://blog.yttranscript.app/youtube-transcript-to-notion)
+- [Summarize a YouTube video free](https://blog.yttranscript.app/summarize-youtube-video-free)
+
+## Comparisons
+- [Best YouTube transcript tools 2026](https://blog.yttranscript.app/best-youtube-transcript-tools-2026)
+- [vs Tactiq](https://blog.yttranscript.app/yttranscript-vs-tactiq)
+- [vs DownSub](https://blog.yttranscript.app/yttranscript-vs-downsub)
+- [vs Otter.ai](https://blog.yttranscript.app/yttranscript-vs-otter-ai)

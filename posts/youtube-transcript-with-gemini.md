@@ -1,6 +1,6 @@
 ---
-title: "How to Use YouTube Transcripts with Google Gemini (And When You Don't Need To)"
-description: "Gemini can read YouTube links directly — but there are still cases where getting the transcript first gives you better results. Here's the full breakdown."
+title: "YouTube Transcript for Gemini (Summarize with AI)"
+description: "Feed any YouTube transcript into Google Gemini to summarize, translate, or take notes. One-click extraction for when you need it."
 date: "2026-05-25"
 author: "YTTranscript Team"
 category: "AI Tools"
@@ -23,6 +23,8 @@ faqItems:
   - question: "How do I get a YouTube transcript to use with Gemini?"
     answer: "Go to yttranscript.app, paste the YouTube URL, and copy the transcript text. Then paste it into Gemini alongside your prompt."
 ---
+
+**Gemini can read some YouTube links directly, but for long or older videos you'll get better results by pasting the transcript.** Here's when to use each approach.
 
 When it comes to AI tools for YouTube videos, Google Gemini is in a unique position: because it's a Google product, it has direct integration with YouTube. You can paste a YouTube URL into Gemini and ask questions without doing anything else first.
 

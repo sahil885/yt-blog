@@ -1,6 +1,6 @@
 ---
-title: "YTTranscript vs DownSub: Which Free YouTube Transcript Tool Is Better?"
-description: "YTTranscript vs DownSub compared: features, export formats, ease of use, and which free tool is best for getting YouTube transcripts in 2026."
+title: "YTTranscript vs DownSub: Which Is Better?"
+description: "YTTranscript vs DownSub compared on speed, accuracy, languages, and price. See which gets you a clean YouTube transcript faster."
 date: "2026-05-27"
 author: "YTTranscript Team"
 category: "Comparisons"
@@ -23,6 +23,8 @@ faqItems:
   - question: "Does either tool work on YouTube Shorts?"
     answer: "Yes, both tools support YouTube Shorts as long as the video has captions. YTTranscript.app also has a specific mobile-friendly interface that works well on phone for Shorts."
 ---
+
+**Short version: pick YTTranscript for clean, readable transcript text for writing and AI; pick DownSub if you mainly need subtitle files (SRT/VTT) to download.** Here's the honest side-by-side.
 
 **DownSub** has been a go-to tool for downloading YouTube subtitles for years. **YTTranscript.app** is a newer free tool built for a different use case: getting clean, readable transcript text for writing, research, and AI workflows. They overlap enough that creators often ask which one to use.
 

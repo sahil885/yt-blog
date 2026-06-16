@@ -1,6 +1,6 @@
 ---
-title: "How to Get a YouTube Shorts Transcript (Free, No Signup)"
-description: "YouTube Shorts don't show a built-in transcript button — but you can still extract the full text in seconds. Here's the fastest free method with no account required."
+title: "How to Get a YouTube Shorts Transcript (Free)"
+description: "Get the full transcript of any YouTube Short in seconds — copy, download, or translate it free. No sign-up and no extension needed."
 date: "2026-05-25"
 author: "YTTranscript Team"
 category: "How-To"
@@ -33,6 +33,8 @@ faqItems:
   - question: "Is it free to get a YouTube Shorts transcript?"
     answer: "Yes. YTTranscript is completely free — no account, no download limits, no hidden fees."
 ---
+
+**Yes, you can get the full transcript of any YouTube Short — YouTube just hides the transcript button on Shorts.** Paste the Short's URL into a free tool like [YTTranscript](https://yttranscript.app) and you'll have the text in seconds.
 
 YouTube Shorts are one of the fastest-growing content formats on the platform. But if you've ever tried to get the text from a Short, you'll have noticed something frustrating: the transcript button that works on regular YouTube videos simply doesn't appear on Shorts. No three-dot menu, no "Show transcript" option — nothing.
 

@@ -1,6 +1,6 @@
 ---
-title: "How to Get a YouTube Transcript (Free, No Signup)"
-description: "Step-by-step guide to extracting the full text transcript from any YouTube video instantly. No account, no extension, no cost."
+title: "How to Get a YouTube Transcript (3 Free Ways)"
+description: "Step-by-step guide to getting any video's transcript — with timestamps, in any language, free. The fastest method takes one click."
 date: "2026-04-20"
 author: "YTTranscript Team"
 category: "How-To"
@@ -36,6 +36,8 @@ faqItems:
   - question: "Do all YouTube videos have transcripts?"
     answer: "Most do. YouTube auto-generates captions for the vast majority of videos. Very old videos or those where the creator has disabled captions may not have a transcript available."
 ---
+
+**To get a YouTube transcript, paste the video URL into a free tool like [YTTranscript](https://yttranscript.app) and copy the text — it takes about ten seconds.** You can also use YouTube's built-in transcript on desktop. Below are three free methods, plus how to do it on [mobile](/youtube-transcript-on-mobile), [with timestamps](/youtube-transcript-with-timestamps), from a [Short](/youtube-shorts-transcript), or [for ChatGPT](/youtube-transcript-for-chatgpt).
 
 Getting a transcript from a YouTube video used to mean manually typing out everything you heard. Today, it takes about ten seconds. This guide walks you through every method — from YouTube's own built-in feature to free online tools — so you can pick what works best for your situation.
 

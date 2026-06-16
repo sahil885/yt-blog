@@ -1,6 +1,6 @@
 ---
-title: "YouTube Transcript to Notion: Save Video Notes Instantly"
-description: "Learn how to save YouTube transcripts directly into Notion for searchable, organized video notes. Free method, no extension required."
+title: "Save YouTube Transcripts to Notion (1 Click)"
+description: "Send any YouTube transcript straight to Notion for notes and research. Clean text, timestamps included, free — no extension."
 date: "2026-05-09"
 author: "YTTranscript Team"
 category: "Productivity"
@@ -32,6 +32,8 @@ faqItems:
   - question: "Is this workflow free?"
     answer: "Yes. YTTranscript is completely free with no signup. Notion has a free tier that is sufficient for this workflow."
 ---
+
+**To save a YouTube transcript to Notion, copy the text from [YTTranscript](https://yttranscript.app) and paste it into any Notion page** — it becomes searchable, taggable notes in under a minute. Here's the full workflow.
 
 Notion has become one of the most popular tools for organizing knowledge and notes. YouTube has become one of the most valuable sources of that knowledge. Combining them — by saving YouTube transcripts into Notion — gives you a searchable, organized library of every video you've ever found useful.
 

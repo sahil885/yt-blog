@@ -1,6 +1,6 @@
 ---
-title: "How to Use a YouTube Transcript with ChatGPT (Step-by-Step)"
-description: "Get instant AI summaries, Q&A, and notes from any YouTube video by feeding the transcript into ChatGPT. Here's exactly how to do it."
+title: "Get a YouTube Transcript for ChatGPT"
+description: "Copy any YouTube transcript straight into ChatGPT to summarize, translate, or analyze it. One-click extraction, no cleanup."
 date: "2026-04-18"
 author: "YTTranscript Team"
 category: "AI Tools"
@@ -32,6 +32,8 @@ faqItems:
   - question: "What if the transcript is too long for ChatGPT?"
     answer: "GPT-4o handles up to around 100,000 words. For very long videos on the free tier, paste in chunks and ask for a rolling summary."
 ---
+
+**ChatGPT can't open a YouTube link, so the trick is to paste in the transcript.** Grab the text free from [YTTranscript](https://yttranscript.app), paste it into ChatGPT, and ask it to summarize, answer questions, or pull key points.
 
 YouTube videos are packed with valuable information — but watching a 45-minute interview to find one insight is inefficient. With a YouTube transcript and ChatGPT, you can summarize an entire video, extract key points, generate quiz questions, or have a conversation with the content — in under a minute.
 

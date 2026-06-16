@@ -1,6 +1,6 @@
 ---
-title: "How to Get a YouTube Transcript on iPhone or Android (Free, Mobile-Friendly)"
-description: "YouTube's built-in transcript feature is desktop-only. Here's how to get the full transcript from any YouTube video on your phone in seconds — no app, no account needed."
+title: "YouTube Transcript on Mobile (iPhone & Android)"
+description: "YouTube's transcript feature is desktop-only. Here's how to get any video's transcript on your phone in seconds — no app, no account."
 date: "2026-05-25"
 author: "YTTranscript Team"
 category: "How-To"
@@ -33,6 +33,8 @@ faqItems:
   - question: "Is it free to get a YouTube transcript on mobile?"
     answer: "Yes. YTTranscript is completely free with no account, no app install, and no usage limits."
 ---
+
+**The YouTube app has no transcript button, but you can still get the text: open [YTTranscript](https://yttranscript.app) in your phone's browser, paste the video link, and copy the transcript in seconds.** It works on both iPhone and Android.
 
 If you've ever tried to get a YouTube transcript on your phone, you've probably hit the same dead end: the YouTube mobile app simply doesn't have the transcript feature. Unlike the desktop version — where you can click the three-dot menu and select "Show transcript" — the app leaves you with nothing.
 
