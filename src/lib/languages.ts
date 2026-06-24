@@ -125,6 +125,86 @@ export const LANGUAGES: Language[] = [
       "Chinese (Mandarin) reaches an enormous global audience, and its character-based script makes manual transcription very slow. Pulling the Chinese transcript gives you the full text in seconds, ready to translate or study.",
     note: "Auto-captions typically output Simplified Chinese characters and, like Japanese, don't use spaces between words; the text remains fully searchable and translatable.",
   },
+  {
+    slug: "urdu",
+    name: "Urdu",
+    native: "اردو",
+    intro:
+      "Urdu has a vast YouTube audience across Pakistan, India, and the global diaspora — news, dramas, religious lectures, and tech explainers. Pulling the Urdu transcript turns its right-to-left script into text you can read, search, quote, and translate in seconds.",
+    note: "Auto-captions are trained mainly on standard Urdu, and because spoken Urdu and Hindi overlap heavily, mixed speech still transcribes cleanly; the exported text preserves right-to-left order.",
+  },
+  {
+    slug: "thai",
+    name: "Thai",
+    native: "ไทย",
+    intro:
+      "Thai is one of Southeast Asia's most active YouTube languages, and its script — written without spaces between words — makes manual transcription painfully slow. Extracting the Thai transcript hands you the full text instantly.",
+    note: "Thai auto-captions don't insert word boundaries (Thai isn't space-delimited), but the text stays fully searchable and pastes cleanly into any translator or AI tool.",
+  },
+  {
+    slug: "tamil",
+    name: "Tamil",
+    native: "தமிழ்",
+    intro:
+      "Tamil drives a huge YouTube audience across India, Sri Lanka, Singapore, and the worldwide Tamil diaspora — cinema reviews, news, and study channels. The Tamil transcript turns that audio into readable, searchable text in seconds.",
+    note: "Tamil auto-captions are strong on clear narration; rapid cinema commentary and heavy colloquial speech are where the occasional error appears, and the exported text translates cleanly.",
+  },
+  {
+    slug: "telugu",
+    name: "Telugu",
+    native: "తెలుగు",
+    intro:
+      "Telugu has one of India's largest and most engaged YouTube followings, from film breakdowns to devotional content and exam prep. Grabbing the Telugu transcript lets you read along, copy key quotes, and feed the text into AI tools.",
+    note: "Telugu auto-captions handle clear studio audio well; fast overlapping speech and English code-switching are the main sources of error, but the text remains fully exportable.",
+  },
+  {
+    slug: "bengali",
+    name: "Bengali",
+    native: "বাংলা",
+    intro:
+      "Bengali — spoken across Bangladesh and eastern India — is among YouTube's largest languages by audience. The Bengali transcript turns vlogs, news, and lectures into text you can search, quote, and translate without rewatching.",
+    note: "Bengali auto-captions are increasingly accurate on clear speech; regional accents between Bangladesh and West Bengal are the usual weak spots, and the script exports cleanly.",
+  },
+  {
+    slug: "polish",
+    name: "Polish",
+    native: "Polski",
+    intro:
+      "Polish YouTube is rich with gaming, commentary, and education channels — exactly the long, talk-heavy content that's tedious to rewatch. The Polish transcript gives you the whole thing as searchable text in seconds.",
+    note: "Polish auto-captions handle standard speech well; the language's dense consonant clusters and fast colloquial delivery occasionally trip them, but accuracy on clear audio is high.",
+  },
+  {
+    slug: "dutch",
+    name: "Dutch",
+    native: "Nederlands",
+    intro:
+      "Dutch YouTube spans the Netherlands and Belgium with tutorials, vlogs, and long-form discussion. Extracting the Dutch transcript turns that audio into text you can skim, quote, or run through an AI summarizer.",
+    note: "Dutch auto-captions are reliable for clear speech; the main slips come from Flemish regional accents and fast informal conversation, and the text exports cleanly for translation.",
+  },
+  {
+    slug: "filipino",
+    name: "Filipino",
+    native: "Filipino",
+    intro:
+      "Filipino (Tagalog) powers one of YouTube's most engaged audiences, with heavy code-switching between Filipino and English ('Taglish'). The Filipino transcript turns vlogs, news, and reaction videos into text you can read and search instantly.",
+    note: "Auto-captions handle Taglish surprisingly well because so much English is mixed in; pure rapid Filipino slang is where accuracy occasionally dips, and the text stays fully exportable.",
+  },
+  {
+    slug: "persian",
+    name: "Persian",
+    native: "فارسی",
+    intro:
+      "Persian (Farsi) has a large, highly active YouTube audience across Iran and the global diaspora — news, commentary, and education. Pulling the Persian transcript turns its right-to-left script into searchable, translatable text in seconds.",
+    note: "Persian auto-captions are best on clear Tehrani-standard speech; dialectal variation is the main source of error, and the exported text preserves right-to-left order.",
+  },
+  {
+    slug: "ukrainian",
+    name: "Ukrainian",
+    native: "Українська",
+    intro:
+      "Ukrainian YouTube has grown rapidly, covering news, history, and long-form commentary. The Ukrainian transcript gives you the full Cyrillic text in seconds — ready to read, search, quote, or translate.",
+    note: "Ukrainian auto-captions are solid for clear narration; proper nouns and occasional code-switching are the usual weak spots, and the text exports cleanly.",
+  },
 ];
 
 const SUFFIX = "-youtube-transcript";

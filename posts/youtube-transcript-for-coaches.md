@@ -1,5 +1,5 @@
 ---
-title: "YouTube Transcript for Coaches and Consultants: Repurpose Expert Content Faster"
+title: "YouTube Transcripts for Coaches: Repurpose Expert Content"
 description: "How coaches and consultants use YouTube transcripts to build authority, create content, and save hours every week. Free tool, no signup needed."
 date: "2026-06-01"
 author: "YTTranscript Team"

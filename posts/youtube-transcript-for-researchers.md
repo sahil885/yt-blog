@@ -1,5 +1,5 @@
 ---
-title: "YouTube Transcripts for Researchers: Quote Accurately, Cite Correctly, Analyse at Scale"
+title: "YouTube Transcripts for Researchers: Quote & Cite Accurately"
 description: "Academic researchers: use YouTube transcripts to pull exact quotes, create APA/MLA citations, analyse patterns across multiple videos, and save hours of manual re-watching."
 date: "2026-05-25"
 author: "YTTranscript Team"

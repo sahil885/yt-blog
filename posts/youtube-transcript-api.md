@@ -1,5 +1,5 @@
 ---
-title: "YouTube Transcript API: How to Get YouTube Captions Programmatically (and the No-Code Alternative)"
+title: "YouTube Transcript API: Get Captions Programmatically (Free)"
 description: "Learn how to access YouTube transcripts via API or the unofficial Python library — and discover the free no-code alternative that works in seconds."
 date: "2026-05-10"
 author: "YTTranscript Team"
