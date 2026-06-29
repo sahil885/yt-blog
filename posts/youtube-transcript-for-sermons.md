@@ -44,6 +44,8 @@ If the service is already on YouTube, **[YTTranscript](https://yttranscript.app)
 
 Because it runs in any browser, your media volunteer can do this from a phone right after the service — no desktop required. Want the times alongside the text for clipping highlights? Pull a version [with timestamps](/youtube-transcript-with-timestamps). New to this? Start with [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
 
+This works just as well for a 90-minute service as it does for a 20-minute homily — the tool pulls the **entire transcript in one pass**, so there's no need to split a long recording into chunks or stitch files together afterward. And because nothing has to be installed, the exact same workflow runs on a church-office Chromebook, a volunteer's Mac, or a phone in the lobby right after the benediction.
+
 <div class="cta-box">
   <strong>Try it free:</strong> Paste your sermon's YouTube link and get a clean, editable transcript in seconds — no signup, no per-minute fees. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
@@ -66,7 +68,7 @@ You can also **fuel social media** by lifting a powerful quote for a graphic or 
 | Works on mobile | Yes | Varies |
 | Human proofreading | No | Sometimes (paid) |
 
-Dedicated services can add human proofreading and speaker labels, which matters for legal or formally published material. But for getting a fast, free, editable **sermon transcript** off a YouTube video, **[YTTranscript](https://yttranscript.app)** does the job in seconds without a subscription. Run a podcast ministry too? See [transcripts for podcasters](/youtube-transcript-for-podcasters).
+Dedicated services can add human proofreading and speaker labels, which matters for legal or formally published material. But for getting a fast, free, editable **sermon transcript** off a YouTube video, **[YTTranscript](https://yttranscript.app)** does the job in seconds without a subscription. A simple rule of thumb: reach for a paid service only when you need certified, word-perfect text — say, for a published book or a legal record. For the weekly rhythm of publishing, sharing, and repurposing messages, a free transcript you can edit yourself is usually all a ministry needs. Run a podcast ministry too? See [transcripts for podcasters](/youtube-transcript-for-podcasters).
 
 ## A Few Tips for Cleaner Sermon Transcripts
 
@@ -75,16 +77,4 @@ Start with the **best available audio** — a clear mic feed makes auto-transcri
 ## Frequently Asked Questions
 
 **How do I get a transcript of a sermon from YouTube?**
-Copy the video link, paste it into [YTTranscript](https://yttranscript.app), and export the transcript as TXT, DOCX, or PDF — free and in seconds.
-
-**Is it really free to transcribe a sermon?**
-Yes. YTTranscript is 100% free with no signup, no extension, and no per-minute charges.
-
-**Can I edit the transcript before publishing?**
-Absolutely. Export to DOCX or Google Docs and edit names, Scripture references, and formatting however you like.
-
-**Will it work for a two-hour service or livestream replay?**
-Yes — as long as the full service is uploaded to YouTube with captions available, you can transcribe the entire thing.
-
-**What if our sermon video has no captions?**
-Some uploads have caption
+Copy 
