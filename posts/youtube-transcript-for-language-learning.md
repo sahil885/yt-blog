@@ -13,7 +13,7 @@ keywords:
   - free youtube transcript tool
 faqItems:
   - question: "Is using a YouTube transcript for language learning free?"
-    answer: "Yes. YTTranscript is 100% free with no signup and no extension. You paste a link and get the full transcript instantly."
+    answer: "Yes. YTTranscript has a free tier with no signup and no extension, so you can pull transcripts at no cost. Paid plans add more for heavy users."
   - question: "What is shadowing and why do I need a transcript?"
     answer: "Shadowing is repeating speech out loud almost in real time. A transcript lets you read along so you learn the correct words and pronunciation instead of guessing."
   - question: "Can I translate the transcript into my native language?"
@@ -24,7 +24,7 @@ faqItems:
     answer: "Videos with clear speech and accurate captions in your target language. You can then export the text as TXT, DOCX, or PDF to review offline."
 ---
 
-Learning a language from native video is one of the most powerful free methods available — but spoken words vanish the moment they're said. A **YouTube transcript for language learning** fixes that. It turns any video into readable, searchable, translatable text you can slow down, repeat, annotate, and review at your own pace. This guide covers the study methods that actually build fluency, and how to pull a clean transcript from any video in seconds — **100% free, no signup, no browser extension**.
+Learning a language from native video is one of the most powerful free methods available — but spoken words vanish the moment they're said. A **YouTube transcript for language learning** fixes that. It turns any video into readable, searchable, translatable text you can slow down, repeat, annotate, and review at your own pace. This guide covers the study methods that actually build fluency, and how to pull a clean transcript from any video in seconds — **no signup, no browser extension, free to start**.
 
 ## Why a full transcript beats on-screen captions
 
@@ -50,7 +50,7 @@ For learners, that difference is everything. Reading and listening at the same t
 
 You don't need to install anything or create an account. Head to [YTTranscript.app](https://yttranscript.app), paste the video URL, and the full transcript appears instantly. From there you can copy it, translate it, or export it as **TXT, DOCX, or PDF** to study offline or drop into your notes. It works right in the browser, including [on your phone](/youtube-transcript-on-mobile) — perfect for shadowing during a commute.
 
-Because YTTranscript reads the video's existing captions, it's near-instant and completely free — there are no per-minute charges and nothing to download.
+Because YTTranscript reads the video's existing captions, it's near-instant — there's no audio to process and nothing to install.
 
 ## Match the method to what you need
 
@@ -76,7 +76,7 @@ The bottleneck for every one of these steps is having the text in front of you �
 
 ## Frequently asked questions
 
-**Is using a YouTube transcript for language learning free?** Yes. YTTranscript is 100% free with no signup and no extension. You paste a link and get the full transcript instantly.
+**Is using a YouTube transcript for language learning free?** Yes. YTTranscript has a free tier with no signup and no extension, so you can pull transcripts at no cost. Paid plans add more for heavy users.
 
 **What is shadowing and why do I need a transcript?** Shadowing is repeating speech out loud almost in real time. A transcript lets you read along so you learn the correct words and pronunciation instead of guessing.
 
@@ -86,4 +86,4 @@ The bottleneck for every one of these steps is having the text in front of you �
 
 **Which videos work best for learning?** Videos with clear speech and accurate captions in your target language. You can then export the text as TXT, DOCX, or PDF to review offline.
 
-**Start learning faster today — [grab a free YouTube transcript at YTTranscript.app](https://yttranscript.app) and turn any video into your personal language lesson.**
+**Start learning faster today — [grab a free YouTube transcript at YTTranscript.app](https://yttranscript.app) and turn any video into your p
