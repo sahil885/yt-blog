@@ -1,7 +1,7 @@
 ---
 title: "YouTube Transcript Generator: Get Any Video's Text Free (2026)"
 description: "Free YouTube transcript generator — paste any video URL and get the full text in seconds. No signup, no extension. Copy or download as TXT, DOCX, or PDF."
-date: "2026-06-14"
+date: "2026-07-27"
 author: "YTTranscript Team"
 category: "Guide"
 readingTime: "7 min read"

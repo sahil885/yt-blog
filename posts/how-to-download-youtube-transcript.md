@@ -1,7 +1,7 @@
 ---
 title: "How to Download a YouTube Transcript as TXT, DOCX, or PDF"
 description: "Learn how to download the full text transcript from any YouTube video as a TXT file, Word document, or PDF — free, no login required."
-date: "2026-04-12"
+date: "2026-07-27"
 author: "YTTranscript Team"
 category: "How-To"
 readingTime: "4 min read"

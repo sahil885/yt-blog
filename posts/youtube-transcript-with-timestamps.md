@@ -1,7 +1,7 @@
 ---
 title: "YouTube Transcript with Timestamps (Free)"
 description: "Get a YouTube transcript with clickable timestamps. Copy it, download as TXT or SRT, or jump to any moment. Free, no login."
-date: "2026-05-04"
+date: "2026-07-27"
 author: "YTTranscript Team"
 category: "How-To"
 readingTime: "5 min read"
