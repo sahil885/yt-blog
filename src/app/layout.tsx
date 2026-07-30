@@ -65,6 +65,14 @@ export default function RootLayout({
             <nav className="flex items-center gap-6 text-sm font-medium text-gray-600">
               <Link href="/" className="hover:text-gray-900 transition-colors">Articles</Link>
               <a
+                href="https://ytsummarizer.app"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-gray-900 transition-colors"
+              >
+                Summarizer
+              </a>
+              <a
                 href="https://yttranscript.app"
                 target="_blank"
                 rel="noopener noreferrer"
