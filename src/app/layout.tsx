@@ -62,7 +62,7 @@ export default function RootLayout({
               </svg>
               YTTranscript Blog
             </Link>
-            <nav className="flex items-center gap-6 text-sm font-medium text-gray-600">
+            <nav className="flex items-center gap-3 sm:gap-6 text-sm font-medium text-gray-600">
               <Link href="/" className="hover:text-gray-900 transition-colors">Articles</Link>
               <a
                 href="https://ytsummarizer.app"
@@ -71,6 +71,14 @@ export default function RootLayout({
                 className="hover:text-gray-900 transition-colors"
               >
                 Summarizer
+              </a>
+              <a
+                href="https://transcribetok.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-gray-900 transition-colors whitespace-nowrap"
+              >
+                TikTok<span className="hidden sm:inline"> Transcript</span>
               </a>
               <a
                 href="https://yttranscript.app"
@@ -93,6 +101,7 @@ export default function RootLayout({
             <p>© {new Date().getFullYear()} YTTranscript. Free YouTube transcript tool.</p>
             <div className="flex items-center gap-6">
               <a href="https://yttranscript.app" className="hover:text-gray-900 transition-colors">Tool</a>
+              <a href="https://transcribetok.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900 transition-colors">TikTok Transcript</a>
               <a href="https://yttranscript.app/privacy" className="hover:text-gray-900 transition-colors">Privacy</a>
               <a href="https://yttranscript.app/terms" className="hover:text-gray-900 transition-colors">Terms</a>
             </div>
