@@ -131,7 +131,7 @@ export const LANGUAGES: Language[] = [
     native: "اردو",
     intro:
       "Urdu has a vast YouTube audience across Pakistan, India, and the global diaspora — news, dramas, religious lectures, and tech explainers. Pulling the Urdu transcript turns its right-to-left script into text you can read, search, quote, and translate in seconds.",
-    note: "Auto-captions are trained mainly on standard Urdu, and because spoken Urdu and Hindi overlap heavily, mixed speech still transcribes cleanly; the exported text preserves right-to-left order.",
+    note: "Urdu isn't on YouTube's list of languages with automatic captions, so an Urdu transcript is usually only available when the creator has uploaded Urdu subtitles. When a video has them, the text exports cleanly in right-to-left order.",
   },
   {
     slug: "thai",
@@ -164,6 +164,46 @@ export const LANGUAGES: Language[] = [
     intro:
       "Bengali — spoken across Bangladesh and eastern India — is among YouTube's largest languages by audience. The Bengali transcript turns vlogs, news, and lectures into text you can search, quote, and translate without rewatching.",
     note: "Bengali auto-captions are increasingly accurate on clear speech; regional accents between Bangladesh and West Bengal are the usual weak spots, and the script exports cleanly.",
+  },
+  {
+    slug: "marathi",
+    name: "Marathi",
+    native: "मराठी",
+    intro:
+      "Marathi is one of India's most widely spoken languages, and Marathi YouTube covers news, cooking, devotional music, comedy, and MPSC exam prep. Pulling the Marathi transcript turns the audio into Devanagari text you can read, search, quote, and translate.",
+    note: "YouTube's automatic captions support Marathi. They work best on clear narration; fast conversation and frequent switches into Hindi or English are where errors creep in, and the Devanagari text exports cleanly for translation.",
+  },
+  {
+    slug: "gujarati",
+    name: "Gujarati",
+    native: "ગુજરાતી",
+    intro:
+      "Gujarati YouTube serves viewers in Gujarat and a large global diaspora, with channels covering business, recipes, devotional music, and GPSC exam prep. The transcript turns spoken Gujarati into text you can skim, search, and translate in seconds.",
+    note: "YouTube's automatic captions support Gujarati. Clear studio narration transcribes best; mixed Gujarati-English speech and background music in devotional videos lower accuracy, and the Gujarati script exports cleanly.",
+  },
+  {
+    slug: "kannada",
+    name: "Kannada",
+    native: "ಕನ್ನಡ",
+    intro:
+      "Kannada YouTube, centred on Karnataka, spans Bengaluru tech explainers, film reviews, farming tips, and KPSC exam lessons. Getting the Kannada transcript gives you the full text to read along, quote, or feed into an AI tool for a summary.",
+    note: "YouTube's automatic captions support Kannada and handle clear narration well. Kannada-English code-switching, common in tech and startup videos, is the main source of errors, and the Kannada script exports cleanly.",
+  },
+  {
+    slug: "malayalam",
+    name: "Malayalam",
+    native: "മലയാളം",
+    intro:
+      "Malayalam YouTube, driven by Kerala and a large Gulf diaspora, is known for film content, travel vlogs, news, and Kerala PSC coaching. The Malayalam transcript hands you the whole video as text you can search and translate instead of rewatching.",
+    note: "YouTube's automatic captions support Malayalam. Its long compound words and fast conversational delivery can trip them up, so clear narration gives the best results, and the Malayalam script exports cleanly.",
+  },
+  {
+    slug: "punjabi",
+    name: "Punjabi",
+    native: "ਪੰਜਾਬੀ",
+    intro:
+      "Punjabi YouTube reaches a worldwide audience, from music and kirtan to farming, comedy, and diaspora vlogs from Canada and the UK. The Punjabi transcript turns the audio into text you can read along with, quote, or translate.",
+    note: "YouTube's automatic captions support Punjabi and work best on clear speech; music-heavy videos and strong regional dialects lower accuracy. Punjabi is written in two scripts, Gurmukhi and Shahmukhi, so check which one a video's captions use before translating.",
   },
   {
     slug: "polish",
@@ -260,7 +300,7 @@ export function languageFaq(l: Language): FaqItem[] {
     },
     {
       question: `Is the ${l.name} YouTube transcript free?`,
-      answer: `Yes, completely free. YTTranscript has no account, no extension, and no limits, so you can extract as many ${l.name} transcripts as you need.`,
+      answer: `Yes. YTTranscript's free tier gives you 2 transcripts a day with no account and no extension. If you need more ${l.name} transcripts, you can buy a one-time pack (no subscription), and credits never expire.`,
     },
     {
       question: `Can I translate the ${l.name} transcript to English?`,
