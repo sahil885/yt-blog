@@ -16,13 +16,13 @@ faqItems:
   - question: "Can I download transcripts for an entire YouTube playlist for free?"
     answer: "Yes. Open each video from the playlist, paste its URL into YTTranscript.app, and download the transcript as TXT, DOCX, or PDF — free, with no signup. For long playlists you process videos one after another, which is fast since each takes only seconds."
   - question: "Is there a true one-click bulk playlist download?"
-    answer: "Some tools advertise one-click bulk extraction, but they usually require an account, cap free usage, or limit video length. YTTranscript keeps it free and unlimited by handling videos individually in seconds each."
+    answer: "Some tools advertise one-click bulk extraction, but they usually require an account, cap free usage, or limit video length. YTTranscript handles videos individually in seconds each with no account: 2 transcripts a day are free, and one-time packs cover bigger playlists."
   - question: "What formats can I export each transcript in?"
     answer: "YTTranscript exports every transcript as TXT, DOCX, or PDF, so you can keep a tidy file per video or paste everything into one master document."
   - question: "Do I need a browser extension or account?"
     answer: "No. YTTranscript runs in any browser with no extension and no signup. You only need each video's URL."
   - question: "Will this work for very long playlists?"
-    answer: "Yes. There is no cap on how many videos you can process. For playlists of 50+ videos, work through them in batches and save each transcript as you go."
+    answer: "Yes. The free tier covers 2 videos a day, and a one-time pack (from $9 for 100 transcripts, credits never expire) covers larger playlists. For playlists of 50+ videos, work through them in batches and save each transcript as you go."
 ---
 
 A single YouTube video is easy to transcribe. But what about a **whole playlist** — a 20-part course, a podcast back catalogue, or a channel's tutorial series? Pulling the text from every video unlocks searching, summarizing, and repurposing at scale. This guide covers the fastest **free** way to download **YouTube playlist transcripts** in 2026, with no signup and no extension.
@@ -48,7 +48,7 @@ You don't need special bulk software. Here is the reliable, free approach.
 **5. Repeat for each video.** Because each transcript takes only seconds, you can clear a 20-video playlist in a few minutes.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any video from your playlist and download the full transcript instantly — no account, no extension, no limits. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any video from your playlist and download the full transcript instantly — no account, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Building One Master Document
@@ -62,13 +62,13 @@ If you'd rather keep things in your notes app, the same transcripts drop cleanly
 | Feature | YTTranscript (per video) | "Bulk playlist" tools |
 |---|---|---|
 | Account required | No | Usually yes |
-| Cost | Free, unlimited | Free tier often capped |
+| Cost | 2 free a day, then one-time packs | Free tier often capped |
 | Video length limit | None | Common on free plans |
 | Export formats | TXT, DOCX, PDF | Varies; often TXT only |
 | Extension needed | No | Sometimes |
 | Works on mobile | Yes | Often desktop only |
 
-Dedicated bulk tools promise one-click playlist extraction, and they can be convenient. But the free tiers tend to require an account, limit how many videos or minutes you can process, or push you toward a paid plan once the playlist gets large. Processing videos individually with **YTTranscript** stays completely free and has no limits — and since each transcript takes seconds, the time difference for most playlists is small.
+Dedicated bulk tools promise one-click playlist extraction, and they can be convenient. But the free tiers tend to require an account, limit how many videos or minutes you can process, or push you toward a paid plan once the playlist gets large. Processing videos individually with **YTTranscript** needs no account and no subscription: 2 transcripts a day are free, and one-time packs cover larger playlists. Since each transcript takes seconds, the time difference for most playlists is small.
 
 ## Tips for Big Playlists
 
@@ -80,12 +80,12 @@ This works just as well on your phone — see [YouTube transcripts on mobile](/y
 
 **Can I download transcripts for an entire YouTube playlist for free?** Yes. Open each video from the playlist, paste its URL into YTTranscript.app, and download the transcript as TXT, DOCX, or PDF — free, with no signup. For long playlists you process videos one after another, which is fast since each takes only seconds.
 
-**Is there a true one-click bulk playlist download?** Some tools advertise one-click bulk extraction, but they usually require an account, cap free usage, or limit video length. YTTranscript keeps it free and unlimited by handling videos individually in seconds each.
+**Is there a true one-click bulk playlist download?** Some tools advertise one-click bulk extraction, but they usually require an account, cap free usage, or limit video length. YTTranscript handles videos individually in seconds each with no account: 2 transcripts a day are free, and one-time packs cover bigger playlists.
 
 **What formats can I export each transcript in?** YTTranscript exports every transcript as TXT, DOCX, or PDF, so you can keep a tidy file per video or paste everything into one master document.
 
 **Do I need a browser extension or account?** No. YTTranscript runs in any browser with no extension and no signup. You only need each video's URL.
 
-**Will this work for very long playlists?** Yes. There is no cap on how many videos you can process. For playlists of 50+ videos, work through them in batches and save each transcript as you go.
+**Will this work for very long playlists?** Yes. The free tier covers 2 videos a day, and a one-time pack (from $9 for 100 transcripts, credits never expire) covers larger playlists. For playlists of 50+ videos, work through them in batches and save each transcript as you go.
 
-**Ready to grab a whole playlist? [Start free at YTTranscript.app](https://yttranscript.app) — no signup, no extension, no limits.**
+**Ready to grab a whole playlist? [Start free at YTTranscript.app](https://yttranscript.app) — no signup, no extension.**

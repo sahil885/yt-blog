@@ -17,7 +17,7 @@ faqItems:
   - question: "Does the Word file include timestamps?"
     answer: "You choose. Export a clean text version for readable paragraphs, or keep timestamps if you need to reference specific moments in the video."
   - question: "Will this work on my phone?"
-    answer: "Yes. YTTranscript runs in any mobile browser, unlike YouTube's built-in transcript panel, which is desktop-only."
+    answer: "Yes. YTTranscript runs in any mobile browser and, unlike YouTube's built-in transcript panel, lets you download the text as a Word file."
   - question: "Is the transcript editable once it's in Word?"
     answer: "Completely. The exported .docx is normal Word text you can edit, format, highlight, and comment on in Word, Google Docs, or LibreOffice."
   - question: "What if the video has no transcript?"
@@ -82,7 +82,7 @@ Yes. [YTTranscript](https://yttranscript.app) pulls the full transcript and expo
 You choose. Export a clean text version for readable paragraphs, or keep timestamps if you need to reference specific moments in the video.
 
 **Will this work on my phone?**
-Yes — YTTranscript runs in any mobile browser, unlike YouTube's built-in transcript panel, which is desktop-only.
+Yes — YTTranscript runs in any mobile browser and, unlike YouTube's built-in transcript panel, lets you download the text as a Word file.
 
 **Is the transcript editable once it's in Word?**
 Completely. The exported .docx is normal Word text you can edit, format, highlight, and comment on in Word, Google Docs, or LibreOffice.

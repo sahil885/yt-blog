@@ -13,7 +13,7 @@ keywords:
   - download youtube transcript free
 faqItems:
   - question: "Is DownSub completely free?"
-    answer: "DownSub's basic subtitle download is free, but its AI summary and comments analysis features are behind a paid plan. YTTranscript.app is fully free with no paid tiers."
+    answer: "DownSub's basic subtitle download is free, but its AI summary and comments analysis features are behind a paid plan. YTTranscript.app has a free tier (2 transcripts a day) and sells one-time packs rather than a subscription."
   - question: "Can YTTranscript export SRT files like DownSub?"
     answer: "YTTranscript.app exports in TXT, DOCX, and PDF. If you specifically need SRT format for video editing software, DownSub offers that. For reading, writing, or AI use cases, TXT and DOCX are more practical."
   - question: "Does DownSub work without creating an account?"
@@ -111,7 +111,7 @@ For most content creators, researchers, students, and knowledge workers, YTTrans
 ## FAQ
 
 **Is DownSub completely free?**
-DownSub's basic subtitle download is free, but its AI summary and comments analysis features are behind a paid plan. YTTranscript.app is fully free with no paid tiers.
+DownSub's basic subtitle download is free, but its AI summary and comments analysis features are behind a paid plan. YTTranscript.app has a free tier (2 transcripts a day) and sells one-time packs rather than a subscription.
 
 **Can YTTranscript export SRT files like DownSub?**
 YTTranscript.app exports in TXT, DOCX, and PDF. If you specifically need SRT format for video editing software, DownSub offers that. For reading, writing, or AI use cases, TXT and DOCX are more practical.

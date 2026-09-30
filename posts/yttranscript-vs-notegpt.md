@@ -15,7 +15,7 @@ keywords:
 ogImage: ""
 faqItems:
   - question: "Is NoteGPT free?"
-    answer: "NoteGPT has a free tier but limits the number of summaries and transcripts you can generate per day. YTTranscript is completely free with no usage caps."
+    answer: "NoteGPT has a free tier but limits the number of summaries and transcripts you can generate per day. YTTranscript gives you 2 free transcripts a day with no account, plus one-time packs for more."
   - question: "Does NoteGPT require an account?"
     answer: "Yes, NoteGPT requires you to create an account before you can use its transcript and summary features. YTTranscript requires no account at all."
   - question: "Can YTTranscript summarize YouTube videos?"
@@ -26,7 +26,7 @@ faqItems:
 
 ## The Quick Answer
 
-If you want a YouTube transcript fast with no account, no limits, and the ability to download as a file — **YTTranscript is the better choice**. If you specifically want AI-generated summaries built into the tool and don't mind creating an account, NoteGPT adds that layer on top.
+If you want a YouTube transcript fast with no account and the ability to download as a file — **YTTranscript is the better choice**. If you specifically want AI-generated summaries built into the tool and don't mind creating an account, NoteGPT adds that layer on top.
 
 ---
 
@@ -40,7 +40,7 @@ NoteGPT is an AI-powered tool that combines YouTube transcript extraction with a
 
 <div class="cta-box">
   <strong>Want transcripts without creating an account?</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript instantly. No signup, no limits, works in any browser.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript instantly. No signup, works in any browser.
 </div>
 
 ---
@@ -73,7 +73,7 @@ YTTranscript is a free web tool focused on one thing: extracting and delivering 
 
 NoteGPT's free tier is generous for light use, but it has daily limits on how many videos you can process. If you're working through a playlist, researching a topic across multiple videos, or doing this regularly, you'll hit the cap.
 
-YTTranscript has no limits. You can process 100 videos in a row if you need to — no account, no quota, no paywall.
+YTTranscript's free tier covers 2 transcripts a day without an account. If you need to process 100 videos in a row, a one-time pack ($9 for 100 transcripts) covers it, with no subscription.
 
 ---
 
@@ -107,7 +107,7 @@ YTTranscript lets you download the transcript as TXT, DOCX, or PDF — useful fo
 
 <div class="cta-box">
   <strong>Try the no-account alternative</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> is completely free with no daily limits. Paste any YouTube URL and get the transcript in seconds.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> is free to start, with no signup. Paste any YouTube URL and get the transcript in seconds.
 </div>
 
 ---

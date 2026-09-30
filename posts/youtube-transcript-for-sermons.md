@@ -15,7 +15,7 @@ faqItems:
   - question: "How do I get a transcript of a sermon from YouTube?"
     answer: "Copy the video link, paste it into YTTranscript, and export the transcript as TXT, DOCX, or PDF — free and in seconds."
   - question: "Is it really free to transcribe a sermon?"
-    answer: "Yes. YTTranscript is 100% free with no signup, no extension, and no per-minute charges."
+    answer: "Yes, for most churches. YTTranscript's free tier covers 2 transcripts a day with no signup, no extension and no per-minute charges, and one-time packs cover larger archives."
   - question: "Can I edit the transcript before publishing?"
     answer: "Absolutely. Export to DOCX or Google Docs and edit names, Scripture references, and formatting however you like."
   - question: "Will it work for a two-hour service or livestream replay?"

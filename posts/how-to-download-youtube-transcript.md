@@ -25,7 +25,7 @@ howToSteps:
     text: "Use the download options to save as TXT (plain text), DOCX (Word document), or PDF. The file downloads instantly to your device."
 faqItems:
   - question: "Is downloading a YouTube transcript free?"
-    answer: "Yes. YTTranscript is completely free, and downloading in any format costs nothing. No hidden limits, no paywalled formats."
+    answer: "Yes. YTTranscript includes downloads in every format on its free tier (2 transcripts a day, no signup), with one-time packs if you need more."
   - question: "Can I download a transcript from a private YouTube video?"
     answer: "No. The tool can only access public videos. Private or age-restricted videos are not accessible."
   - question: "Will the downloaded transcript include timestamps?"
@@ -48,7 +48,7 @@ Depending on the tool you use, YouTube transcripts can be saved as:
 | **DOCX** | Word documents — easy to edit, format, and share |
 | **PDF** | Read-only, print-ready — great for archiving or sharing |
 
-[YTTranscript](https://yttranscript.app) supports all three formats from a single transcript extraction — and it's completely free with no signup required. Here's how.
+[YTTranscript](https://yttranscript.app) supports all three formats from a single transcript extraction — free to start, with no signup required. Here's how.
 
 ## How to Download a YouTube Transcript (Step by Step)
 
@@ -105,7 +105,7 @@ Long videos (3+ hours) produce very long transcripts — sometimes 20,000+ words
 ## Frequently Asked Questions
 
 **Is downloading a YouTube transcript free?**
-Yes — [YTTranscript](https://yttranscript.app) is completely free, and downloading in any format costs nothing. No hidden limits, no paywalled formats.
+Yes — [YTTranscript](https://yttranscript.app) includes downloads in every format on its free tier (2 transcripts a day, no signup), with one-time packs if you need more.
 
 **Can I download a transcript from a private YouTube video?**
 No. The tool can only access public videos. Private or age-restricted videos are not accessible.

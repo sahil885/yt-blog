@@ -31,7 +31,7 @@ faqItems:
   - question: "Does Google Docs have any AI features for working with transcripts?"
     answer: "Yes. Google Docs includes Gemini AI integration (in Workspace accounts) that can summarise, reformat, and help you edit the transcript text once it's in the document."
   - question: "Is this free?"
-    answer: "Yes. YTTranscript is free, and Google Docs is free with a Google account."
+    answer: "Yes. YTTranscript has a free tier (2 transcripts a day, no signup), and Google Docs is free with a Google account."
 ---
 
 Google Docs is where millions of people write, collaborate, and organise information. If you're already working in Docs — taking notes, writing a report, drafting an article — it makes sense to bring your YouTube transcript there directly, rather than having it live in a separate tool.
@@ -51,7 +51,7 @@ This takes about 30 seconds and works perfectly when you just need the raw text 
 The entire transcript is now in your Google Doc. You can add a title, organise sections with headings, highlight key passages, add comments, and share it with collaborators.
 
 <div class="cta-box">
-  <strong>Get any YouTube transcript instantly:</strong> Paste the URL, copy the text, and it's in your Google Doc in under a minute — completely free. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Get any YouTube transcript instantly:</strong> Paste the URL, copy the text, and it's in your Google Doc in under a minute — free, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Method 2: Download as DOCX, Open in Google Docs (Better Formatting)
@@ -101,7 +101,7 @@ Yes. Once it's a Google Doc, share with anyone using the standard Google share l
 Google Workspace accounts with Gemini integration can use AI directly inside Google Docs to summarise and edit the transcript.
 
 **Is this free?**
-Yes. YTTranscript is free and Google Docs is free with a Google account.
+Yes. YTTranscript has a free tier (2 transcripts a day, no signup), and Google Docs is free with a Google account.
 
 ---
 

@@ -44,7 +44,7 @@ So the real question isn't "which tool is better." It's **"does my source alread
 | Free option | Free tier + paid option | 7-day trial only, no permanent free plan |
 | Entry price | Free tier; paid upgrade available | ~$80/seat/mo Starter (~$52/mo annual) |
 | Full-featured price | Paid tier | ~$100/seat/mo Advanced (~$60/mo annual) |
-| Monthly file limits | Generous on free tier, higher on paid | 7 files/mo on Starter; unlimited on Advanced |
+| Monthly file limits | 2 transcripts/day free, then one-time packs | 7 files/mo on Starter; unlimited on Advanced |
 | Works from a YouTube URL | Yes, natively | Requires upload or import |
 | Transcribes audio with no captions | No | Yes |
 | Speaker identification | Limited | Yes, strong |

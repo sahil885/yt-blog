@@ -18,7 +18,7 @@ faqItems:
   - question: "Does YTTranscript require a Chrome extension?"
     answer: "No. YTTranscript is fully browser-based and works on any device — desktop, mobile, or tablet — without installing any extension."
   - question: "Is Tactiq free?"
-    answer: "Tactiq has a free tier, but transcript exports are restricted on the free plan. An account is required for full functionality. YTTranscript is completely free with no account required and no export limits."
+    answer: "Tactiq has a free tier, but transcript exports are restricted on the free plan. An account is required for full functionality. YTTranscript's free tier needs no account and includes every export format (2 transcripts a day)."
   - question: "Can YTTranscript download transcripts as DOCX or PDF?"
     answer: "Yes. YTTranscript supports TXT, DOCX, and PDF download formats, all free with no signup. Tactiq's free tier has limited export options."
   - question: "Does Tactiq work on mobile?"
@@ -49,7 +49,7 @@ Two of the most popular YouTube transcript tools in 2026 are YTTranscript and Ta
 **What makes it stand out:**
 - Works in any browser on any device — no extension, no installation
 - No account, no email, no credit card — ever
-- Download as TXT, DOCX, or PDF completely free
+- Download as TXT, DOCX, or PDF on the free tier
 - Results in 2-4 seconds for most videos
 - Mobile-friendly — works perfectly on phone and tablet
 
@@ -59,7 +59,7 @@ Two of the most popular YouTube transcript tools in 2026 are YTTranscript and Ta
 - No Chrome extension for integrated in-page experience
 
 <div class="cta-box">
-  <strong>Try YTTranscript free:</strong> No extension, no account, no limits. Paste any YouTube URL and get the full transcript in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
+  <strong>Try YTTranscript free:</strong> No extension, no account. Paste any YouTube URL and get the full transcript in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
 </div>
 
 ## Tactiq: The Multi-Platform Extension

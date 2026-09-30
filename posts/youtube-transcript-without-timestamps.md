@@ -19,7 +19,7 @@ faqItems:
   - question: "Can I remove timestamps from a transcript I already have?"
     answer: "Yes. Paste it into ChatGPT or Claude and ask it to remove the timestamps, or use find-and-replace with a simple pattern in any text editor. Both take under a minute."
   - question: "Is getting a clean transcript free?"
-    answer: "Yes. YTTranscript is completely free with no account and no extension. You can copy the timestamp-free text or download it as TXT, DOCX, or PDF."
+    answer: "Yes. YTTranscript's free tier needs no account or extension and covers 2 transcripts a day. You can copy the timestamp-free text or download it as TXT, DOCX, or PDF."
   - question: "Do I need timestamps for ChatGPT or a blog post?"
     answer: "No. For summaries, blog drafts, and quoting, clean text without timestamps is better — timestamps just add noise. Keep timestamps only when you need to reference exact moments in the video."
 ---
@@ -88,7 +88,7 @@ YouTube's built-in transcript panel attaches a timestamp to every line so you ca
 Yes. Paste it into ChatGPT or Claude and ask it to remove the timestamps, or use find-and-replace with a simple pattern in any text editor. Both take under a minute.
 
 **Is getting a clean transcript free?**
-Yes. YTTranscript is completely free with no account and no extension. You can copy the timestamp-free text or download it as TXT, DOCX, or PDF.
+Yes. YTTranscript's free tier needs no account or extension and covers 2 transcripts a day. You can copy the timestamp-free text or download it as TXT, DOCX, or PDF.
 
 **Do I need timestamps for ChatGPT or a blog post?**
 No. For summaries, blog drafts, and quoting, clean text without timestamps is better — timestamps just add noise. Keep timestamps only when you need to reference exact moments in the video.

@@ -15,7 +15,7 @@ faqItems:
   - question: "How can teachers use YouTube transcripts?"
     answer: "Teachers can use YouTube transcripts to create reading comprehension exercises, discussion prompts, vocabulary lists, fill-in-the-blank activities, quiz questions, and lesson outlines — all sourced from educational videos students are already watching."
   - question: "Is it free to get YouTube transcripts for classroom use?"
-    answer: "Yes. YTTranscript is completely free with no account required. You can get as many transcripts as you need with no usage limits."
+    answer: "Yes. YTTranscript gives you 2 free transcripts a day with no account required, and one-time packs cover heavier use."
   - question: "Can I use YouTube transcripts to create assessments?"
     answer: "Yes. Paste a transcript into ChatGPT or Claude and ask it to generate quiz questions, comprehension exercises, or discussion prompts based on the content. This can save hours of lesson preparation time."
   - question: "Do I need permission to use a YouTube transcript in my classroom?"
@@ -120,7 +120,7 @@ For more sensitive cases — particularly if you're publishing materials or dist
 To create comprehension exercises, vocabulary lists, discussion prompts, fill-in-the-blank activities, and AI-generated lesson materials — all sourced from educational videos.
 
 **Is it free?**
-Yes. YTTranscript is completely free, no account required.
+Yes. YTTranscript gives you 2 free transcripts a day, no account required.
 
 **Can I use transcripts to generate quiz questions?**
 Yes — paste into ChatGPT or Claude and ask it to generate questions. This typically takes under a minute.

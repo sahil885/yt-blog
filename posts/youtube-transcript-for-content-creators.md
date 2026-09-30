@@ -54,7 +54,7 @@ You don't need any software installed or an account anywhere. [YTTranscript.app]
 3. The full transcript appears immediately
 4. Copy the text or download it as TXT, DOCX, or PDF
 
-That's the entire workflow. No login, no extension, no paywall. See also the step-by-step guide at [/how-to-get-a-youtube-transcript](/how-to-get-a-youtube-transcript) if you want more detail on different methods.
+That's the entire workflow. No login, no extension, and 2 free transcripts a day. See also the step-by-step guide at [/how-to-get-a-youtube-transcript](/how-to-get-a-youtube-transcript) if you want more detail on different methods.
 
 <div class="cta-box">
   <strong>Try it free:</strong> Paste any YouTube URL and get your full transcript instantly — no account needed. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>

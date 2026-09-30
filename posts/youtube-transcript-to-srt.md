@@ -19,7 +19,7 @@ faqItems:
   - question: "Do I need timestamps to make an SRT?"
     answer: "Yes. SRT requires start and end times for each caption block, so export a timestamped transcript rather than plain text."
   - question: "Is YTTranscript free for this?"
-    answer: "Yes. YTTranscript is 100% free, with no signup and no extension. You can copy or export a timestamped transcript in seconds."
+    answer: "Yes. YTTranscript's free tier covers 2 transcripts a day, with no signup and no extension. You can copy or export a timestamped transcript in seconds."
   - question: "Will the SRT timings be perfectly accurate?"
     answer: "Timings come from YouTube's caption track, which is usually well aligned. For broadcast-grade precision, fine-tune the result in a subtitle editor like Subtitle Edit or Aegisub."
 ---
@@ -113,7 +113,7 @@ Only if you own the video — YouTube Studio lets the uploader download captions
 Yes. SRT requires start and end times for each caption block, so export a timestamped transcript rather than plain text.
 
 **Is YTTranscript free for this?**
-Yes. YTTranscript is 100% free, with no signup and no extension. You can copy or export a timestamped transcript in seconds.
+Yes. YTTranscript's free tier covers 2 transcripts a day, with no signup and no extension. You can copy or export a timestamped transcript in seconds.
 
 **Will the SRT timings be perfectly accurate?**
 Timings come from YouTube's caption track, which is usually well aligned. For broadcast-grade precision, fine-tune the result in a subtitle editor like Subtitle Edit or Aegisub.

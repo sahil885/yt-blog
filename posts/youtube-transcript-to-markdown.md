@@ -26,7 +26,7 @@ faqItems:
 
 Markdown is the universal format for notes, documentation, and web content. It powers **Obsidian**, **Notion**, **GitHub**, and most static-site blogs. So when you want to save the words from a YouTube video — for study notes, a blog draft, or your knowledge base — **Markdown** is almost always the format you actually want them in.
 
-Here is how to turn any YouTube video into clean Markdown in under two minutes, completely free and with no signup.
+Here is how to turn any YouTube video into clean Markdown in under two minutes, free and with no signup.
 
 ## Why Convert a YouTube Transcript to Markdown
 
@@ -84,7 +84,7 @@ If you need to keep the speaker timing, you can also pull a version [with timest
 
 ## Save Time: Download Once, Reuse Everywhere
 
-The smartest workflow is to grab the transcript **once** and keep the Markdown file. From a single `.md` you can paste into Notion today, sync it to Obsidian tomorrow, and pull a quote into a blog post next week — no re-extraction needed. Because [YTTranscript](https://yttranscript.app) is free and requires no account, there is no friction to building this habit and no limits on how many videos you process.
+The smartest workflow is to grab the transcript **once** and keep the Markdown file. From a single `.md` you can paste into Notion today, sync it to Obsidian tomorrow, and pull a quote into a blog post next week — no re-extraction needed. Because [YTTranscript](https://yttranscript.app) requires no account and gives you 2 free transcripts a day, there is little friction to building this habit.
 
 That is the whole point of Markdown: write once, use anywhere. A YouTube transcript becomes a portable, future-proof asset instead of a one-off copy-paste.
 

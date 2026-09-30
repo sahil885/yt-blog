@@ -17,7 +17,7 @@ faqItems:
   - question: "How much does Rev cost?"
     answer: "As of 2026, Rev offers around 45 minutes of free AI transcription per month, then AI transcription at about $0.25/minute and human transcription from about $1.99/minute, plus subscription plans."
   - question: "Is YTTranscript free?"
-    answer: "Yes, completely free with no account and no limits. You paste a YouTube URL and get the transcript in seconds."
+    answer: "Yes, up to 2 transcripts a day with no account, and one-time packs are available if you need more. You paste a YouTube URL and get the transcript in seconds."
   - question: "When is Rev worth paying for?"
     answer: "Rev is worth it when you need legal-grade or publication-grade accuracy verified by humans, or when you have raw audio/video files with no existing captions."
   - question: "Does Rev do human transcription?"
@@ -37,8 +37,8 @@ Rev **transcribes audio from scratch**, using either AI or human transcribers, a
 | Feature | YTTranscript | Rev |
 |---|---|---|
 | Account required | No | Yes |
-| Free tier | Unlimited, free | ~45 min/month AI |
-| Price after free | Always free | ~$0.25/min AI; ~$1.99/min human |
+| Free tier | 2 transcripts/day, no signup | ~45 min/month AI |
+| Price after free | One-time packs from $9 (100 transcripts) | ~$0.25/min AI; ~$1.99/min human |
 | Speed | 2-5 seconds | Minutes (AI) to hours (human) |
 | Source | Existing YouTube captions | Processes the raw audio |
 | Human transcription | No | Yes (its specialty) |
@@ -74,7 +74,7 @@ For a free, instant transcript of a YouTube video, YTTranscript is the better fi
 As of 2026, Rev offers around 45 minutes of free AI transcription per month, then AI transcription at about $0.25/minute and human transcription from about $1.99/minute, plus subscription plans.
 
 **Is YTTranscript free?**
-Yes, completely free with no account and no limits. You paste a YouTube URL and get the transcript in seconds.
+Yes, up to 2 transcripts a day with no account, and one-time packs are available if you need more. You paste a YouTube URL and get the transcript in seconds.
 
 **When is Rev worth paying for?**
 Rev is worth it when you need legal-grade or publication-grade accuracy verified by humans, or when you have raw audio/video files with no existing captions.

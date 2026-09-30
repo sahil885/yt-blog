@@ -55,7 +55,7 @@ The appeal is obvious: everything happens in one tab, the workflow feels seamles
 3. Paste the URL and click Get Transcript Now
 4. Copy or download as TXT, DOCX, or PDF
 
-That's it. No extension. No account. No permissions granted. Works in Chrome, Firefox, Safari, Edge, on desktop, mobile, and tablet. Completely free, no usage limits.
+That's it. No extension. No account. No permissions granted. Works in Chrome, Firefox, Safari, Edge, on desktop, mobile, and tablet. Free tier of 2 transcripts a day, with one-time packs for more.
 
 <div class="cta-box">
   <strong>No extension needed:</strong> Get any YouTube transcript in seconds — paste the URL and download free. Works on any browser and any device. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>

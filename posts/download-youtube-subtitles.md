@@ -22,16 +22,16 @@ howToSteps:
   - name: "Paste the URL and generate"
     text: "Paste the URL into the input field and click Get Transcript Now. The full subtitle text appears within a few seconds."
   - name: "Download in your preferred format"
-    text: "Download the subtitle text as TXT, DOCX, or PDF. All formats are free with no limits."
+    text: "Download the subtitle text as TXT, DOCX, or PDF. All three formats are included on the free tier."
 faqItems:
   - question: "What is the difference between YouTube subtitles and transcripts?"
     answer: "Subtitles and transcripts are the same underlying data — the text of what was spoken, often with timestamps. Subtitles are displayed over the video as it plays; a transcript is the same text presented as a readable document you can copy and download."
   - question: "Can I download YouTube subtitles for free?"
-    answer: "Yes. YTTranscript lets you download the full subtitle text from any public YouTube video completely free, with no signup and no usage limits."
+    answer: "Yes. YTTranscript lets you download the full subtitle text from any public YouTube video with no signup, and the free tier covers 2 transcripts a day."
   - question: "Can I download subtitles from YouTube videos in other languages?"
     answer: "Yes. If the video has captions in another language, you can extract those subtitle captions. YTTranscript works with any language YouTube has captions for."
   - question: "Can I download YouTube subtitles on my phone?"
-    answer: "Yes. YTTranscript works in any mobile browser. YouTube's native transcript viewer is desktop-only."
+    answer: "Yes. YTTranscript works in any mobile browser. YouTube's own transcript viewer works in the mobile app too, but it has no download option."
   - question: "Does downloading YouTube subtitles require a Chrome extension?"
     answer: "No. YTTranscript is fully browser-based — it works on any device without installing any extension."
 ---
@@ -46,7 +46,7 @@ The terms are often used interchangeably, and for good reason — they're the sa
 
 ### Method 1: YTTranscript (Fastest, No Signup)
 
-[YTTranscript](https://yttranscript.app) extracts and downloads the subtitle text from any public YouTube video — in TXT, DOCX, or PDF format, completely free.
+[YTTranscript](https://yttranscript.app) extracts and downloads the subtitle text from any public YouTube video — in TXT, DOCX, or PDF format, free to start with no signup.
 
 1. Copy the YouTube video URL
 2. Go to [yttranscript.app](https://yttranscript.app)
@@ -112,7 +112,7 @@ YTTranscript extracts whichever captions are available. For videos with both, it
 They're the same data — the text of what was spoken. Subtitles display over the video; a transcript is the same text as a standalone document.
 
 **Can I download YouTube subtitles for free?**
-Yes. [YTTranscript](https://yttranscript.app) is completely free with no signup and no usage limits.
+Yes. [YTTranscript](https://yttranscript.app) gives you 2 free transcripts a day with no signup, and sells one-time packs if you need more.
 
 **Can I download subtitles in other languages?**
 Yes. If the video has captions in another language, you can extract those.
@@ -125,6 +125,6 @@ Yes. YTTranscript works in any mobile browser.
 
 ---
 
-Downloading YouTube subtitles is a 15-second task with the right tool. Whether you're extracting captions for accessibility, translation, research, or content creation — [YTTranscript](https://yttranscript.app) gives you the full subtitle text in the format you need, completely free.
+Downloading YouTube subtitles is a 15-second task with the right tool. Whether you're extracting captions for accessibility, translation, research, or content creation — [YTTranscript](https://yttranscript.app) gives you the full subtitle text in the format you need, free to start.
 
 **[→ Download YouTube subtitles free — TXT, DOCX, or PDF, no signup, works on any device](https://yttranscript.app)**

@@ -108,7 +108,7 @@ There are contexts where auto-generated accuracy isn't good enough:
 
 ## Getting the Transcript Regardless of Type
 
-Whether a video has auto-generated or manual captions, [YTTranscript](https://yttranscript.app) extracts the full text in seconds. Paste the YouTube URL and get the transcript — no signup, no extension, completely free.
+Whether a video has auto-generated or manual captions, [YTTranscript](https://yttranscript.app) extracts the full text in seconds. Paste the YouTube URL and get the transcript — no signup, no extension, free to start.
 
 <div class="cta-box">
   <strong>Get any YouTube transcript instantly:</strong> Paste the URL and get the full text in seconds — auto-generated or manual. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>

@@ -28,7 +28,7 @@ faqItems:
 
 ## The core difference
 
-YTTranscript is a **free, no-signup transcript tool**. Paste a YouTube URL, get the full text in seconds, copy or download it. That's the whole product, and it's free with no limits.
+YTTranscript is a **free, no-signup transcript tool**. Paste a YouTube URL, get the full text in seconds, copy or download it. That's the whole product: 2 transcripts a day are free, and one-time packs cover heavier use.
 
 Descript is a **paid editing suite**. Transcription is the entry point, but the real value is editing your podcast or video by editing the transcript, removing filler words, and applying AI features. It's powerful — and priced and structured accordingly, with an account and a limited free tier.
 
@@ -37,8 +37,8 @@ Descript is a **paid editing suite**. Transcription is the entry point, but the 
 | Feature | YTTranscript | Descript |
 |---|---|---|
 | Account required | No | Yes |
-| Free tier | Unlimited, free | ~60 min/month, watermark, limited AI credits |
-| Price after free | Always free | ~$16-35/month (billed annually) |
+| Free tier | 2 transcripts/day, no signup | ~60 min/month, watermark, limited AI credits |
+| Price after free | One-time packs from $9 (100 transcripts) | ~$16-35/month (billed annually) |
 | Get a transcript | Paste URL, 2-5 seconds | Import media, then transcribe |
 | Editing tools | No (text only) | Full audio/video editor |
 | Export | TXT, DOCX, PDF | Many (editor exports) |
@@ -52,7 +52,7 @@ Descript is a **paid editing suite**. Transcription is the entry point, but the 
 If your goal is simply to **read, search, copy, or reuse** the content of a YouTube video, YTTranscript wins on speed and cost. There's no account to create, no app to install, no monthly minute cap, and it works on your phone. You paste a URL and have clean text in seconds — then [download it as a PDF](/youtube-transcript-to-pdf) or paste it into [ChatGPT](/youtube-transcript-for-chatgpt).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get any YouTube transcript in seconds — no signup, no extension, no limits. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get any YouTube transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## When Descript is the better choice

@@ -17,7 +17,7 @@ faqItems:
   - question: "How much does Happy Scribe cost?"
     answer: "As of 2026, Happy Scribe offers a short free trial (about 10 minutes), then paid plans starting around $17/month for Basic, with Pro and Business tiers above that. An account is required."
   - question: "Is YTTranscript free?"
-    answer: "Yes, completely free with no account, no extension, and no limits. You paste a YouTube URL and get the transcript in seconds."
+    answer: "Yes, up to 2 transcripts a day, with no account and no extension, plus one-time packs if you need more. You paste a YouTube URL and get the transcript in seconds."
   - question: "Does Happy Scribe support YouTube links?"
     answer: "Yes. Happy Scribe lets you paste a YouTube link for transcription, then translate and export as SRT or VTT — useful for subtitling workflows."
   - question: "Which should I choose?"
@@ -28,7 +28,7 @@ faqItems:
 
 ## The core difference
 
-YTTranscript is **free and instant**. Paste a YouTube URL, get the full text in 2-5 seconds, copy or download it. No account, no limits.
+YTTranscript is **free and instant**. Paste a YouTube URL, get the full text in 2-5 seconds, copy or download it. No account needed.
 
 Happy Scribe is a **paid subtitling and transcription platform**. It accepts YouTube links too, but its strengths are professional outputs: accurate subtitles, SRT/VTT files, translation into many languages, and collaboration — wrapped in a subscription with a short free trial.
 
@@ -37,8 +37,8 @@ Happy Scribe is a **paid subtitling and transcription platform**. It accepts You
 | Feature | YTTranscript | Happy Scribe |
 |---|---|---|
 | Account required | No | Yes |
-| Free tier | Unlimited, free | ~10-minute trial |
-| Price after free | Always free | From ~$17/month (Basic) |
+| Free tier | 2 transcripts/day, no signup | ~10-minute trial |
+| Price after free | One-time packs from $9 (100 transcripts) | From ~$17/month (Basic) |
 | Speed | 2-5 seconds | Minutes |
 | Export | TXT, DOCX, PDF | SRT, VTT, DOCX and more |
 | Subtitles / translation | Basic (SRT) | Advanced, many languages |
@@ -74,7 +74,7 @@ For quickly getting a YouTube video's text, YTTranscript is free, instant, and n
 As of 2026, Happy Scribe offers a short free trial (about 10 minutes), then paid plans starting around $17/month for Basic, with Pro and Business tiers above that. An account is required.
 
 **Is YTTranscript free?**
-Yes, completely free with no account, no extension, and no limits. You paste a YouTube URL and get the transcript in seconds.
+Yes, up to 2 transcripts a day, with no account and no extension, plus one-time packs if you need more. You paste a YouTube URL and get the transcript in seconds.
 
 **Does Happy Scribe support YouTube links?**
 Yes. Happy Scribe lets you paste a YouTube link for transcription, then translate and export as SRT or VTT — useful for subtitling workflows.

@@ -31,7 +31,7 @@ faqItems:
   - question: "Does this work on mobile?"
     answer: "Yes. YTTranscript is fully browser-based and works on iPhone, Android, or any desktop. No app or extension required."
   - question: "Is it free to get a YouTube Shorts transcript?"
-    answer: "Yes. YTTranscript is completely free — no account, no download limits, no hidden fees."
+    answer: "Yes. YTTranscript's free tier covers 2 transcripts a day with no account and no hidden fees, and one-time packs are available if you need more."
 ---
 
 **Yes, you can get the full transcript of any YouTube Short — YouTube just hides the transcript button on Shorts.** Paste the Short's URL into a free tool like [YTTranscript](https://yttranscript.app) and you'll have the text in seconds.
@@ -72,7 +72,7 @@ Within a few seconds, the full transcript appears. Because Shorts are short (typ
 Click **Copy** to grab the text to your clipboard, or download it as a TXT, DOCX, or PDF file.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube Shorts URL and get the full transcript instantly — no login, no extension, no cost. <a href="https://yttranscript.app">→ Get your Shorts transcript at YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube Shorts URL and get the full transcript instantly — no login, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Get your Shorts transcript at YTTranscript.app</a>
 </div>
 
 ## What You Can Do With a YouTube Shorts Transcript
@@ -123,7 +123,7 @@ If no transcript is available, it means the Short has no auto-generated or creat
 Yes. YTTranscript is fully browser-based and works on iPhone, Android, and any desktop browser. No app or extension required.
 
 **Is it free?**
-Yes — completely free, no account, no limits.
+Yes. The free tier covers 2 transcripts a day with no account.
 
 ---
 

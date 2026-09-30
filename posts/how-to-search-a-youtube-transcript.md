@@ -60,7 +60,7 @@ The most reliable method works on every public video and takes about ten seconds
 Because the transcript includes timestamps, each match tells you exactly when it was said, so you can jump back to that point in the video. You can also [copy the transcript](/how-to-copy-youtube-transcript) or download it as TXT, DOCX, or PDF and search it later offline.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL, get the full transcript in seconds, then Ctrl+F to find any word. No login, no extension, no cost. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL, get the full transcript in seconds, then Ctrl+F to find any word. No login, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Method 2: YouTube's Built-in Transcript Search
@@ -73,7 +73,7 @@ YouTube has a native transcript panel on desktop, and on some videos it includes
 
 **Step 3:** If a search bar appears above the transcript, type your word to highlight matches.
 
-The catch: the search bar doesn't show up on every video, the panel is desktop-only, and there's no way to download the text. If you don't see a search box, fall back to Method 3.
+The catch: the search bar doesn't show up on every video, and there's no way to download the text. If you don't see a search box, fall back to Method 3.
 
 ## Method 3: Ctrl+F on the YouTube Transcript Panel
 

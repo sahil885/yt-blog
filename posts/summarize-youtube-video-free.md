@@ -41,7 +41,7 @@ Here's how to do it for free, in under a minute.
 
 ## The Two-Step Method: Transcript + AI
 
-No tool can watch a YouTube video and summarize it reliably on its own. But combining two free tools — a transcript extractor and an AI — gives you a summary that's fast, accurate, and completely free.
+No tool can watch a YouTube video and summarize it reliably on its own. But combining two free tools — a transcript extractor and an AI — gives you a summary that's fast, accurate, and free.
 
 **Step 1: Get the transcript**
 
@@ -125,8 +125,8 @@ A 1-hour video produces roughly 8,000-12,000 words of transcript. ChatGPT's free
 
 ## Frequently Asked Questions
 
-**Is this method completely free?**
-Yes. [YTTranscript](https://yttranscript.app) is free with no signup. ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free.
+**Is this method free?**
+Yes, for everyday use. [YTTranscript](https://yttranscript.app) gives you 2 free transcripts a day with no signup. ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free.
 
 **Does it work for non-English videos?**
 Yes. Get the transcript and ask the AI to summarize in English or any language you specify.
@@ -139,6 +139,6 @@ Not in a single step, but you can repeat the workflow for each video.
 
 ---
 
-The transcript-plus-AI method is the most reliable, most flexible, and completely free way to summarize a YouTube video. Once you've done it a few times, it becomes second nature.
+The transcript-plus-AI method is the most reliable, most flexible, and free way to summarize a YouTube video. Once you've done it a few times, it becomes second nature.
 
 **[→ Get your YouTube transcript in seconds — free, no login, ready to paste into any AI](https://yttranscript.app)**

@@ -18,7 +18,7 @@ faqItems:
   - question: "Can I use transcripts for online course videos not on YouTube?"
     answer: "YTTranscript works specifically with YouTube. For videos on other platforms like Coursera or Udemy, check if the platform has a built-in transcript feature."
   - question: "Is this free for students?"
-    answer: "Yes. YTTranscript is completely free with no account needed. You can get as many transcripts as you need with no usage limits."
+    answer: "Yes. YTTranscript gives you 2 free transcripts a day with no account needed. If you need more, one-time packs start at $9 for 100 transcripts and never expire."
   - question: "What if the transcript has errors?"
     answer: "Auto-generated transcripts occasionally mishear words, especially technical terms or proper nouns. Always cross-check key facts against the original video. For important academic work, use videos with human-written captions where possible."
   - question: "Can I download the transcript to keep?"
@@ -107,7 +107,7 @@ Most do — YouTube auto-generates captions for the vast majority of videos. Som
 YTTranscript works specifically with YouTube. For videos on other platforms (Coursera, Udemy, etc.), check if the platform has a built-in transcript feature.
 
 **Is this free?**
-Yes. [YTTranscript](https://yttranscript.app) is completely free with no account needed. You can get as many transcripts as you need with no usage limits.
+Yes. [YTTranscript](https://yttranscript.app) gives you 2 free transcripts a day with no account needed. If you need more, one-time packs start at $9 for 100 transcripts and never expire.
 
 **What if the transcript has errors?**
 Auto-generated transcripts occasionally mishear words, especially technical terms or proper nouns. Always cross-check key facts against the original video.

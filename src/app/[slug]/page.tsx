@@ -338,8 +338,8 @@ export default async function PostPage({ params }: Props) {
             Ready to get your YouTube transcript?
           </p>
           <p className="text-sm text-gray-500 mb-5">
-            YTTranscript is completely free — paste any YouTube URL and get the
-            full text in seconds. No account, no extension, no limits.
+            Paste any YouTube URL and get the full text in seconds — no account,
+            no extension. The free tier covers 2 transcripts a day.
           </p>
           <a
             href="https://yttranscript.app"

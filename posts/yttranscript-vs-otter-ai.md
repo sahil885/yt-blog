@@ -17,7 +17,7 @@ faqItems:
   - question: "Can Otter.ai transcribe YouTube videos?"
     answer: "Otter.ai is primarily built for live meetings and audio recordings, not YouTube video transcription. You would need to play the YouTube video while Otter.ai records your microphone or system audio — a workaround that's slow and error-prone. YTTranscript directly extracts YouTube captions in seconds."
   - question: "Is Otter.ai free for YouTube transcripts?"
-    answer: "Otter.ai has a free tier for meeting transcription, but using it for YouTube requires workarounds and counts against your monthly transcription minutes. YTTranscript is completely free with no minute limits."
+    answer: "Otter.ai has a free tier for meeting transcription, but using it for YouTube requires workarounds and counts against your monthly transcription minutes. YTTranscript counts transcripts, not minutes: 2 a day are free, and one-time packs cover more."
   - question: "What is the best free tool to transcribe YouTube videos?"
     answer: "YTTranscript is the fastest free tool for YouTube transcripts — paste the URL, get the full transcript in seconds, no account needed. It directly uses YouTube's existing captions rather than re-transcribing audio."
 ---
@@ -71,7 +71,7 @@ For YouTube, the workflow is awkward: you have to either play the video out loud
 
 Otter.ai's free plan gives you 300 transcription minutes per month. A 1-hour YouTube video uses 60 of those minutes. If you're doing research across multiple long videos, you'll burn through your monthly allowance quickly.
 
-YTTranscript has no such limit. Because it reads YouTube's existing caption data rather than re-transcribing audio, it doesn't consume any recording time. You can process as many videos as you need.
+YTTranscript has no such limit. Because it reads YouTube's existing caption data rather than re-transcribing audio, it doesn't consume any recording time. It counts transcripts rather than minutes: 2 a day are free, and one-time packs cover more.
 
 ---
 
@@ -110,7 +110,7 @@ YTTranscript is the right choice whenever you need the text from a YouTube video
 
 ## The Bottom Line
 
-Otter.ai and YTTranscript don't really compete — they serve different use cases. Otter.ai excels at meeting transcription. YTTranscript excels at YouTube transcription. If you're landing on this comparison page because you're looking for a YouTube transcript tool, YTTranscript is the clear answer: it's faster, simpler, and completely free.
+Otter.ai and YTTranscript don't really compete — they serve different use cases. Otter.ai excels at meeting transcription. YTTranscript excels at YouTube transcription. If you're landing on this comparison page because you're looking for a YouTube transcript tool, YTTranscript is the clear answer: it's faster, simpler, and free to start.
 
 ---
 

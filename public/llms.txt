@@ -1,8 +1,8 @@
 # YTTranscript
 
-> YTTranscript (https://yttranscript.app) is a free web tool that turns any YouTube video into text. Paste a video URL and get the full transcript in seconds — no signup, no extension, works on mobile. Export as TXT, DOCX, or PDF.
+> YTTranscript (https://yttranscript.app) is a web tool that turns any YouTube video into text. Paste a video URL and get the full transcript in seconds — no signup, no extension, works on mobile. Export as TXT, DOCX, PDF, or SRT. The free tier covers 2 transcripts a day; one-time packs (from $9 for 100 transcripts, no subscription, credits never expire) cover heavier use.
 
-YTTranscript is free, requires no account, and works in any browser. Use it to read, search, summarize, translate, or repurpose YouTube videos, or to feed transcripts into AI tools like ChatGPT, Claude, Gemini, Perplexity, Copilot, Grok, and DeepSeek. This file lists the key guides on the blog at https://blog.yttranscript.app.
+YTTranscript has a free tier (2 transcripts a day), requires no account, and works in any browser. Use it to read, search, summarize, translate, or repurpose YouTube videos, or to feed transcripts into AI tools like ChatGPT, Claude, Gemini, Perplexity, Copilot, Grok, and DeepSeek. This file lists the key guides on the blog at https://blog.yttranscript.app.
 
 ## Start here
 - [YouTube Transcript Generator (complete guide)](https://blog.yttranscript.app/youtube-transcript-generator): What a transcript generator is and how to use one free.

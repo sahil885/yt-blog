@@ -19,7 +19,7 @@ faqItems:
   - question: "How do I get a transcript for DeepSeek?"
     answer: "Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into DeepSeek with your question."
   - question: "Is this method free?"
-    answer: "Yes. DeepSeek's chat has a free tier and YTTranscript is 100% free with no signup, so the whole workflow is free."
+    answer: "Yes. DeepSeek's chat has a free tier and YTTranscript gives you 2 free transcripts a day with no signup, so the workflow is free for everyday use."
   - question: "What can I ask DeepSeek to do with the transcript?"
     answer: "Summarize it, extract key points or action items, turn it into study notes, translate it, or rewrite it as a blog post or thread."
 ---
@@ -85,7 +85,7 @@ No. The standard DeepSeek chat can't access links or watch videos. You extract t
 Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into DeepSeek with your question.
 
 **Is this method free?**
-Yes. DeepSeek's chat has a free tier and YTTranscript is 100% free with no signup, so the whole workflow is free.
+Yes. DeepSeek's chat has a free tier and YTTranscript gives you 2 free transcripts a day with no signup, so the workflow is free for everyday use.
 
 **What can I ask DeepSeek to do with the transcript?**
 Summarize it, extract key points or action items, turn it into study notes, translate it, or rewrite it as a blog post or thread.

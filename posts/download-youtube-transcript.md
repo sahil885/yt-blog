@@ -31,7 +31,7 @@ faqItems:
   - question: "Can I download transcripts on mobile?"
     answer: "Yes. YTTranscript works in any phone browser, so you can download a transcript on iPhone or Android."
   - question: "Is downloading YouTube transcripts free?"
-    answer: "Yes, completely free with no account and no limits."
+    answer: "Yes. The free tier gives you 2 transcripts a day with no account, and one-time packs are available if you need more."
 ---
 
 Reading a transcript on screen is useful, but **downloading** it is what makes it permanent: a file you can keep, edit, print, cite, and share. This guide covers how to **download a YouTube transcript** for free in any format — TXT, DOCX, PDF, or SRT — and which format to pick for which job.
@@ -87,6 +87,6 @@ Yes. You can keep timestamps for reference or download clean text without them �
 Yes. YTTranscript works in any phone browser, so you can download a transcript on iPhone or Android.
 
 **Is downloading YouTube transcripts free?**
-Yes, completely free with no account and no limits.
+Yes. The free tier gives you 2 transcripts a day with no account, and one-time packs are available if you need more.
 
 **Ready to save it? [Download any YouTube transcript free at YTTranscript.app →](https://yttranscript.app)**

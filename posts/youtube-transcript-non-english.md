@@ -31,7 +31,7 @@ faqItems:
   - question: "What if the video has no captions at all?"
     answer: "If YouTube's auto-caption system could not process the video, no transcript data exists to extract. This sometimes happens with rare languages, heavy background noise, or very poor audio quality."
   - question: "Is getting a non-English YouTube transcript free?"
-    answer: "Yes. YTTranscript is completely free with no signup required. Translation via Google Translate or the free tiers of ChatGPT and Claude is also free."
+    answer: "Yes. YTTranscript has a free tier with no signup required (2 transcripts a day). Translation via Google Translate or the free tiers of ChatGPT and Claude is also free."
 ---
 
 YouTube is a global platform. Millions of videos are published in Spanish, French, Portuguese, Hindi, Arabic, Japanese, German, and dozens of other languages every day. Getting a transcript from a non-English YouTube video follows the same process as English — with a few extra steps if you need the content in a different language.
@@ -117,7 +117,7 @@ Extract the Spanish transcript and translate it using ChatGPT, Claude, or Google
 If YouTube's auto-caption system couldn't process the video, no transcript data exists to extract.
 
 **Is it free?**
-Yes. [YTTranscript](https://yttranscript.app) is completely free with no signup required.
+Yes. [YTTranscript](https://yttranscript.app) has a free tier with no signup required (2 transcripts a day).
 
 ---
 

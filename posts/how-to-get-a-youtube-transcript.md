@@ -32,7 +32,7 @@ faqItems:
   - question: "How long does it take to get a YouTube transcript?"
     answer: "With YTTranscript, the transcript typically appears in 2-5 seconds for most videos."
   - question: "Is it free to get a YouTube transcript?"
-    answer: "Yes. YTTranscript is completely free with no signup required. There are no usage limits and no paywalled formats."
+    answer: "Yes. YTTranscript's free tier needs no signup and covers 2 transcripts a day in every format. One-time packs are available if you need more."
   - question: "Do all YouTube videos have transcripts?"
     answer: "Most do. YouTube auto-generates captions for the vast majority of videos. Very old videos or those where the creator has disabled captions may not have a transcript available."
 ---
@@ -62,27 +62,27 @@ Within a few seconds, the full transcript appears on screen. You can copy the en
 No account required. No browser extension. No credit card.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in under 10 seconds — no login, no extension, no cost. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in under 10 seconds — no login, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
 </div>
 
 ## Method 2: YouTube's Built-in Transcript Feature
 
 YouTube has a native transcript viewer, but it's tucked away and doesn't let you download the text easily.
 
-**Step 1:** Open the YouTube video in your browser (desktop only).
+**Step 1:** Open the YouTube video in your browser or the YouTube app.
 
-**Step 2:** Click the **three-dot menu** (⋯) below the video title.
+**Step 2:** Expand the description (click **...more** on desktop or Android, or tap the title on iPhone).
 
-**Step 3:** Select **"Show transcript"** from the menu.
+**Step 3:** Scroll down and select **Show transcript**.
 
-A panel opens on the right side showing the full transcript with timestamps. To copy the text, you'll need to manually select it all and paste it somewhere — there's no download button. This only works on desktop; the mobile app does not support transcript viewing.
+On desktop, a panel opens beside the video with the full transcript and timestamps. To copy the text, you'll need to manually select it all and paste it somewhere — there's no download button, and the mobile app offers no easy way to copy it at all.
 
 ## Which Method Should You Use?
 
 | Method | Speed | Download | Mobile | No Account |
 |---|---|---|---|---|
 | YTTranscript | Instant | TXT/DOCX/PDF | Yes | Yes |
-| YouTube built-in | Manual copy | No download | Desktop only | Yes |
+| YouTube built-in | Manual copy | No download | View only | Yes |
 
 For most people, [YTTranscript](https://yttranscript.app) is the best option. It's faster, cleaner, and gives you a downloadable file.
 
@@ -115,7 +115,7 @@ Auto-generated transcripts are typically 85-95% accurate for clear English audio
 With YTTranscript, the transcript typically appears in 2-5 seconds for most videos.
 
 **Is it free?**
-Yes. YTTranscript is completely free with no signup required. No usage limits, no paywalled formats.
+Yes. YTTranscript's free tier needs no signup and covers 2 transcripts a day in every format. One-time packs are available if you need more.
 
 ---
 

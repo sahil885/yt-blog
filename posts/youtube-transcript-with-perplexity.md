@@ -36,7 +36,7 @@ With the transcript pasted in, Perplexity has every word of the video as source 
 
 ## The 3-step workflow
 
-**Step 1 — Extract the transcript.** Go to [YTTranscript.app](https://yttranscript.app), paste the video URL, and the complete transcript appears in seconds. It's 100% free with no account required. For Perplexity, the clean text version without [timestamps](/youtube-transcript-with-timestamps) usually works best.
+**Step 1 — Extract the transcript.** Go to [YTTranscript.app](https://yttranscript.app), paste the video URL, and the complete transcript appears in seconds. It's free to start (2 transcripts a day) with no account required. For Perplexity, the clean text version without [timestamps](/youtube-transcript-with-timestamps) usually works best.
 
 **Step 2 — Paste into Perplexity with a clear prompt.** Start a new thread and structure it like this:
 

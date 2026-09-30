@@ -18,7 +18,7 @@ faqItems:
   - question: "Which YouTube transcript tool works without an account?"
     answer: "YTTranscript, YouTube's built-in viewer, and YoutubeToTranscript all work without creating an account. Tactiq and NoteGPT require accounts for full functionality."
   - question: "Can I download a YouTube transcript for free?"
-    answer: "Yes. YTTranscript lets you download transcripts as TXT, DOCX, or PDF completely free with no signup required."
+    answer: "Yes. YTTranscript lets you download transcripts as TXT, DOCX, or PDF with no signup. The free tier covers 2 transcripts a day, and one-time packs cover heavier use."
   - question: "Which YouTube transcript tool has the best language support?"
     answer: "YoutubeToTranscript.com offers the best language and translation support, with 125+ language translation options. YTTranscript handles any language that YouTube has captions for."
   - question: "Do I need a Chrome extension to get YouTube transcripts?"
@@ -54,7 +54,7 @@ YTTranscript is the fastest and most straightforward free YouTube transcript gen
 - Instant results (2-4 seconds for most videos)
 - Download as TXT, DOCX, or PDF directly from the tool
 - Clean, distraction-free interface
-- Completely free — no transcript limits, no paywalled formats
+- Free tier of 2 transcripts a day with no signup, then one-time packs (no subscription)
 - Works on mobile, tablet, and desktop
 
 **Good to know:**
@@ -64,20 +64,20 @@ YTTranscript is the fastest and most straightforward free YouTube transcript gen
 **Best for:** Anyone who wants a YouTube transcript quickly with a minimum of steps. Ideal for one-off use, research, students, and business users who don't want to install anything or create an account. Learn how to [get the most out of YTTranscript](/how-to-get-a-youtube-transcript) with our step-by-step guide.
 
 <div class="cta-box">
-  <strong>Try the fastest free YouTube transcript tool:</strong> No signup, no extension, no limits. Paste any YouTube URL and get the full text in seconds. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
+  <strong>Try the fastest free YouTube transcript tool:</strong> No signup, no extension, 2 free transcripts a day. Paste any YouTube URL and get the full text in seconds. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
 </div>
 
 ---
 
 ## 2. YouTube's Built-in Transcript Viewer — Best for Quick Reference
 
-**Website:** youtube.com (video player → three-dot menu → Show transcript)
+**Website:** youtube.com (expand the video description → Show transcript)
 
 YouTube itself has a built-in transcript viewer — no third-party tool required.
 
 **What we liked:** No external tool needed, integrated with timestamps, shows synchronized transcript as the video plays.
 
-**What could be better:** No download button, desktop only (not available on mobile), can be disabled by video uploader, selecting all text is cumbersome.
+**What could be better:** No download button, no copy-all option in the mobile app, can be disabled by video uploader, selecting all text is cumbersome.
 
 **Best for:** Quick reference while watching. Not useful if you need to save or work with the transcript.
 

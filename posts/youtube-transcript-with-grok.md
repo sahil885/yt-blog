@@ -19,7 +19,7 @@ faqItems:
   - question: "How do I get a transcript to use with Grok?"
     answer: "Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into Grok with your question."
   - question: "Is using Grok with transcripts free?"
-    answer: "Grok has free access tiers, and YTTranscript is 100% free with no signup, so the workflow costs nothing."
+    answer: "Grok has free access tiers, and YTTranscript gives you 2 free transcripts a day with no signup, so the workflow costs nothing for everyday use."
   - question: "Why paste the transcript instead of the link?"
     answer: "Pasting the full transcript gives Grok the complete, accurate text rather than relying on what it can fetch, which means more thorough summaries and correct quotes."
 ---
@@ -96,7 +96,7 @@ Grok has web and X access and can sometimes work from a YouTube URL, but results
 Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into Grok with your question.
 
 **Is using Grok with transcripts free?**
-Grok has free access tiers, and YTTranscript is 100% free with no signup, so the workflow costs nothing.
+Grok has free access tiers, and YTTranscript gives you 2 free transcripts a day with no signup, so the workflow costs nothing for everyday use.
 
 **Why paste the transcript instead of the link?**
 Pasting the full transcript gives Grok the complete, accurate text rather than relying on what it can fetch, which means more thorough summaries and correct quotes.

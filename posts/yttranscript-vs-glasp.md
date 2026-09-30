@@ -17,7 +17,7 @@ faqItems:
   - question: "Is YTTranscript better than Glasp for YouTube transcripts?"
     answer: "YTTranscript is faster and simpler for pure transcript extraction — no extension, no account, paste a URL and copy the text. Glasp adds social features like web highlights but requires a Chrome extension and account. Choose based on your workflow."
   - question: "Is Glasp free?"
-    answer: "Glasp has a free tier but limits the number of highlights and clips you can save. YTTranscript is completely free with no usage limits."
+    answer: "Glasp has a free tier but limits the number of highlights and clips you can save. YTTranscript gives you 2 free transcripts a day with no account, plus one-time packs for heavier use."
   - question: "Do I need to install anything to use YTTranscript?"
     answer: "No. YTTranscript is a web app — you paste a YouTube URL and get the transcript instantly. No Chrome extension, no account, no download."
   - question: "Can Glasp download YouTube transcripts as a file?"
@@ -157,7 +157,7 @@ Glasp is a richer tool — but one built around social features that most people
 
 <div class="cta-box">
   <strong>Ready to try the faster alternative?</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> is completely free — paste any YouTube URL and get the full transcript in seconds. Works in any browser, no signup required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> is free to start — paste any YouTube URL and get the full transcript in seconds. Works in any browser, no signup required.
 </div>
 
 ---

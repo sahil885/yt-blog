@@ -21,7 +21,7 @@ faqItems:
   - question: "Does NotebookLM keep the timestamps?"
     answer: "If you paste a transcript that includes timestamps, NotebookLM keeps the text and can reference it, though its inline citations point to your pasted source rather than the live video."
   - question: "Is YTTranscript free for this?"
-    answer: "Yes. YTTranscript is 100% free with no signup, no extension, and no usage limits. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM."
+    answer: "Yes. YTTranscript's free tier needs no signup or extension and covers 2 transcripts a day, with one-time packs if you need more. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM."
 ---
 
 Google **NotebookLM** is one of the best free tools for turning a pile of sources into a searchable, citable knowledge base. It can summarise documents, answer questions with inline citations, and even generate an Audio Overview. NotebookLM now accepts **YouTube URLs** directly as a source — but if you have actually tried it, you know the import frequently fails, stalls for hours, or returns a **"transcript not available"** error.
@@ -107,6 +107,6 @@ No. NotebookLM explicitly supports pasted text and uploaded documents as sources
 If you paste a transcript that includes timestamps, NotebookLM keeps the text and can reference it, though its inline citations point to your pasted source rather than the live video.
 
 **Is YTTranscript free for this?**
-Yes. YTTranscript is 100% free with no signup, no extension, and no usage limits. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM.
+Yes. YTTranscript's free tier needs no signup or extension and covers 2 transcripts a day, with one-time packs if you need more. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM.
 
 **Stop fighting failed imports — grab the transcript yourself and paste it straight into NotebookLM. [→ Try YTTranscript.app free](https://yttranscript.app)**

@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcripts for ESL Learners: Read Along, Learn Faster"
-description: "How ESL and language learners use YouTube transcripts to improve listening comprehension, vocabulary, and reading skills — completely free."
+description: "How ESL and language learners use YouTube transcripts to improve listening comprehension, vocabulary, and reading skills — free."
 date: "2026-05-10"
 author: "YTTranscript Team"
 category: "Use Cases"

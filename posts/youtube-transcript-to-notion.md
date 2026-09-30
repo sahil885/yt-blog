@@ -30,7 +30,7 @@ faqItems:
   - question: "Can I search my YouTube transcripts in Notion?"
     answer: "Yes. Once the transcript is pasted into Notion, it becomes fully searchable using Notion's built-in search — one of the biggest advantages over keeping transcripts in files on your computer."
   - question: "Is this workflow free?"
-    answer: "Yes. YTTranscript is completely free with no signup. Notion has a free tier that is sufficient for this workflow."
+    answer: "Yes. YTTranscript has a free tier with no signup (2 transcripts a day). Notion has a free tier that is sufficient for this workflow."
 ---
 
 **To save a YouTube transcript to Notion, copy the text from [YTTranscript](https://yttranscript.app) and paste it into any Notion page** — it becomes searchable, taggable notes in under a minute. Here's the full workflow.
@@ -126,7 +126,7 @@ Yes. Notion handles plain text and you can add headings, highlights, comments, a
 Yes — once pasted, the transcript is fully searchable using Notion's built-in search.
 
 **Is this workflow free?**
-Yes. [YTTranscript](https://yttranscript.app) is completely free with no signup. Notion's free tier is sufficient for this workflow.
+Yes. [YTTranscript](https://yttranscript.app) has a free tier with no signup (2 transcripts a day). Notion's free tier is sufficient for this workflow.
 
 ---
 

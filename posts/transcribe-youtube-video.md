@@ -31,7 +31,7 @@ faqItems:
   - question: "Can I transcribe a video that has no captions?"
     answer: "If a video has no captions at all, there's no caption data to extract. In that case you'd need a paid speech-to-text service that processes the audio directly."
   - question: "Is it free for long videos?"
-    answer: "Yes. YTTranscript is free with no length limits or caps, so you can transcribe long lectures and podcasts at no cost."
+    answer: "Yes. YTTranscript's free tier covers 2 transcripts a day with no signup, and long lectures and podcasts work the same way as short videos. One-time packs are available if you need more."
 ---
 
 You don't need expensive software or hours of typing to **transcribe a YouTube video**. If the video has captions — and almost all do — you can get an accurate text transcription in seconds, for free. This guide covers exactly how, how accurate it is, and how it compares to paid transcription services.
@@ -92,6 +92,6 @@ It uses the video's captions. Creator-written captions are very accurate; auto-g
 If a video has no captions at all, there's no caption data to extract. In that case you'd need a paid speech-to-text service that processes the audio directly.
 
 **Is it free for long videos?**
-Yes. YTTranscript is free with no length limits or caps, so you can transcribe long lectures and podcasts at no cost.
+Yes. YTTranscript's free tier covers 2 transcripts a day with no signup, and long lectures and podcasts work the same way as short videos. One-time packs are available if you need more.
 
 **Ready to transcribe? [Transcribe any YouTube video free at YTTranscript.app →](https://yttranscript.app)**

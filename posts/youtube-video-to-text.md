@@ -24,9 +24,9 @@ howToSteps:
     text: "Click Copy to clipboard, or download the text as TXT, DOCX, or PDF. Done in under 10 seconds total."
 faqItems:
   - question: "Is converting a YouTube video to text free?"
-    answer: "Yes. YTTranscript is completely free with no usage limits, no account required, and no hidden fees."
+    answer: "Yes. YTTranscript has a free tier of 2 transcripts a day with no account required and no hidden fees, plus one-time packs if you need more."
   - question: "Does converting YouTube video to text work on mobile?"
-    answer: "Yes. YTTranscript works in any mobile browser. YouTube's native transcript viewer is desktop-only."
+    answer: "Yes. YTTranscript works in any mobile browser. YouTube's own transcript viewer works in the mobile app too, but it has no download option."
   - question: "How accurate is the YouTube video to text conversion?"
     answer: "For videos with clear audio and standard English, accuracy is typically 90-95%. For videos with human-written captions, accuracy is 99%+."
   - question: "Can I convert a YouTube video to text in other languages?"
@@ -71,7 +71,7 @@ Within 2-5 seconds, the full text of the video appears on screen. You can copy i
 
 ## Method 2: YouTube's Built-in Transcript Feature
 
-YouTube has a native transcript viewer you can access without any third-party tool (desktop only). Click the three-dot menu below the video title, select Show transcript. The limitation: there's no download button, and it doesn't work on mobile. A dedicated YouTube to text converter like YTTranscript is much faster.
+YouTube has a native transcript viewer you can access without any third-party tool, on desktop or in the mobile app: expand the video description and select Show transcript. The limitation: there's no download button, and copying the full text is awkward, especially on a phone. A dedicated YouTube to text converter like YTTranscript is much faster.
 
 ## What Affects Transcript Quality?
 
@@ -94,10 +94,10 @@ YouTube has a native transcript viewer you can access without any third-party to
 ## Frequently Asked Questions
 
 **Is converting a YouTube video to text free?**
-Yes — [YTTranscript](https://yttranscript.app) is completely free with no usage limits, no account required, and no hidden fees.
+Yes — [YTTranscript](https://yttranscript.app) has a free tier of 2 transcripts a day with no account required and no hidden fees, plus one-time packs if you need more.
 
 **Does it work on mobile?**
-Yes. YTTranscript works in any mobile browser. YouTube's native transcript viewer is desktop-only.
+Yes. YTTranscript works in any mobile browser. YouTube's own transcript viewer works in the mobile app too, but it has no download option.
 
 **How accurate is the text conversion?**
 For clear audio and standard English, typically 90-95%. For human-written captions, 99%+.

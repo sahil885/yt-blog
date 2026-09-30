@@ -47,7 +47,7 @@ If you try to extract a transcript and get nothing, the replay simply hasn't bee
 
 **Step 1 — Get the replay URL.** Open the ended stream on YouTube and copy the URL from the address bar (or the Share button). It looks identical to any normal video link.
 
-**Step 2 — Paste it into YTTranscript.** Go to [YTTranscript.app](https://yttranscript.app) and paste the URL. The full transcript appears in seconds — even for streams that ran for hours. It's 100% free, with no account and no browser extension.
+**Step 2 — Paste it into YTTranscript.** Go to [YTTranscript.app](https://yttranscript.app) and paste the URL. The full transcript appears in seconds — even for streams that ran for hours. It's free to start (2 transcripts a day), with no account and no browser extension.
 
 **Step 3 — Copy or download.** Read it on the page, copy it to your clipboard, or download as **TXT, DOCX, or PDF**. For long streams, keep the [timestamps](/youtube-transcript-with-timestamps) — they let you jump from any line of text straight to that moment in the replay.
 

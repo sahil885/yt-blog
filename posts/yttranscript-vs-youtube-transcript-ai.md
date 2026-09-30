@@ -16,7 +16,7 @@ faqItems:
   - question: "What is youtube-transcript.ai?"
     answer: "youtube-transcript.ai is a web tool that extracts YouTube transcripts and offers AI-powered summaries. It requires an account for full access and has usage limits on its free tier."
   - question: "Is YTTranscript free compared to youtube-transcript.ai?"
-    answer: "YTTranscript is completely free with no account required and no usage limits. youtube-transcript.ai has a free tier but restricts the number of transcripts you can process."
+    answer: "YTTranscript gives you 2 free transcripts a day with no account required, plus one-time packs if you need more. youtube-transcript.ai has a free tier but restricts the number of transcripts you can process."
   - question: "Which tool gives cleaner transcripts?"
     answer: "Both tools pull from YouTube's auto-generated captions. YTTranscript lets you toggle timestamps on or off and download as TXT, DOCX, or PDF for a clean output."
 ---
@@ -34,8 +34,8 @@ youtube-transcript.ai is a web-based transcript tool that combines transcript ex
 Like many AI-wrapped tools in this space, it monetizes through a freemium model — basic features are free, but volume and advanced features require a paid plan.
 
 <div class="cta-box">
-  <strong>No account, no limits, no paywall</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> gives you the full transcript of any YouTube video instantly — free forever, no signup required.
+  <strong>No account, no extension</strong><br>
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> gives you the full transcript of any YouTube video instantly — free to start, no signup required.
 </div>
 
 ---
@@ -62,7 +62,7 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 
 **Account and friction.** youtube-transcript.ai requires creating an account before you can use it. If you need one transcript right now, that's a 2-minute detour. YTTranscript has no gate — paste the URL, get the transcript.
 
-**Usage limits.** The free tier on youtube-transcript.ai caps how many transcripts you can generate. For researchers, educators, or anyone processing multiple videos, this becomes a real constraint. YTTranscript has no cap.
+**Usage limits.** The free tier on youtube-transcript.ai caps how many transcripts you can generate. For researchers, educators, or anyone processing multiple videos, this becomes a real constraint. YTTranscript's free tier also has a cap (2 transcripts a day), but it needs no account, and one-time packs cover heavier use without a subscription.
 
 **File downloads.** YTTranscript lets you download the transcript as TXT, DOCX, or PDF. This is useful for archiving, sharing with clients, or importing into a document editor. youtube-transcript.ai's download options are limited on the free tier.
 
@@ -73,7 +73,7 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 ## Which Should You Choose?
 
 **Choose YTTranscript if:**
-- You want zero friction — no account, no limit, works now
+- You want zero friction — no account, works now
 - You need to download the transcript as a file
 - You process multiple videos regularly
 - You use Firefox, Safari, or mobile
@@ -88,7 +88,7 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 
 ## The Bottom Line
 
-For most users, the biggest advantage of youtube-transcript.ai — AI summaries — can be replicated by pasting a transcript into ChatGPT. What you can't replicate elsewhere is what YTTranscript uniquely offers: instant transcripts, no account, no limits, and file downloads in three formats.
+For most users, the biggest advantage of youtube-transcript.ai — AI summaries — can be replicated by pasting a transcript into ChatGPT. What you can't replicate elsewhere is what YTTranscript uniquely offers: instant transcripts, no account, and file downloads in three formats.
 
 <div class="cta-box">
   <strong>Ready for the faster alternative?</strong><br>

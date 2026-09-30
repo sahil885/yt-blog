@@ -25,7 +25,7 @@ faqItems:
 
 If you run a coaching or consulting business, your biggest content asset is probably sitting underused on YouTube. Every video you record, every expert interview you reference, every training you share with clients — all of it contains structured thinking that can be turned into written content, client resources, or marketing material. **YouTube transcripts are the shortcut.**
 
-Here's how coaches and consultants are using [YTTranscript](https://yttranscript.app) to work faster, produce more, and extract more value from video content — with no signup and no cost.
+Here's how coaches and consultants are using [YTTranscript](https://yttranscript.app) to work faster, produce more, and extract more value from video content — with no signup, and free for a couple of videos a day.
 
 ## Why Coaches and Consultants Benefit From Transcripts
 
@@ -51,7 +51,7 @@ No setup required. Go to [YTTranscript.app](https://yttranscript.app), paste the
 That's the whole workflow. It works on desktop and [mobile](/youtube-transcript-on-mobile), and there's no extension to install (unlike browser-based tools — see [YouTube transcript Chrome extension alternatives](/youtube-transcript-chrome-extension)).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript instantly — no account, no extension, no cost. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript instantly — no account, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 5 Practical Workflows for Coaches and Consultants

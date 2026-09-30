@@ -55,7 +55,7 @@ Here's the fastest way to copy any YouTube transcript cleanly, in one click, on 
 That's it. You can now paste it anywhere — ChatGPT, Notion, Google Docs, your notes app, an email, wherever.
 
 <div class="cta-box">
-  <strong>Try it now — completely free</strong><br>
+  <strong>Try it now — free, no signup</strong><br>
   <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and copy the transcript in seconds. No signup, no extension, works on any browser.
 </div>
 

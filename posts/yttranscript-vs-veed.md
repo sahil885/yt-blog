@@ -20,7 +20,7 @@ faqItems:
     answer: "VEED has a free tier, but it is limited — exports carry a VEED watermark, export length is capped, and AI/auto-subtitle minutes are restricted each month. Subtitle file downloads such as SRT, VTT, and TXT sit on paid plans."
   - question: "How much does VEED cost?"
     answer: "At the time of writing, VEED's published tiers run roughly $18/month for Basic, $30/month for Pro, and $70/month for Business, with lower rates on annual billing. Check VEED's pricing page before buying — editor pricing changes often."
-  - question: "Is YTTranscript completely free?"
+  - question: "Is YTTranscript free?"
     answer: "YTTranscript has a free tier plus a paid option. It never requires a signup, an install, or a browser extension, and exports are not watermarked."
 ---
 
@@ -107,7 +107,7 @@ VEED has a free tier, but it is limited — exports carry a VEED watermark, expo
 **How much does VEED cost?**
 At the time of writing, VEED's published tiers run roughly $18/month for Basic, $30/month for Pro, and $70/month for Business, with lower rates on annual billing. Check VEED's pricing page before buying — editor pricing changes often.
 
-**Is YTTranscript completely free?**
+**Is YTTranscript free?**
 YTTranscript has a free tier plus a paid option. It never requires a signup, an install, or a browser extension, and exports are not watermarked.
 
 **Need the text, not the timeline? [Get any YouTube transcript free at YTTranscript.app →](https://yttranscript.app)**

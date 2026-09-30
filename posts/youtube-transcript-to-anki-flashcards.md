@@ -33,7 +33,7 @@ A transcript gives the AI the exact words from the video, so the **flashcards fr
 
 It is also far faster than manual entry. A 30-minute lecture can become 40 well-formed cards in under two minutes. And because you start from text, you can review and edit before anything reaches your deck — much better than passively rewatching the video.
 
-The whole process is **100% free, with no signup and no extension required** when you use [YTTranscript](https://yttranscript.app) to pull the transcript.
+The whole process is **free for a couple of videos a day, with no signup and no extension required**, when you use [YTTranscript](https://yttranscript.app) to pull the transcript.
 
 ## Step 1: Get the YouTube Transcript
 

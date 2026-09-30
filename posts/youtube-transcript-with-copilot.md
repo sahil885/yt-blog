@@ -19,7 +19,7 @@ faqItems:
   - question: "How do I get a YouTube transcript to use with Copilot?"
     answer: "Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into Copilot with your question or instruction."
   - question: "Is using Copilot with YouTube transcripts free?"
-    answer: "Yes. Microsoft Copilot has a free tier, and YTTranscript is 100% free with no signup, so the entire workflow costs nothing."
+    answer: "Yes. Microsoft Copilot has a free tier, and YTTranscript gives you 2 free transcripts a day with no signup, so the workflow costs nothing for everyday use."
   - question: "Why does Copilot give better answers when I paste the transcript?"
     answer: "Pasting the full transcript gives Copilot the complete, accurate text instead of relying on partial page access. This produces more thorough and reliable summaries, especially for long videos."
 ---
@@ -115,7 +115,7 @@ Copilot in Edge can analyze a YouTube page that is open in your browser. The sta
 Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into Copilot with your question or instruction.
 
 **Is using Copilot with YouTube transcripts free?**
-Yes. Microsoft Copilot has a free tier, and YTTranscript is 100% free with no signup, so the entire workflow costs nothing.
+Yes. Microsoft Copilot has a free tier, and YTTranscript gives you 2 free transcripts a day with no signup, so the workflow costs nothing for everyday use.
 
 **Why does Copilot give better answers when I paste the transcript?**
 Pasting the full transcript gives Copilot the complete, accurate text instead of relying on partial page access. This produces more thorough and reliable summaries, especially for long videos.

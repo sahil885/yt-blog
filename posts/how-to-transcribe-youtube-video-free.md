@@ -28,7 +28,7 @@ faqItems:
   - question: "How long does it take to transcribe a YouTube video?"
     answer: "With YTTranscript, any length video transcribes in 2-5 seconds. The underlying caption data is pre-existing, so length barely affects speed."
   - question: "Can I transcribe a YouTube video on my phone?"
-    answer: "Yes. YTTranscript works in any mobile browser. YouTube's built-in transcript feature is desktop-only."
+    answer: "Yes. YTTranscript works in any mobile browser. YouTube's built-in transcript also works in the mobile app, but it can't be downloaded."
   - question: "What file formats can I download the transcription in?"
     answer: "TXT, DOCX, and PDF. All three are available free with no signup required."
   - question: "Does YouTube video transcription work for Shorts?"
