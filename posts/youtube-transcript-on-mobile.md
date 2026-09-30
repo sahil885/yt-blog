@@ -1,116 +1,112 @@
 ---
-title: "YouTube Transcript on Mobile (iPhone & Android)"
-description: "YouTube's transcript feature is desktop-only. Here's how to get any video's transcript on your phone in seconds — no app, no account."
-date: "2026-05-25"
+title: "How to View a Transcript on YouTube Mobile (iPhone & Android)"
+description: "View a YouTube transcript on mobile: open the description, scroll down and tap Show transcript. Plus how to copy or download the full text on your phone."
+date: "2026-09-30"
 author: "YTTranscript Team"
 category: "How-To"
 readingTime: "4 min read"
 keywords:
-  - youtube transcript on iphone
+  - how to view transcript on youtube mobile
   - youtube transcript mobile
+  - show transcript youtube app
+  - how to copy youtube transcript on phone
+  - youtube transcript on iphone
   - youtube transcript android
-  - how to get youtube transcript on phone
-  - youtube transcript ios
-howToName: "How to Get a YouTube Transcript on Mobile"
+howToName: "How to View a Transcript on YouTube Mobile"
 howToSteps:
-  - name: "Copy the YouTube video URL"
-    text: "In the YouTube app, tap Share below the video and select Copy Link. In a mobile browser, copy the URL from the address bar."
-  - name: "Open YTTranscript in your mobile browser"
-    text: "Open Safari, Chrome, or any browser on your phone and go to yttranscript.app."
-  - name: "Paste the URL and get the transcript"
-    text: "Paste the link into the input field and tap Get Transcript Now. The full text loads in seconds."
-  - name: "Copy or download"
-    text: "Tap Copy to grab the text, or download it as a TXT, DOCX, or PDF file."
+  - name: "Open the video in the YouTube app"
+    text: "Start the video in the YouTube app on your iPhone, iPad or Android phone."
+  - name: "Expand the description"
+    text: "Tap the video title on iPhone or iPad, or tap ...more on Android, to open the description panel."
+  - name: "Tap Show transcript"
+    text: "Scroll down to the Transcript section and tap Show transcript. Tap any line to jump to that moment in the video."
+  - name: "Copy or download the full text"
+    text: "The app has no button to copy or download the whole transcript. Tap Share, then Copy link, and paste the link into yttranscript.app in your phone's browser to copy the text or save it as TXT, DOCX or PDF."
 faqItems:
-  - question: "Can you get a YouTube transcript on an iPhone?"
-    answer: "Yes. Open Safari or Chrome on your iPhone, go to yttranscript.app, paste the YouTube video URL, and get the full transcript in seconds. No app or account needed."
-  - question: "Does the YouTube app have a transcript feature on mobile?"
-    answer: "No. YouTube's built-in 'Show transcript' option only works in the desktop browser. The YouTube mobile app does not include this feature."
-  - question: "Does YTTranscript work on Android?"
-    answer: "Yes — YTTranscript works in any mobile browser on Android, including Chrome, Firefox, and Samsung Internet. No installation required."
-  - question: "Can I download the transcript to my phone?"
-    answer: "Yes. YTTranscript lets you download the transcript as a TXT, DOCX, or PDF file directly to your phone."
+  - question: "How do I view the transcript on YouTube mobile?"
+    answer: "In the YouTube app, open the video's description by tapping the title on iPhone or ...more on Android, scroll down to the Transcript section and tap Show transcript. Tap any line to jump to that point in the video."
+  - question: "Why is Show transcript missing on my phone?"
+    answer: "The option only appears on videos that have captions, and some videos have none. Updating the YouTube app is also worth a try. If a video has no captions at all, see our guide to videos with no transcript."
+  - question: "Can I copy the whole transcript in the YouTube app?"
+    answer: "Not easily. The app shows the transcript line by line but has no copy-all or download button. Paste the video link into YTTranscript in your phone's browser to copy the full text or download it as TXT, DOCX or PDF."
+  - question: "Does this work on both Android and iPhone?"
+    answer: "Yes. Show transcript is in the YouTube app on both, and YTTranscript works in any mobile browser, including Safari, Chrome, Firefox and Samsung Internet, with nothing to install."
   - question: "Is it free to get a YouTube transcript on mobile?"
-    answer: "Yes. YTTranscript is completely free with no account, no app install, and no usage limits."
+    answer: "Yes. Viewing the transcript in the YouTube app is free, and YTTranscript gives you 2 free transcripts a day with no account. If you need more, it sells one-time packs with no subscription."
 ---
 
-**The YouTube app has no transcript button, but you can still get the text: open [YTTranscript](https://yttranscript.app) in your phone's browser, paste the video link, and copy the transcript in seconds.** It works on both iPhone and Android.
+**To view a transcript on YouTube mobile, open the video in the YouTube app, tap the title (iPhone) or "...more" (Android) to expand the description, then scroll down and tap Show transcript.** Tap any line to jump to that moment. The app lets you read the transcript, but it has no button to copy or download all of it, so for the full text, paste the video link into [YTTranscript](https://yttranscript.app) in your phone's browser.
 
-If you've ever tried to get a YouTube transcript on your phone, you've probably hit the same dead end: the YouTube mobile app simply doesn't have the transcript feature. Unlike the desktop version — where you can click the three-dot menu and select "Show transcript" — the app leaves you with nothing.
+## How to view a transcript in the YouTube app
 
-Most people give up here. They don't realise the transcript is still available; YouTube just doesn't make it easy to access on mobile. Here's the workaround that takes about 10 seconds.
+The steps are almost identical on iPhone, iPad and Android:
 
-## Why the YouTube App Doesn't Show Transcripts
+1. **Open the video** in the YouTube app.
+2. **Expand the description.** On iPhone and iPad, tap the video title. On Android, tap **...more** under the title.
+3. **Scroll to the Transcript section** and tap **Show transcript**.
+4. **Tap any line** to jump to that point in the video. The transcript scrolls along as the video plays.
 
-YouTube's "Show transcript" option lives inside the desktop browser interface, behind a small menu below the video title. When YouTube built its mobile app, this feature was never added. It was likely deprioritised because the small screen makes reading a full transcript less convenient — but that doesn't mean you don't need it.
+If Show transcript isn't there, the video most likely has no captions (updating the app is worth a try too). See [what to do when a YouTube video has no transcript](/youtube-video-no-transcript).
 
-Students taking notes on their phones, commuters capturing a quote from a podcast-style video, creators looking to repurpose content — mobile transcript access is genuinely useful, and the YouTube app just doesn't provide it.
+## The catch: you can read it, but not copy it all
 
-## The Solution: Use YTTranscript in Your Mobile Browser
+The in-app transcript is built for reading along. There's no button to copy the whole thing or download it as a file, which is what you need to paste it into notes, share it, or hand it to an AI tool.
 
-[YTTranscript](https://yttranscript.app) is a browser-based tool — meaning it works in Safari, Chrome, Firefox, or any other browser on your phone. There's no app to install, no account to create.
+| | YouTube app (Show transcript) | YTTranscript (mobile browser) |
+|---|---|---|
+| Read along, synced to the video | Yes | No, text only |
+| Tap a line to jump in the video | Yes | No |
+| Copy the whole transcript | No one-tap option | Yes, one tap |
+| Download as TXT, DOCX or PDF | No | Yes |
+| Cost | Free | 2 free a day, then one-time packs |
 
-**Step 1: Get the video URL.**
+Use the app to follow along; use YTTranscript when you need the text itself.
 
-In the **YouTube app**: tap the **Share** button below the video, then select **Copy Link**.
+## How to copy or download a YouTube transcript on your phone
 
-In a **mobile browser**: copy the URL directly from the address bar.
+**Step 1: Copy the video link.** In the YouTube app, tap **Share**, then **Copy link**. In a mobile browser, copy the URL from the address bar.
 
-**Step 2: Open your mobile browser and go to [yttranscript.app](https://yttranscript.app).**
+**Step 2: Open [yttranscript.app](https://yttranscript.app) in your browser.** Safari, Chrome, Firefox and Samsung Internet all work. There's no app to install and no account to create.
 
-This works on iPhone (Safari, Chrome), Android (Chrome, Firefox, Samsung Internet), and any other mobile browser.
+**Step 3: Paste the link and tap Get Transcript Now.** The full transcript appears in a few seconds.
 
-**Step 3: Paste the URL and tap Get Transcript Now.**
-
-The full transcript appears within 2–5 seconds. For long videos, it may take a moment more.
-
-**Step 4: Copy or download.**
-
-Tap **Copy** to grab the entire text to your clipboard — ready to paste into Notes, WhatsApp, Notion, or wherever you need it. Or tap download to save it as a TXT, DOCX, or PDF file directly to your phone.
+**Step 4: Copy or download.** Tap **Copy** to put the whole text on your clipboard, or download it as a TXT, DOCX or PDF file. More detail in [how to copy a YouTube transcript](/how-to-copy-youtube-transcript) and our [iPhone guide](/youtube-transcript-on-iphone).
 
 <div class="cta-box">
-  <strong>Works on any phone:</strong> Open your browser, go to YTTranscript.app, paste any YouTube URL — full transcript in seconds, free. <a href="https://yttranscript.app">→ Try it now on your phone</a>
+  <strong>Works on any phone:</strong> Paste a YouTube link into YTTranscript in your mobile browser and copy the full transcript in seconds, with no app and no account. <a href="https://yttranscript.app">→ Try it now on your phone</a>
 </div>
 
-## What to Do With the Transcript on Your Phone
+## What to do with the transcript on your phone
 
-Once you have the text, a few mobile-friendly workflows stand out:
+**Share it in a message.** Paste the text into iMessage, WhatsApp, Telegram or email to pass on a video's key points without making anyone watch it.
 
-**Share the transcript via messages.** Copy and paste it into iMessage, WhatsApp, Telegram, or email — great for sharing a video's key points with someone without making them watch the whole thing.
+**Save it to your notes.** Paste into Apple Notes or Google Keep, then highlight and organise at your own pace. The Notion app works well too; see [YouTube transcript to Notion](/youtube-transcript-to-notion).
 
-**Paste into Apple Notes or Google Keep.** Quickly build a notes document from a video without ever sitting at a desktop. You can then edit, highlight, and organise at your own pace.
+**Ask AI about it.** Paste the transcript into the ChatGPT or Claude app and ask for a summary, key points or answers to specific questions. Prompt ideas are in [using YouTube transcripts with ChatGPT](/youtube-transcript-for-chatgpt).
 
-**Use it with AI on your phone.** Paste the transcript into the ChatGPT app or Claude app and ask it to summarise, extract key points, or answer questions. See our guide on [using YouTube transcripts with ChatGPT](/youtube-transcript-for-chatgpt) for prompt ideas.
+## YouTube Shorts on mobile
 
-**Save to Notion on mobile.** The Notion app makes it easy to paste transcript text into a new page. See our full [YouTube transcript to Notion guide](/youtube-transcript-to-notion) for the workflow.
+Paste a Shorts link into YTTranscript exactly the same way to get its transcript. More in our guide to [YouTube Shorts transcripts](/youtube-shorts-transcript).
 
-## Does This Work for YouTube Shorts on Mobile?
+## Do Chrome extensions work on mobile?
 
-Yes — paste any YouTube Shorts URL the same way and get the transcript in seconds. The YouTube Shorts player doesn't show a transcript button even on desktop, so YTTranscript is the only reliable way to get Short transcripts. See our dedicated guide on [getting YouTube Shorts transcripts](/youtube-shorts-transcript) for more detail.
+No. Chrome on iPhone and Android doesn't support extensions, so extension-based transcript tools only work on desktop. YTTranscript runs as a normal web page, so it works in any mobile browser. See [whether you need a YouTube transcript Chrome extension](/youtube-transcript-chrome-extension).
 
-## Does a Chrome Extension Work on Mobile?
+## Frequently asked questions
 
-No. Chrome extensions are a desktop-only feature — they don't run in Chrome on iPhone or Android. Any tool that relies on a browser extension is not a viable solution for mobile transcript access. YTTranscript is fully browser-based, so it works everywhere. See our breakdown of [whether you actually need a YouTube transcript Chrome extension](/youtube-transcript-chrome-extension).
+**How do I view the transcript on YouTube mobile?**
+In the YouTube app, open the video's description by tapping the title on iPhone or ...more on Android, scroll down to the Transcript section and tap Show transcript. Tap any line to jump to that point in the video.
 
-## Frequently Asked Questions
+**Why is Show transcript missing on my phone?**
+The option only appears on videos that have captions, and some videos have none. Updating the YouTube app is also worth a try. If a video has no captions at all, see our guide to videos with no transcript.
 
-**Can you get a YouTube transcript on an iPhone?**
-Yes. Open Safari or Chrome, go to yttranscript.app, paste the video URL, and get the full transcript in seconds. No app or account needed.
+**Can I copy the whole transcript in the YouTube app?**
+Not easily. The app shows the transcript line by line but has no copy-all or download button. Paste the video link into YTTranscript in your phone's browser to copy the full text or download it as TXT, DOCX or PDF.
 
-**Does the YouTube app have a transcript feature on mobile?**
-No. The built-in "Show transcript" option only works in the YouTube desktop browser experience. The mobile app doesn't include it.
+**Does this work on both Android and iPhone?**
+Yes. Show transcript is in the YouTube app on both, and YTTranscript works in any mobile browser, including Safari, Chrome, Firefox and Samsung Internet, with nothing to install.
 
-**Does this work on Android?**
-Yes — YTTranscript works in any Android browser: Chrome, Firefox, Samsung Internet, and others.
+**Is it free to get a YouTube transcript on mobile?**
+Yes. Viewing the transcript in the YouTube app is free, and YTTranscript gives you 2 free transcripts a day with no account. If you need more, it sells one-time packs with no subscription.
 
-**Can I download the transcript to my phone?**
-Yes. TXT, DOCX, and PDF download all work from mobile.
-
-**Is it free?**
-Yes. Completely free, no account required, no limits.
-
----
-
-Getting a YouTube transcript on your phone is simpler than it should be — it just requires knowing the right tool. Once you have [YTTranscript](https://yttranscript.app) bookmarked in your mobile browser, the whole workflow takes under 15 seconds.
-
-**[→ Try YTTranscript on your phone — paste any YouTube URL, get the full text instantly](https://yttranscript.app)**
+**[→ Need the full text on your phone? Paste any YouTube link into YTTranscript](https://yttranscript.app)**
