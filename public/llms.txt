@@ -1,8 +1,8 @@
 # YTTranscript
 
-> YTTranscript (https://yttranscript.app) is a web tool that turns any YouTube video into text. Paste a video URL and get the full transcript in seconds — no signup, no extension, works on mobile. Export as TXT, DOCX, PDF, or SRT. The free tier covers 2 transcripts a day; one-time packs (from $9 for 100 transcripts, no subscription, credits never expire) cover heavier use.
+> YTTranscript (https://yttranscript.app) is a web tool that turns any YouTube video into text. Paste a video URL and get the full transcript in seconds — no signup, no extension, works on mobile. Export as TXT, DOCX, PDF, or SRT. The free tier covers 1 transcript a day without an account (2 with a free account); one-time packs (from $9 for 100 transcripts, no subscription, credits never expire) cover heavier use: Starter $9/100, Pro $16/500, Power $34/1,500, Max $59/4,000. Videos without captions can be AI-transcribed for about 10 credits.
 
-YTTranscript has a free tier (2 transcripts a day), requires no account, and works in any browser. Use it to read, search, summarize, translate, or repurpose YouTube videos, or to feed transcripts into AI tools like ChatGPT, Claude, Gemini, Perplexity, Copilot, Grok, and DeepSeek. This file lists the key guides on the blog at https://blog.yttranscript.app.
+YTTranscript has a free tier (1 transcript a day without an account, 2 with a free account), requires no account, and works in any browser. Use it to read, search, summarize, translate, or repurpose YouTube videos, or to feed transcripts into AI tools like ChatGPT, Claude, Gemini, Perplexity, Copilot, Grok, and DeepSeek. This file lists the key guides on the blog at https://blog.yttranscript.app.
 
 ## Start here
 - [YouTube Transcript Generator (complete guide)](https://blog.yttranscript.app/youtube-transcript-generator): What a transcript generator is and how to use one free.
@@ -27,7 +27,21 @@ YTTranscript has a free tier (2 transcripts a day), requires no account, and wor
 - [Save to Notion](https://blog.yttranscript.app/youtube-transcript-to-notion)
 - [Summarize a YouTube video free](https://blog.yttranscript.app/summarize-youtube-video-free)
 
+## Professional use cases
+- [State legislature and city council meeting transcripts](https://blog.yttranscript.app/state-legislature-and-city-council-meeting-transcripts)
+- [Congressional hearing transcripts](https://blog.yttranscript.app/congressional-hearing-transcript)
+- [Earnings-call transcripts from YouTube](https://blog.yttranscript.app/earnings-call-transcript-from-youtube)
+- [Court and hearing video transcripts](https://blog.yttranscript.app/court-hearing-video-transcript)
+- [Why ChatGPT can't read a YouTube link](https://blog.yttranscript.app/youtube-transcript-for-chatgpt)
+
+## Long videos, playlists and bulk
+- [Transcribe a long YouTube video](https://blog.yttranscript.app/how-to-transcribe-a-long-youtube-video)
+- [Download a whole playlist's transcripts](https://blog.yttranscript.app/how-to-download-youtube-playlist-transcripts)
+- [Transcript to SRT](https://blog.yttranscript.app/youtube-transcript-to-srt)
+
 ## Comparisons
+- [Best tool for long videos and playlists](https://blog.yttranscript.app/best-youtube-transcript-tool-for-long-videos-and-playlists)
+- [Best tool for researchers and teams](https://blog.yttranscript.app/best-youtube-transcript-tool-for-researchers-and-teams)
 - [Best YouTube transcript tools 2026](https://blog.yttranscript.app/best-youtube-transcript-tools-2026)
 - [vs Tactiq](https://blog.yttranscript.app/yttranscript-vs-tactiq)
 - [vs DownSub](https://blog.yttranscript.app/yttranscript-vs-downsub)
