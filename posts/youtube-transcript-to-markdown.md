@@ -84,7 +84,7 @@ If you need to keep the speaker timing, you can also pull a version [with timest
 
 ## Save Time: Download Once, Reuse Everywhere
 
-The smartest workflow is to grab the transcript **once** and keep the Markdown file. From a single `.md` you can paste into Notion today, sync it to Obsidian tomorrow, and pull a quote into a blog post next week — no re-extraction needed. Because [YTTranscript](https://yttranscript.app) requires no account and gives you 2 free transcripts a day, there is little friction to building this habit.
+The smartest workflow is to grab the transcript **once** and keep the Markdown file. From a single `.md` you can paste into Notion today, sync it to Obsidian tomorrow, and pull a quote into a blog post next week — no re-extraction needed. Because [YTTranscript](https://yttranscript.app) requires no account and gives you 1 free transcript a day (2 with a free account), there is little friction to building this habit.
 
 That is the whole point of Markdown: write once, use anywhere. A YouTube transcript becomes a portable, future-proof asset instead of a one-off copy-paste.
 

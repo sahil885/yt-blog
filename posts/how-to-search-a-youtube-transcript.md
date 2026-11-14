@@ -1,7 +1,7 @@
 ---
 title: "How to Search a YouTube Transcript for a Specific Word (4 Free Ways)"
 description: "Need to find one word or phrase inside a YouTube video? Here are 4 free ways to search a YouTube transcript and jump straight to the moment — no signup."
-date: "2026-07-06"
+date: "2026-11-14"
 author: "YTTranscript Team"
 category: "How-To"
 readingTime: "6 min read"
@@ -33,6 +33,8 @@ faqItems:
     answer: "Yes. A transcript with timestamps tells you precisely when each match occurs, so you can skip straight to that second in the video instead of scrubbing."
   - question: "Does transcript search work on mobile?"
     answer: "Yes. Open the transcript in your phone browser and use your browser's 'Find in page' feature to search the text — no app required."
+  - question: "Does this work for long videos or whole playlists?"
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 **To search a YouTube transcript for a specific word, load the video's full transcript with a free tool like [YTTranscript](https://yttranscript.app), then press Ctrl+F (Windows) or Cmd+F (Mac) and type the word — every match is highlighted in a second.** With a [timestamped transcript](/youtube-transcript-with-timestamps) you can also jump straight to the exact moment the word was said. Below are four free ways to do it, from a single video to searching across thousands.
@@ -60,7 +62,7 @@ The most reliable method works on every public video and takes about ten seconds
 Because the transcript includes timestamps, each match tells you exactly when it was said, so you can jump back to that point in the video. You can also [copy the transcript](/how-to-copy-youtube-transcript) or download it as TXT, DOCX, or PDF and search it later offline.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL, get the full transcript in seconds, then Ctrl+F to find any word. No login, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL, get the full transcript in seconds, then Ctrl+F to find any word. No login, no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Method 2: YouTube's Built-in Transcript Search
@@ -88,7 +90,7 @@ Sometimes you don't know which video contains a phrase — you want to search ev
 - **Filmot** lets you search captions across YouTube, filter by channel or date, and find words used near each other.
 - **YouGlish** finds clips where a specific word or phrase is pronounced, which is handy for language learners and checking pronunciation.
 
-These are great for discovery across the platform. Once you've found the right video, come back to [YTTranscript](https://yttranscript.app) to pull its full transcript and search it in detail.
+These are great for discovery across the platform. Once you've found the right video, come back to [YTTranscript](https://yttranscript.app) to pull its full transcript and search it in detail. If the phrase could be anywhere in a course or series, [download the whole playlist's transcripts](/how-to-download-youtube-playlist-transcripts) and search one combined file.
 
 ## Which Method Should You Use?
 
@@ -109,7 +111,20 @@ For searching within one video and keeping the text, [YTTranscript](https://yttr
 
 **Save long transcripts.** For videos you'll reference repeatedly, [download the transcript](/how-to-download-youtube-transcript) so you can search it offline anytime.
 
+## Need more than free?
+
+YTTranscript's free tier is **1 transcript a day without an account, or 2 a day with a free account**. If you're searching across dozens of videos, buy a one-time pack — no subscription, credits never expire, and there's a 30-day money-back guarantee:
+
+- **Starter — $9** for 100 transcripts (9¢ each)
+- **Pro — $16** for 500 transcripts (3.2¢ each)
+- **Power — $34** for 1,500 transcripts (2.3¢ each)
+
+Packs also add a saved transcript library, AI translation into 16 languages, and AI transcription for videos with no captions (about 10 credits each). The jobs that usually need a pack: [getting transcripts for a whole playlist](/how-to-download-youtube-playlist-transcripts), [working through long 3–10 hour videos](/how-to-transcribe-a-long-youtube-video), and [turning transcripts into SRT caption files](/youtube-transcript-to-srt).
+
 ## Frequently Asked Questions
+
+**Does this work for long videos or whole playlists?**
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Can I search a YouTube video for a specific word for free?**
 Yes. Load the transcript with a free tool like YTTranscript, then press Ctrl+F or Cmd+F to find any word instantly — no account or extension needed.

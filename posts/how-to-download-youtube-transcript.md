@@ -25,7 +25,7 @@ howToSteps:
     text: "Use the download options to save as TXT (plain text), DOCX (Word document), or PDF. The file downloads instantly to your device."
 faqItems:
   - question: "Is downloading a YouTube transcript free?"
-    answer: "Yes. YTTranscript includes downloads in every format on its free tier (2 transcripts a day, no signup), with one-time packs if you need more."
+    answer: "Yes. YTTranscript includes downloads in every format on its free tier (1 transcript a day with no signup, 2 with a free account), with one-time packs if you need more."
   - question: "Can I download a transcript from a private YouTube video?"
     answer: "No. The tool can only access public videos. Private or age-restricted videos are not accessible."
   - question: "Will the downloaded transcript include timestamps?"
@@ -105,7 +105,7 @@ Long videos (3+ hours) produce very long transcripts — sometimes 20,000+ words
 ## Frequently Asked Questions
 
 **Is downloading a YouTube transcript free?**
-Yes — [YTTranscript](https://yttranscript.app) includes downloads in every format on its free tier (2 transcripts a day, no signup), with one-time packs if you need more.
+Yes — [YTTranscript](https://yttranscript.app) includes downloads in every format on its free tier (1 transcript a day with no signup, 2 with a free account), with one-time packs if you need more.
 
 **Can I download a transcript from a private YouTube video?**
 No. The tool can only access public videos. Private or age-restricted videos are not accessible.

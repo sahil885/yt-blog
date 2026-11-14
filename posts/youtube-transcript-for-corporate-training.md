@@ -17,7 +17,7 @@ faqItems:
   - question: "Can I use a YouTube transcript in internal training materials?"
     answer: "Linking to or embedding a public YouTube video is generally the safest route. Copying a third-party creator's transcript into your own course materials can raise copyright questions, so check with legal or get the creator's permission. This is not legal advice."
   - question: "What is the cheapest way to transcribe training videos?"
-    answer: "If the video is on YouTube and already has captions, extracting them with YTTranscript's free tier (2 transcripts a day) or YouTube's Show transcript panel costs nothing. Human transcription services like Rev start around $1.99 per minute."
+    answer: "If the video is on YouTube and already has captions, extracting them with YTTranscript's free tier (1 transcript a day without an account, 2 with a free account) or YouTube's Show transcript panel costs nothing. Human transcription services like Rev start around $1.99 per minute."
   - question: "Are YouTube auto-captions accurate enough for compliance training?"
     answer: "Not on their own. Auto-captions are fine for drafting summaries and quizzes, but anything used for regulated or compliance training should be checked by a human or professionally transcribed."
   - question: "Do employees need an account or extension to use YTTranscript?"
@@ -60,7 +60,7 @@ Our guides for [ChatGPT](/youtube-transcript-for-chatgpt) and [Copilot](/youtube
 
 | Option | Best for | Accuracy | Cost (2026) | Export | Signup / install |
 |---|---|---|---|---|---|
-| **YTTranscript** | Fast drafts from YouTube videos with captions | Matches the video's captions | Free tier (2/day); one-time packs from $9 for 100 | TXT, DOCX, PDF | None |
+| **YTTranscript** | Fast drafts from YouTube videos with captions | Matches the video's captions | Free: 1/day, 2/day with free account; one-time packs from $9 for 100 | TXT, DOCX, PDF | None |
 | **YouTube "Show transcript"** | Reading a single video on desktop | Matches captions | Free | Manual copy only | None |
 | **OpenAI Whisper** | Videos with no captions; self-hosted privacy | Strong on clear audio | Free (open source), needs setup | Text/SRT files | Technical install |
 | **Rev (human)** | Compliance or regulated training needing verified text | Highest (human-checked) | ~$1.99/min human; ~$0.25/min AI | Multiple formats | Account |
@@ -90,7 +90,7 @@ Pull the transcript with a tool like YTTranscript, paste it into an AI assistant
 Linking to or embedding a public YouTube video is generally the safest route. Copying a third-party creator's transcript into your own course materials can raise copyright questions, so check with legal or get the creator's permission. This is not legal advice.
 
 **What is the cheapest way to transcribe training videos?**
-If the video is on YouTube and already has captions, extracting them with YTTranscript's free tier (2 transcripts a day) or YouTube's Show transcript panel costs nothing. Human transcription services like Rev start around $1.99 per minute.
+If the video is on YouTube and already has captions, extracting them with YTTranscript's free tier (1 transcript a day without an account, 2 with a free account) or YouTube's Show transcript panel costs nothing. Human transcription services like Rev start around $1.99 per minute.
 
 **Are YouTube auto-captions accurate enough for compliance training?**
 Not on their own. Auto-captions are fine for drafting summaries and quizzes, but anything used for regulated or compliance training should be checked by a human or professionally transcribed.

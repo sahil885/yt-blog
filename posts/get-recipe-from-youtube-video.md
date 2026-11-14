@@ -19,7 +19,7 @@ faqItems:
   - question: "What is the best app to save recipes from YouTube?"
     answer: "Recipe apps such as ReciMe, Honeydew and Pestle can import from YouTube links and keep recipes in a cookbook with shopping lists. Their free tiers are limited, so they suit people who save recipes often; for an occasional recipe, a transcript plus an AI chatbot costs nothing."
   - question: "Is there a free way to convert a YouTube recipe video to text?"
-    answer: "Yes. YTTranscript's free tier gives 2 transcripts a day with no signup, and the free tiers of ChatGPT, Claude or Gemini can turn that transcript into a formatted recipe."
+    answer: "Yes. YTTranscript's free tier gives 1 transcript a day without an account (2 with a free account), and the free tiers of ChatGPT, Claude or Gemini can turn that transcript into a formatted recipe."
   - question: "Why are the ingredient amounts missing from my YouTube recipe transcript?"
     answer: "A transcript only contains what the cook says out loud. Amounts shown as on-screen text or visible on measuring cups won't appear, so check the description, the creator's blog, or the video itself for those numbers."
 ---
@@ -91,7 +91,7 @@ Yes, if you give it the transcript. Paste the transcript and ask for ingredients
 Recipe apps such as ReciMe, Honeydew and Pestle can import from YouTube links and keep recipes in a cookbook with shopping lists. Their free tiers are limited, so they suit people who save recipes often; for an occasional recipe, a transcript plus an AI chatbot costs nothing.
 
 **Is there a free way to convert a YouTube recipe video to text?**
-Yes. YTTranscript's free tier gives 2 transcripts a day with no signup, and the free tiers of ChatGPT, Claude or Gemini can turn that transcript into a formatted recipe.
+Yes. YTTranscript's free tier gives 1 transcript a day without an account (2 with a free account), and the free tiers of ChatGPT, Claude or Gemini can turn that transcript into a formatted recipe.
 
 **Why are the ingredient amounts missing from my YouTube recipe transcript?**
 A transcript only contains what the cook says out loud. Amounts shown as on-screen text or visible on measuring cups won't appear, so check the description, the creator's blog, or the video itself for those numbers.

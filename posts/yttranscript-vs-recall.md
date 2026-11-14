@@ -17,7 +17,7 @@ faqItems:
   - question: "How much does Recall cost in 2026?"
     answer: "Recall has a free plan with 10 AI summaries per month and unlimited saves. Plus is $10 per month and Max is $38 per month, both billed yearly, with monthly billing also available."
   - question: "Do I need an account to use YTTranscript or Recall?"
-    answer: "YTTranscript needs no account and no extension — paste a URL and get the transcript, with 2 free transcripts a day and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it."
+    answer: "YTTranscript needs no account and no extension — paste a URL and get the transcript, with 1 free transcript a day (2 with a free account) and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it."
   - question: "Is a transcript or an AI summary better for research?"
     answer: "Use the full transcript when you need exact quotes, citations or text to paste into your own AI tool. Use a summary when you only need the gist and want to file it away for later."
   - question: "Can I use both tools together?"
@@ -34,7 +34,7 @@ It's a strong product for people who consume a lot of material and want one sear
 
 ## What is YTTranscript?
 
-[YTTranscript](https://yttranscript.app) does one job: you paste a YouTube URL and get the **complete transcript** — with or without [timestamps](/youtube-transcript-with-timestamps) — then copy it or download it as **TXT, DOCX or PDF**. It runs in any browser, including on your phone, with **no signup and no extension**. The free tier covers 2 transcripts a day, and one-time packs (no subscription) cover heavier use.
+[YTTranscript](https://yttranscript.app) does one job: you paste a YouTube URL and get the **complete transcript** — with or without [timestamps](/youtube-transcript-with-timestamps) — then copy it or download it as **TXT, DOCX or PDF**. It runs in any browser, including on your phone, with **no signup and no extension**. The free tier covers 1 transcript a day without an account (2 with a free account), and one-time packs (no subscription) cover heavier use.
 
 ## YTTranscript vs Recall: side-by-side
 
@@ -73,7 +73,7 @@ If your goal is "remember what I watched," Recall is the better fit.
 - **No account, nothing to install.** Open the site on a work laptop, a library computer or your phone and you're done in seconds. Recall asks you to sign up before it's useful.
 - **Real files.** DOCX and PDF exports drop straight into Word, [Google Docs](/youtube-transcript-to-google-docs) or a client folder. Recall keeps content inside Recall.
 - **Bring your own AI.** A full transcript works in any model you already pay for — [ChatGPT](/youtube-transcript-for-chatgpt), [Claude](/youtube-transcript-with-claude), [Gemini](/youtube-transcript-with-gemini) or [NotebookLM](/youtube-transcript-for-notebooklm) — with your own prompts, instead of a fixed summary style.
-- **No subscription.** Recall's free plan caps you at 10 summaries a month; after that it's a yearly plan. YTTranscript's free tier is 2 transcripts a day, and one-time packs never become a recurring bill.
+- **No subscription.** Recall's free plan caps you at 10 summaries a month; after that it's a yearly plan. YTTranscript's free tier is 1 transcript a day without an account (2 with a free account), and one-time packs never become a recurring bill.
 
 ## Honest limitations of each
 
@@ -98,7 +98,7 @@ YTTranscript gives you the full word-for-word transcript of a YouTube video and 
 Recall has a free plan with 10 AI summaries per month and unlimited saves. Plus is $10 per month and Max is $38 per month, both billed yearly, with monthly billing also available.
 
 **Do I need an account to use YTTranscript or Recall?**
-YTTranscript needs no account and no extension — paste a URL and get the transcript, with 2 free transcripts a day and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it.
+YTTranscript needs no account and no extension — paste a URL and get the transcript, with 1 free transcript a day (2 with a free account) and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it.
 
 **Is a transcript or an AI summary better for research?**
 Use the full transcript when you need exact quotes, citations or text to paste into your own AI tool. Use a summary when you only need the gist and want to file it away for later.

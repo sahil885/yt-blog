@@ -126,7 +126,7 @@ A 1-hour video produces roughly 8,000-12,000 words of transcript. ChatGPT's free
 ## Frequently Asked Questions
 
 **Is this method free?**
-Yes, for everyday use. [YTTranscript](https://yttranscript.app) gives you 2 free transcripts a day with no signup. ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free.
+Yes, for everyday use. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day with no signup (2 with a free account). ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free.
 
 **Does it work for non-English videos?**
 Yes. Get the transcript and ask the AI to summarize in English or any language you specify.

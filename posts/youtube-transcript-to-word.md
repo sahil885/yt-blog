@@ -1,7 +1,7 @@
 ---
 title: "How to Convert a YouTube Transcript to Word (Free, No Signup)"
 description: "Convert any YouTube transcript to Word in seconds. Free, no signup tool that exports a clean .docx file you can edit, highlight, and share. Works on mobile too."
-date: "2026-06-29"
+date: "2026-11-14"
 author: "YTTranscript Team"
 category: "How-To"
 readingTime: "6 min read"
@@ -22,6 +22,8 @@ faqItems:
     answer: "Completely. The exported .docx is normal Word text you can edit, format, highlight, and comment on in Word, Google Docs, or LibreOffice."
   - question: "What if the video has no transcript?"
     answer: "Some videos have captions disabled. In that case there is no text to extract, so you would need a video with captions available."
+  - question: "Does this work for long videos or whole playlists?"
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 You found the perfect video — a lecture, a tutorial, an interview — and now you want it as an editable **Word document** you can highlight, annotate, and share. Maybe you're writing notes, building a report, or quoting a source. Whatever the reason, getting a **YouTube transcript into a .docx file** should take seconds, not an afternoon of copying and reformatting.
@@ -73,7 +75,22 @@ Once your transcript is in Word, a few quick moves make it genuinely useful. **A
 
 From there, the same file can become a study sheet, a blog draft, or a client deliverable. Turning a video into an article? See [YouTube video to blog post](/youtube-video-to-blog-post).
 
+For a 3-hour lecture or hearing, Word handles 30,000+ words fine — see [how to transcribe a long YouTube video](/how-to-transcribe-a-long-youtube-video) for splitting it into sections. If you need on-screen captions rather than a document, [convert the transcript to an SRT file](/youtube-transcript-to-srt) instead.
+
+## Need more than free?
+
+YTTranscript's free tier is **1 transcript a day without an account, or 2 a day with a free account**. If you're building a library of Word documents, buy a one-time pack — no subscription, credits never expire, and there's a 30-day money-back guarantee:
+
+- **Starter — $9** for 100 transcripts (9¢ each)
+- **Pro — $16** for 500 transcripts (3.2¢ each)
+- **Power — $34** for 1,500 transcripts (2.3¢ each)
+
+Packs also add a saved transcript library, AI translation into 16 languages, and AI transcription for videos with no captions (about 10 credits each). The jobs that usually need a pack: [getting transcripts for a whole playlist](/how-to-download-youtube-playlist-transcripts), [working through long 3–10 hour videos](/how-to-transcribe-a-long-youtube-video), and [turning transcripts into SRT caption files](/youtube-transcript-to-srt).
+
 ## Frequently Asked Questions
+
+**Does this work for long videos or whole playlists?**
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Can I convert a YouTube transcript to Word for free?**
 Yes. [YTTranscript](https://yttranscript.app) pulls the full transcript and exports a .docx file at no cost, with no account or extension required.

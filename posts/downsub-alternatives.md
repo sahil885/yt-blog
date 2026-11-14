@@ -13,7 +13,7 @@ keywords:
   - free subtitle downloader
 faqItems:
   - question: "What is the best free alternative to DownSub?"
-    answer: "For YouTube, YTTranscript (2 free transcripts a day with no signup) or YouTube's own Show transcript panel. For subtitles from other sites like Viki or Dailymotion, SaveSubs is free and donation-supported. For bulk downloads, the open-source yt-dlp is free and has no usage caps."
+    answer: "For YouTube, YTTranscript (1 free transcript a day with no signup (2 with a free account)) or YouTube's own Show transcript panel. For subtitles from other sites like Viki or Dailymotion, SaveSubs is free and donation-supported. For bulk downloads, the open-source yt-dlp is free and has no usage caps."
   - question: "Is DownSub free?"
     answer: "Yes for single subtitle downloads: paste a video URL, pick a language and format (SRT, VTT or TXT), and download without an account. DownSub Premium costs $5/month after a 3-day trial and adds playlist downloads, AI translation into 100+ languages, AI summaries and API access."
   - question: "Which DownSub alternative works for Viki, WeTV or iQIYI?"
@@ -24,7 +24,7 @@ faqItems:
     answer: "YTTranscript can AI-generate a transcript for a caption-less video (about 10 credits), and NoteGPT offers AI transcription too. DownSub Premium can also convert video or audio to subtitles. SaveSubs, yt-dlp, youtube-transcript.io and YouTube's own panel only return captions that already exist."
 ---
 
-**The best DownSub alternative depends on what you download.** For YouTube transcripts you want to read, edit or send, **YTTranscript** is the closest swap: paste a URL, get clean text, export TXT, DOCX, PDF or SRT, with 2 free transcripts a day and no signup. For subtitle files from sites like Viki or Dailymotion, **SaveSubs** is the nearest free equivalent. For bulk or scripted downloads, **yt-dlp** is free and open source. And if you need Viki, WeTV or iQIYI subtitles regularly, DownSub itself is still hard to beat, especially with Premium at $5/month.
+**The best DownSub alternative depends on what you download.** For YouTube transcripts you want to read, edit or send, **YTTranscript** is the closest swap: paste a URL, get clean text, export TXT, DOCX, PDF or SRT, with 1 free transcript a day (2 with a free account) and no signup. For subtitle files from sites like Viki or Dailymotion, **SaveSubs** is the nearest free equivalent. For bulk or scripted downloads, **yt-dlp** is free and open source. And if you need Viki, WeTV or iQIYI subtitles regularly, DownSub itself is still hard to beat, especially with Premium at $5/month.
 
 DownSub is a free subtitle downloader for YouTube and 50+ other video sites. It exports SRT, VTT and TXT without an account, and its Premium plan adds playlist downloads, AI translation into 100+ languages, AI summaries and an API. Here's how the alternatives compare.
 
@@ -57,7 +57,7 @@ DownSub does its core job well, so the reasons to switch are usually specific:
 
 ## 1. YTTranscript: best for readable YouTube transcripts
 
-[YTTranscript](https://yttranscript.app) turns a YouTube URL into clean text in seconds, with or without timestamps, and exports **TXT, DOCX, PDF or SRT**. You get 2 free transcripts a day without an account. Beyond that, one-time packs start at **$9 for 100 transcripts** and credits never expire. It can also AI-generate a transcript when a video has no captions (about 10 credits). The trade-off: it's YouTube-only. See [how to download a YouTube transcript](/how-to-download-youtube-transcript) or [YouTube transcript to PDF](/youtube-transcript-to-pdf).
+[YTTranscript](https://yttranscript.app) turns a YouTube URL into clean text in seconds, with or without timestamps, and exports **TXT, DOCX, PDF or SRT**. You get 1 free transcript a day without an account (2 with a free account). Beyond that, one-time packs start at **$9 for 100 transcripts** and credits never expire. It can also AI-generate a transcript when a video has no captions (about 10 credits). The trade-off: it's YouTube-only. See [how to download a YouTube transcript](/how-to-download-youtube-transcript) or [YouTube transcript to PDF](/youtube-transcript-to-pdf).
 
 ## 2. SaveSubs: best free multi-site subtitle downloader
 
@@ -95,7 +95,7 @@ Tactiq's free YouTube transcript tool lets you view, copy and download transcrip
 ## Frequently asked questions
 
 **What is the best free alternative to DownSub?**
-For YouTube, YTTranscript (2 free transcripts a day with no signup) or YouTube's own Show transcript panel. For subtitles from other sites like Viki or Dailymotion, SaveSubs is free and donation-supported. For bulk downloads, the open-source yt-dlp is free and has no usage caps.
+For YouTube, YTTranscript (1 free transcript a day with no signup (2 with a free account)) or YouTube's own Show transcript panel. For subtitles from other sites like Viki or Dailymotion, SaveSubs is free and donation-supported. For bulk downloads, the open-source yt-dlp is free and has no usage caps.
 
 **Is DownSub free?**
 Yes for single subtitle downloads: paste a video URL, pick a language and format (SRT, VTT or TXT), and download without an account. DownSub Premium costs $5/month after a 3-day trial and adds playlist downloads, AI translation into 100+ languages, AI summaries and API access.

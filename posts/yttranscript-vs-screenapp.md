@@ -17,7 +17,7 @@ faqItems:
   - question: "Does ScreenApp require an account?"
     answer: "ScreenApp requires creating an account to access most features. YTTranscript requires no account, no email, and no signup at all."
   - question: "Is ScreenApp free?"
-    answer: "ScreenApp has a free tier, but many of its AI features and export options are on paid plans. YTTranscript's free tier includes TXT, DOCX, and PDF downloads at no cost (2 transcripts a day), with one-time packs for heavier use."
+    answer: "ScreenApp has a free tier, but many of its AI features and export options are on paid plans. YTTranscript's free tier includes TXT, DOCX, and PDF downloads at no cost (1 transcript a day without an account, 2 with a free account), with one-time packs for heavier use."
   - question: "Can YTTranscript transcribe screen recordings like ScreenApp?"
     answer: "No. YTTranscript is specifically for YouTube videos. ScreenApp also handles screen recording transcription, making it more versatile for that use case."
   - question: "Which tool works better on mobile?"
@@ -50,7 +50,7 @@ YTTranscript and ScreenApp both let you get a YouTube transcript for free — bu
 - Works on any device in any browser, including mobile
 - Download as TXT, DOCX, or PDF, included on the free tier
 - Results appear in 2–4 seconds for most videos
-- 2 free transcripts a day, then one-time packs (no subscription)
+- 1 free transcript a day (2 with a free account), then one-time packs (no subscription)
 
 **Where it falls short:**
 - YouTube only — doesn't transcribe screen recordings or other video files
@@ -97,7 +97,7 @@ ScreenApp's AI chat feature sounds appealing — type a question, get an answer 
 
 ## Verdict
 
-For the large majority of users — anyone who wants a YouTube transcript quickly, cleanly, and free — **YTTranscript is the better choice**. There's nothing to sign up for, nothing to install, and the free tier covers 2 transcripts a day.
+For the large majority of users — anyone who wants a YouTube transcript quickly, cleanly, and free — **YTTranscript is the better choice**. There's nothing to sign up for, nothing to install, and the free tier covers 1 transcript a day without an account (2 with a free account).
 
 ScreenApp earns its place for users who need transcription across multiple media types (not just YouTube) and who want an integrated workflow with built-in AI tools. If YouTube transcripts are your main need, it's more complexity than the job requires.
 

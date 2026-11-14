@@ -15,7 +15,7 @@ faqItems:
   - question: "Is YTTranscript better than Transkriptor?"
     answer: "For YouTube transcripts specifically, YTTranscript is faster, fully free, and requires no account. Transkriptor is better if you need to transcribe audio files or non-YouTube video with strong multilingual support."
   - question: "Is Transkriptor free?"
-    answer: "Transkriptor has a limited free trial but is primarily a paid service. After the trial, plans start at around $4.99/month. YTTranscript has a permanent free tier (2 transcripts a day) instead of a trial, plus one-time packs rather than a subscription."
+    answer: "Transkriptor has a limited free trial but is primarily a paid service. After the trial, plans start at around $4.99/month. YTTranscript has a permanent free tier (1 transcript a day without an account, 2 with a free account) instead of a trial, plus one-time packs rather than a subscription."
   - question: "Does Transkriptor require an account?"
     answer: "Yes. Transkriptor requires creating an account. YTTranscript requires no account, email, or signup at any point."
   - question: "How many languages does Transkriptor support?"
@@ -47,7 +47,7 @@ Transkriptor and YTTranscript overlap in one key area: both can get you the tran
 [YTTranscript](https://yttranscript.app) exists to solve one problem: get the full text of any YouTube video, immediately, with no friction. Paste a URL, get the transcript. That's the entire product.
 
 **Strengths:**
-- Permanent free tier (2 transcripts a day), no trial, no credit card
+- Permanent free tier (1 transcript a day without an account, 2 with a free account), no trial, no credit card
 - No account or email required
 - Works in any browser on any device including mobile
 - TXT, DOCX, and PDF downloads all free

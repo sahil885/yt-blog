@@ -21,7 +21,7 @@ faqItems:
   - question: "When should I use a transcript tool instead of Ask YouTube?"
     answer: "Use a transcript tool when you need exact quotes, a file you can save or share, text to paste into ChatGPT or Claude, or a video where the Ask button doesn't appear."
   - question: "Do I need an account to use YTTranscript?"
-    answer: "No. YTTranscript needs no signup and no extension. It has a free tier (2 transcripts a day) and one-time packs if you need more; Ask YouTube requires signing in to a Google account."
+    answer: "No. YTTranscript needs no signup and no extension. It has a free tier (1 transcript a day without an account, 2 with a free account) and one-time packs if you need more; Ask YouTube requires signing in to a Google account."
 ---
 
 **Ask YouTube is a chatbot that answers questions about a video; a transcript tool gives you the video's actual words as text you can keep.** Use YouTube's built-in **Ask** button when you want a quick gist or a single answer while watching. Use a transcript tool like [YTTranscript](https://yttranscript.app) when you need **exact quotes, a downloadable file, or text to feed into another AI** — because Ask doesn't export the transcript.
@@ -60,7 +60,7 @@ The trade-off: a transcript tool doesn't *interpret* anything. You get raw text.
 | Timestamps | Links to moments | Optional, toggle on/off | Always on |
 | Ask follow-up questions | Yes | No (paste into any AI) | No |
 | Install / extension | None | None | None |
-| Price | Free | Free tier (2/day) + one-time packs | Free |
+| Price | Free | Free: 1/day, 2/day with free account + one-time packs | Free |
 
 ## Where Ask YouTube wins
 
@@ -115,6 +115,6 @@ Usually good for a quick gist, but YouTube itself warns that responses may be in
 Use a transcript tool when you need exact quotes, a file you can save or share, text to paste into ChatGPT or Claude, or a video where the Ask button doesn't appear.
 
 **Do I need an account to use YTTranscript?**
-No. YTTranscript needs no signup and no extension. It has a free tier (2 transcripts a day) and one-time packs if you need more; Ask YouTube requires signing in to a Google account.
+No. YTTranscript needs no signup and no extension. It has a free tier (1 transcript a day without an account, 2 with a free account) and one-time packs if you need more; Ask YouTube requires signing in to a Google account.
 
 **Get the full transcript of any YouTube video in seconds — no signup, no extension. [Try YTTranscript.app →](https://yttranscript.app)**

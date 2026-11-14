@@ -32,7 +32,7 @@ faqItems:
   - question: "Does this work on both Android and iPhone?"
     answer: "Yes. Show transcript is in the YouTube app on both, and YTTranscript works in any mobile browser, including Safari, Chrome, Firefox and Samsung Internet, with nothing to install."
   - question: "Is it free to get a YouTube transcript on mobile?"
-    answer: "Yes. Viewing the transcript in the YouTube app is free, and YTTranscript gives you 2 free transcripts a day with no account. If you need more, it sells one-time packs with no subscription."
+    answer: "Yes. Viewing the transcript in the YouTube app is free, and YTTranscript gives you 1 free transcript a day with no account (2 with a free account). If you need more, it sells one-time packs with no subscription."
 ---
 
 **To view a transcript on YouTube mobile, open the video in the YouTube app, tap the title (iPhone) or "...more" (Android) to expand the description, then scroll down and tap Show transcript.** Tap any line to jump to that moment. The app lets you read the transcript, but it has no button to copy or download all of it, so for the full text, paste the video link into [YTTranscript](https://yttranscript.app) in your phone's browser.
@@ -107,6 +107,6 @@ Not easily. The app shows the transcript line by line but has no copy-all or dow
 Yes. Show transcript is in the YouTube app on both, and YTTranscript works in any mobile browser, including Safari, Chrome, Firefox and Samsung Internet, with nothing to install.
 
 **Is it free to get a YouTube transcript on mobile?**
-Yes. Viewing the transcript in the YouTube app is free, and YTTranscript gives you 2 free transcripts a day with no account. If you need more, it sells one-time packs with no subscription.
+Yes. Viewing the transcript in the YouTube app is free, and YTTranscript gives you 1 free transcript a day with no account (2 with a free account). If you need more, it sells one-time packs with no subscription.
 
 **[→ Need the full text on your phone? Paste any YouTube link into YTTranscript](https://yttranscript.app)**

@@ -1,7 +1,7 @@
 ---
 title: "How to Get a Congressional Hearing Transcript Fast (Free & Paid)"
 description: "Official congressional hearing transcripts can take months. Here's how to get a searchable one the same day for free, and when CQ or BGOV is worth paying for."
-date: "2026-09-30"
+date: "2026-11-14"
 author: "YTTranscript Team"
 category: "Use Cases"
 readingTime: "6 min read"
@@ -22,6 +22,8 @@ faqItems:
     answer: "A paid service. CQ Transcripts says it delivers transcripts of every congressional hearing within 60 minutes, and Bloomberg Government provides AI summaries within an hour and a human-reviewed verbatim transcript within 24 hours. Both are sold as organizational subscriptions."
   - question: "Are Senate hearings on YouTube?"
     answer: "Usually not on official committee channels: Senate committees webcast on their own websites and Congress.gov. But high-profile Senate hearings are often streamed in full on YouTube by outlets such as PBS NewsHour, while House committees stream their hearings to committee-run YouTube channels."
+  - question: "Does this work for long videos or whole playlists?"
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 **The fastest free way to get a congressional hearing transcript is to pull the auto-captions from the hearing's YouTube video, which is usually possible within hours of the hearing ending.** The official transcript, published by the Government Publishing Office on GovInfo and Congress.gov, is the authoritative record, but it often takes months to appear and some hearings are never printed at all. If you need a verbatim transcript within the hour, that is what paid services like **CQ Transcripts** and **Bloomberg Government** sell.
@@ -38,7 +40,7 @@ So on the day of a hearing, the "official transcript" people search for usually 
 
 | Source | How fast | Cost | What you get | Best for |
 |---|---|---|---|---|
-| **YouTube video + YTTranscript** | Hours after the hearing, once replay captions process | Free tier (2/day); packs from $9 | Full caption text with timestamps; no speaker names | Same-day research and finding quotes |
+| **YouTube video + YTTranscript** | Hours after the hearing, once replay captions process | Free: 1/day, 2/day with free account; packs from $9 | Full caption text with timestamps; no speaker names | Same-day research and finding quotes |
 | **C-SPAN Video Library** | After airing; only hearings C-SPAN covers | Free | Searchable caption text beside the video; no transcript download | Checking a quote against video |
 | **Committee website** | Same day or shortly after | Free | Video and witnesses' prepared statements, not a transcript | The official written testimony |
 | **GovInfo / Congress.gov** | Often months; some hearings never published | Free | The official printed hearing record | Legal citation and legislative history |
@@ -53,7 +55,7 @@ One more middle option if your organization has access: Leadership Connect offer
 
 **Step 2: Give the replay time to caption.** Captions on a finished livestream aren't instant. YouTube processes the replay first, which typically takes a few hours and can stretch to a day for very long sessions. More in our guide to [YouTube live stream transcripts](/youtube-live-stream-transcript).
 
-**Step 3: Paste the URL into [YTTranscript](https://yttranscript.app).** You get the full text with timestamps in seconds, ready to copy or export as TXT, DOCX or PDF. There's no signup and no extension, and two transcripts a day are free. If a video has no captions, YTTranscript can AI-generate a transcript instead, using about 10 credits from a pack.
+**Step 3: Paste the URL into [YTTranscript](https://yttranscript.app).** You get the full text with timestamps in seconds, ready to copy or export as TXT, DOCX or PDF. There's no signup and no extension, and one transcript a day is free without an account (two with a free account). If a video has no captions, YTTranscript can AI-generate a transcript instead, using about 10 credits from a pack.
 
 <div class="cta-box">
   <strong>Try it free:</strong> Paste a hearing's YouTube link and get a searchable, timestamped transcript in seconds, with no signup and no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
@@ -71,7 +73,7 @@ For court filings, legislative histories and anything that needs the authoritati
 
 ## State legislatures and city councils
 
-The same workflow works for state legislatures, county boards and city councils that stream on YouTube, and it's often more valuable there. Official minutes usually summarize the actions taken rather than record every word, so the caption transcript may be the only searchable record of what was actually said. Local reporters and researchers can go further with our guides for [journalists](/youtube-transcript-for-journalists) and [researchers](/youtube-transcript-for-researchers).
+The same workflow works for state legislatures, county boards and city councils that stream on YouTube, and it's often more valuable there. Official minutes usually summarize the actions taken rather than record every word, so the caption transcript may be the only searchable record of what was actually said. For a step-by-step version, see our guide to [state legislature and city council meeting transcripts](/state-legislature-and-city-council-meeting-transcripts). Long sessions often run 4–8 hours, so the [long-video workflow](/how-to-transcribe-a-long-youtube-video) helps too. Local reporters and researchers can go further with our guides for [journalists](/youtube-transcript-for-journalists) and [researchers](/youtube-transcript-for-researchers).
 
 ## The verdict
 
@@ -81,7 +83,20 @@ The same workflow works for state legislatures, county boards and city councils 
 - **Need to cite it formally:** the official GPO transcript on GovInfo, once it's published.
 - **Need verbatim text within the hour, for every hearing:** CQ Transcripts or Bloomberg Government, if the budget allows.
 
+## Need more than free?
+
+YTTranscript's free tier is **1 transcript a day without an account, or 2 a day with a free account**. If you follow multiple committees or a full hearing calendar, buy a one-time pack — no subscription, credits never expire, and there's a 30-day money-back guarantee:
+
+- **Starter — $9** for 100 transcripts (9¢ each)
+- **Pro — $16** for 500 transcripts (3.2¢ each)
+- **Power — $34** for 1,500 transcripts (2.3¢ each)
+
+Packs also add a saved transcript library, AI translation into 16 languages, and AI transcription for videos with no captions (about 10 credits each). The jobs that usually need a pack: [getting transcripts for a whole playlist](/how-to-download-youtube-playlist-transcripts), [working through long 3–10 hour videos](/how-to-transcribe-a-long-youtube-video), and [turning transcripts into SRT caption files](/youtube-transcript-to-srt).
+
 ## Frequently asked questions
+
+**Does this work for long videos or whole playlists?**
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **How long does it take for an official congressional hearing transcript to be published?**
 Often months, and sometimes years. The Congressional Research Service notes that printed hearings often are not published for months, and each committee decides whether and when to publish, so some hearings are never printed. Witness statements usually appear online much sooner.

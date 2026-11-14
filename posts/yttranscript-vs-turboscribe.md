@@ -16,7 +16,7 @@ faqItems:
   - question: "Is YTTranscript or TurboScribe better for YouTube transcripts?"
     answer: "For YouTube videos that already have captions — the vast majority — YTTranscript is faster, free, and needs no signup. TurboScribe is better when you need to transcribe raw audio or video files, want speaker labels, or need SRT/VTT subtitle exports."
   - question: "Is TurboScribe free?"
-    answer: "TurboScribe has a free tier limited to 3 transcripts per day, 30 minutes each, and requires a free account. Unlimited use costs $10–20 per month. YTTranscript gives you 2 free transcripts a day with no account, and sells one-time packs for more."
+    answer: "TurboScribe has a free tier limited to 3 transcripts per day, 30 minutes each, and requires a free account. Unlimited use costs $10–20 per month. YTTranscript gives you 1 free transcript a day with no account (2 with a free account), and sells one-time packs for more."
   - question: "Does TurboScribe require an account?"
     answer: "Yes. TurboScribe is built around a free account where your transcripts are stored. YTTranscript requires no account, email, or signup of any kind."
   - question: "What is the difference in how they work?"
@@ -52,7 +52,7 @@ That difference explains everything else. Pulling existing captions is instant a
 [YTTranscript](https://yttranscript.app) is purpose-built for one job: getting the text out of a YouTube video as fast as possible. Paste a URL, get the transcript, download it. No account, no install, no waiting.
 
 **Strengths:**
-- **Free without an account** — 2 transcripts a day, then one-time packs instead of a subscription
+- **Free without an account** — 1 transcript a day without an account (2 with a free account), then one-time packs instead of a subscription
 - **No signup** — no email, no Google login, no account to manage
 - **Instant** — results in seconds because there is no AI processing step
 - **Works on any device** — desktop, phone, or tablet, in any browser
@@ -86,7 +86,7 @@ TurboScribe is a general-purpose AI transcriber. You upload an audio or video fi
 
 ## Pricing Compared
 
-**YTTranscript** has a free tier (2 transcripts a day, no account) and one-time packs from $9 for 100 transcripts. **TurboScribe** offers a limited free plan (3 files per day, 30 minutes each) and an Unlimited plan at **$10/month billed yearly** or **$20/month billed monthly**. If your need is purely YouTube transcripts, you would be paying for AI transcription power you do not actually use.
+**YTTranscript** has a free tier (1 transcript a day without an account, 2 with a free account) and one-time packs from $9 for 100 transcripts. **TurboScribe** offers a limited free plan (3 files per day, 30 minutes each) and an Unlimited plan at **$10/month billed yearly** or **$20/month billed monthly**. If your need is purely YouTube transcripts, you would be paying for AI transcription power you do not actually use.
 
 ## Which Should You Choose?
 
@@ -118,7 +118,7 @@ For the everyday task of "I found a YouTube video and I want the text," reach fo
 For YouTube videos that already have captions — the vast majority — YTTranscript is faster, free, and needs no signup. TurboScribe is better when you need to transcribe raw audio or video files, want speaker labels, or need SRT/VTT subtitle exports.
 
 **Is TurboScribe free?**
-TurboScribe has a free tier limited to 3 transcripts per day, 30 minutes each, and requires a free account. Unlimited use costs $10–20 per month. YTTranscript gives you 2 free transcripts a day with no account, and sells one-time packs for more.
+TurboScribe has a free tier limited to 3 transcripts per day, 30 minutes each, and requires a free account. Unlimited use costs $10–20 per month. YTTranscript gives you 1 free transcript a day with no account (2 with a free account), and sells one-time packs for more.
 
 **Does TurboScribe require an account?**
 Yes. TurboScribe is built around a free account where your transcripts are stored. YTTranscript requires no account, email, or signup of any kind.

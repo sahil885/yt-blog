@@ -45,7 +45,7 @@ From YouTube's Help Center:
 |---|---|---|---|---|
 | **Manual** | Highest: you rewatch and note times | Free | Full | Short videos with obvious sections |
 | **YouTube automatic chapters** | None | Free | None: replace them with your own list | Channels that won't write chapters |
-| **Transcript + AI** (YTTranscript + ChatGPT, Claude or Gemini) | About 2 minutes | Free tier (2 transcripts/day) | Full: edit the AI's draft | Most creators |
+| **Transcript + AI** (YTTranscript + ChatGPT, Claude or Gemini) | About 2 minutes | Free: 1/day without an account, 2/day with one | Full: edit the AI's draft | Most creators |
 | **Dedicated AI chapter tools** (e.g. Gling, TimeSkip, ScreenApp) | About a minute | Varies by tool | Medium | High-volume channels |
 
 The transcript method wins for most people because the AI works from **real timestamps in your transcript**, and you keep full control over the titles.

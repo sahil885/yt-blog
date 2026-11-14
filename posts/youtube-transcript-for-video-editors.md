@@ -21,7 +21,7 @@ faqItems:
   - question: "How do I find clips for YouTube Shorts from a long video?"
     answer: "Pull the transcript with timestamps, search for strong hooks, numbers or punchlines, and note the timestamps. Then jump straight to those moments in your editor and cut 30–60 second clips."
   - question: "Does YTTranscript cost anything for editors?"
-    answer: "YTTranscript gives you 2 free transcripts a day with no signup or extension. One-time packs cover heavier use, such as transcribing a client's whole back catalog."
+    answer: "YTTranscript gives you 1 free transcript a day with no signup (2 with a free account) or extension. One-time packs cover heavier use, such as transcribing a client's whole back catalog."
 ---
 
 **For video editors, a YouTube transcript turns an hour of scrubbing into a 30-second search.** Paste a published video's URL into [YTTranscript](https://yttranscript.app), get the full transcript with timestamps, and you can find every quotable line, Shorts-worthy hook and recut point by searching text. For your **own raw footage** that isn't on YouTube yet, your editor's built-in transcription (Premiere Pro, DaVinci Resolve Studio or Descript) is the better tool — the two cover different stages of the job.
@@ -99,6 +99,6 @@ YTTranscript works on public YouTube videos. For your own or a client's unlisted
 Pull the transcript with timestamps, search for strong hooks, numbers or punchlines, and note the timestamps. Then jump straight to those moments in your editor and cut 30–60 second clips.
 
 **Does YTTranscript cost anything for editors?**
-YTTranscript gives you 2 free transcripts a day with no signup or extension. One-time packs cover heavier use, such as transcribing a client's whole back catalog.
+YTTranscript gives you 1 free transcript a day with no signup (2 with a free account) or extension. One-time packs cover heavier use, such as transcribing a client's whole back catalog.
 
 **Cutting Shorts from a long video? [Grab the timestamped transcript with YTTranscript.app](https://yttranscript.app) — no signup, no extension.**

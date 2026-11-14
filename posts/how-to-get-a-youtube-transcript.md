@@ -1,7 +1,7 @@
 ---
 title: "How to Get a YouTube Transcript (3 Free Ways)"
 description: "Step-by-step guide to getting any video's transcript — with timestamps, in any language, free. The fastest method takes one click."
-date: "2026-04-20"
+date: "2026-11-14"
 author: "YTTranscript Team"
 category: "How-To"
 readingTime: "5 min read"
@@ -32,9 +32,11 @@ faqItems:
   - question: "How long does it take to get a YouTube transcript?"
     answer: "With YTTranscript, the transcript typically appears in 2-5 seconds for most videos."
   - question: "Is it free to get a YouTube transcript?"
-    answer: "Yes. YTTranscript's free tier needs no signup and covers 2 transcripts a day in every format. One-time packs are available if you need more."
+    answer: "Yes. YTTranscript's free tier needs no signup and covers 1 transcript a day without an account (2 with a free account) in every format. One-time packs are available if you need more."
   - question: "Do all YouTube videos have transcripts?"
     answer: "Most do. YouTube auto-generates captions for the vast majority of videos. Very old videos or those where the creator has disabled captions may not have a transcript available."
+  - question: "Does this work for long videos or whole playlists?"
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 **To get a YouTube transcript, paste the video URL into a free tool like [YTTranscript](https://yttranscript.app) and copy the text — it takes about ten seconds.** You can also use YouTube's built-in transcript on desktop. Below are three free methods, plus how to do it on [mobile](/youtube-transcript-on-mobile), [with timestamps](/youtube-transcript-with-timestamps), from a [Short](/youtube-shorts-transcript), or [for ChatGPT](/youtube-transcript-for-chatgpt).
@@ -62,7 +64,7 @@ Within a few seconds, the full transcript appears on screen. You can copy the en
 No account required. No browser extension. No credit card.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in under 10 seconds — no login, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in under 10 seconds — no login, no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
 </div>
 
 ## Method 2: YouTube's Built-in Transcript Feature
@@ -88,7 +90,9 @@ For most people, [YTTranscript](https://yttranscript.app) is the best option. It
 
 ## What If the Video Has No Captions?
 
-If a video was uploaded without any captions, there's no transcript available to extract. Your options are to use an AI transcription service like Whisper (open-source) or Rev (paid), contact the creator, or transcribe it manually.
+If a video was uploaded without any captions, there's no transcript available to extract. Your options are YTTranscript's AI transcription (about 10 credits from a one-time pack), an AI transcription tool like Whisper (open-source) or Rev (paid), contacting the creator, or transcribing it manually. More detail: [what to do when a video has no transcript](/youtube-video-no-transcript).
+
+Working with something bigger than one video? See how to [transcribe a long 3–10 hour video](/how-to-transcribe-a-long-youtube-video) or [get transcripts for a whole playlist](/how-to-download-youtube-playlist-transcripts).
 
 ## Tips for Using YouTube Transcripts
 
@@ -100,7 +104,20 @@ If a video was uploaded without any captions, there's no transcript available to
 
 **Convert video to blog post.** See how to [turn a YouTube video into a blog post](/youtube-video-to-blog-post) using the transcript as your raw material.
 
+## Need more than free?
+
+YTTranscript's free tier is **1 transcript a day without an account, or 2 a day with a free account**. If you transcribe videos every day, or need a batch at once, buy a one-time pack — no subscription, credits never expire, and there's a 30-day money-back guarantee:
+
+- **Starter — $9** for 100 transcripts (9¢ each)
+- **Pro — $16** for 500 transcripts (3.2¢ each)
+- **Power — $34** for 1,500 transcripts (2.3¢ each)
+
+Packs also add a saved transcript library, AI translation into 16 languages, and AI transcription for videos with no captions (about 10 credits each). The jobs that usually need a pack: [getting transcripts for a whole playlist](/how-to-download-youtube-playlist-transcripts), [working through long 3–10 hour videos](/how-to-transcribe-a-long-youtube-video), and [turning transcripts into SRT caption files](/youtube-transcript-to-srt).
+
 ## Frequently Asked Questions
+
+**Does this work for long videos or whole playlists?**
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Can I get a transcript of a private YouTube video?**
 No. Transcript tools can only access public videos.
@@ -115,7 +132,7 @@ Auto-generated transcripts are typically 85-95% accurate for clear English audio
 With YTTranscript, the transcript typically appears in 2-5 seconds for most videos.
 
 **Is it free?**
-Yes. YTTranscript's free tier needs no signup and covers 2 transcripts a day in every format. One-time packs are available if you need more.
+Yes. YTTranscript's free tier needs no signup and covers 1 transcript a day without an account (2 with a free account) in every format. One-time packs are available if you need more.
 
 ---
 

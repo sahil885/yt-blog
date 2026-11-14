@@ -51,7 +51,7 @@ No setup required. Go to [YTTranscript.app](https://yttranscript.app), paste the
 That's the whole workflow. It works on desktop and [mobile](/youtube-transcript-on-mobile), and there's no extension to install (unlike browser-based tools — see [YouTube transcript Chrome extension alternatives](/youtube-transcript-chrome-extension)).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript instantly — no account, no extension, 2 free transcripts a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript instantly — no account, no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 5 Practical Workflows for Coaches and Consultants

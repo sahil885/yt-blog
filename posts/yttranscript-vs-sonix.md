@@ -12,7 +12,7 @@ keywords:
   - sonix alternative free
 faqItems:
   - question: "Is YTTranscript free?"
-    answer: "It has a free tier: 2 transcripts a day with no account, email address or payment details required. One-time packs are available if you need more."
+    answer: "It has a free tier: 1 transcript a day without an account (2 with a free account), email address or payment details required. One-time packs are available if you need more."
   - question: "Does Sonix offer a free plan?"
     answer: "Sonix offers 30 free minutes on sign-up, but you must create an account. After that, transcription is billed at $10/hour (pay-as-you-go) or $5/hour on the Premium plan ($22/user/month)."
   - question: "Which tool is better for quick YouTube transcript extraction?"
@@ -120,7 +120,7 @@ They're complementary, not competing, for most users. If your content lives on Y
 ## Frequently Asked Questions
 
 **Is YTTranscript free?**
-It has a free tier: 2 transcripts a day with no account, email address or payment details required. One-time packs are available if you need more.
+It has a free tier: 1 transcript a day without an account (2 with a free account), email address or payment details required. One-time packs are available if you need more.
 
 **Does Sonix offer a free plan?**
 Sonix offers 30 free minutes on sign-up, but you must create an account. After that, transcription is billed at $10/hour (pay-as-you-go) or $5/hour on the Premium plan ($22/user/month).
@@ -136,4 +136,4 @@ YTTranscript surfaces transcripts in 100+ languages (whatever YouTube provides).
 
 ---
 
-**Ready to get your YouTube transcript in seconds?** No account, no upload, 2 free transcripts a day. **[→ Try YTTranscript.app](https://yttranscript.app)**
+**Ready to get your YouTube transcript in seconds?** No account, no upload, 1 free transcript a day (2 with a free account). **[→ Try YTTranscript.app](https://yttranscript.app)**

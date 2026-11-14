@@ -58,7 +58,7 @@ Prices change often — check each vendor before you buy.
 
 If your source is a YouTube link, **YTTranscript is the most direct swap for Tactiq's YouTube tool**, with better exports. Paste the URL, get the full transcript, toggle timestamps on or off, and download as **TXT, DOCX or PDF**. There's no account, no extension, and it works in mobile browsers.
 
-Pricing, honestly: the **free tier gives you 2 transcripts a day with no signup**. Heavier users can buy **one-time packs starting at $9 for 100 transcripts** — no subscription. It isn't unlimited, and it doesn't transcribe meetings or audio files you upload.
+Pricing, honestly: the **free tier gives you 1 transcript a day without an account (2 with a free account)**. Heavier users can buy **one-time packs starting at $9 for 100 transcripts** — no subscription. It isn't unlimited, and it doesn't transcribe meetings or audio files you upload.
 
 <div class="cta-box">
   <strong>Try it free:</strong> paste any YouTube link and download the transcript as TXT, DOCX or PDF — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>

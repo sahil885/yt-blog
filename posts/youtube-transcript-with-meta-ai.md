@@ -14,7 +14,7 @@ faqItems:
   - question: "Can Meta AI summarize a YouTube video directly?"
     answer: "No. Meta AI is a text model and cannot reliably open or watch YouTube links. The dependable method is to grab the video's transcript first, then paste that text into Meta AI for a summary."
   - question: "Is using Meta AI with a transcript free?"
-    answer: "Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (2 transcripts a day), with no signup or extension required."
+    answer: "Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (1 transcript a day without an account, 2 with a free account), with no signup or extension required."
   - question: "Where can I use Meta AI for this?"
     answer: "Meta AI works at meta.ai in your browser and inside WhatsApp, Messenger, Instagram, and Facebook. The paste-a-transcript workflow is identical everywhere."
   - question: "How long can the transcript be?"
@@ -91,7 +91,7 @@ For very long videos, Meta AI may truncate an enormous paste. Split the transcri
 No. Meta AI is a text model and cannot reliably open or watch YouTube links. The dependable method is to grab the video's transcript first, then paste that text into Meta AI for a summary.
 
 **Is using Meta AI with a transcript free?**
-Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (2 transcripts a day), with no signup or extension required.
+Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (1 transcript a day without an account, 2 with a free account), with no signup or extension required.
 
 **Where can I use Meta AI for this?**
 Meta AI works at meta.ai in your browser and inside WhatsApp, Messenger, Instagram, and Facebook. The paste-a-transcript workflow is identical everywhere.

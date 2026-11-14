@@ -14,7 +14,7 @@ faqItems:
   - question: "How do I turn a YouTube video into a mind map?"
     answer: "Get the video's transcript for free from YTTranscript.app, then paste it into an AI tool and ask it to structure the key ideas as a mind map. You can output it as an outline, Markdown, or a Mermaid diagram."
   - question: "Is there a free way to make a mind map from a YouTube video?"
-    answer: "Yes. Getting the transcript from YTTranscript is free with no signup (2 transcripts a day), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost."
+    answer: "Yes. Getting the transcript from YTTranscript is free with no signup (1 transcript a day without an account, 2 with a free account), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost."
   - question: "Why not just paste the YouTube link into a mind-map tool?"
     answer: "Many tools guess from limited metadata and produce shallow maps. Feeding a clean, complete transcript gives the AI the full content, so the map reflects what was actually said."
   - question: "What format should the mind map be in?"
@@ -95,7 +95,7 @@ Ask for **no more than six main branches** — mind maps lose their power when t
 Get the video's transcript for free from YTTranscript.app, then paste it into an AI tool and ask it to structure the key ideas as a mind map. You can output it as an outline, Markdown, or a Mermaid diagram.
 
 **Is there a free way to make a mind map from a YouTube video?**
-Yes. Getting the transcript from YTTranscript is free with no signup (2 transcripts a day), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost.
+Yes. Getting the transcript from YTTranscript is free with no signup (1 transcript a day without an account, 2 with a free account), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost.
 
 **Why not just paste the YouTube link into a mind-map tool?**
 Many tools guess from limited metadata and produce shallow maps. Feeding a clean, complete transcript gives the AI the full content, so the map reflects what was actually said.

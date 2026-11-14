@@ -16,7 +16,7 @@ faqItems:
   - question: "What is youtube-transcript.ai?"
     answer: "youtube-transcript.ai is a web tool that extracts YouTube transcripts and offers AI-powered summaries. It requires an account for full access and has usage limits on its free tier."
   - question: "Is YTTranscript free compared to youtube-transcript.ai?"
-    answer: "YTTranscript gives you 2 free transcripts a day with no account required, plus one-time packs if you need more. youtube-transcript.ai has a free tier but restricts the number of transcripts you can process."
+    answer: "YTTranscript gives you 1 free transcript a day with no account (2 with a free account) required, plus one-time packs if you need more. youtube-transcript.ai has a free tier but restricts the number of transcripts you can process."
   - question: "Which tool gives cleaner transcripts?"
     answer: "Both tools pull from YouTube's auto-generated captions. YTTranscript lets you toggle timestamps on or off and download as TXT, DOCX, or PDF for a clean output."
 ---
@@ -62,7 +62,7 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 
 **Account and friction.** youtube-transcript.ai requires creating an account before you can use it. If you need one transcript right now, that's a 2-minute detour. YTTranscript has no gate — paste the URL, get the transcript.
 
-**Usage limits.** The free tier on youtube-transcript.ai caps how many transcripts you can generate. For researchers, educators, or anyone processing multiple videos, this becomes a real constraint. YTTranscript's free tier also has a cap (2 transcripts a day), but it needs no account, and one-time packs cover heavier use without a subscription.
+**Usage limits.** The free tier on youtube-transcript.ai caps how many transcripts you can generate. For researchers, educators, or anyone processing multiple videos, this becomes a real constraint. YTTranscript's free tier also has a cap (1 transcript a day without an account, 2 with a free account), but it needs no account, and one-time packs cover heavier use without a subscription.
 
 **File downloads.** YTTranscript lets you download the transcript as TXT, DOCX, or PDF. This is useful for archiving, sharing with clients, or importing into a document editor. youtube-transcript.ai's download options are limited on the free tier.
 

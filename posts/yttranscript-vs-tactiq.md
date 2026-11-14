@@ -18,7 +18,7 @@ faqItems:
   - question: "Does YTTranscript require a Chrome extension?"
     answer: "No. YTTranscript is fully browser-based and works on any device — desktop, mobile, or tablet — without installing any extension."
   - question: "Is Tactiq free?"
-    answer: "Tactiq has a free tier, but transcript exports are restricted on the free plan. An account is required for full functionality. YTTranscript's free tier needs no account and includes every export format (2 transcripts a day)."
+    answer: "Tactiq has a free tier, but transcript exports are restricted on the free plan. An account is required for full functionality. YTTranscript's free tier needs no account and includes every export format (1 transcript a day without an account, 2 with a free account)."
   - question: "Can YTTranscript download transcripts as DOCX or PDF?"
     answer: "Yes. YTTranscript supports TXT, DOCX, and PDF download formats, all free with no signup. Tactiq's free tier has limited export options."
   - question: "Does Tactiq work on mobile?"

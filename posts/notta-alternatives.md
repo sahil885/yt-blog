@@ -13,13 +13,13 @@ keywords:
   - notta vs otter
 faqItems:
   - question: "What is the best free alternative to Notta?"
-    answer: "For meetings, Fathom: its free plan includes unlimited recordings and transcription. For YouTube videos, YTTranscript gives you 2 free transcripts a day with no signup. For uploaded files, TurboScribe's free plan allows 3 files a day of up to 30 minutes each."
+    answer: "For meetings, Fathom: its free plan includes unlimited recordings and transcription. For YouTube videos, YTTranscript gives you 1 free transcript a day with no signup (2 with a free account). For uploaded files, TurboScribe's free plan allows 3 files a day of up to 30 minutes each."
   - question: "How much does Notta cost in 2026?"
     answer: "Notta Free includes 120 transcription minutes a month with a 3-minute cap per conversation. Pro costs $13.49/month or $97.99/year ($8.17/month) for 1,800 minutes, and Business costs $27.99 per seat per month or $199.99 per year ($16.67/month) with unlimited transcription."
   - question: "Is Otter better than Notta?"
     answer: "On the free plans, Otter gives you more: 300 minutes a month with up to 30 minutes per conversation, versus Notta's 120 minutes and 3-minute cap. On paid plans Notta Pro includes more minutes (1,800 versus Otter Pro's 1,200) plus bilingual transcription features."
   - question: "Can Notta transcribe YouTube videos?"
-    answer: "Yes, Notta can transcribe YouTube links, but the free plan caps each transcription at 3 minutes and exporting transcripts requires Pro. For YouTube specifically, YTTranscript reads the video's captions in seconds, with 2 free transcripts a day and TXT, DOCX, PDF or SRT downloads."
+    answer: "Yes, Notta can transcribe YouTube links, but the free plan caps each transcription at 3 minutes and exporting transcripts requires Pro. For YouTube specifically, YTTranscript reads the video's captions in seconds, with 1 free transcript a day (2 with a free account) and TXT, DOCX, PDF or SRT downloads."
   - question: "Which Notta alternative is best for privacy?"
     answer: "Self-hosted Whisper, because the audio never leaves your machine. It is free and open source but needs some technical setup. OpenAI's hosted Whisper API costs about $0.006 per minute if you'd rather not run it yourself."
 ---
@@ -70,7 +70,7 @@ TurboScribe transcribes **3 files a day free**, each up to 30 minutes. Its Unlim
 
 ## 5. YTTranscript: best for YouTube links
 
-Notta can import YouTube links, but on the free plan it stops at 3 minutes and won't export. [YTTranscript](https://yttranscript.app) reads the video's existing captions, so a full transcript appears in seconds, ready to copy or download as **TXT, DOCX, PDF or SRT**. You get **2 free transcripts a day with no signup**, and one-time packs start at **$9 for 100 transcripts** with credits that never expire. For videos without captions, it can AI-generate a transcript (about 10 credits). The trade-off: it's YouTube-only, not a meeting recorder. Full breakdown in [YTTranscript vs Notta](/yttranscript-vs-notta).
+Notta can import YouTube links, but on the free plan it stops at 3 minutes and won't export. [YTTranscript](https://yttranscript.app) reads the video's existing captions, so a full transcript appears in seconds, ready to copy or download as **TXT, DOCX, PDF or SRT**. You get **1 free transcript a day with no signup (2 with a free account)**, and one-time packs start at **$9 for 100 transcripts** with credits that never expire. For videos without captions, it can AI-generate a transcript (about 10 credits). The trade-off: it's YouTube-only, not a meeting recorder. Full breakdown in [YTTranscript vs Notta](/yttranscript-vs-notta).
 
 ## 6. Whisper: best for privacy and offline use
 
@@ -89,7 +89,7 @@ OpenAI's open-source **Whisper** model runs on your own computer, so confidentia
 ## Frequently asked questions
 
 **What is the best free alternative to Notta?**
-For meetings, Fathom: its free plan includes unlimited recordings and transcription. For YouTube videos, YTTranscript gives you 2 free transcripts a day with no signup. For uploaded files, TurboScribe's free plan allows 3 files a day of up to 30 minutes each.
+For meetings, Fathom: its free plan includes unlimited recordings and transcription. For YouTube videos, YTTranscript gives you 1 free transcript a day with no signup (2 with a free account). For uploaded files, TurboScribe's free plan allows 3 files a day of up to 30 minutes each.
 
 **How much does Notta cost in 2026?**
 Notta Free includes 120 transcription minutes a month with a 3-minute cap per conversation. Pro costs $13.49/month or $97.99/year ($8.17/month) for 1,800 minutes, and Business costs $27.99 per seat per month or $199.99 per year ($16.67/month) with unlimited transcription.
@@ -98,7 +98,7 @@ Notta Free includes 120 transcription minutes a month with a 3-minute cap per co
 On the free plans, Otter gives you more: 300 minutes a month with up to 30 minutes per conversation, versus Notta's 120 minutes and 3-minute cap. On paid plans Notta Pro includes more minutes (1,800 versus Otter Pro's 1,200) plus bilingual transcription features.
 
 **Can Notta transcribe YouTube videos?**
-Yes, Notta can transcribe YouTube links, but the free plan caps each transcription at 3 minutes and exporting transcripts requires Pro. For YouTube specifically, YTTranscript reads the video's captions in seconds, with 2 free transcripts a day and TXT, DOCX, PDF or SRT downloads.
+Yes, Notta can transcribe YouTube links, but the free plan caps each transcription at 3 minutes and exporting transcripts requires Pro. For YouTube specifically, YTTranscript reads the video's captions in seconds, with 1 free transcript a day (2 with a free account) and TXT, DOCX, PDF or SRT downloads.
 
 **Which Notta alternative is best for privacy?**
 Self-hosted Whisper, because the audio never leaves your machine. It is free and open source but needs some technical setup. OpenAI's hosted Whisper API costs about $0.006 per minute if you'd rather not run it yourself.

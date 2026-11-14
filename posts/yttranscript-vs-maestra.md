@@ -16,9 +16,9 @@ faqItems:
   - question: "Does Maestra have a free plan?"
     answer: "Maestra offers free web tools and a free trial with no credit card, but its full transcription features sit on paid plans. Third-party reviews list the Lite transcription plan at about $29/month ($23/month billed yearly) and pay-as-you-go at about $12 per 60 minutes."
   - question: "Is YTTranscript free?"
-    answer: "YTTranscript has a free tier of 2 transcripts a day with no account, email or payment details. Heavier users can buy one-time packs, starting at $9 for 100 transcripts, rather than a subscription."
+    answer: "YTTranscript has a free tier of 1 transcript a day without an account (2 with a free account), email or payment details. Heavier users can buy one-time packs, starting at $9 for 100 transcripts, rather than a subscription."
   - question: "Can YTTranscript transcribe a YouTube video that has no captions?"
-    answer: "No. YTTranscript retrieves the transcript YouTube already has. If a video has no captions at all, a speech-to-text tool such as Maestra or Whisper is the better choice."
+    answer: "Yes, with a pack: YTTranscript can AI-generate a transcript from the audio for about 10 credits. Its standard transcripts come from YouTube's captions, so for heavy speech-to-text work on your own files, Maestra or Whisper is the better fit."
   - question: "Which tool is better for dubbing or translating a video?"
     answer: "Maestra. It supports transcription, subtitle translation and AI voiceover in 125+ languages, plus real-time captions for live events. YTTranscript does not dub or generate voiceovers."
 ---
@@ -42,7 +42,7 @@ Both tools show up when you search for a "YouTube transcript generator," but the
 | Extension / install | None | None (optional Chrome extension for live captions) |
 | Free option | 2 transcripts/day, no signup | Free web tools + free trial (no card) |
 | Paid pricing | One-time packs from $9 (100 transcripts) | Lite ~$29/mo (~$23/mo yearly); pay-as-you-go ~$12 per 60 min |
-| Works on videos without captions | No | Yes (speech-to-text) |
+| Works on videos without captions | Yes, AI transcription (~10 credits, pack needed) | Yes (speech-to-text) |
 | Speaker labels | No | Yes |
 | Languages | Whatever YouTube provides (100+) | 125+ |
 | Subtitle translation & AI dubbing | No | Yes |
@@ -66,14 +66,14 @@ Both tools show up when you search for a "YouTube transcript generator," but the
 
 Maestra is genuinely the stronger product for several jobs, and it's worth saying so plainly:
 
-- **Videos with no captions.** Maestra runs its own speech recognition, so it can transcribe uploads and videos where YouTube has no transcript at all. YTTranscript can't (see [what to do when a video has no transcript](/youtube-video-no-transcript)).
+- **Speech-to-text at volume.** Maestra is built around its own speech recognition for uploads and caption-less videos. YTTranscript can AI-transcribe a caption-less YouTube video (about 10 credits), but it isn't designed for transcribing large volumes of your own audio (see [what to do when a video has no transcript](/youtube-video-no-transcript)).
 - **Your own recordings.** If the source is an MP4 on your drive rather than a public YouTube link, Maestra handles it; YTTranscript is URL-only.
 - **Subtitles and dubbing.** Translated subtitles, AI voiceover, voice cloning and burned-in captions are Maestra's core features. YTTranscript does none of that.
 - **Speaker labels and live captions.** Maestra identifies speakers and offers real-time captions for OBS, vMix and Zoom.
 
 ## Pricing in plain terms
 
-YTTranscript has a **free tier plus a paid option**: 2 transcripts a day with no signup, then one-time packs starting at $9 for 100 transcripts. It isn't unlimited, but most people never need to pay.
+YTTranscript has a **free tier plus a paid option**: 1 transcript a day without an account (2 with a free account), then one-time packs starting at $9 for 100 transcripts. It isn't unlimited, but most people never need to pay.
 
 Maestra doesn't have a permanent free plan in the usual sense. It offers no-signup web tools and a free trial without a credit card, and reviews report that the free web tools can be limited to short previews. Ongoing transcription is on paid plans — around $29/month for Lite, or pay-as-you-go credits at about $12 per hour — with Premium and Business tiers adding API access, extra seats and dubbing features.
 
@@ -96,10 +96,10 @@ For pulling the text of an existing YouTube video, YTTranscript is faster and si
 Maestra offers free web tools and a free trial with no credit card, but its full transcription features sit on paid plans. Third-party reviews list the Lite transcription plan at about $29/month ($23/month billed yearly) and pay-as-you-go at about $12 per 60 minutes.
 
 **Is YTTranscript free?**
-YTTranscript has a free tier of 2 transcripts a day with no account, email or payment details. Heavier users can buy one-time packs, starting at $9 for 100 transcripts, rather than a subscription.
+YTTranscript has a free tier of 1 transcript a day without an account (2 with a free account), email or payment details. Heavier users can buy one-time packs, starting at $9 for 100 transcripts, rather than a subscription.
 
 **Can YTTranscript transcribe a YouTube video that has no captions?**
-No. YTTranscript retrieves the transcript YouTube already has. If a video has no captions at all, a speech-to-text tool such as Maestra or Whisper is the better choice.
+Yes, with a pack: YTTranscript can AI-generate a transcript from the audio for about 10 credits. Its standard transcripts come from YouTube's captions, so for heavy speech-to-text work on your own files, Maestra or Whisper is the better fit.
 
 **Which tool is better for dubbing or translating a video?**
 Maestra. It supports transcription, subtitle translation and AI voiceover in 125+ languages, plus real-time captions for live events. YTTranscript does not dub or generate voiceovers.

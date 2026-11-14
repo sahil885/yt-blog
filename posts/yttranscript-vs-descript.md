@@ -28,7 +28,7 @@ faqItems:
 
 ## The core difference
 
-YTTranscript is a **free, no-signup transcript tool**. Paste a YouTube URL, get the full text in seconds, copy or download it. That's the whole product: 2 transcripts a day are free, and one-time packs cover heavier use.
+YTTranscript is a **free, no-signup transcript tool**. Paste a YouTube URL, get the full text in seconds, copy or download it. That's the whole product: 1 transcript a day is free without an account (2 with a free account), and one-time packs cover heavier use.
 
 Descript is a **paid editing suite**. Transcription is the entry point, but the real value is editing your podcast or video by editing the transcript, removing filler words, and applying AI features. It's powerful — and priced and structured accordingly, with an account and a limited free tier.
 

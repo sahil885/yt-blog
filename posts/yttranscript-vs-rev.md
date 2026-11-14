@@ -17,7 +17,7 @@ faqItems:
   - question: "How much does Rev cost?"
     answer: "As of 2026, Rev offers around 45 minutes of free AI transcription per month, then AI transcription at about $0.25/minute and human transcription from about $1.99/minute, plus subscription plans."
   - question: "Is YTTranscript free?"
-    answer: "Yes, up to 2 transcripts a day with no account, and one-time packs are available if you need more. You paste a YouTube URL and get the transcript in seconds."
+    answer: "Yes, up to 1 transcript a day without an account (2 with a free account), and one-time packs are available if you need more. You paste a YouTube URL and get the transcript in seconds."
   - question: "When is Rev worth paying for?"
     answer: "Rev is worth it when you need legal-grade or publication-grade accuracy verified by humans, or when you have raw audio/video files with no existing captions."
   - question: "Does Rev do human transcription?"
@@ -74,7 +74,7 @@ For a free, instant transcript of a YouTube video, YTTranscript is the better fi
 As of 2026, Rev offers around 45 minutes of free AI transcription per month, then AI transcription at about $0.25/minute and human transcription from about $1.99/minute, plus subscription plans.
 
 **Is YTTranscript free?**
-Yes, up to 2 transcripts a day with no account, and one-time packs are available if you need more. You paste a YouTube URL and get the transcript in seconds.
+Yes, up to 1 transcript a day without an account (2 with a free account), and one-time packs are available if you need more. You paste a YouTube URL and get the transcript in seconds.
 
 **When is Rev worth paying for?**
 Rev is worth it when you need legal-grade or publication-grade accuracy verified by humans, or when you have raw audio/video files with no existing captions.
