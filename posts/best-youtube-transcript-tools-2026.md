@@ -98,6 +98,7 @@ YTTranscript's free tier is 1 transcript a day without an account, or 2 a day wi
 ## Verdict: which tool should you use?
 
 - **Most people, most videos:** YTTranscript — fastest from link to text, no account.
+- **Free only:** see our [best free YouTube transcript generators](/best-free-youtube-transcript-generator), compared on real free limits.
 - **Long videos:** YTTranscript or any caption-based tool; avoid upload tools that bill by the minute. See our [long videos and playlists roundup](/best-youtube-transcript-tool-for-long-videos-and-playlists).
 - **Hundreds of videos a month:** youtube-transcript.io's subscription and API.
 - **Research and analysis:** YTTranscript for the text plus Gemini Notebook for Q&A — see the [best tools for researchers and teams](/best-youtube-transcript-tool-for-researchers-and-teams).

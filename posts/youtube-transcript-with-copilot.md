@@ -1,6 +1,6 @@
 ---
 title: "How to Use YouTube Transcripts with Microsoft Copilot (Step-by-Step)"
-description: "Microsoft Copilot can summarize YouTube videos — but it needs a transcript. Learn how to use YouTube transcripts with Copilot in Edge, the app, and Microsoft 365."
+description: "Can Microsoft Copilot summarize or transcribe a YouTube video? Only in Edge, and only with captions. Here's what works in November 2026, plus the free fix."
 date: "2026-06-14"
 author: "YTTranscript Team"
 category: "AI Tools"
@@ -11,113 +11,116 @@ keywords:
   - copilot summarize youtube video
   - youtube transcript with copilot
   - copilot youtube transcript
+  - transcribe youtube video to text free
 faqItems:
   - question: "Can Microsoft Copilot summarize a YouTube video?"
-    answer: "Yes, but only when it has the transcript. Copilot in the Edge sidebar can read a YouTube page you have open, and standalone Copilot can summarize any video once you paste in the transcript text."
-  - question: "Does Microsoft Copilot work with YouTube links directly?"
-    answer: "Copilot in Edge can analyze a YouTube page that is open in your browser. The standalone Copilot app and web version usually cannot open a YouTube URL, so you paste the transcript instead."
-  - question: "How do I get a YouTube transcript to use with Copilot?"
-    answer: "Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into Copilot with your question or instruction."
-  - question: "Is using Copilot with YouTube transcripts free?"
-    answer: "Yes. Microsoft Copilot has a free tier, and YTTranscript gives you 1 free transcript a day with no signup (2 with a free account), so the workflow costs nothing for everyday use."
-  - question: "Why does Copilot give better answers when I paste the transcript?"
-    answer: "Pasting the full transcript gives Copilot the complete, accurate text instead of relying on partial page access. This produces more thorough and reliable summaries, especially for long videos."
+    answer: "Yes, in Microsoft Edge: open the video, open the Copilot sidebar and ask for a summary, and it reads the page's captions. In the Copilot app or on copilot.com, a pasted YouTube link usually gets an answer built from the title and description, so paste the transcript text instead."
+  - question: "Can Copilot transcribe a YouTube video to text for free?"
+    answer: "Not as a clean, downloadable transcript. Copilot summarizes and answers questions, but it doesn't export the full text. To transcribe a YouTube video to text free, paste the link into YTTranscript.app (1 free transcript a day with no account, 2 with a free account) and copy or download it as TXT, DOCX or PDF."
+  - question: "Does Microsoft 365 Copilot work with YouTube videos at work?"
+    answer: "Edge for Business can let Microsoft 365 Copilot Chat answer questions about an open YouTube video from the side pane, but the feature is off by default and admins or data-loss-prevention policies can block page access. If it's blocked, paste the transcript into Copilot Chat instead."
+  - question: "Why does Copilot give a vague summary of a long YouTube video?"
+    answer: "When Copilot reads a long video through the Edge page, the summary can cover the opening in detail and thin out later, with no warning. Pasting the full transcript gives Copilot the complete text, so the summary covers the whole video."
+  - question: "What's the fastest way to get a YouTube transcript into Copilot?"
+    answer: "Paste the YouTube URL into YTTranscript.app, click Copy, then paste the text into Copilot with your instruction, such as 'Summarize this in 5 bullet points.' It takes under a minute and needs no extension."
 ---
 
-Microsoft Copilot is everywhere now — in the Edge browser, in Windows, in the Microsoft 365 apps, and as a standalone app on every phone. It is a genuinely capable AI assistant, and one of the most common things people want it to do is **summarize a YouTube video**.
+**Microsoft Copilot can summarize a YouTube video only in Microsoft Edge, where the sidebar reads the open video's captions. The Copilot app, copilot.com and the mobile app usually can't read a pasted YouTube link, so the reliable method is to copy the transcript from [YTTranscript](https://yttranscript.app) and paste it into Copilot.** Copilot also won't give you the full transcript as text you can download; it summarizes and answers questions.
 
-Here is the catch most people discover quickly: Copilot can only work with a video if it has the **transcript**. Without the text, there is nothing for it to read. This guide explains exactly how to use **YouTube transcripts with Microsoft Copilot** across every version, and the simple step that makes it work reliably every time.
+*Last updated: November 18, 2026. Copilot behavior verified November 2026.*
 
-## The Key Thing to Understand About Copilot and YouTube
+## What Copilot can and can't do with a YouTube link (November 2026)
 
-Copilot does not "watch" videos. It reads text. When Copilot appears to summarize a YouTube video, what is really happening is that it is reading the video's transcript or the captions on the page.
+Copilot doesn't watch videos. It reads text: the captions on the page, or whatever you paste in. What you get depends on which Copilot you use.
 
-This leads to two very different situations:
+| Copilot surface | Reads a YouTube video? | What to know |
+|---|---|---|
+| **Copilot in Edge sidebar** (personal profile) | Yes, the open video's page | Needs captions and page access allowed; long videos can get a thin summary of the later parts |
+| **Microsoft 365 Copilot Chat in Edge for Business** | Yes, when enabled | Off by default; admins and DLP policies can block page access |
+| **Copilot app / copilot.com** | Usually not | A pasted link tends to get an answer from the title, description and web results |
+| **Copilot on mobile** | No | The sidebar can't read the YouTube app |
+| **Any Copilot + pasted transcript** | Yes | Works everywhere, any length, any video with captions |
 
-**Copilot in Microsoft Edge** can see the YouTube page you currently have open in the browser. Open a video, open the Copilot sidebar, and ask it to summarize — it reads the page and responds, often with linked timestamps.
+*Verified November 2026 against Microsoft's Edge for Business message center notice (MC1187682) and current hands-on reports. Microsoft changes Copilot often, so behavior may shift.*
 
-**Standalone Copilot** — the [copilot.microsoft.com](https://copilot.microsoft.com) website, the mobile app, and Microsoft 365 Copilot — generally **cannot open a YouTube URL** on its own. If you paste a link and ask for a summary, it will often guess from the title or refuse. The reliable fix is to **paste the transcript text directly**.
+Videos without captions, and private, members-only or age-restricted videos, can't be read by Copilot at all. For videos with no captions, see [what to do when a YouTube video has no transcript](/youtube-video-no-transcript).
 
-That is where a free transcript tool comes in.
+## Method 1: Copilot in Edge (video already open)
 
-## Method 1: Copilot in Edge (Page Already Open)
-
-This is the no-extra-steps route when you are already at your desk in Edge.
+The no-extra-steps route when you're at a desktop in Edge.
 
 **Step 1:** Open the YouTube video in Microsoft Edge.
 
-**Step 2:** Click the Copilot icon to open the sidebar.
+**Step 2:** Click the Copilot icon to open the sidebar. If it asks for permission to use page content, allow it.
 
-**Step 3:** Ask your question — for example, *"Summarize the key points of this video in bullet form."*
+**Step 3:** Ask, for example: *"Summarize the key points of this video in bullet form."*
 
-Copilot reads the open page and answers, often with timestamps you can click. This works well for standard-length videos with clean captions. It does have limits, though: very long videos can get truncated, messy auto-captions produce shaky summaries, and it only works inside Edge on desktop.
+This works well for standard-length videos with clean captions. It fails quietly on work or school profiles where page access is switched off, in InPrivate windows, and on mobile. On long videos, check that the summary covers the whole thing.
 
-## Method 2: Paste the Transcript Into Any Version of Copilot
+## Method 2: Paste the transcript into any Copilot
 
-This is the universal method. It works in the Copilot app, the website, Microsoft 365 Copilot, and on mobile — anywhere Copilot exists. It is also more reliable than Method 1 because Copilot gets the **complete, accurate text** rather than partial page access.
+This is the universal method: the Copilot app, copilot.com, Microsoft 365 Copilot Chat, Windows and mobile. It's more reliable than Method 1 because Copilot gets the complete text instead of reading the page.
 
 ### Step 1: Get the transcript
 
-Go to [YTTranscript](https://yttranscript.app), paste the YouTube URL, and click **Get Transcript Now**. The full transcript appears in 2-5 seconds. Click **Copy**. If you are new to this, our [guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) covers every detail.
+Go to [YTTranscript](https://yttranscript.app), paste the YouTube URL and click **Get Transcript Now**. The full transcript appears in seconds. Click **Copy**. Turn timestamps off for cleaner prompts, or keep them if you want Copilot to point you to moments in the video. New to this? Our [guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) covers every option.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab the full transcript of any YouTube video in seconds, then paste it straight into Copilot. No signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab the full transcript of any YouTube video in seconds, then paste it straight into Copilot. No signup, no extension, works on your phone. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ### Step 2: Paste it into Copilot with a clear prompt
 
-Open Copilot and paste the transcript, then add your instruction in the same message. Good prompts include:
+Paste the transcript and add your instruction in the same message:
 
 > "Here is the transcript of a YouTube video. Summarize the main arguments in 5 bullet points: [paste transcript]"
 
 > "Turn this video transcript into a structured study guide with headings: [paste transcript]"
 
-> "Pull out every action item and recommendation mentioned: [paste transcript]"
+> "List every action item and recommendation mentioned: [paste transcript]"
 
 ### Step 3: Refine
 
-Ask follow-up questions — *"Expand point 3,"* *"Rewrite this as a LinkedIn post,"* or *"What did the speaker say about pricing?"* Because Copilot now has the full text, every answer is grounded in what was actually said.
+Ask follow-ups such as *"Expand point 3,"* *"Rewrite this as a LinkedIn post,"* or *"What did the speaker say about pricing?"* Every answer is now grounded in what was actually said. If you need the text itself, download it from YTTranscript as TXT, DOCX or PDF, or follow our [YouTube transcript to Word guide](/youtube-transcript-to-word).
 
-## Copilot vs Other AI Tools for YouTube
+## Copilot vs other AI assistants for YouTube
 
-| AI Tool | Reads YouTube URL directly? | Best approach |
+| AI assistant | Reads a YouTube URL directly? | Best approach |
 |---|---|---|
-| Copilot in Edge | Yes (page open in Edge) | Use sidebar, or paste transcript for long videos |
-| Copilot (app / web / 365) | No | Paste the transcript |
+| Copilot in Edge | Yes (page open in Edge) | Sidebar for short videos; paste transcript for long ones |
+| Copilot app / web / 365 | Usually not | Paste the transcript |
 | [ChatGPT](/youtube-transcript-for-chatgpt) | No | Paste the transcript |
 | [Claude](/youtube-transcript-with-claude) | No | Paste the transcript |
-| [Gemini](/youtube-transcript-with-gemini) | Yes (Google product) | URL works; paste transcript for long videos |
-| [Perplexity](/youtube-transcript-with-perplexity) | Sometimes | Paste transcript for reliability |
+| [Gemini](/youtube-transcript-with-gemini) | Yes (Google product) | Link works; paste transcript for long videos |
+| [Perplexity](/youtube-transcript-with-perplexity) | Partly (page title, description, comments) | Paste the transcript |
 
-The pattern is consistent: only Edge-based Copilot and Gemini can touch a YouTube link directly, and even they get more reliable results from a pasted transcript. For [ChatGPT](/youtube-transcript-for-chatgpt), [Claude](/youtube-transcript-with-claude), and standalone Copilot, the transcript is **required**. Having the raw text on hand means you can move between any AI tool without being locked into one.
+Only Edge-based Copilot and Gemini can read a YouTube video from the link, and even they do better with the full transcript. Having the raw text means you can move between assistants without extracting it again.
 
-## Why Pasting the Transcript Wins
+## Verdict: which method should you use?
 
-**It works everywhere.** The app, the website, Microsoft 365, your phone — paste the text and any version of Copilot can process it.
+- **If you're on a desktop in Edge and the video is under an hour,** use the Copilot sidebar, because it's one click.
+- **If you use the Copilot app, copilot.com, Microsoft 365 or your phone,** paste the transcript from YTTranscript, because those versions usually can't read the video.
+- **If the video is long or you need accurate quotes,** paste the transcript, because Copilot then reasons over every line.
+- **If you need the transcript as a file,** Copilot isn't the tool: download it from YTTranscript as TXT, DOCX or PDF.
+- **If the video has no captions,** neither Copilot nor a caption-based tool can read it; use an audio transcription tool such as Whisper.
 
-**It handles long videos.** A two-hour podcast that breaks Edge's page reader is no problem when you paste the full transcript.
-
-**It is more accurate.** Copilot reasons over the complete text instead of whatever it could scrape from the page, so summaries are more thorough and quotes are correct.
-
-**It is reusable.** Once you have the transcript, you can summarize it, [turn it into notes](/summarize-youtube-video-free), or feed it to a different tool — no need to extract it again.
-
-For a broader look at extraction options, see our roundup of the [best YouTube transcript tools for 2026](/best-youtube-transcript-tools-2026).
+For a wider look at extraction tools, see our roundup of the [best YouTube transcript tools for 2026](/best-youtube-transcript-tools-2026), or the [best free YouTube transcript generators](/best-free-youtube-transcript-generator).
 
 ## Frequently Asked Questions
 
 **Can Microsoft Copilot summarize a YouTube video?**
-Yes, but only when it has the transcript. Copilot in the Edge sidebar can read a YouTube page you have open, and standalone Copilot can summarize any video once you paste in the transcript text.
+Yes, in Microsoft Edge: open the video, open the Copilot sidebar and ask for a summary, and it reads the page's captions. In the Copilot app or on copilot.com, a pasted YouTube link usually gets an answer built from the title and description, so paste the transcript text instead.
 
-**Does Microsoft Copilot work with YouTube links directly?**
-Copilot in Edge can analyze a YouTube page that is open in your browser. The standalone Copilot app and web version usually cannot open a YouTube URL, so you paste the transcript instead.
+**Can Copilot transcribe a YouTube video to text for free?**
+Not as a clean, downloadable transcript. Copilot summarizes and answers questions, but it doesn't export the full text. To transcribe a YouTube video to text free, paste the link into YTTranscript.app (1 free transcript a day with no account, 2 with a free account) and copy or download it as TXT, DOCX or PDF.
 
-**How do I get a YouTube transcript to use with Copilot?**
-Go to yttranscript.app, paste the YouTube URL, and copy the transcript. Then paste it into Copilot with your question or instruction.
+**Does Microsoft 365 Copilot work with YouTube videos at work?**
+Edge for Business can let Microsoft 365 Copilot Chat answer questions about an open YouTube video from the side pane, but the feature is off by default and admins or data-loss-prevention policies can block page access. If it's blocked, paste the transcript into Copilot Chat instead.
 
-**Is using Copilot with YouTube transcripts free?**
-Yes. Microsoft Copilot has a free tier, and YTTranscript gives you 1 free transcript a day with no signup (2 with a free account), so the workflow costs nothing for everyday use.
+**Why does Copilot give a vague summary of a long YouTube video?**
+When Copilot reads a long video through the Edge page, the summary can cover the opening in detail and thin out later, with no warning. Pasting the full transcript gives Copilot the complete text, so the summary covers the whole video.
 
-**Why does Copilot give better answers when I paste the transcript?**
-Pasting the full transcript gives Copilot the complete, accurate text instead of relying on partial page access. This produces more thorough and reliable summaries, especially for long videos.
+**What's the fastest way to get a YouTube transcript into Copilot?**
+Paste the YouTube URL into YTTranscript.app, click Copy, then paste the text into Copilot with your instruction, such as "Summarize this in 5 bullet points." It takes under a minute and needs no extension.
 
-**Want to get more out of Copilot? [Grab any YouTube transcript free at YTTranscript.app →](https://yttranscript.app)**
+**Want better answers from Copilot? [Grab any YouTube transcript free at YTTranscript.app →](https://yttranscript.app)**
