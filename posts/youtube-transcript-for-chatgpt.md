@@ -15,7 +15,7 @@ faqItems:
   - question: "Why can't ChatGPT read my YouTube link?"
     answer: "ChatGPT doesn't play a YouTube video's audio or reliably fetch its captions from a link. At best its web browsing sees the page title and description, so it either says it can't access the video or writes a summary based on guesswork. Pasting the transcript fixes this."
   - question: "What's the fastest way to give ChatGPT a YouTube video?"
-    answer: "Paste the video's URL into YTTranscript.app, copy the transcript, and paste it into ChatGPT with an instruction such as 'Summarize this in 7 bullet points.' It takes about 30 seconds and needs no signup or extension."
+    answer: "Paste the video's URL into YTTranscript.app, copy the transcript, and paste it into ChatGPT with an instruction such as 'Summarize this in 7 bullet points.' It takes about 30 seconds and needs no extension, just a free account to copy the text."
   - question: "Is it free?"
     answer: "Yes, to start. YTTranscript gives 1 free transcript a day without an account and 2 a day with a free account. One-time packs start at $9 for 100 transcripts. ChatGPT's free tier can handle most single-video transcripts."
   - question: "What if the transcript is too long for ChatGPT?"
@@ -44,7 +44,7 @@ The third is the dangerous one. If you're relying on the summary for work, resea
 2. **Paste it into [YTTranscript](https://yttranscript.app)** and get the full transcript in seconds. Turn timestamps off for cleaner text, or keep them if you want ChatGPT to cite where things were said ([how timestamps help](/youtube-transcript-with-timestamps)).
 3. **Copy the transcript** and paste it into ChatGPT with a clear instruction (prompts below).
 
-No signup and no browser extension are required, and it works the same on your phone ([mobile guide](/youtube-transcript-on-mobile)).
+No browser extension is required (copying needs a free account), and it works the same on your phone ([mobile guide](/youtube-transcript-on-mobile)).
 
 <div class="cta-box">
   <strong>Try it free:</strong> Paste the YouTube link ChatGPT couldn't read, copy the transcript, and get an accurate summary in 30 seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
@@ -119,7 +119,7 @@ Packs also add a saved transcript library and AI translation into 16 languages.
 ChatGPT doesn't play a YouTube video's audio or reliably fetch its captions from a link. At best its web browsing sees the page title and description, so it either says it can't access the video or writes a summary based on guesswork. Pasting the transcript fixes this.
 
 **What's the fastest way to give ChatGPT a YouTube video?**
-Paste the video's URL into YTTranscript.app, copy the transcript, and paste it into ChatGPT with an instruction such as "Summarize this in 7 bullet points." It takes about 30 seconds and needs no signup or extension.
+Paste the video's URL into YTTranscript.app, copy the transcript, and paste it into ChatGPT with an instruction such as "Summarize this in 7 bullet points." It takes about 30 seconds and needs no extension, just a free account to copy the text.
 
 **Is it free?**
 Yes, to start. YTTranscript gives 1 free transcript a day without an account and 2 a day with a free account. One-time packs start at $9 for 100 transcripts. ChatGPT's free tier can handle most single-video transcripts.

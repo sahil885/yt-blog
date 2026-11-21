@@ -22,7 +22,7 @@ faqItems:
   - question: "Do transcripts help screen reader users?"
     answer: "Yes. A text transcript placed on the page can be read aloud by a screen reader, giving blind and low-vision users access to spoken video content in a format they control."
   - question: "Is it free to get a YouTube transcript for accessibility?"
-    answer: "Yes. YTTranscript extracts the full transcript of any public video for free, with no signup, and exports to TXT, DOCX, or PDF so you can publish or edit it."
+    answer: "Yes. YTTranscript extracts the full transcript of any public video for free (1 a day without an account) and, with a free account, exports to TXT, DOCX, or PDF so you can publish or edit it."
 ---
 
 **A YouTube transcript is one of the fastest ways to make video content more accessible** — it gives people who are deaf or hard of hearing a readable version of everything spoken, provides a text alternative that screen readers can read aloud, and doubles as the raw material for captions. Below is a practical guide to using a [free transcript](/how-to-get-a-youtube-transcript) for accessibility, plus an honest look at what WCAG and the ADA actually require in 2026.
@@ -56,10 +56,10 @@ You don't need special software or a paid service. [YTTranscript](https://yttran
 3. Click **Get Transcript Now** — the text appears in seconds.
 4. Copy it, or download as TXT, DOCX, or PDF.
 
-No account, no extension, and it works on your phone. Pull a [transcript with timestamps](/youtube-transcript-with-timestamps) if you plan to turn it into captions, or without if you just need clean reading text.
+No extension (copying or downloading needs a free account), and it works on your phone. Pull a [transcript with timestamps](/youtube-transcript-with-timestamps) if you plan to turn it into captions, or without if you just need clean reading text.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get an accessible, downloadable transcript of any YouTube video in seconds — no signup, exports to TXT, DOCX, and PDF. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get an accessible, downloadable transcript of any YouTube video in seconds — exports to TXT, DOCX, and PDF with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Turn the Transcript into a Text Alternative or Caption File
@@ -103,10 +103,10 @@ Yes. Many people prefer reading a full transcript at their own pace, and it lets
 Yes. A text transcript on the page can be read aloud by a screen reader, giving blind and low-vision users access to spoken video content.
 
 **Is it free to get a YouTube transcript for accessibility?**
-Yes. YTTranscript extracts the full transcript of any public video for free, with no signup, and exports to TXT, DOCX, or PDF.
+Yes. YTTranscript extracts the full transcript of any public video for free (1 a day without an account) and, with a free account, exports to TXT, DOCX, or PDF.
 
 ---
 
 Accessible content isn't a nice-to-have — it's how you reach everyone in your audience. Start with the transcript, and the captions, text alternatives, and searchable content all follow from it.
 
-**[→ Get a free, accessible transcript of any YouTube video with YTTranscript — no signup required](https://yttranscript.app)**
+**[→ Get a free, accessible transcript of any YouTube video with YTTranscript — free to start](https://yttranscript.app)**

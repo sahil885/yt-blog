@@ -108,7 +108,7 @@ There are contexts where auto-generated accuracy isn't good enough:
 
 ## Getting the Transcript Regardless of Type
 
-Whether a video has auto-generated or manual captions, [YTTranscript](https://yttranscript.app) extracts the full text in seconds. Paste the YouTube URL and get the transcript — no signup, no extension, free to start.
+Whether a video has auto-generated or manual captions, [YTTranscript](https://yttranscript.app) extracts the full text in seconds. Paste the YouTube URL and get the transcript — no extension; 1 free a day, or 2 with a free account.
 
 <div class="cta-box">
   <strong>Get any YouTube transcript instantly:</strong> Paste the URL and get the full text in seconds — auto-generated or manual. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>
@@ -132,4 +132,4 @@ For casual and personal use, yes. For legal, academic, accessibility, or medical
 
 Auto-generated transcripts are genuinely impressive for everyday use — they make the content of millions of YouTube videos immediately searchable and readable. The key is knowing their limits: when accuracy really matters, verify against the source, use videos with manual captions, or commission a professional transcription.
 
-**[→ Extract any YouTube transcript instantly at YTTranscript.app — free, no account required](https://yttranscript.app)**
+**[→ Extract any YouTube transcript instantly at YTTranscript.app — free to start](https://yttranscript.app)**

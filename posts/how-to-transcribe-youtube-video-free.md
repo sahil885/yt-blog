@@ -1,6 +1,6 @@
 ---
 title: "How to Transcribe a YouTube Video for Free (No Software Needed)"
-description: "Transcribe any YouTube video for free in seconds — no software to install, no account to create, no technical skill required. Here's the fastest method."
+description: "Transcribe any YouTube video for free in seconds — no software to install, no browser extension, no technical skill required. Here's the fastest method."
 date: "2026-05-06"
 author: "YTTranscript Team"
 category: "How-To"
@@ -17,7 +17,7 @@ howToSteps:
   - name: "Copy the YouTube video URL"
     text: "Find the YouTube video you want to transcribe. Copy its URL from the browser address bar."
   - name: "Go to YTTranscript"
-    text: "Open yttranscript.app in any browser — no account, extension, or software installation required."
+    text: "Open yttranscript.app in any browser — no extension or software installation required."
   - name: "Paste the URL and click Get Transcript Now"
     text: "Paste the URL into the input field and click Get Transcript Now."
   - name: "Copy or download the transcription"
@@ -30,7 +30,7 @@ faqItems:
   - question: "Can I transcribe a YouTube video on my phone?"
     answer: "Yes. YTTranscript works in any mobile browser. YouTube's built-in transcript also works in the mobile app, but it can't be downloaded."
   - question: "What file formats can I download the transcription in?"
-    answer: "TXT, DOCX, and PDF. All three are available free with no signup required."
+    answer: "TXT, DOCX, and PDF. All three are available free with a free account."
   - question: "Does YouTube video transcription work for Shorts?"
     answer: "Yes, as long as the Short has captions, which most do via auto-generation."
   - question: "What if the YouTube video has no captions?"
@@ -51,10 +51,10 @@ Transcribing a YouTube video used to mean listening and typing — a painful pro
 
 The full transcription appears on screen within 2-5 seconds. From there you can copy the text to your clipboard, download as TXT, DOCX, or PDF, or paste it directly into ChatGPT, Notion, Google Docs, or any other tool.
 
-No account. No extension. No software installation. No cost.
+No extension. No software installation. No cost. Copying and downloads need a free account.
 
 <div class="cta-box">
-  <strong>Transcribe any YouTube video free:</strong> Paste the URL and get the full text in under 10 seconds — no software, no signup. <a href="https://yttranscript.app">→ Start at YTTranscript.app</a>
+  <strong>Transcribe any YouTube video free:</strong> Paste the URL and get the full text in under 10 seconds — no software, 1 free a day. <a href="https://yttranscript.app">→ Start at YTTranscript.app</a>
 </div>
 
 ## How Automatic YouTube Transcription Works
@@ -112,7 +112,7 @@ With YTTranscript, any length video transcribes in 2-5 seconds.
 Yes. YTTranscript works in any mobile browser.
 
 **What file formats can I download the transcription in?**
-TXT, DOCX, and PDF — all free with no signup.
+TXT, DOCX, and PDF. All three are available free with a free account.
 
 **Does it work for YouTube Shorts?**
 Yes, as long as the Short has captions.
@@ -121,4 +121,4 @@ Yes, as long as the Short has captions.
 
 Transcribing a YouTube video for free is no longer a laborious task. With the right tool, any public video becomes a searchable, downloadable, editable text document in seconds.
 
-**[→ Transcribe any YouTube video free — instant results, no software, no signup required](https://yttranscript.app)**
+**[→ Transcribe any YouTube video free — instant results, no software required](https://yttranscript.app)**

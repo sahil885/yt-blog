@@ -55,7 +55,7 @@ The transcript method wins for most people because the AI works from **real time
 **Step 1: Get the timestamped transcript.** Paste your video's URL into [YTTranscript](https://yttranscript.app) and copy the transcript with timestamps. For a new upload, give YouTube time to process auto-captions first. If a video has no captions, YTTranscript can AI-generate a transcript (about 10 credits), or see [what to do when a video has no transcript](/youtube-video-no-transcript).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab a timestamped transcript of any YouTube video in seconds, with no signup and no extension. It's the raw material for accurate chapters. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab a timestamped transcript of any YouTube video in seconds, with no extension (1 free a day, or 2 with a free account). It's the raw material for accurate chapters. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 **Step 2: Prompt your AI.** Paste the transcript into [ChatGPT](/youtube-transcript-for-chatgpt), [Claude](/youtube-transcript-with-claude) or [Gemini](/youtube-transcript-with-gemini) with a prompt like this:

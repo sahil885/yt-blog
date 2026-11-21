@@ -1,6 +1,6 @@
 ---
 title: "How to Transcribe a YouTube Video Free (Fast, No Software)"
-description: "Transcribe any YouTube video free in seconds — no software, no signup. Get accurate text from any video and export it as TXT, DOCX, or PDF. Full 2026 guide."
+description: "Transcribe any YouTube video free in seconds — no software, no extension. Get accurate text from any video and export it as TXT, DOCX, or PDF. 2026 guide."
 date: "2026-06-14"
 author: "YTTranscript Team"
 category: "Guide"
@@ -54,7 +54,7 @@ There are really two situations:
 For a step-by-step version, see [how to transcribe a YouTube video free](/how-to-transcribe-youtube-video-free) and [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Transcribe any YouTube video in seconds — no software, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Transcribe any YouTube video in seconds — no software; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## How accurate is it?

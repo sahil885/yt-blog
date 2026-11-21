@@ -1,6 +1,6 @@
 ---
 title: "How to Get a YouTube Live Stream Transcript (Free, 2026)"
-description: "Get the full transcript of any ended YouTube live stream free — no signup, no extension. Why live captions take time to appear, and how to fix it."
+description: "Get the full transcript of any ended YouTube live stream free — no extension needed. Why live captions take time to appear, and how to fix it."
 date: "2026-06-11"
 author: "YTTranscript Team"
 category: "How-To"
@@ -26,7 +26,7 @@ faqItems:
 
 Live streams are some of the most valuable content on YouTube — earnings calls, conference keynotes, gaming marathons, town halls, church services, multi-hour podcasts. They're also some of the **hardest to revisit**: nobody scrubs through a 4-hour replay to find one quote.
 
-A transcript solves that. Here's exactly how to get one from any YouTube live stream, free, with [YTTranscript.app](https://yttranscript.app) — no signup, no extension, works [on mobile](/youtube-transcript-on-mobile).
+A transcript solves that. Here's exactly how to get one from any YouTube live stream, free, with [YTTranscript.app](https://yttranscript.app) — no extension, works [on mobile](/youtube-transcript-on-mobile).
 
 ## The one rule: the stream must have ended
 
@@ -47,7 +47,7 @@ If you try to extract a transcript and get nothing, the replay simply hasn't bee
 
 **Step 1 — Get the replay URL.** Open the ended stream on YouTube and copy the URL from the address bar (or the Share button). It looks identical to any normal video link.
 
-**Step 2 — Paste it into YTTranscript.** Go to [YTTranscript.app](https://yttranscript.app) and paste the URL. The full transcript appears in seconds — even for streams that ran for hours. It's free to start (1 transcript a day without an account, 2 with a free account), with no account and no browser extension.
+**Step 2 — Paste it into YTTranscript.** Go to [YTTranscript.app](https://yttranscript.app) and paste the URL. The full transcript appears in seconds — even for streams that ran for hours. It's free to start (1 transcript a day without an account, 2 with a free account, which you need to copy or download it), with no browser extension.
 
 **Step 3 — Copy or download.** Read it on the page, copy it to your clipboard, or download as **TXT, DOCX, or PDF**. For long streams, keep the [timestamps](/youtube-transcript-with-timestamps) — they let you jump from any line of text straight to that moment in the replay.
 

@@ -28,7 +28,7 @@ faqItems:
   - question: "What is the easiest way to get a YouTube transcript programmatically?"
     answer: "The youtube-transcript-api Python library is the easiest programmatic approach — one pip install and one function call. For non-developers, YTTranscript.app provides the same result without any code."
   - question: "Can I get YouTube transcripts without an API key?"
-    answer: "Yes. The unofficial youtube-transcript-api Python library fetches public captions without any API key. For a fully no-code approach, YTTranscript.app also works without keys or accounts."
+    answer: "Yes. The unofficial youtube-transcript-api Python library fetches public captions without any API key. For a fully no-code approach, YTTranscript.app also works without API keys (copying or downloading needs a free account)."
   - question: "Does youtube-transcript-api work for non-English videos?"
     answer: "Yes. You can specify a language code as a parameter (e.g., get_transcript('VIDEO_ID', languages=['es'])) to fetch transcripts in other languages."
 ---
@@ -98,7 +98,7 @@ print(subtitle.decode('utf-8'))
 
 <div class="cta-box">
   <strong>Need transcripts without the OAuth setup?</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> extracts captions from any public YouTube video instantly — no API key, no account, works in your browser right now.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> extracts captions from any public YouTube video instantly — no API key, no extension, works in your browser right now.
 </div>
 
 ---
@@ -183,13 +183,13 @@ If you don't need to process transcripts programmatically and just want the text
 2. Paste any YouTube URL
 3. Copy the transcript or download as **TXT, DOCX, or PDF**
 
-No API key, no pip install, no OAuth, no account. Works in any browser.
+No API key, no pip install, no OAuth; copying or downloading needs a free account. Works in any browser.
 
 This is ideal for one-off tasks: summarizing a video with ChatGPT, pasting a lecture into your notes app, extracting a quote, or checking a video's content before committing to watch it.
 
 <div class="cta-box">
   <strong>Just need a transcript quickly?</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">Try YTTranscript free</a> — paste any YouTube URL and get the full text in seconds. No code, no account, no extension.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">Try YTTranscript free</a> — paste any YouTube URL and get the full text in seconds. No code, no extension.
 </div>
 
 ---

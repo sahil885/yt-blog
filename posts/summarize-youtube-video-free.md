@@ -1,6 +1,6 @@
 ---
 title: "How to Summarize a YouTube Video for Free (Without Watching It)"
-description: "Get a clear, accurate summary of any YouTube video in under a minute — free, no signup. Works with ChatGPT, Claude, or any AI tool."
+description: "Get a clear, accurate summary of any YouTube video in under a minute — free to start. Works with ChatGPT, Claude, or any AI tool."
 date: "2026-05-02"
 author: "YTTranscript Team"
 category: "Guide"
@@ -15,7 +15,7 @@ keywords:
 howToName: "How to Summarize a YouTube Video Free"
 howToSteps:
   - name: "Get the transcript from YTTranscript"
-    text: "Go to yttranscript.app, paste the YouTube video URL, and click Get Transcript Now. The full text appears in 2-5 seconds. Click Copy to copy it to your clipboard. No account needed."
+    text: "Go to yttranscript.app, paste the YouTube video URL, and click Get Transcript Now. The full text appears in 2-5 seconds. Sign in with a free account, then click Copy to copy it to your clipboard."
   - name: "Open an AI tool"
     text: "Open ChatGPT (chat.openai.com), Claude (claude.ai), or Gemini — all have free tiers. Start a new chat."
   - name: "Paste the transcript with a summary prompt"
@@ -24,7 +24,7 @@ howToSteps:
     text: "The AI returns a clear, structured summary in 10-20 seconds. The whole process from video URL to finished summary takes about 60-90 seconds."
 faqItems:
   - question: "Is summarizing a YouTube video free?"
-    answer: "Yes. YTTranscript is free with no signup. ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free. The total cost is zero."
+    answer: "Yes. YTTranscript gives 1 free transcript a day, and a free account (needed to copy the text) gives 2 a day. ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free. The total cost is zero."
   - question: "How accurate are YouTube video summaries?"
     answer: "Accuracy depends on the transcript quality (auto-captions are 85-95% accurate for clear audio) and the AI model. For most practical purposes the summary is highly accurate. Always verify critical facts against the original source."
   - question: "Can I summarize a YouTube video in another language?"
@@ -47,10 +47,10 @@ No tool can watch a YouTube video and summarize it reliably on its own. But comb
 
 Go to [YTTranscript](https://yttranscript.app), paste the YouTube video URL, and click **Get Transcript Now**. The full text of the video appears in 2-5 seconds. Click **Copy** to copy it to your clipboard.
 
-No account needed. No browser extension. Works on mobile and desktop.
+No browser extension. Copying the text needs a free account. Works on mobile and desktop.
 
 <div class="cta-box">
-  <strong>Start here:</strong> Get the full video transcript in seconds before opening any AI tool. <a href="https://yttranscript.app">→ Try YTTranscript free — no signup required</a>
+  <strong>Start here:</strong> Get the full video transcript in seconds before opening any AI tool. <a href="https://yttranscript.app">→ Try YTTranscript free</a>
 </div>
 
 **Step 2: Paste into an AI and ask for a summary**
@@ -126,7 +126,7 @@ A 1-hour video produces roughly 8,000-12,000 words of transcript. ChatGPT's free
 ## Frequently Asked Questions
 
 **Is this method free?**
-Yes, for everyday use. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day with no signup (2 with a free account). ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free.
+Yes, for everyday use. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day without an account, and a free account (needed to copy the text) gives you 2 a day. ChatGPT's free tier, Claude's free tier, and Gemini's free tier are all free.
 
 **Does it work for non-English videos?**
 Yes. Get the transcript and ask the AI to summarize in English or any language you specify.
@@ -141,4 +141,4 @@ Not in a single step, but you can repeat the workflow for each video.
 
 The transcript-plus-AI method is the most reliable, most flexible, and free way to summarize a YouTube video. Once you've done it a few times, it becomes second nature.
 
-**[→ Get your YouTube transcript in seconds — free, no login, ready to paste into any AI](https://yttranscript.app)**
+**[→ Get your YouTube transcript in seconds — free to start, ready to paste into any AI](https://yttranscript.app)**

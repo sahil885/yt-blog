@@ -21,7 +21,7 @@ faqItems:
   - question: "What is the difference between a YouTube transcript, captions, and subtitles?"
     answer: "A transcript is the full text in a separate, readable format. Captions are the same text displayed on-screen while watching the video, timed to the audio. Subtitles are similar to captions but typically refer to translations into another language."
   - question: "How do I get a YouTube transcript?"
-    answer: "The fastest way is to go to YTTranscript.app, paste the YouTube video URL, and get the full text in seconds. No account or extension required."
+    answer: "The fastest way is to go to YTTranscript.app, paste the YouTube video URL, and get the full text in seconds. No extension required; a free account lets you copy or download it."
 ---
 
 If you've ever wanted to read, search, copy, or use the spoken content of a YouTube video as text — that's exactly what a YouTube transcript gives you.
@@ -87,19 +87,19 @@ The range of uses is wider than most people realise:
 
 ## How to Get a YouTube Transcript
 
-The simplest method — no account, no extension, any device:
+The simplest method — no extension, any device:
 
 1. Copy the YouTube video URL
 2. Go to [YTTranscript.app](https://yttranscript.app)
 3. Paste the URL and click **Get Transcript Now**
-4. The full text appears within seconds — copy it or download as TXT, DOCX, or PDF
+4. The full text appears within seconds — sign in with a free account to copy it or download as TXT, DOCX, or PDF
 
 YouTube also has a built-in transcript panel on desktop: click the three-dot menu (⋯) below the video title and select "Show transcript." This works for viewing but doesn't let you download the text easily.
 
 See our full step-by-step guide on [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) for all available methods.
 
 <div class="cta-box">
-  <strong>Try it now:</strong> Paste any YouTube URL into YTTranscript and get the full transcript in seconds — free, no account, no extension. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
+  <strong>Try it now:</strong> Paste any YouTube URL into YTTranscript and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
 </div>
 
 ## Frequently Asked Questions
@@ -120,4 +120,4 @@ Transcript = full text in a separate format. Captions = text overlaid on the vid
 
 YouTube transcripts turn the spoken content of any video into searchable, copyable, and reusable text. Once you know how to access them, you'll find yourself reaching for them constantly — for notes, for research, for writing, and for getting more value out of every video you watch.
 
-**[→ Get any YouTube transcript free at YTTranscript.app — no account, no extension](https://yttranscript.app)**
+**[→ Get any YouTube transcript free at YTTranscript.app — no extension needed](https://yttranscript.app)**

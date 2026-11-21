@@ -40,7 +40,7 @@ For long videos, always try caption extraction first. Fall back to speech recogn
 
 | Method | 3-hour video? | Setup | Export | Cost |
 |---|---|---|---|---|
-| **YTTranscript** | Yes — seconds, no length cap | None; no signup, no extension | TXT, DOCX, PDF | Free tier + paid option |
+| **YTTranscript** | Yes — seconds, no length cap | None to read; free account to download; no extension | TXT, DOCX, PDF | Free tier + paid option |
 | **YouTube's transcript panel** | Yes | None | No export — manual copy, timestamps interleaved | Free |
 | **Otter.ai (free)** | No — 30 min per conversation, 300 min/month, 3 lifetime imports | Account required | Yes | Free tier; paid plans lift caps |
 | **TurboScribe (free)** | No — 30 min per file, 3 files/day | Account + upload the audio | Yes | Free tier; Unlimited $10/mo billed annually ($20 monthly), files to 10 hours |
@@ -49,13 +49,13 @@ For long videos, always try caption extraction first. Fall back to speech recogn
 A few honest notes. **YouTube's own panel** is genuinely free and unlimited, but copying 40,000 words out of a scrolling sidebar with a timestamp on every line is miserable, and there is no download button. **TurboScribe's paid plan is a legitimately good deal** for long audio files that are not on YouTube. **Whisper is the right answer** if you need offline processing, unusual languages, or a video with no captions and no budget — we cover the trade-offs in [YTTranscript vs Whisper](/yttranscript-vs-whisper).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste the URL of any long podcast, lecture, or livestream and get the full transcript in seconds — no 30-minute cap, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste the URL of any long podcast, lecture, or livestream and get the full transcript in seconds — no 30-minute cap, 1 free a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Step by step: a 3-hour podcast episode
 
 1. **Copy the YouTube URL.** Full link or short `youtu.be` link both work.
-2. **Paste it into [YTTranscript](https://yttranscript.app).** No account, no extension, works the same on phone as on desktop.
+2. **Paste it into [YTTranscript](https://yttranscript.app).** No extension, works the same on phone as on desktop.
 3. **Choose timestamps or clean prose.** Keep [timestamps](/youtube-transcript-with-timestamps) if you need to jump back to moments in the video; drop them if you are feeding the text to an AI model or writing from it.
 4. **Export.** [DOCX](/youtube-transcript-to-word) for editing and quoting, [PDF](/youtube-transcript-to-pdf) for archiving or sharing, TXT for anything programmatic.
 5. **Do not read it linearly.** See below.
@@ -83,7 +83,7 @@ If speaker attribution matters in a multi-guest podcast, note that caption track
 
 ## The verdict
 
-**For any long YouTube video that has captions** — which is most of them — caption extraction is the correct method, and YTTranscript does it with no length cap, no account, and no extension, with exports to TXT, DOCX, and PDF on a free tier plus a paid option.
+**For any long YouTube video that has captions** — which is most of them — caption extraction is the correct method, and YTTranscript does it with no length cap and no extension, with exports to TXT, DOCX, and PDF (free account) on a free tier plus a paid option.
 
 **For long audio that is not on YouTube, or a video with captions disabled**, a paid transcription service like TurboScribe or a local Whisper run is the honest recommendation — those tools do work a caption extractor cannot.
 

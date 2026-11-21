@@ -48,12 +48,12 @@ State legislatures vary. Some publish floor journals and committee reports, but 
 ## How to transcribe a meeting in four steps
 
 1. **Find the video.** Check the legislature's or city's YouTube channel. Many live-stream and keep the replay. (Live? See [transcripts of live streams](/youtube-live-stream-transcript).)
-2. **Paste the link into [YTTranscript](https://yttranscript.app).** No signup, no extension. Leave [timestamps](/youtube-transcript-with-timestamps) on so every quote points back to a moment in the video.
+2. **Paste the link into [YTTranscript](https://yttranscript.app).** No extension needed. Leave [timestamps](/youtube-transcript-with-timestamps) on so every quote points back to a moment in the video.
 3. **Search it.** Ctrl+F for the bill number, ordinance, street name or speaker. See [how to search a YouTube transcript](/how-to-search-a-youtube-transcript).
 4. **Export and share.** Download TXT, DOCX or PDF for your client memo, or paste the text into [ChatGPT](/youtube-transcript-for-chatgpt) or [Claude](/youtube-transcript-with-claude) for a summary of the public comment.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste a council or committee meeting link and get a searchable, timestamped transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste a council or committee meeting link and get a searchable, timestamped transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Long meetings and full archives

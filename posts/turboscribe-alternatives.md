@@ -19,7 +19,7 @@ faqItems:
   - question: "How much does TurboScribe cost in 2026?"
     answer: "TurboScribe's Unlimited plan is $10/month billed annually or $20/month billed monthly, and it removes the daily cap and supports files up to 10 hours. The free tier stays at 3 files per day."
   - question: "Is there a TurboScribe alternative that doesn't require signup?"
-    answer: "Yes. YTTranscript requires no account and no browser extension for YouTube URLs. Most upload-based tools, including TurboScribe, Otter, Notta, and Happy Scribe, require an account before you can transcribe anything."
+    answer: "Partly. YTTranscript gives you 1 transcript a day from a YouTube URL with no account and no browser extension; copying or downloading the text needs a free account. Most upload-based tools, including TurboScribe, Otter, Notta, and Happy Scribe, require an account before you can transcribe anything."
   - question: "Which TurboScribe alternative is most accurate?"
     answer: "For difficult audio with no existing captions, a Whisper-based tool or Rev's human transcription ($1.99/minute) will be the most accurate. For YouTube videos that already have captions, accuracy differences between tools are small because they are reading the same underlying caption track."
 ---
@@ -32,7 +32,7 @@ This guide compares the seven alternatives that actually matter, with real prici
 
 | Tool | Free tier | Paid entry price | Account needed | Best for |
 |---|---|---|---|---|
-| **YTTranscript** | Free tier, no signup | Paid tier available | No | YouTube URLs, fastest path to text |
+| **YTTranscript** | 1/day without an account, 2/day with a free account | Paid tier available | To copy or export | YouTube URLs, fastest path to text |
 | **TurboScribe** | 3 files/day, 30 min each | $10/mo annual, $20/mo monthly | Yes | Bulk file uploads, long recordings |
 | **Otter.ai** | 300 min/mo, 30 min per convo | Paid Pro tier | Yes | Live meetings and team notes |
 | **Descript** | Limited free tier | $16/user/mo annual, $24 monthly (Hobbyist) | Yes | Editing video by editing text |
@@ -45,12 +45,12 @@ Pricing changes often — check each vendor's page before you buy.
 
 ## 1. YTTranscript — best for YouTube URLs
 
-If your source is a YouTube link, **YTTranscript is the shortest path from video to text**: paste the URL, get the transcript, export as TXT, DOCX, or PDF. There is **no account, no browser extension, and no upload step**, and it works on mobile browsers, which matters if you are grabbing a transcript from your phone.
+If your source is a YouTube link, **YTTranscript is the shortest path from video to text**: paste the URL, get the transcript, export as TXT, DOCX, or PDF with a free account. There is **no browser extension and no upload step**, and it works on mobile browsers, which matters if you are grabbing a transcript from your phone.
 
 The honest trade-off: YTTranscript works with YouTube video URLs, not arbitrary audio files on your hard drive. If you need to transcribe a recorded Zoom call or a podcast WAV, TurboScribe or Otter is the better tool. YTTranscript has a **free tier plus a paid option** — it is not unlimited, but the free tier covers ordinary research and note-taking use comfortably.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> paste any YouTube URL and get a clean, exportable transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> paste any YouTube URL and get a clean, exportable transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 2. Otter.ai — best free tier for meetings
@@ -106,9 +106,9 @@ The two most common reasons are the free plan's cap of 3 transcriptions per day 
 TurboScribe's Unlimited plan is $10/month billed annually or $20/month billed monthly, and it removes the daily cap and supports files up to 10 hours. The free tier stays at 3 files per day.
 
 **Is there a TurboScribe alternative that doesn't require signup?**
-Yes. YTTranscript requires no account and no browser extension for YouTube URLs. Most upload-based tools, including TurboScribe, Otter, Notta, and Happy Scribe, require an account before you can transcribe anything.
+Partly. YTTranscript gives you 1 transcript a day from a YouTube URL with no account and no browser extension; copying or downloading the text needs a free account. Most upload-based tools, including TurboScribe, Otter, Notta, and Happy Scribe, require an account before you can transcribe anything.
 
 **Which TurboScribe alternative is most accurate?**
 For difficult audio with no existing captions, a Whisper-based tool or Rev's human transcription ($1.99/minute) will be the most accurate. For YouTube videos that already have captions, accuracy differences between tools are small because they are reading the same underlying caption track.
 
-**Stop fighting daily limits — [get your YouTube transcript free at YTTranscript.app](https://yttranscript.app), no signup required.**
+**Stop fighting daily limits — [get your YouTube transcript free at YTTranscript.app](https://yttranscript.app), no extension needed.**

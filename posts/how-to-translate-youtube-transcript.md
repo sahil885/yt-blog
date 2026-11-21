@@ -54,7 +54,7 @@ Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube video URL,
 Click **Copy** to copy the full text to your clipboard.
 
 <div class="cta-box">
-  <strong>Get any YouTube transcript in any language:</strong> Paste the URL and get the full text in seconds — free, no account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Get any YouTube transcript in any language:</strong> Paste the URL and get the full text in seconds — free, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Step 2: Translate With an AI or Translation Tool
@@ -121,4 +121,4 @@ Yes — tell the AI to preserve timestamps as part of your prompt and they'll ca
 
 A language barrier in a YouTube video is no longer a research dead end. Extract the transcript, translate it with an AI, and the full content of almost any public YouTube video is accessible to you in English — in under two minutes, for free.
 
-**[→ Get any YouTube transcript in any language at YTTranscript.app — free, no account needed](https://yttranscript.app)**
+**[→ Get any YouTube transcript in any language at YTTranscript.app — free, no extension needed](https://yttranscript.app)**

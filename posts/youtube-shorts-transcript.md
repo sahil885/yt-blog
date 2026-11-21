@@ -1,6 +1,6 @@
 ---
 title: "How to Get a YouTube Shorts Transcript (Free)"
-description: "Get the full transcript of any YouTube Short in seconds — copy, download, or translate it free. No sign-up and no extension needed."
+description: "Get the full transcript of any YouTube Short in seconds — copy, download, or translate it with a free account. No extension needed."
 date: "2026-05-25"
 author: "YTTranscript Team"
 category: "How-To"
@@ -16,7 +16,7 @@ howToSteps:
   - name: "Copy the YouTube Shorts URL"
     text: "Open the YouTube Short in your browser or app and copy the URL from the address bar or share menu."
   - name: "Open YTTranscript"
-    text: "Go to yttranscript.app in any browser — mobile or desktop. No account or extension needed."
+    text: "Go to yttranscript.app in any browser — mobile or desktop. No extension needed."
   - name: "Paste the URL and get the transcript"
     text: "Paste the Shorts URL into the input field and click Get Transcript Now. The full text appears in seconds."
   - name: "Copy or download"
@@ -61,7 +61,7 @@ On mobile, tap the **Share** button on the Short and select **Copy link**.
 
 **Step 2: Go to [YTTranscript.app](https://yttranscript.app).**
 
-Open it in any browser — Safari, Chrome, Firefox, whatever you're using. No account, no extension, no app to install.
+Open it in any browser — Safari, Chrome, Firefox, whatever you're using. No extension, no app to install.
 
 **Step 3: Paste the URL and click Get Transcript Now.**
 
@@ -72,7 +72,7 @@ Within a few seconds, the full transcript appears. Because Shorts are short (typ
 Click **Copy** to grab the text to your clipboard, or download it as a TXT, DOCX, or PDF file.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube Shorts URL and get the full transcript instantly — no login, no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Get your Shorts transcript at YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube Shorts URL and get the full transcript instantly — no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Get your Shorts transcript at YTTranscript.app</a>
 </div>
 
 ## What You Can Do With a YouTube Shorts Transcript

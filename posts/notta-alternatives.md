@@ -24,7 +24,7 @@ faqItems:
     answer: "Self-hosted Whisper, because the audio never leaves your machine. It is free and open source but needs some technical setup. OpenAI's hosted Whisper API costs about $0.006 per minute if you'd rather not run it yourself."
 ---
 
-**The best Notta alternative depends on what you transcribe.** For **meetings**, Fathom's free plan records and transcribes unlimited calls, and Fireflies' free plan advertises unlimited transcription. For **uploaded audio and video files**, TurboScribe's Unlimited plan at $10/month (billed yearly) is the cheapest heavy-use option. For **YouTube videos**, YTTranscript turns a link into a transcript in seconds with no account. Notta itself caps its free plan at 120 minutes a month and 3 minutes per conversation, and exporting transcripts requires Pro.
+**The best Notta alternative depends on what you transcribe.** For **meetings**, Fathom's free plan records and transcribes unlimited calls, and Fireflies' free plan advertises unlimited transcription. For **uploaded audio and video files**, TurboScribe's Unlimited plan at $10/month (billed yearly) is the cheapest heavy-use option. For **YouTube videos**, YTTranscript turns a link into a transcript in seconds with no extension. Notta itself caps its free plan at 120 minutes a month and 3 minutes per conversation, and exporting transcripts requires Pro.
 
 ## Notta's pricing in 2026
 
@@ -43,13 +43,13 @@ Notta is a capable meeting tool, with bot and bot-free recording, bilingual tran
 | **Fireflies.ai** | Unlimited transcription, 400 min storage per team | $10/seat/mo annual ($18 monthly) | Searchable team meetings |
 | **Otter.ai** | 300 min/mo, 30 min per conversation, 3 lifetime imports | $8.33/mo annual ($16.99 monthly) | Live transcription on the go |
 | **TurboScribe** | 3 files/day, 30 min each | $10/mo annual ($20 monthly) | Bulk file uploads |
-| **YTTranscript** | 2 transcripts/day, no signup | One-time packs from $9 | YouTube links |
+| **YTTranscript** | 1/day, 2/day with free account | One-time packs from $9 | YouTube links |
 | **Whisper** (self-hosted) | Free, open source | ~$0.006/min via OpenAI's API | Privacy and offline use |
 
 Prices as of September 2026, from each vendor's pricing page. Check before you buy.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Transcribing YouTube videos in Notta? Paste the link into YTTranscript instead and get the full transcript in seconds, with no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Transcribing YouTube videos in Notta? Paste the link into YTTranscript instead and get the full transcript in seconds, 1 free a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 1. Fathom: best free meeting notetaker
@@ -70,7 +70,7 @@ TurboScribe transcribes **3 files a day free**, each up to 30 minutes. Its Unlim
 
 ## 5. YTTranscript: best for YouTube links
 
-Notta can import YouTube links, but on the free plan it stops at 3 minutes and won't export. [YTTranscript](https://yttranscript.app) reads the video's existing captions, so a full transcript appears in seconds, ready to copy or download as **TXT, DOCX, PDF or SRT**. You get **1 free transcript a day with no signup (2 with a free account)**, and one-time packs start at **$9 for 100 transcripts** with credits that never expire. For videos without captions, it can AI-generate a transcript (about 10 credits). The trade-off: it's YouTube-only, not a meeting recorder. Full breakdown in [YTTranscript vs Notta](/yttranscript-vs-notta).
+Notta can import YouTube links, but on the free plan it stops at 3 minutes and won't export. [YTTranscript](https://yttranscript.app) reads the video's existing captions, so a full transcript appears in seconds, ready to copy or download as **TXT, DOCX, PDF or SRT** with a free account. You get **1 free transcript a day with no signup (2 with a free account)**, and one-time packs start at **$9 for 100 transcripts** with credits that never expire. For videos without captions, it can AI-generate a transcript (about 10 credits). The trade-off: it's YouTube-only, not a meeting recorder. Full breakdown in [YTTranscript vs Notta](/yttranscript-vs-notta).
 
 ## 6. Whisper: best for privacy and offline use
 
@@ -82,7 +82,7 @@ OpenAI's open-source **Whisper** model runs on your own computer, so confidentia
 - **A whole team's calls, searchable:** Fireflies.ai.
 - **Live transcription from your phone:** Otter.ai.
 - **A pile of audio or video files:** TurboScribe.
-- **YouTube videos:** [YTTranscript](https://yttranscript.app), with no account and no subscription.
+- **YouTube videos:** [YTTranscript](https://yttranscript.app), with no extension and no subscription.
 - **Confidential recordings:** self-hosted Whisper.
 - **Stay on Notta** if you rely on its bilingual transcription or bot-free recording and 1,800 Pro minutes a month is enough.
 

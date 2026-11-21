@@ -12,7 +12,7 @@ keywords:
   - otter ai vs
 faqItems:
   - question: "What is the best free Otter.ai alternative?"
-    answer: "For meetings, Fireflies.ai is the strongest free option because its free plan includes unlimited transcription. For YouTube videos, YTTranscript is faster because you paste a URL and get text with no signup and no extension."
+    answer: "For meetings, Fireflies.ai is the strongest free option because its free plan includes unlimited transcription. For YouTube videos, YTTranscript is faster because you paste a URL and get text with no extension."
   - question: "Why do people look for Otter.ai alternatives?"
     answer: "The most common reasons are the 300-minute-per-month free cap, the 30-minute limit per conversation, and the fact that Otter is built around live meetings rather than existing video files or YouTube links."
   - question: "Can Otter.ai transcribe a YouTube video?"
@@ -60,14 +60,14 @@ The catch is AI credits. Pro includes 20/month and Business 30; once you exhaust
 
 ### 2. YTTranscript — the right tool for YouTube links
 
-If your source is a YouTube video, none of the meeting tools above are efficient. You would download the video, upload the file, wait for processing, and burn a quota credit. [YTTranscript](https://yttranscript.app) skips all of that: paste the URL, get the transcript, export as TXT, DOCX or PDF. **No signup, no browser extension, works on mobile.**
+If your source is a YouTube video, none of the meeting tools above are efficient. You would download the video, upload the file, wait for processing, and burn a quota credit. [YTTranscript](https://yttranscript.app) skips all of that: paste the URL, get the transcript, export as TXT, DOCX or PDF with a free account. **No browser extension, works on mobile.**
 
 It has a **free tier plus a paid option** for heavier use. It is deliberately narrow — it reads YouTube's caption track, so it is not a general-purpose recorder and it will not help with a live Zoom call. See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) or the direct [head-to-head with Otter](/yttranscript-vs-otter-ai).
 
 **Best for:** researchers, students, marketers and anyone pulling text out of YouTube.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> paste any YouTube link and get the full transcript in seconds — no account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> paste any YouTube link and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ### 3. TurboScribe — cheapest for bulk files
@@ -105,7 +105,7 @@ OpenAI's Whisper is open source and genuinely free if you run it yourself. It is
 - **Replacing Otter for meetings, free:** Fireflies.ai — unlimited transcription on the free plan.
 - **Replacing Otter for meetings, paid:** Fireflies at $10/seat/month annually, or Tactiq if you want something lighter.
 - **Bulk audio and video files:** TurboScribe at $10/month annually.
-- **YouTube videos:** [YTTranscript](https://yttranscript.app) — the only option here that takes a URL directly, with no signup or extension.
+- **YouTube videos:** [YTTranscript](https://yttranscript.app) — the only option here that takes a URL directly, with no extension.
 - **Video editing:** Descript.
 - **Uncaptioned audio, zero budget, technical:** Whisper.
 
@@ -114,7 +114,7 @@ OpenAI's Whisper is open source and genuinely free if you run it yourself. It is
 ## FAQ
 
 **What is the best free Otter.ai alternative?**
-For meetings, Fireflies.ai is the strongest free option because its free plan includes unlimited transcription. For YouTube videos, YTTranscript is faster because you paste a URL and get text with no signup and no extension.
+For meetings, Fireflies.ai is the strongest free option because its free plan includes unlimited transcription. For YouTube videos, YTTranscript is faster because you paste a URL and get text with no extension.
 
 **Why do people look for Otter.ai alternatives?**
 The most common reasons are the 300-minute-per-month free cap, the 30-minute limit per conversation, and the fact that Otter is built around live meetings rather than existing video files or YouTube links.
