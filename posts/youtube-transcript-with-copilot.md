@@ -16,7 +16,7 @@ faqItems:
   - question: "Can Microsoft Copilot summarize a YouTube video?"
     answer: "Yes, in Microsoft Edge: open the video, open the Copilot sidebar and ask for a summary, and it reads the page's captions. In the Copilot app or on copilot.com, a pasted YouTube link usually gets an answer built from the title and description, so paste the transcript text instead."
   - question: "Can Copilot transcribe a YouTube video to text for free?"
-    answer: "Not as a clean, downloadable transcript. Copilot summarizes and answers questions, but it doesn't export the full text. To transcribe a YouTube video to text free, paste the link into YTTranscript.app (1 free transcript a day with no account, 2 with a free account) and copy or download it as TXT, DOCX or PDF."
+    answer: "Not as a clean, downloadable transcript. Copilot summarizes and answers questions, but it doesn't export the full text. To transcribe a YouTube video to text free, paste the link into YTTranscript.app (1 free transcript a day with no account, 2 with a free account) and, with a free account, copy or download it as TXT, DOCX or PDF."
   - question: "Does Microsoft 365 Copilot work with YouTube videos at work?"
     answer: "Edge for Business can let Microsoft 365 Copilot Chat answer questions about an open YouTube video from the side pane, but the feature is off by default and admins or data-loss-prevention policies can block page access. If it's blocked, paste the transcript into Copilot Chat instead."
   - question: "Why does Copilot give a vague summary of a long YouTube video?"
@@ -66,7 +66,7 @@ This is the universal method: the Copilot app, copilot.com, Microsoft 365 Copilo
 Go to [YTTranscript](https://yttranscript.app), paste the YouTube URL and click **Get Transcript Now**. The full transcript appears in seconds. Click **Copy**. Turn timestamps off for cleaner prompts, or keep them if you want Copilot to point you to moments in the video. New to this? Our [guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) covers every option.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab the full transcript of any YouTube video in seconds, then paste it straight into Copilot. No signup, no extension, works on your phone. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab the full transcript of any YouTube video in seconds, then paste it straight into Copilot. Free account to copy; no extension, works on your phone. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ### Step 2: Paste it into Copilot with a clear prompt
@@ -112,7 +112,7 @@ For a wider look at extraction tools, see our roundup of the [best YouTube trans
 Yes, in Microsoft Edge: open the video, open the Copilot sidebar and ask for a summary, and it reads the page's captions. In the Copilot app or on copilot.com, a pasted YouTube link usually gets an answer built from the title and description, so paste the transcript text instead.
 
 **Can Copilot transcribe a YouTube video to text for free?**
-Not as a clean, downloadable transcript. Copilot summarizes and answers questions, but it doesn't export the full text. To transcribe a YouTube video to text free, paste the link into YTTranscript.app (1 free transcript a day with no account, 2 with a free account) and copy or download it as TXT, DOCX or PDF.
+Not as a clean, downloadable transcript. Copilot summarizes and answers questions, but it doesn't export the full text. To transcribe a YouTube video to text free, paste the link into YTTranscript.app (1 free transcript a day with no account, 2 with a free account) and, with a free account, copy or download it as TXT, DOCX or PDF.
 
 **Does Microsoft 365 Copilot work with YouTube videos at work?**
 Edge for Business can let Microsoft 365 Copilot Chat answer questions about an open YouTube video from the side pane, but the feature is off by default and admins or data-loss-prevention policies can block page access. If it's blocked, paste the transcript into Copilot Chat instead.

@@ -24,11 +24,11 @@ faqItems:
     answer: "Use both. YTTranscript gets you a clean, searchable text file in seconds; Gemini Notebook is better at answering questions across that text with citations back to the source."
 ---
 
-**YTTranscript and NotebookLM solve different halves of the same problem.** YTTranscript pulls a clean, downloadable transcript out of any public YouTube video in seconds — no account, no extension. NotebookLM, which Google **renamed to Gemini Notebook on July 16, 2026**, is a research workspace that reads sources you give it and answers questions with citations back to those sources. It is not a transcription tool: it imports a video's existing caption track and nothing else. For most people the right answer is **both** — pull the transcript with YTTranscript, then drop it into a notebook as a text source.
+**YTTranscript and NotebookLM solve different halves of the same problem.** YTTranscript pulls a clean, downloadable transcript out of any public YouTube video in seconds — no extension (downloads need a free account). NotebookLM, which Google **renamed to Gemini Notebook on July 16, 2026**, is a research workspace that reads sources you give it and answers questions with citations back to those sources. It is not a transcription tool: it imports a video's existing caption track and nothing else. For most people the right answer is **both** — pull the transcript with YTTranscript, then drop it into a notebook as a text source.
 
 ## What each tool actually does
 
-**YTTranscript** is a single-purpose extractor. Paste a YouTube URL, get the transcript, copy it or export it as TXT, DOCX or PDF. No signup, no Chrome extension, same behaviour on a phone as on a desktop. Timestamps are optional, so you can take a clean prose block for an AI tool or a time-coded version for citing exact moments.
+**YTTranscript** is a single-purpose extractor. Paste a YouTube URL, get the transcript, copy it or export it as TXT, DOCX or PDF with a free account. No Chrome extension, same behaviour on a phone as on a desktop. Timestamps are optional, so you can take a clean prose block for an AI tool or a time-coded version for citing exact moments.
 
 **Gemini Notebook (NotebookLM)** is a workspace. You add up to 50 sources per notebook on the free plan — PDFs, Google Docs, pasted text, websites, YouTube links — then ask questions across all of them, with inline citations pointing at the exact source passage. That citation grounding is what makes it useful for research rather than just another chatbot.
 
@@ -50,7 +50,7 @@ There's also a detail that catches researchers out: if a source video is later d
 Here's the honest part: **YTTranscript reads the same caption track.** If a video truly has zero captions, neither tool saves you — you need real speech-to-text on the audio, which is where [Whisper wins](/yttranscript-vs-whisper); see [what to do when a video has no transcript](/youtube-video-no-transcript). Where YTTranscript does beat the import is everything else: a file you own, in a format you choose, that never expires and never counts against a source limit.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and download the transcript as TXT, DOCX or PDF — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and download the transcript as TXT, DOCX or PDF — free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Side-by-side comparison
@@ -89,7 +89,7 @@ It also sidesteps the source cap: one combined text file of five short videos co
 
 Gemini Notebook has a **free tier** most individuals never outgrow — roughly 100 notebooks, 50 sources each, and a daily chat cap. Paid tiers now sit inside Google's AI subscriptions, starting around **$4.99/month** and rising through Pro and Ultra. Google confirmed pricing did not change with the rename.
 
-YTTranscript has a **free tier plus a paid option** — not unlimited, and we won't pretend otherwise. What it does have is no account and no extension, which is the part that matters when you need a transcript in ten seconds. See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript), or [how to download one](/how-to-download-youtube-transcript).
+YTTranscript has a **free tier plus a paid option** — not unlimited, and we won't pretend otherwise. What it does have is no extension and a transcript you can read without an account, which is the part that matters when you need a transcript in ten seconds. See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript), or [how to download one](/how-to-download-youtube-transcript).
 
 ## One thing neither tool does
 

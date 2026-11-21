@@ -54,7 +54,7 @@ Before trying workarounds, confirm whether captions exist. On desktop:
 On mobile, the CC icon appears in the top-right of the player. If it's missing entirely, there are no captions for that video.
 
 <div class="cta-box">
-  <strong>Videos with captions?</strong> YTTranscript extracts the full text in seconds — no account required. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>
+  <strong>Videos with captions?</strong> YTTranscript extracts the full text in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>
 </div>
 
 ## Option 1: Wait and Try Again (If the Video Is New)

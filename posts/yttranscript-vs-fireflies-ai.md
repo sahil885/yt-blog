@@ -19,7 +19,7 @@ faqItems:
   - question: "Does Fireflies.ai have a free plan?"
     answer: "Yes. Fireflies has a free plan with unlimited transcription but only 400 minutes of storage per team, a 2-hour per-meeting recording cap, and restrictions on transcript downloads. Paid plans start around $10 per user per month billed annually."
   - question: "Do I need to create an account to use YTTranscript?"
-    answer: "No. YTTranscript works without a signup and without a browser extension — you paste a YouTube URL and get the transcript. It has a free tier plus a paid option for heavier use."
+    answer: "Not to read a transcript: it works without a browser extension, and you get 1 transcript a day without an account. Copying and downloads need a free account. It has a free tier plus a paid option for heavier use."
   - question: "Can Fireflies.ai handle a video that has no captions?"
     answer: "Yes. Fireflies runs its own speech-to-text engine, so it can transcribe audio that has no existing captions. YTTranscript relies on YouTube's caption data, so a video with captions fully disabled needs a different approach."
 ---
@@ -30,7 +30,7 @@ faqItems:
 
 Fireflies.ai sits in your calendar. It sends a notetaker bot into scheduled meetings, captures the audio, and pushes summaries into CRMs and Slack. It also has an **Uploads** feature that accepts YouTube videos and audio files in MP3, M4A, WAV, MP4 and WEBM — uploads are capped at 150 minutes each. So YouTube transcription works, it just isn't the product's centre of gravity.
 
-YTTranscript does one thing: it pulls the transcript from a YouTube URL. There's no bot, no calendar connection, no upload wait, and no signup. That narrowness is the point — for the specific task of "I need the text of this video," fewer steps wins.
+YTTranscript does one thing: it pulls the transcript from a YouTube URL. There's no bot, no calendar connection, and no upload wait. That narrowness is the point — for the specific task of "I need the text of this video," fewer steps wins.
 
 ## Feature Comparison
 
@@ -52,7 +52,7 @@ YTTranscript does one thing: it pulls the transcript from a YouTube URL. There's
 | Video with no captions at all | Not supported | Supported (own ASR engine) |
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube link and get the full transcript in seconds — no account, no extension, no upload wait. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube link and get the full transcript in seconds — no extension, no upload wait; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Speed: The Real Difference
@@ -107,9 +107,9 @@ For YouTube specifically, YTTranscript is faster because you paste a URL and get
 Yes. Fireflies has a free plan with unlimited transcription but only 400 minutes of storage per team, a 2-hour per-meeting recording cap, and restrictions on transcript downloads. Paid plans start around $10 per user per month billed annually.
 
 **Do I need to create an account to use YTTranscript?**
-No. YTTranscript works without a signup and without a browser extension — you paste a YouTube URL and get the transcript. It has a free tier plus a paid option for heavier use.
+Not to read a transcript: it works without a browser extension, and you get 1 transcript a day without an account. Copying and downloads need a free account. It has a free tier plus a paid option for heavier use.
 
 **Can Fireflies.ai handle a video that has no captions?**
 Yes. Fireflies runs its own speech-to-text engine, so it can transcribe audio that has no existing captions. YTTranscript relies on YouTube's caption data, so a video with captions fully disabled needs a different approach.
 
-**[→ Get your YouTube transcript free at YTTranscript.app — no signup, no extension, exports to TXT, DOCX and PDF](https://yttranscript.app)**
+**[→ Get your YouTube transcript free at YTTranscript.app — no extension, exports to TXT, DOCX and PDF with a free account](https://yttranscript.app)**

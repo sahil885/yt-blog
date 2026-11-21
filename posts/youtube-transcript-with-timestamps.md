@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcript with Timestamps (Free)"
-description: "Get a YouTube transcript with clickable timestamps. Copy it, download as TXT or SRT, or jump to any moment. Free, no login."
+description: "Get a YouTube transcript with clickable timestamps. Copy it, download as TXT or SRT, or jump to any moment. Free to start."
 date: "2026-07-27"
 author: "YTTranscript Team"
 category: "How-To"
@@ -17,7 +17,7 @@ howToSteps:
   - name: "Copy the YouTube video URL"
     text: "Navigate to the YouTube video and copy the URL from your browser address bar."
   - name: "Open YTTranscript"
-    text: "Go to yttranscript.app — no account or extension needed."
+    text: "Go to yttranscript.app — no extension needed."
   - name: "Paste URL and generate"
     text: "Paste the URL and click Get Transcript Now. The transcript appears with timestamps on the left of each segment within 2-5 seconds."
   - name: "Toggle timestamps and download"
@@ -51,7 +51,7 @@ Timestamps turn a YouTube transcript from a block of text into a navigable docum
 You can then choose to download with or without timestamps — the toggle is available before you download. All three formats (TXT, DOCX, PDF) support timestamp inclusion.
 
 <div class="cta-box">
-  <strong>Get a timestamped YouTube transcript free:</strong> Paste any YouTube URL and download the full transcript with timestamps included — no signup needed. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
+  <strong>Get a timestamped YouTube transcript free:</strong> Paste any YouTube URL and download the full transcript with timestamps included — 2 a day free with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
 </div>
 
 ### Method 2: YouTube's Built-in Transcript Viewer
@@ -104,4 +104,4 @@ Any video with captions will have timestamps. Videos with no captions at all hav
 
 Timestamps are what separate a raw transcript from a useful reference document. Getting a YouTube transcript with timestamps from [YTTranscript](https://yttranscript.app) takes less than 10 seconds.
 
-**[→ Get any YouTube transcript with timestamps — free, no account, download as TXT, DOCX, or PDF](https://yttranscript.app)**
+**[→ Get any YouTube transcript with timestamps — free to start, download as TXT, DOCX, or PDF with a free account](https://yttranscript.app)**

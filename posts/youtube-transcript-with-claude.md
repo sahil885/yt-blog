@@ -40,7 +40,7 @@ Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube video URL,
 
 Click **Copy** to copy the entire transcript to your clipboard. For a 30-minute video, this is typically 3,000–6,000 words.
 
-No account required. Works on any device.
+Copying needs a free account. Works on any device.
 
 <div class="cta-box">
   <strong>Get any YouTube transcript free:</strong> Paste the URL, get the full text in seconds, copy it to use with Claude. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>

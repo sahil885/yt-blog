@@ -40,7 +40,7 @@ Both tools show up when you search for a "YouTube transcript generator," but the
 | Main job | Get a YouTube video's transcript | Transcribe, subtitle, translate and dub video |
 | Account required | No | Needed to save work and use full features |
 | Extension / install | None | None (optional Chrome extension for live captions) |
-| Free option | 2 transcripts/day, no signup | Free web tools + free trial (no card) |
+| Free option | 1/day free, 2/day with a free account | Free web tools + free trial (no card) |
 | Paid pricing | One-time packs from $9 (100 transcripts) | Lite ~$29/mo (~$23/mo yearly); pay-as-you-go ~$12 per 60 min |
 | Works on videos without captions | Yes, AI transcription (~10 credits, pack needed) | Yes (speech-to-text) |
 | Speaker labels | No | Yes |
@@ -54,12 +54,12 @@ Both tools show up when you search for a "YouTube transcript generator," but the
 ## Where YTTranscript wins
 
 - **Speed for YouTube links.** There's no upload or processing queue — YTTranscript returns the transcript YouTube already has, so a two-hour lecture comes back in seconds.
-- **Zero setup.** No account, no email, no extension. That matters on a work laptop, a library computer, or your phone.
+- **Zero setup.** No extension, and no account needed to read a transcript. That matters on a work laptop, a library computer, or your phone.
 - **No subscription.** The free tier covers occasional use; packs are one-time purchases instead of a monthly bill.
 - **Clean text for AI.** Exports are plain, readable text you can paste straight into [ChatGPT](/youtube-transcript-for-chatgpt), [Claude](/youtube-transcript-with-claude) or [NotebookLM](/youtube-transcript-for-notebooklm) for summaries and Q&A.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube link and get the full transcript in seconds — no account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube link and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Where Maestra wins
@@ -104,4 +104,4 @@ Yes, with a pack: YTTranscript can AI-generate a transcript from the audio for a
 **Which tool is better for dubbing or translating a video?**
 Maestra. It supports transcription, subtitle translation and AI voiceover in 125+ languages, plus real-time captions for live events. YTTranscript does not dub or generate voiceovers.
 
-**Need a YouTube transcript right now? [Paste the link into YTTranscript.app](https://yttranscript.app) — no signup, no extension, free to start.**
+**Need a YouTube transcript right now? [Paste the link into YTTranscript.app](https://yttranscript.app) — no extension, free to start.**

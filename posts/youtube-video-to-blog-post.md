@@ -62,7 +62,7 @@ Go to [YTTranscript](https://yttranscript.app) and paste the YouTube video URL. 
 Download the transcript as a DOCX file — this gives you a ready-to-edit Word document as your raw material.
 
 <div class="cta-box">
-  <strong>Get the raw material first:</strong> Paste the YouTube URL and download the full transcript as a DOCX — free, no signup. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
+  <strong>Get the raw material first:</strong> Paste the YouTube URL and download the full transcript as a DOCX — free with a free account. <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
 </div>
 
 ### Step 2: Clean up the raw transcript

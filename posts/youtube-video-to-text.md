@@ -1,6 +1,6 @@
 ---
 title: "YouTube Video to Text: How to Convert Any YouTube Video Free"
-description: "Convert any YouTube video to text instantly — no software, no signup, no cost. Get the full transcript in seconds with one free tool."
+description: "Convert any YouTube video to text instantly — no software, no extension, free to start. Get the full transcript in seconds with one free tool."
 date: "2026-05-01"
 author: "YTTranscript Team"
 category: "How-To"
@@ -17,7 +17,7 @@ howToSteps:
   - name: "Copy the YouTube video URL"
     text: "Navigate to the YouTube video you want to convert. Copy the full URL from your browser address bar."
   - name: "Go to YTTranscript"
-    text: "Open yttranscript.app in any browser — no account, extension, or credit card required."
+    text: "Open yttranscript.app in any browser — no extension or credit card required."
   - name: "Paste the URL and generate"
     text: "Paste the URL into the input field and click Get Transcript Now. The full text appears within 2-5 seconds."
   - name: "Copy or download"
@@ -39,7 +39,7 @@ faqItems:
 
 Every YouTube video contains potentially thousands of words of valuable information — locked inside an audio track you have to sit through in real time. Converting a YouTube video to text unlocks that information instantly. You can search it, copy it, paste it into an AI tool, or save it as a document — in seconds, for free.
 
-## The Fastest Way: YTTranscript (Free, No Signup)
+## The Fastest Way: YTTranscript (Free)
 
 The quickest way to convert a YouTube video to text is [YTTranscript](https://yttranscript.app). It works in any browser, on any device, and requires zero setup.
 
@@ -52,7 +52,7 @@ The quickest way to convert a YouTube video to text is [YTTranscript](https://yt
 Within 2-5 seconds, the full text of the video appears on screen. You can copy it to your clipboard or download it as a TXT, DOCX, or PDF file — all free, all in one click.
 
 <div class="cta-box">
-  <strong>Convert any YouTube video to text free:</strong> No software, no account, no extension. Paste the URL and get the full text in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
+  <strong>Convert any YouTube video to text free:</strong> No software, no extension. Paste the URL and get the full text in seconds — 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
 </div>
 
 ## Why Convert YouTube Videos to Text?
@@ -112,4 +112,4 @@ Yes, as long as the Short has captions enabled.
 
 Converting a YouTube video to text is one of those workflows that becomes indispensable once you start doing it regularly. Whether you're researching, studying, creating content, or just trying to find something a speaker said 40 minutes in, having the full text at your fingertips changes everything.
 
-**[→ Convert any YouTube video to text free — 2-5 seconds, no signup, TXT/DOCX/PDF download](https://yttranscript.app)**
+**[→ Convert any YouTube video to text free — 2-5 seconds, TXT/DOCX/PDF download with a free account](https://yttranscript.app)**

@@ -57,7 +57,7 @@ The short version: DownSub gives you the file. YTTranscript gives you the text.
 | Clean copy-paste text | Yes | Requires extra formatting |
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get any YouTube transcript as clean text, DOCX, or PDF — no account, no ads, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get any YouTube transcript as clean text, DOCX, or PDF — no ads, no extension; downloads need a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## When to Use DownSub
@@ -127,4 +127,4 @@ Yes, both tools support YouTube Shorts as long as the video has captions. YTTran
 
 ---
 
-**Need a clean YouTube transcript right now?** [YTTranscript.app](https://yttranscript.app) is free, instant, and requires no account or extension — just paste the URL.
+**Need a clean YouTube transcript right now?** [YTTranscript.app](https://yttranscript.app) is free to start, instant, and needs no extension — just paste the URL.

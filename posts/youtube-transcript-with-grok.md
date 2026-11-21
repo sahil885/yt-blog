@@ -51,7 +51,7 @@ This works every time, for any length of video.
 Go to [YTTranscript](https://yttranscript.app), paste the YouTube URL, and click **Get Transcript Now**. The full text appears in 2-5 seconds. Click **Copy**. New to this? See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab any YouTube transcript in seconds, then paste it straight into Grok. No signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab any YouTube transcript in seconds, then paste it straight into Grok. No extension; a free account lets you copy it (2 a day free). <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ### Step 2: Paste it into Grok with a clear prompt

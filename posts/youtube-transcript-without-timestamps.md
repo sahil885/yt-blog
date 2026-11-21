@@ -1,6 +1,6 @@
 ---
 title: "How to Get a YouTube Transcript Without Timestamps (Free)"
-description: "Need clean text with no timestamps? Here's how to get a YouTube transcript without timestamps — copy or download plain text in seconds, free and no signup."
+description: "Need clean text with no timestamps? Here's how to get a YouTube transcript without timestamps — copy or download plain text in seconds, free to start."
 date: "2026-06-24"
 author: "YTTranscript Team"
 category: "How-To"
@@ -19,7 +19,7 @@ faqItems:
   - question: "Can I remove timestamps from a transcript I already have?"
     answer: "Yes. Paste it into ChatGPT or Claude and ask it to remove the timestamps, or use find-and-replace with a simple pattern in any text editor. Both take under a minute."
   - question: "Is getting a clean transcript free?"
-    answer: "Yes. YTTranscript's free tier needs no account or extension and covers 1 transcript a day without an account (2 with a free account). You can copy the timestamp-free text or download it as TXT, DOCX, or PDF."
+    answer: "Yes. YTTranscript's free tier needs no extension and covers 1 transcript a day without an account (2 with a free account). With a free account you can copy the timestamp-free text or download it as TXT, DOCX, or PDF."
   - question: "Do I need timestamps for ChatGPT or a blog post?"
     answer: "No. For summaries, blog drafts, and quoting, clean text without timestamps is better — timestamps just add noise. Keep timestamps only when you need to reference exact moments in the video."
 ---
@@ -39,7 +39,7 @@ In all these cases, the time markers add noise and force you to clean up before 
 
 ## The Fastest Way: Get Clean Text in One Click
 
-The simplest method is to use a tool that outputs clean text by default. Open [YTTranscript](https://yttranscript.app), paste the video URL, and you'll get the full transcript as readable paragraphs — **no timestamps to strip out**. Copy it, or download it as TXT, DOCX, or PDF. No signup, no extension, and it works on mobile.
+The simplest method is to use a tool that outputs clean text by default. Open [YTTranscript](https://yttranscript.app), paste the video URL, and you'll get the full transcript as readable paragraphs — **no timestamps to strip out**. Copy it, or download it as TXT, DOCX, or PDF with a free account. No extension, and it works on mobile.
 
 This is the whole point of a dedicated tool versus YouTube's panel: you get usable text instead of a timestamped list. If you're new to it, the [guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) walks through the basics, and the [copy a YouTube transcript guide](/how-to-copy-youtube-transcript) covers copying cleanly.
 
@@ -54,7 +54,7 @@ If you've already pulled a transcript that has timecodes (for example, from YouT
 **Option B — Find-and-replace.** In any text editor that supports regular expressions, replace the timestamp pattern (e.g. `\d{1,2}:\d{2}`) with nothing. The timecodes vanish and the words remain.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Skip the cleanup entirely — get a clean, timestamp-free YouTube transcript in seconds. No signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Skip the cleanup entirely — get a clean, timestamp-free YouTube transcript in seconds. No extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## With Timestamps vs Without: Which Do You Need?
@@ -88,7 +88,7 @@ YouTube's built-in transcript panel attaches a timestamp to every line so you ca
 Yes. Paste it into ChatGPT or Claude and ask it to remove the timestamps, or use find-and-replace with a simple pattern in any text editor. Both take under a minute.
 
 **Is getting a clean transcript free?**
-Yes. YTTranscript's free tier needs no account or extension and covers 1 transcript a day without an account (2 with a free account). You can copy the timestamp-free text or download it as TXT, DOCX, or PDF.
+Yes. YTTranscript's free tier needs no extension and covers 1 transcript a day without an account (2 with a free account). With a free account you can copy the timestamp-free text or download it as TXT, DOCX, or PDF.
 
 **Do I need timestamps for ChatGPT or a blog post?**
 No. For summaries, blog drafts, and quoting, clean text without timestamps is better — timestamps just add noise. Keep timestamps only when you need to reference exact moments in the video.

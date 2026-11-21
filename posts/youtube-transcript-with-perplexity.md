@@ -1,6 +1,6 @@
 ---
 title: "How to Use a YouTube Transcript with Perplexity AI (Free Method)"
-description: "Analyze any YouTube video in Perplexity AI by pasting its transcript. Free, no signup, no extension — get cited summaries and answers in minutes."
+description: "Analyze any YouTube video in Perplexity AI by pasting its transcript. Free to start, no extension — get cited summaries and answers in minutes."
 date: "2026-06-11"
 author: "YTTranscript Team"
 category: "AI Tools"
@@ -17,7 +17,7 @@ faqItems:
   - question: "Why does Perplexity give vague answers when I just paste a YouTube URL?"
     answer: "When you give Perplexity only a URL, it often relies on the page title, description, and comments rather than the full spoken content. Pasting the actual transcript gives it the complete source text, so answers become specific and quotable."
   - question: "How do I get a YouTube transcript for Perplexity for free?"
-    answer: "Paste the video URL into YTTranscript.app — the full transcript appears in seconds, free, with no signup or extension. Copy it and paste it into Perplexity with your question."
+    answer: "Paste the video URL into YTTranscript.app — the full transcript appears in seconds, free, with no extension. Sign in with a free account, copy it and paste it into Perplexity with your question."
   - question: "What makes Perplexity different from ChatGPT for analyzing videos?"
     answer: "Perplexity adds live web search with citations. Combined with a transcript, it can verify the video's claims against current sources — useful for fact-checking and research that ChatGPT's offline answers can't match."
   - question: "What if the transcript is too long for one Perplexity prompt?"
@@ -26,7 +26,7 @@ faqItems:
 
 Perplexity AI is the go-to tool for **research with citations** — but it can't watch a YouTube video. Paste a video URL and ask for a summary, and you'll often get a vague answer built from the title, description, and a few comments rather than what was actually said.
 
-The fix takes one minute: give Perplexity the **full transcript**. Here's the exact workflow, using the free transcript extractor at [YTTranscript.app](https://yttranscript.app) — no signup, no extension, works [on mobile](/youtube-transcript-on-mobile) too.
+The fix takes one minute: give Perplexity the **full transcript**. Here's the exact workflow, using the free transcript extractor at [YTTranscript.app](https://yttranscript.app) — no extension, works [on mobile](/youtube-transcript-on-mobile) too.
 
 ## Why URLs alone don't work in Perplexity
 
@@ -88,7 +88,7 @@ No. Perplexity can't watch video or listen to audio — it works with text. Past
 When you give Perplexity only a URL, it often relies on the page title, description, and comments rather than the full spoken content. Pasting the actual transcript gives it the complete source text, so answers become specific and quotable.
 
 **How do I get a YouTube transcript for Perplexity for free?**
-Paste the video URL into YTTranscript.app — the full transcript appears in seconds, free, with no signup or extension. Copy it and paste it into Perplexity with your question.
+Paste the video URL into YTTranscript.app — the full transcript appears in seconds, free, with no extension. Sign in with a free account, copy it and paste it into Perplexity with your question.
 
 **What makes Perplexity different from ChatGPT for analyzing videos?**
 Perplexity adds live web search with citations. Combined with a transcript, it can verify the video's claims against current sources — useful for fact-checking and research that ChatGPT's offline answers can't match.

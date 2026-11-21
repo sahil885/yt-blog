@@ -74,7 +74,7 @@ None of this makes yt-dlp bad. It makes it a tool with maintenance cost — whic
 
 **Use yt-dlp if** you are a developer or researcher pulling captions from **many videos at once**, you want transcripts inside a scripted pipeline, you need channel or playlist archiving, or you specifically want the raw timed caption file. Nothing beats it for [bulk playlist transcript jobs](/how-to-download-youtube-playlist-transcripts). It is free forever and you control the whole pipeline.
 
-**Use an online tool like [YTTranscript](https://yttranscript.app) if** you need a handful of transcripts, want them already cleaned and readable, are working [on a phone or tablet](/youtube-transcript-on-mobile), or don't want to babysit a toolchain that breaks when YouTube ships a change. There's no signup and no extension, and you can export straight to TXT, DOCX, or PDF — useful when the transcript is going into a document rather than a database.
+**Use an online tool like [YTTranscript](https://yttranscript.app) if** you need a handful of transcripts, want them already cleaned and readable, are working [on a phone or tablet](/youtube-transcript-on-mobile), or don't want to babysit a toolchain that breaks when YouTube ships a change. There's no extension, and with a free account you can export straight to TXT, DOCX, or PDF — useful when the transcript is going into a document rather than a database.
 
 **Use YouTube's own transcript panel if** you just need to skim or grab a couple of lines. It costs nothing and requires nothing. It's genuinely fine for that.
 

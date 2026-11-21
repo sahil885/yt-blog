@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcript with Meta AI: How to Summarize Any Video Free"
-description: "Learn how to summarize any YouTube video with Meta AI. Paste a free transcript from YTTranscript and get instant summaries, notes, and answers — no signup."
+description: "Learn how to summarize any YouTube video with Meta AI. Paste a free transcript from YTTranscript and get instant summaries, notes, and answers for free."
 date: "2026-07-13"
 author: "YTTranscript Team"
 category: "AI Tools"
@@ -14,7 +14,7 @@ faqItems:
   - question: "Can Meta AI summarize a YouTube video directly?"
     answer: "No. Meta AI is a text model and cannot reliably open or watch YouTube links. The dependable method is to grab the video's transcript first, then paste that text into Meta AI for a summary."
   - question: "Is using Meta AI with a transcript free?"
-    answer: "Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (1 transcript a day without an account, 2 with a free account), with no signup or extension required."
+    answer: "Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (1 transcript a day without an account, 2 with a free account), with no extension required."
   - question: "Where can I use Meta AI for this?"
     answer: "Meta AI works at meta.ai in your browser and inside WhatsApp, Messenger, Instagram, and Facebook. The paste-a-transcript workflow is identical everywhere."
   - question: "How long can the transcript be?"
@@ -38,7 +38,7 @@ That is why the results are so much better when you hand Meta AI the **full tran
 The whole process takes under a minute and works on desktop or mobile.
 
 1. **Copy the video link.** Open the YouTube video and copy its URL from the address bar or the Share button.
-2. **Get the transcript free.** Go to **[YTTranscript.app](https://yttranscript.app)**, paste the link, and the full transcript appears in seconds. No account and no extension. If you need timestamps for citing specific moments, see our guide on [transcripts with timestamps](/youtube-transcript-with-timestamps).
+2. **Get the transcript free.** Go to **[YTTranscript.app](https://yttranscript.app)**, paste the link, and the full transcript appears in seconds. No extension; sign in with a free account to copy it. If you need timestamps for citing specific moments, see our guide on [transcripts with timestamps](/youtube-transcript-with-timestamps).
 3. **Copy the transcript.** Select all the text and copy it — or export it as TXT, DOCX, or PDF if you want to keep a copy.
 4. **Open Meta AI.** Head to meta.ai in your browser, or open a chat with Meta AI inside WhatsApp, Messenger, or Instagram.
 5. **Paste and prompt.** Paste the transcript, then add an instruction like *"Summarize this YouTube transcript into 5 key points and one takeaway."* Send it, and your summary appears almost instantly.
@@ -46,7 +46,7 @@ The whole process takes under a minute and works on desktop or mobile.
 That's it. The same five steps power everything from study notes to meeting recaps.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab a clean, copy-ready transcript in seconds — no login, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab a clean, copy-ready transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Best Prompts to Use with Meta AI
@@ -91,7 +91,7 @@ For very long videos, Meta AI may truncate an enormous paste. Split the transcri
 No. Meta AI is a text model and cannot reliably open or watch YouTube links. The dependable method is to grab the video's transcript first, then paste that text into Meta AI for a summary.
 
 **Is using Meta AI with a transcript free?**
-Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (1 transcript a day without an account, 2 with a free account), with no signup or extension required.
+Yes. Meta AI is free to use, and getting the transcript from YTTranscript.app is free too (1 transcript a day without an account, 2 with a free account), with no extension required.
 
 **Where can I use Meta AI for this?**
 Meta AI works at meta.ai in your browser and inside WhatsApp, Messenger, Instagram, and Facebook. The paste-a-transcript workflow is identical everywhere.
@@ -102,4 +102,4 @@ Short and medium videos paste in fine. For very long videos, split the transcrip
 **Which is better for YouTube summaries — Meta AI, ChatGPT, or Claude?**
 All three work well once you paste a clean transcript. Claude handles the longest transcripts, ChatGPT is great for structured notes, and Meta AI is convenient if you already live in WhatsApp or Instagram.
 
-**Ready to try it? [Get your free YouTube transcript at YTTranscript.app](https://yttranscript.app) — no signup, no extension, just paste and go.**
+**Ready to try it? [Get your free YouTube transcript at YTTranscript.app](https://yttranscript.app) — no extension, just paste and go.**
