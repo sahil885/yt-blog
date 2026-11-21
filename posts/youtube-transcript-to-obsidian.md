@@ -47,7 +47,7 @@ A transcript solves this. Once the text is in Obsidian, you can search it, quote
 The transcript is now in your vault. From here, you can edit, highlight, and link it however you like.
 
 <div class="cta-box">
-  <strong>Get the transcript in seconds:</strong> Paste any YouTube URL into YTTranscript and copy the full text — free, no account required. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Get the transcript in seconds:</strong> Paste any YouTube URL into YTTranscript and copy the full text — free with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Method 2: Download TXT and Drop Into Your Vault

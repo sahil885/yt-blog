@@ -12,7 +12,7 @@ keywords:
   - youtube transcript safari
 faqItems:
   - question: "Can I get a YouTube transcript on my iPhone?"
-    answer: "Yes. Copy the video's link from the YouTube app's Share sheet, open yttranscript.app in Safari, paste the link, and you get the full transcript. No app to install and no signup."
+    answer: "Yes. Copy the video's link from the YouTube app's Share sheet, open yttranscript.app in Safari, paste the link, and you get the full transcript. No app to install; a free account lets you copy or download it."
   - question: "Does the YouTube iPhone app show a transcript?"
     answer: "The YouTube app's built-in transcript view is limited and hard to copy or export from. A web tool gives you the full text you can actually copy, share, or save as a file."
   - question: "Do I need to install an app?"
@@ -20,7 +20,7 @@ faqItems:
   - question: "Can I save the transcript as a file on iPhone?"
     answer: "Yes. YTTranscript can export to TXT, DOCX, or PDF, which you can save to Files, iCloud, or share to Notes and other apps."
   - question: "Is it free on mobile?"
-    answer: "YTTranscript has a free tier plus a paid option, with no signup and no app. For a single video the free tier is usually enough on iPhone."
+    answer: "YTTranscript has a free tier plus a paid option, with no app to install. For a single video the free tier is usually enough on iPhone."
 ---
 
 **Yes — you can get a full YouTube transcript on an iPhone, free, with no app to install.** Copy the video link from the YouTube app's **Share** sheet, open [yttranscript.app](https://yttranscript.app) in Safari, paste the link, and the full transcript appears. You can then copy it or save it to Files. The YouTube app has a built-in transcript view, but it's cramped and awkward to copy from — a web tool is faster and gives you exportable text.
@@ -38,7 +38,7 @@ Here's the exact flow on iOS.
 The same steps work on iPad and, with the Android share sheet, on Android too — see the general [transcript on mobile](/youtube-transcript-on-mobile) guide.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> On your iPhone, paste a YouTube link into Safari and get the full transcript — no app, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> On your iPhone, paste a YouTube link into Safari and get the full transcript — no app; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## iPhone options compared
@@ -57,12 +57,12 @@ A link-based tool reads YouTube's **caption track**, so the video needs captions
 
 ## The bottom line
 
-The fastest way to get a YouTube transcript on iPhone is to **copy the link and paste it into YTTranscript in Safari** — no App Store download, no signup, and you can save the result straight to Files. Once you have the text you can [download it](/how-to-download-youtube-transcript), drop it into Notes, or feed it to an AI app for a summary.
+The fastest way to get a YouTube transcript on iPhone is to **copy the link and paste it into YTTranscript in Safari** — no App Store download, and with a free account you can save the result straight to Files. Once you have the text you can [download it](/how-to-download-youtube-transcript), drop it into Notes, or feed it to an AI app for a summary.
 
 ## Frequently asked questions
 
 **Can I get a YouTube transcript on my iPhone?**
-Yes. Copy the video's link from the YouTube app's Share sheet, open yttranscript.app in Safari, paste the link, and you get the full transcript. No app to install and no signup.
+Yes. Copy the video's link from the YouTube app's Share sheet, open yttranscript.app in Safari, paste the link, and you get the full transcript. No app to install; a free account lets you copy or download it.
 
 **Does the YouTube iPhone app show a transcript?**
 The YouTube app's built-in transcript view is limited and hard to copy or export from. A web tool gives you the full text you can actually copy, share, or save as a file.
@@ -74,6 +74,6 @@ No. The whole process runs in Safari (or any mobile browser). Because it only ne
 Yes. YTTranscript can export to TXT, DOCX, or PDF, which you can save to Files, iCloud, or share to Notes and other apps.
 
 **Is it free on mobile?**
-YTTranscript has a free tier plus a paid option, with no signup and no app. For a single video the free tier is usually enough on iPhone.
+YTTranscript has a free tier plus a paid option, with no app to install. For a single video the free tier is usually enough on iPhone.
 
 **On your phone right now? [Get any YouTube transcript free at YTTranscript.app](https://yttranscript.app) — no app, straight from Safari.**

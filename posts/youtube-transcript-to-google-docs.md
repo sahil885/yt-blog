@@ -51,7 +51,7 @@ This takes about 30 seconds and works perfectly when you just need the raw text 
 The entire transcript is now in your Google Doc. You can add a title, organise sections with headings, highlight key passages, add comments, and share it with collaborators.
 
 <div class="cta-box">
-  <strong>Get any YouTube transcript instantly:</strong> Paste the URL, copy the text, and it's in your Google Doc in under a minute — free, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Get any YouTube transcript instantly:</strong> Paste the URL, copy the text, and it's in your Google Doc in under a minute — free, with a free account to copy. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Method 2: Download as DOCX, Open in Google Docs (Better Formatting)

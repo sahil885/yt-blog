@@ -30,7 +30,7 @@ faqItems:
   - question: "Can I search my YouTube transcripts in Notion?"
     answer: "Yes. Once the transcript is pasted into Notion, it becomes fully searchable using Notion's built-in search — one of the biggest advantages over keeping transcripts in files on your computer."
   - question: "Is this workflow free?"
-    answer: "Yes. YTTranscript has a free tier with no signup (1 transcript a day without an account, 2 with a free account). Notion has a free tier that is sufficient for this workflow."
+    answer: "Yes. YTTranscript has a free tier (1 transcript a day without an account, 2 with a free account). Notion has a free tier that is sufficient for this workflow."
 ---
 
 **To save a YouTube transcript to Notion, copy the text from [YTTranscript](https://yttranscript.app) and paste it into any Notion page** — it becomes searchable, taggable notes in under a minute. Here's the full workflow.
@@ -58,7 +58,7 @@ This guide shows you exactly how to do it, for free, in under a minute per video
 Go to [YTTranscript](https://yttranscript.app) and paste the YouTube video URL. Click **Get Transcript Now**. The full transcript appears in 2-5 seconds.
 
 <div class="cta-box">
-  <strong>Start here — get the transcript in seconds:</strong> Free, no account, paste any YouTube URL and have the full text ready to copy. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>
+  <strong>Start here — get the transcript in seconds:</strong> Free with a free account: paste any YouTube URL and have the full text ready to copy. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>
 </div>
 
 ### Step 2: Copy the transcript
@@ -126,10 +126,10 @@ Yes. Notion handles plain text and you can add headings, highlights, comments, a
 Yes — once pasted, the transcript is fully searchable using Notion's built-in search.
 
 **Is this workflow free?**
-Yes. [YTTranscript](https://yttranscript.app) has a free tier with no signup (1 transcript a day without an account, 2 with a free account). Notion's free tier is sufficient for this workflow.
+Yes. [YTTranscript](https://yttranscript.app) has a free tier (1 transcript a day without an account, 2 with a free account). Notion's free tier is sufficient for this workflow.
 
 ---
 
 A YouTube transcript in Notion is more than a note — it's a permanent, searchable, annotatable knowledge asset. The workflow takes under a minute per video, and the compound value over months and years is enormous.
 
-**[→ Get any YouTube transcript to paste into Notion — free, no signup, results in seconds](https://yttranscript.app)**
+**[→ Get any YouTube transcript to paste into Notion — free, results in seconds](https://yttranscript.app)**

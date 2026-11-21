@@ -1,6 +1,6 @@
 ---
-title: "How to Convert a YouTube Transcript to Markdown (Free, No Signup)"
-description: "Convert any YouTube transcript to clean Markdown for Obsidian, Notion, GitHub, or your blog. Free, no signup, no extension — copy, format, and export fast."
+title: "How to Convert a YouTube Transcript to Markdown (Free)"
+description: "Convert any YouTube transcript to clean Markdown for Obsidian, Notion, GitHub, or your blog. Free, no extension: copy with a free account, format and export."
 date: "2026-06-24"
 author: "YTTranscript Team"
 category: "Productivity"
@@ -26,7 +26,7 @@ faqItems:
 
 Markdown is the universal format for notes, documentation, and web content. It powers **Obsidian**, **Notion**, **GitHub**, and most static-site blogs. So when you want to save the words from a YouTube video — for study notes, a blog draft, or your knowledge base — **Markdown** is almost always the format you actually want them in.
 
-Here is how to turn any YouTube video into clean Markdown in under two minutes, free and with no signup.
+Here is how to turn any YouTube video into clean Markdown in under two minutes, for free.
 
 ## Why Convert a YouTube Transcript to Markdown
 
@@ -39,9 +39,9 @@ Common reasons people convert a YouTube transcript to Markdown:
 - **Documentation** — capture a walkthrough or conference talk as reference docs in a Git repo
 - **AI prompts** — feed clean, sectioned text to ChatGPT or Claude for summaries and rewrites
 
-## Step 1: Get the Transcript (Free, No Signup)
+## Step 1: Get the Transcript (Free)
 
-Start with the raw text. Open [YTTranscript](https://yttranscript.app), paste the YouTube URL, and you will have the full transcript in a few seconds — no account, no extension, no payment. If you are new to the tool, the [step-by-step guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) covers the basics.
+Start with the raw text. Open [YTTranscript](https://yttranscript.app), paste the YouTube URL, and you will have the full transcript in a few seconds — no extension, no payment; copying needs a free account. If you are new to the tool, the [step-by-step guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) covers the basics.
 
 Copy the text, or use the download button to save it as a **TXT** file. That TXT is the foundation for your Markdown — and here is the useful part: **plain text is already valid Markdown.** A `.txt` file full of sentences is a perfectly legal `.md` file too. The only thing missing is structure.
 
@@ -58,7 +58,7 @@ You have two good options, depending on how polished you need it.
 In about a minute you get a structured document with headings, emphasis, and clean paragraphs — ready to drop anywhere. Our guides on [using YouTube transcripts with ChatGPT](/youtube-transcript-for-chatgpt) and [with Claude](/youtube-transcript-with-claude) cover the exact prompts and workflows.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab a clean YouTube transcript in seconds, then format it as Markdown however you like. No signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab a clean YouTube transcript in seconds, then format it as Markdown however you like. No extension; copy with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Three Ways to Format a Transcript as Markdown
@@ -84,7 +84,7 @@ If you need to keep the speaker timing, you can also pull a version [with timest
 
 ## Save Time: Download Once, Reuse Everywhere
 
-The smartest workflow is to grab the transcript **once** and keep the Markdown file. From a single `.md` you can paste into Notion today, sync it to Obsidian tomorrow, and pull a quote into a blog post next week — no re-extraction needed. Because [YTTranscript](https://yttranscript.app) requires no account and gives you 1 free transcript a day (2 with a free account), there is little friction to building this habit.
+The smartest workflow is to grab the transcript **once** and keep the Markdown file. From a single `.md` you can paste into Notion today, sync it to Obsidian tomorrow, and pull a quote into a blog post next week — no re-extraction needed. Because [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day without an account (2, with copying, on a free account), there is little friction to building this habit.
 
 That is the whole point of Markdown: write once, use anywhere. A YouTube transcript becomes a portable, future-proof asset instead of a one-off copy-paste.
 

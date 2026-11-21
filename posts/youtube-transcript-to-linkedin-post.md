@@ -38,7 +38,7 @@ The transcript gives you the raw material: the arguments, the examples, the phra
 
 Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube URL, and click **Get Transcript Now**. Copy the full text.
 
-This takes about 10 seconds. No account needed.
+This takes about 10 seconds with a free account.
 
 <div class="cta-box">
   <strong>Get any YouTube transcript instantly:</strong> Paste the URL, copy the text, and you're ready to create. <a href="https://yttranscript.app">→ Try YTTranscript.app free</a>

@@ -1,6 +1,6 @@
 ---
-title: "How to Convert a YouTube Transcript to PDF (Free, No Signup)"
-description: "Convert any YouTube transcript to a clean PDF for free — no signup, no extension. Step-by-step guide to download, format, and save video transcripts as PDF."
+title: "How to Convert a YouTube Transcript to PDF (Free)"
+description: "Convert any YouTube transcript to a clean PDF for free with no extension needed. Step-by-step guide to download, format, and save video transcripts as PDF."
 date: "2026-06-14"
 author: "YTTranscript Team"
 category: "How-To"
@@ -24,9 +24,9 @@ howToSteps:
     text: "Save the PDF with the video title and date so you can find and cite it later. Your transcript is now a portable, searchable document."
 faqItems:
   - question: "How do I convert a YouTube transcript to PDF for free?"
-    answer: "Go to yttranscript.app, paste the video URL, and use the PDF export button to download the transcript as a PDF instantly. The free tier covers 1 transcript a day without an account (2 with a free account), with no signup or extension required."
+    answer: "Go to yttranscript.app, paste the video URL, and use the PDF export button to download the transcript as a PDF instantly. The free tier covers 1 transcript a day without an account (2 with a free account); PDF downloads need a free account, and no extension is required."
   - question: "Can I download a YouTube transcript as a PDF without an account?"
-    answer: "Yes. YTTranscript requires no account, no email, and no browser extension. You paste the URL, get the transcript, and export to PDF in seconds."
+    answer: "Not with YTTranscript: downloading needs a free account, which takes seconds to create, and no browser extension is needed. Without an account you can still read 1 transcript a day."
   - question: "Will the PDF include timestamps?"
     answer: "You choose. You can export a clean text-only PDF for reading, or keep the timestamps if you need to reference specific moments in the video. Both options are free."
   - question: "Can I convert a YouTube transcript to PDF on my phone?"
@@ -37,7 +37,7 @@ faqItems:
 
 PDF is the universal document format. It looks the same on every device, it is easy to share and print, and it is perfect for archiving. So it is no surprise that one of the most common things people want to do with a YouTube video is turn it into a clean PDF they can read, annotate, and keep.
 
-This guide shows you the fastest free way to **convert a YouTube transcript to PDF** — no signup, no extension, and no software to install. You will have a polished document in under a minute.
+This guide shows you the fastest free way to **convert a YouTube transcript to PDF** — no extension and no software to install, just a free account. You will have a polished document in under a minute.
 
 ## Why Convert a YouTube Transcript to PDF?
 
@@ -60,7 +60,7 @@ The trick is to separate the two jobs: first extract the text from the video, th
 Go to [YTTranscript](https://yttranscript.app) and paste the YouTube video URL. Click **Get Transcript Now**. The full transcript appears in 2-5 seconds. If you are new to this, our [guide to getting a YouTube transcript](/how-to-get-a-youtube-transcript) walks through it in detail.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in seconds — then export straight to PDF, no account needed. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in seconds — then export straight to PDF with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ### Step 2: Export directly to PDF
@@ -87,7 +87,7 @@ Give the file a clear name — the video title plus the date works well — so y
 | Other formats (TXT, DOCX) | Yes | No | Some |
 | Cost | Free: 1/day, 2/day with free account, then one-time packs | Free | Free trial, then paid |
 
-YTTranscript is the only option here that needs **no account and no extension** while still working on your phone and exporting to multiple formats. Honestly, a Chrome extension works too — but it only runs on desktop and clutters your browser, and most AI PDF tools push you to a paid plan after the first conversion.
+YTTranscript is the only option here that needs **no extension** while still working on your phone and exporting to multiple formats. Honestly, a Chrome extension works too — but it only runs on desktop and clutters your browser, and most AI PDF tools push you to a paid plan after the first conversion.
 
 ## Tips for a Clean, Readable PDF
 
@@ -106,10 +106,10 @@ YTTranscript is the only option here that needs **no account and no extension** 
 ## Frequently Asked Questions
 
 **How do I convert a YouTube transcript to PDF for free?**
-Go to yttranscript.app, paste the video URL, and use the PDF export button to download the transcript as a PDF instantly. The free tier covers 1 transcript a day without an account (2 with a free account), with no signup or extension required.
+Go to yttranscript.app, paste the video URL, and use the PDF export button to download the transcript as a PDF instantly. The free tier covers 1 transcript a day without an account (2 with a free account); PDF downloads need a free account, and no extension is required.
 
 **Can I download a YouTube transcript as a PDF without an account?**
-Yes. YTTranscript requires no account, no email, and no browser extension. You paste the URL, get the transcript, and export to PDF in seconds.
+Not with YTTranscript: downloading needs a free account, which takes seconds to create, and no browser extension is needed. Without an account you can still read 1 transcript a day.
 
 **Will the PDF include timestamps?**
 You choose. You can export a clean text-only PDF for reading, or keep the timestamps if you need to reference specific moments in the video. Both options are free.

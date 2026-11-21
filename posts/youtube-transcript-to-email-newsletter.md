@@ -49,10 +49,10 @@ Avoid videos that are primarily entertainment, highly personal stories not relev
 
 Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube URL, and click **Get Transcript Now**. Copy the full text.
 
-10 seconds. No account needed.
+10 seconds with a free account.
 
 <div class="cta-box">
-  <strong>Get any YouTube transcript instantly:</strong> Free, no signup, works on any device. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Get any YouTube transcript instantly:</strong> 1 free a day, 2 with a free account, works on any device. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Step 3: Prompt an AI to Structure the Newsletter

@@ -14,7 +14,7 @@ faqItems:
   - question: "How do I turn a YouTube video into a mind map?"
     answer: "Get the video's transcript for free from YTTranscript.app, then paste it into an AI tool and ask it to structure the key ideas as a mind map. You can output it as an outline, Markdown, or a Mermaid diagram."
   - question: "Is there a free way to make a mind map from a YouTube video?"
-    answer: "Yes. Getting the transcript from YTTranscript is free with no signup (1 transcript a day without an account, 2 with a free account), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost."
+    answer: "Yes. Getting the transcript from YTTranscript is free (1 transcript a day without an account, 2 with a free account), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost."
   - question: "Why not just paste the YouTube link into a mind-map tool?"
     answer: "Many tools guess from limited metadata and produce shallow maps. Feeding a clean, complete transcript gives the AI the full content, so the map reflects what was actually said."
   - question: "What format should the mind map be in?"
@@ -31,7 +31,7 @@ The reliable path is to start with the **transcript**. Once you have the full wo
 
 Plenty of "YouTube to mind map" tools ask only for a URL. Behind the scenes, many of them either fetch a messy caption file or guess from the title and description — which is why the maps often feel thin or miss half the video. A **mind map is only as good as the source text** feeding it.
 
-When you start with a complete, clean transcript, the AI has every point the speaker actually made. Nothing is invented, nothing is skipped. **[YTTranscript.app](https://yttranscript.app)** gives you that transcript in seconds — free, no signup, no browser extension, and it works on mobile. You stay in control of the exact text that becomes your map. New to transcripts? Start with [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
+When you start with a complete, clean transcript, the AI has every point the speaker actually made. Nothing is invented, nothing is skipped. **[YTTranscript.app](https://yttranscript.app)** gives you that transcript in seconds — free, no browser extension, and it works on mobile. You stay in control of the exact text that becomes your map. New to transcripts? Start with [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
 
 ## How to Turn a YouTube Video Into a Mind Map (Step by Step)
 
@@ -42,7 +42,7 @@ When you start with a complete, clean transcript, the AI has every point the spe
 5. **Refine the branches** until the map matches how you think.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get a clean, complete transcript to feed your mind map — no login, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get a clean, complete transcript to feed your mind map — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Method 1: Build a Mind Map with AI
@@ -95,7 +95,7 @@ Ask for **no more than six main branches** — mind maps lose their power when t
 Get the video's transcript for free from YTTranscript.app, then paste it into an AI tool and ask it to structure the key ideas as a mind map. You can output it as an outline, Markdown, or a Mermaid diagram.
 
 **Is there a free way to make a mind map from a YouTube video?**
-Yes. Getting the transcript from YTTranscript is free with no signup (1 transcript a day without an account, 2 with a free account), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost.
+Yes. Getting the transcript from YTTranscript is free (1 transcript a day without an account, 2 with a free account), and free AI tools like ChatGPT, Claude, or Meta AI can convert that transcript into a mind map at no cost.
 
 **Why not just paste the YouTube link into a mind-map tool?**
 Many tools guess from limited metadata and produce shallow maps. Feeding a clean, complete transcript gives the AI the full content, so the map reflects what was actually said.
@@ -106,4 +106,4 @@ For editing later, ask for a Markdown outline or a Mermaid diagram. Both paste c
 **Does this work for long videos and lectures?**
 Yes. For very long videos, split the transcript into sections, map each one, then merge the branches into a single master map.
 
-**Ready to map your first video? [Get your free YouTube transcript at YTTranscript.app](https://yttranscript.app) — no signup, no extension, just paste and go.**
+**Ready to map your first video? [Get your free YouTube transcript at YTTranscript.app](https://yttranscript.app) — no extension, just paste and go.**

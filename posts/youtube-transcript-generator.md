@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcript Generator: Get Any Video's Text Free (2026)"
-description: "Free YouTube transcript generator — paste any video URL and get the full text in seconds. No signup, no extension. Copy or download as TXT, DOCX, or PDF."
+description: "Free YouTube transcript generator — paste any video URL and get the full text in seconds. No extension. Copy or download TXT, DOCX or PDF with a free account."
 date: "2026-07-27"
 author: "YTTranscript Team"
 category: "Guide"
@@ -24,7 +24,7 @@ howToSteps:
     text: "Copy the transcript or download it as TXT, DOCX, or PDF."
 faqItems:
   - question: "What is the best free YouTube transcript generator?"
-    answer: "YTTranscript is a strong free option because it needs no signup, no extension, works on mobile, and exports TXT, DOCX, and PDF. You paste a URL and get the full text in seconds."
+    answer: "YTTranscript is a strong free option because it needs no extension, works on mobile, and exports TXT, DOCX, and PDF with a free account. You paste a URL and get the full text in seconds."
   - question: "Is the YouTube transcript generator really free?"
     answer: "Yes, up to 1 transcript a day without an account (2 with a free account). If you need more, one-time packs start at $9 for 100 transcripts, with no subscription."
   - question: "Does it work for any YouTube video?"
@@ -53,7 +53,7 @@ It's a tool that reads a video's captions and gives you the full text as one cle
 That's the whole process. For a detailed walkthrough, see [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and generate the full transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and generate the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## What you can do with your transcript
@@ -92,7 +92,7 @@ YTTranscript handles [non-English videos](/youtube-transcript-non-english) and o
 ## Frequently asked questions
 
 **What is the best free YouTube transcript generator?**
-YTTranscript is a strong free option because it needs no signup, no extension, works on mobile, and exports TXT, DOCX, and PDF. You paste a URL and get the full text in seconds.
+YTTranscript is a strong free option because it needs no extension, works on mobile, and exports TXT, DOCX, and PDF with a free account. You paste a URL and get the full text in seconds.
 
 **Is the YouTube transcript generator really free?**
 Yes, up to 1 transcript a day without an account (2 with a free account). If you need more, one-time packs start at $9 for 100 transcripts, with no subscription.

@@ -1,6 +1,6 @@
 ---
 title: "How to Convert a YouTube Transcript to an SRT Subtitle File (Free)"
-description: "Turn any YouTube transcript into a clean .srt subtitle file for video editors, captions, and reuploads. Free, no signup — here's the fastest method."
+description: "Turn any YouTube transcript into a clean .srt subtitle file for video editors, captions, and reuploads. Free to start — here's the fastest method."
 date: "2026-05-30"
 author: "YTTranscript Team"
 category: "How-To"
@@ -19,7 +19,7 @@ faqItems:
   - question: "Do I need timestamps to make an SRT?"
     answer: "Yes. SRT requires start and end times for each caption block, so export a timestamped transcript rather than plain text."
   - question: "Is YTTranscript free for this?"
-    answer: "Yes. YTTranscript's free tier covers 1 transcript a day without an account (2 with a free account), with no signup and no extension. You can copy or export a timestamped transcript in seconds."
+    answer: "Yes. YTTranscript's free tier covers 1 transcript a day without an account (2 with a free account), with no extension. With a free account you can copy or export a timestamped transcript in seconds."
   - question: "Will the SRT timings be perfectly accurate?"
     answer: "Timings come from YouTube's caption track, which is usually well aligned. For broadcast-grade precision, fine-tune the result in a subtitle editor like Subtitle Edit or Aegisub."
 ---
@@ -59,7 +59,7 @@ Because SRT needs start and end times, you must begin with a **timestamped trans
 3. Click **Get Transcript Now**.
 4. Choose the **timestamped** view and **Copy** or export the transcript.
 
-This takes about 10 seconds, with no login and no browser extension. For more on timed exports, see our guide to the [YouTube transcript with timestamps](/youtube-transcript-with-timestamps).
+This takes about 10 seconds, with no browser extension (copying or exporting needs a free account). For more on timed exports, see our guide to the [YouTube transcript with timestamps](/youtube-transcript-with-timestamps).
 
 <div class="cta-box">
   <strong>Try it free:</strong> Pull a timestamped YouTube transcript in one click, then convert it to SRT. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
@@ -84,7 +84,7 @@ You have three reliable options, depending on how comfortable you are with tools
 | YouTube Studio SBV export | Videos you own | Low | Free |
 | YTTranscript (get the source text) | Any video, fast start | Very low | Free |
 
-In every workflow above, the first step is the same: **get the transcript text.** That is where a free, no-signup tool saves the most time.
+In every workflow above, the first step is the same: **get the transcript text.** That is where a free tool saves the most time.
 
 ## Why Not Just Use YouTube Studio?
 
@@ -113,7 +113,7 @@ Only if you own the video — YouTube Studio lets the uploader download captions
 Yes. SRT requires start and end times for each caption block, so export a timestamped transcript rather than plain text.
 
 **Is YTTranscript free for this?**
-Yes. YTTranscript's free tier covers 1 transcript a day without an account (2 with a free account), with no signup and no extension. You can copy or export a timestamped transcript in seconds.
+Yes. YTTranscript's free tier covers 1 transcript a day without an account (2 with a free account), with no extension. With a free account you can copy or export a timestamped transcript in seconds.
 
 **Will the SRT timings be perfectly accurate?**
 Timings come from YouTube's caption track, which is usually well aligned. For broadcast-grade precision, fine-tune the result in a subtitle editor like Subtitle Edit or Aegisub.

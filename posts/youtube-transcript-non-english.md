@@ -18,7 +18,7 @@ howToSteps:
   - name: "Copy the YouTube video URL"
     text: "Navigate to the non-English YouTube video you want to transcribe. Copy the URL from your browser."
   - name: "Open YTTranscript"
-    text: "Go to yttranscript.app — no account or extension required."
+    text: "Go to yttranscript.app — no extension required."
   - name: "Paste and generate the transcript"
     text: "Paste the URL and click Get Transcript Now. The transcript appears in the original language of the video's captions within a few seconds."
   - name: "Translate if needed"
@@ -50,7 +50,7 @@ If the video has captions in its original language (most do, via YouTube's auto-
 This works for any language that YouTube's auto-caption system supports — Spanish, French, German, Italian, Portuguese, Dutch, Russian, Japanese, Korean, Chinese, Hindi, Arabic, and many more.
 
 <div class="cta-box">
-  <strong>Get any YouTube transcript in any language free:</strong> Paste the URL — no signup, works for Spanish, French, German, Hindi, and 100+ languages. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
+  <strong>Get any YouTube transcript in any language free:</strong> Paste the URL — 1 free a day, works for Spanish, French, German, Hindi, and 100+ languages. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
 </div>
 
 ## Translating a Non-English Transcript to English
@@ -123,4 +123,4 @@ Yes. [YTTranscript](https://yttranscript.app) has a free tier with no signup req
 
 Language is no longer a barrier to accessing the ideas in a YouTube video. With a free transcript tool and a free AI translator, you can extract and understand content from videos in over 30 languages — in minutes.
 
-**[→ Get a free transcript from any YouTube video in any language — no signup, works instantly](https://yttranscript.app)**
+**[→ Get a free transcript from any YouTube video in any language — works instantly](https://yttranscript.app)**

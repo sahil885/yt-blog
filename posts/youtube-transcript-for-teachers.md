@@ -44,7 +44,7 @@ Transcripts create multiple active-learning opportunities from a single video:
 
 Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube video URL, and click **Get Transcript Now**. The full text appears within seconds. Download it as a DOCX or PDF, or copy and paste it into Google Docs or Word.
 
-No account needed. Works on any device.
+Copying or downloading needs a free account. Works on any device.
 
 <div class="cta-box">
   <strong>Get any educational video transcript free:</strong> Paste the URL and have the full text ready for your lesson in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
@@ -132,4 +132,4 @@ TED Talks, Khan Academy, documentaries, expert interviews, and educational YouTu
 
 YouTube has always been a powerful teaching resource — transcripts make it an even better one. They turn passive viewing into active reading, and make video content accessible, assessable, and reusable in ways that video alone cannot.
 
-**[→ Get any YouTube video transcript free at YTTranscript.app — no account, instant results](https://yttranscript.app)**
+**[→ Get any YouTube video transcript free at YTTranscript.app — instant results](https://yttranscript.app)**

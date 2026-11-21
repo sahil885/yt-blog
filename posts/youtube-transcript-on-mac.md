@@ -24,7 +24,7 @@ faqItems:
     answer: "The problem isn't your Mac. Some videos have captions disabled by the creator, or are private or restricted, so there is no caption track to read. In that case you need audio transcription instead."
 ---
 
-**The fastest way to get a YouTube transcript on a Mac is to copy the video URL, paste it into [yttranscript.app](https://yttranscript.app) in any browser, and copy or export the text.** It takes about ten seconds, needs no app, no extension, and no signup. YouTube's own "Show transcript" panel also works on macOS and is worth knowing, but it's clumsy to copy from. Here are all three realistic options on a Mac, compared honestly.
+**The fastest way to get a YouTube transcript on a Mac is to copy the video URL, paste it into [yttranscript.app](https://yttranscript.app) in any browser, and copy or export the text.** It takes about ten seconds and needs no app or extension, just a free account to copy or export. YouTube's own "Show transcript" panel also works on macOS and is worth knowing, but it's clumsy to copy from. Here are all three realistic options on a Mac, compared honestly.
 
 ## Method 1: Paste the URL Into a Web Tool (Fastest)
 

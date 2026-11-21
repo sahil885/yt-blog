@@ -42,7 +42,7 @@ You control the length, format, and focus — and because you have the source tr
 If you just want the gist without prompting, a dedicated summarizer does it in one click. **YTSummarizer** takes a video link and returns clean AI notes, key points, and chapter breakdowns — no prompt engineering. It's the right tool when you're triaging lots of videos and don't need the raw transcript.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get the full transcript to summarize your way, free with no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get the full transcript to summarize your way: 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Comparison: free ways to summarize a YouTube video

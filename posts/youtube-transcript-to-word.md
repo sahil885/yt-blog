@@ -1,6 +1,6 @@
 ---
-title: "How to Convert a YouTube Transcript to Word (Free, No Signup)"
-description: "Convert any YouTube transcript to Word in seconds. Free, no signup tool that exports a clean .docx file you can edit, highlight, and share. Works on mobile too."
+title: "How to Convert a YouTube Transcript to Word (Free)"
+description: "Convert any YouTube transcript to Word in seconds. Free tool that exports a clean .docx file you can edit, highlight, and share. Works on your phone too."
 date: "2026-11-14"
 author: "YTTranscript Team"
 category: "How-To"
@@ -13,7 +13,7 @@ keywords:
   - youtube to word
 faqItems:
   - question: "Can I convert a YouTube transcript to Word for free?"
-    answer: "Yes. YTTranscript pulls the full transcript and exports a .docx file at no cost, with no account or extension required."
+    answer: "Yes. YTTranscript pulls the full transcript and exports a .docx file at no cost with a free account; no extension required."
   - question: "Does the Word file include timestamps?"
     answer: "You choose. Export a clean text version for readable paragraphs, or keep timestamps if you need to reference specific moments in the video."
   - question: "Will this work on my phone?"
@@ -38,7 +38,7 @@ Word is also the format most people already use for reports, essays, and meeting
 
 ## The Fastest Way: YouTube Transcript to Word in 3 Steps
 
-The quickest route is a free transcript tool that exports DOCX directly. With **[YTTranscript](https://yttranscript.app)** there's no account, no extension, and no software to install:
+The quickest route is a free transcript tool that exports DOCX directly. With **[YTTranscript](https://yttranscript.app)** there's no extension and no software to install, just a free account:
 
 1. **Copy the YouTube video URL** from your browser's address bar or the Share button.
 2. **Paste it into [YTTranscript.app](https://yttranscript.app)** and let it pull the full transcript in seconds.
@@ -47,7 +47,7 @@ The quickest route is a free transcript tool that exports DOCX directly. With **
 That's it. No "create your free account" wall, no credit card, no 10-minute trial timer. The transcript comes out as plain, readable paragraphs you can format however you like. Need the times too? Grab a version [with timestamps](/youtube-transcript-with-timestamps) first, then export.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube link and download a clean Word (.docx) transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube link and download a clean Word (.docx) transcript in seconds — free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## The Manual Method (and Why It's Painful)
@@ -67,7 +67,7 @@ The problem? YouTube's panel pastes **a timestamp on every single line**, so you
 | Price | Free | Free | Paid / freemium |
 | Extension needed | No | No | Sometimes |
 
-The manual method is free but messy; paid converters add a Word export but usually behind a signup or paywall. **[YTTranscript](https://yttranscript.app)** sits in the sweet spot: free, no signup, clean output, and a real DOCX download.
+The manual method is free but messy; paid converters add a Word export but usually behind a signup or paywall. **[YTTranscript](https://yttranscript.app)** sits in the sweet spot: free, clean output, and a real DOCX download with a free account.
 
 ## Tips for Formatting Your Transcript in Word
 
@@ -93,7 +93,7 @@ Packs also add a saved transcript library, AI translation into 16 languages, and
 Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Can I convert a YouTube transcript to Word for free?**
-Yes. [YTTranscript](https://yttranscript.app) pulls the full transcript and exports a .docx file at no cost, with no account or extension required.
+Yes. [YTTranscript](https://yttranscript.app) pulls the full transcript and exports a .docx file at no cost with a free account; no extension required.
 
 **Does the Word file include timestamps?**
 You choose. Export a clean text version for readable paragraphs, or keep timestamps if you need to reference specific moments in the video.

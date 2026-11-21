@@ -55,7 +55,7 @@ Researchers usually already own a repository or a meeting transcriber. Those too
 | **Whisper (self-hosted)** | With extra tooling | No | No | Audio with no caption track at all |
 | **YouTube's own captions** | Native | No | No | Reading in-page, one video at a time |
 
-**The honest read:** these are complements, not competitors. Dovetail genuinely wins at synthesis — nothing here replaces a real repository for tagging and theme-building. Otter genuinely wins at live moderated sessions, where you need speaker labels in real time. Whisper genuinely wins when a video has no captions at all, which happens with small channels and some livestreams. YTTranscript wins at exactly one job — **getting clean, exportable text out of a YouTube URL with no download, no upload, no extension, and no account** — and that job sits at the front of all the others.
+**The honest read:** these are complements, not competitors. Dovetail genuinely wins at synthesis — nothing here replaces a real repository for tagging and theme-building. Otter genuinely wins at live moderated sessions, where you need speaker labels in real time. Whisper genuinely wins when a video has no captions at all, which happens with small channels and some livestreams. YTTranscript wins at exactly one job — **getting clean, exportable text out of a YouTube URL with no download, no upload and no extension** — and that job sits at the front of all the others.
 
 YouTube's built-in transcript panel is free and always there, but it gives you a timestamp-cluttered scrolling column that is awkward to copy, has no export, and handles one video at a time. That is fine for a quick check and painful across twenty videos. If you only need the native route, see [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
 
@@ -75,7 +75,7 @@ Treat this as **hypothesis generation and vocabulary mining**, never as evidence
 
 ## Verdict
 
-If you already run studies in Dovetail and record sessions in Otter, you are not missing a tool for synthesis — you are missing the two-second step that turns a public video into text you can actually work with. YTTranscript has a **free tier and a paid option**, needs no signup and no extension, works in a mobile browser, and exports TXT, DOCX, and PDF straight into whatever repository you already use.
+If you already run studies in Dovetail and record sessions in Otter, you are not missing a tool for synthesis — you are missing the two-second step that turns a public video into text you can actually work with. YTTranscript has a **free tier and a paid option**, needs no extension, works in a mobile browser, and exports TXT, DOCX, and PDF with a free account straight into whatever repository you already use.
 
 ## FAQ
 

@@ -46,7 +46,7 @@ Most editors already use text-based editing on raw footage. The gap is **everyth
 4. Optional: ask [ChatGPT](/youtube-transcript-for-chatgpt) or [Claude](/youtube-transcript-with-claude) to "list the 10 strongest 30–60 second standalone moments with timestamps." Always verify the picks against the footage.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> paste a long-form video link and get a timestamped transcript you can search for Shorts and recut points — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> paste a long-form video link and get a timestamped transcript you can search for Shorts and recut points — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## YTTranscript vs built-in editor transcription
@@ -80,7 +80,7 @@ Most editors already use text-based editing on raw footage. The gap is **everyth
 
 - **Use your NLE's transcription** (Premiere Pro, DaVinci Resolve Studio) for **raw footage you're cutting** — text-based editing is the fastest way to a rough cut.
 - **Use Descript** if you mostly edit **podcasts and talking-head content** and like editing video like a document.
-- **Use YTTranscript** for **anything already on YouTube**: Shorts from long-form, recuts, paper edits for clients, chapter markers and research. No source file, no account, no install.
+- **Use YTTranscript** for **anything already on YouTube**: Shorts from long-form, recuts, paper edits for clients, chapter markers and research. No source file, no install.
 
 Most working editors end up with both: the NLE for the cut, a URL-based transcript tool for everything around it. For more creator workflows, see [YouTube transcripts for content creators](/youtube-transcript-for-content-creators) and [turning a video into a blog post](/youtube-video-to-blog-post).
 
@@ -101,4 +101,4 @@ Pull the transcript with timestamps, search for strong hooks, numbers or punchli
 **Does YTTranscript cost anything for editors?**
 YTTranscript gives you 1 free transcript a day with no signup (2 with a free account) or extension. One-time packs cover heavier use, such as transcribing a client's whole back catalog.
 
-**Cutting Shorts from a long video? [Grab the timestamped transcript with YTTranscript.app](https://yttranscript.app) — no signup, no extension.**
+**Cutting Shorts from a long video? [Grab the timestamped transcript with YTTranscript.app](https://yttranscript.app) — no extension needed.**

@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcript to Anki Flashcards: Free Study Workflow"
-description: "Turn any YouTube video into Anki flashcards for free. Grab the transcript, let AI write the cards, and import them — no signup, no extension."
+description: "Turn any YouTube video into Anki flashcards for free. Grab the transcript, let AI write the cards, and import them — no extension needed."
 date: "2026-06-03"
 author: "YTTranscript Team"
 category: "Use Cases"
@@ -14,9 +14,9 @@ keywords:
   - youtube transcript for students
 faqItems:
   - question: "Can I turn a YouTube video into Anki flashcards for free?"
-    answer: "Yes. Grab the transcript free at YTTranscript.app, paste it into a free AI assistant like ChatGPT or Claude with a flashcard prompt, then import the result into Anki. Every step is free and no signup is required for the transcript."
+    answer: "Yes. Grab the transcript free at YTTranscript.app, paste it into a free AI assistant like ChatGPT or Claude with a flashcard prompt, then import the result into Anki. Every step is free; copying the transcript needs a free YTTranscript account."
   - question: "Do I need a browser extension to do this?"
-    answer: "No. YTTranscript works in any browser with no extension and no account. You only need the video URL."
+    answer: "No. YTTranscript works in any browser with no extension; copying the text needs a free account. You only need the video URL."
   - question: "What format should the AI export flashcards in?"
     answer: "Ask the AI for question-and-answer pairs separated by a tab or semicolon, one per line. Anki imports that directly as a plain-text file with a chosen field separator."
   - question: "How long can the video be?"
@@ -33,7 +33,7 @@ A transcript gives the AI the exact words from the video, so the **flashcards fr
 
 It is also far faster than manual entry. A 30-minute lecture can become 40 well-formed cards in under two minutes. And because you start from text, you can review and edit before anything reaches your deck — much better than passively rewatching the video.
 
-The whole process is **free for a couple of videos a day, with no signup and no extension required**, when you use [YTTranscript](https://yttranscript.app) to pull the transcript.
+The whole process is **free for a couple of videos a day with a free account, and no extension required**, when you use [YTTranscript](https://yttranscript.app) to pull the transcript.
 
 ## Step 1: Get the YouTube Transcript
 
@@ -50,7 +50,7 @@ Paste the transcript into a free AI assistant. Both [ChatGPT](/youtube-transcrip
 The semicolon separator matters — Anki uses it to split the front and back of each card on import.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and copy the full transcript in seconds — no account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and copy the full transcript in seconds — free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Step 3: Save the Cards as a Text File
@@ -86,9 +86,9 @@ Students using this method regularly can also explore our broader guide on [YouT
 
 ## Frequently Asked Questions
 
-**Can I turn a YouTube video into Anki flashcards for free?** Yes. Grab the transcript free at YTTranscript.app, paste it into a free AI assistant like ChatGPT or Claude with a flashcard prompt, then import the result into Anki. Every step is free and no signup is required for the transcript.
+**Can I turn a YouTube video into Anki flashcards for free?** Yes. Grab the transcript free at YTTranscript.app, paste it into a free AI assistant like ChatGPT or Claude with a flashcard prompt, then import the result into Anki. Every step is free; copying the transcript needs a free YTTranscript account.
 
-**Do I need a browser extension to do this?** No. YTTranscript works in any browser with no extension and no account. You only need the video URL.
+**Do I need a browser extension to do this?** No. YTTranscript works in any browser with no extension; copying the text needs a free account. You only need the video URL.
 
 **What format should the AI export flashcards in?** Ask the AI for question-and-answer pairs separated by a tab or semicolon, one per line. Anki imports that directly as a plain-text file with a chosen field separator.
 
@@ -96,4 +96,4 @@ Students using this method regularly can also explore our broader guide on [YouT
 
 **Will the flashcards be accurate?** Because the cards are generated from the actual transcript rather than guessed, they stay close to the source. Always skim the deck before studying to catch any AI rewording.
 
-**Build your next Anki deck in minutes — [get any YouTube transcript free at YTTranscript.app](https://yttranscript.app), no signup, no extension.**
+**Build your next Anki deck in minutes — [get any YouTube transcript free at YTTranscript.app](https://yttranscript.app), no extension needed.**

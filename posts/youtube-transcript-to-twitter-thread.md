@@ -38,7 +38,7 @@ The transcript gives you all of that structure already worked out — your job i
 
 Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube URL, and click **Get Transcript Now**. Copy the full text.
 
-Under 10 seconds. No account needed.
+Under 10 seconds with a free account.
 
 <div class="cta-box">
   <strong>Get the transcript in seconds:</strong> Paste any YouTube URL and copy the full text for free. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
