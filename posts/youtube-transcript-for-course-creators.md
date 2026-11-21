@@ -45,7 +45,7 @@ It also changes what one recording is worth. A single well-structured video is a
 **5. Study aids for students.** Definitions and key terms out of the transcript become a glossary, a quiz, or [flashcards](/youtube-transcript-to-anki-flashcards). This is the part students actually ask for.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and download the full transcript as TXT, DOCX or PDF — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and download the full transcript as TXT, DOCX or PDF with a free account — no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Four ways to get the transcript, compared
@@ -62,7 +62,7 @@ A few honest notes on that table. The **YouTube transcript panel** is genuinely 
 
 ## The verdict
 
-**Use YTTranscript** if you're pulling transcripts regularly — your own published videos, competitor lessons you're researching, or interviews you want to quote. No account and no extension means it works on a borrowed laptop, a phone between calls, or a locked-down work machine.
+**Use YTTranscript** if you're pulling transcripts regularly — your own published videos, competitor lessons you're researching, or interviews you want to quote. No extension (just a free account) means it works on a borrowed laptop, a phone between calls, or a locked-down work machine.
 
 **Use YouTube Studio** if everything you need is on your own channel and you want the official caption file, especially for unlisted or scheduled videos.
 

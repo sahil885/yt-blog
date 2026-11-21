@@ -51,7 +51,7 @@ Whether it's a university lecture, a Crash Course episode, a YouTube tutorial, o
 No account needed. Works on your phone, tablet, or laptop.
 
 <div class="cta-box">
-  <strong>Get any lecture transcript instantly:</strong> Paste the YouTube URL and have the full text in seconds — free, no account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
+  <strong>Get any lecture transcript instantly:</strong> Paste the YouTube URL and have the full text in seconds — 1 free a day, or 2 with a free account; no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
 </div>
 
 ## Step 2: Copy the Transcript into Your Notes App
@@ -119,4 +119,4 @@ Yes — you can [download the transcript](/how-to-download-youtube-transcript) a
 
 The students who learn most efficiently aren't the ones who watch the most videos — they're the ones who engage most actively with what they watch. Transcripts turn a passive medium into an active learning resource.
 
-**[→ Get any YouTube lecture transcript free — no signup, works on any device](https://yttranscript.app)**
+**[→ Get any YouTube lecture transcript free — works on any device](https://yttranscript.app)**

@@ -38,7 +38,7 @@ Search engines and AI answer engines can't watch a video — they read text. A v
 
 ## The workflow: video to ranking content
 
-**Step 1 — Pull the full transcript.** Paste the video URL into a [YouTube transcript generator](/youtube-transcript-generator) and export the text. YTTranscript does this with no signup and no extension, and lets you [download the transcript](/how-to-download-youtube-transcript) as TXT, DOCX, or PDF so it's ready to edit.
+**Step 1 — Pull the full transcript.** Paste the video URL into a [YouTube transcript generator](/youtube-transcript-generator) and export the text. YTTranscript does this with no extension and a free account, and lets you [download the transcript](/how-to-download-youtube-transcript) as TXT, DOCX, or PDF so it's ready to edit.
 
 **Step 2 — Clean it up.** Auto-generated captions run together with no punctuation and no paragraphs. Do not paste that raw text onto a page — it reads as thin, low-quality content. Break it into paragraphs, fix obvious errors, and cut filler.
 
@@ -74,7 +74,7 @@ Don't dump raw auto-captions onto a page and call it content — it's thin, unpu
 
 ## The bottom line
 
-Transcripts are the cheapest SEO content you'll ever produce because the work is already done — someone said the words on camera. Pull the transcript, edit it into a structured article with an FAQ, and you convert a video that search engines ignored into a page they can rank and answer engines can cite. For teams doing this across many videos, a no-signup tool like YTTranscript keeps the workflow fast.
+Transcripts are the cheapest SEO content you'll ever produce because the work is already done — someone said the words on camera. Pull the transcript, edit it into a structured article with an FAQ, and you convert a video that search engines ignored into a page they can rank and answer engines can cite. For teams doing this across many videos, a no-extension tool like YTTranscript keeps the workflow fast.
 
 ## Frequently asked questions
 
@@ -93,4 +93,4 @@ Yes. Turning transcript content into clear question-and-answer pairs with FAQ sc
 **Is one video enough for a full blog post?**
 Often yes. A 20 to 30 minute video transcript can become a 1,500 to 4,000 word article once edited, which is plenty for a focused, rankable post.
 
-**Ready to turn your videos into ranking content? [Get any YouTube transcript free at YTTranscript.app](https://yttranscript.app) — no signup, no extension.**
+**Ready to turn your videos into ranking content? [Get any YouTube transcript free at YTTranscript.app](https://yttranscript.app) — no extension needed.**

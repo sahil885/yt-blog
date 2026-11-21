@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcript for Sermons: Transcribe Any Church Service Free"
-description: "Get a free sermon transcript from any YouTube video in seconds. No signup, no extension. Turn church services into blog posts, study guides, and social content."
+description: "Get a free sermon transcript from any YouTube video in seconds. No extension needed. Turn church services into blog posts, study guides, and social content."
 date: "2026-06-29"
 author: "YTTranscript Team"
 category: "Use Cases"
@@ -36,7 +36,7 @@ Then there's **repurposing**. One sermon can become a blog post, a printed hando
 
 ## How to Get a Sermon Transcript from YouTube
 
-If the service is already on YouTube, **[YTTranscript](https://yttranscript.app)** is the fastest free route — no account, no software, no extension:
+If the service is already on YouTube, **[YTTranscript](https://yttranscript.app)** is the fastest free route — no software, no extension, and a free account to copy or download:
 
 1. **Copy the YouTube link** to the sermon or livestream replay.
 2. **Paste it into [YTTranscript.app](https://yttranscript.app)** and get the full transcript in seconds.
@@ -47,7 +47,7 @@ Because it runs in any browser, your media volunteer can do this from a phone ri
 This works just as well for a 90-minute service as it does for a 20-minute homily — the tool pulls the **entire transcript in one pass**, so there's no need to split a long recording into chunks or stitch files together afterward. And because nothing has to be installed, the exact same workflow runs on a church-office Chromebook, a volunteer's Mac, or a phone in the lobby right after the benediction.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste your sermon's YouTube link and get a clean, editable transcript in seconds — no signup, no per-minute fees. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste your sermon's YouTube link and get a clean, editable transcript in seconds — free account, no per-minute fees. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## What to Do With Your Sermon Transcript

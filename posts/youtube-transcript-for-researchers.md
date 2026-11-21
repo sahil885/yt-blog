@@ -42,12 +42,12 @@ When a relevant video exists and is publicly accessible, it's a citable source. 
 
 ## Getting the Transcript
 
-Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube URL, and get the full text in seconds. Download as TXT, DOCX, or PDF. No account required.
+Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube URL, and get the full text in seconds. Download as TXT, DOCX, or PDF with a free account.
 
 For bulk research across multiple videos, see the [YouTube Transcript API guide](/youtube-transcript-api) for programmatic extraction.
 
 <div class="cta-box">
-  <strong>Extract any YouTube video as text:</strong> Paste the URL and get the full transcript in seconds — free, no account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Extract any YouTube video as text:</strong> Paste the URL and get the full transcript in seconds — 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Use Case 1: Verbatim Quotation with Timestamps
@@ -144,4 +144,4 @@ Yes. Download the transcript as a TXT or DOCX file and import it directly into y
 
 YouTube transcripts turn hours of re-watching into minutes of targeted text analysis. Whether you're coding interviews, tracking discourse patterns, or simply finding that one quote you remember from a lecture — the transcript is your research shortcut.
 
-**[→ Get any YouTube video transcript free at YTTranscript.app — instant, no account required](https://yttranscript.app)**
+**[→ Get any YouTube video transcript free at YTTranscript.app — instant, 1 free a day](https://yttranscript.app)**

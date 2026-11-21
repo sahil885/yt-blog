@@ -23,7 +23,7 @@ faqItems:
     answer: "Use the company's investor relations webcast, the 8-K filing, or a paid transcript provider. YouTube is a supplement to those sources, not a replacement."
 ---
 
-**Financial analysts can pull a full transcript from any earnings call, investor day, or CEO interview posted on YouTube in seconds — free, with no account — and then search, quote, and feed it straight into an AI model.** Companies increasingly post their quarterly calls, capital markets days, and management interviews to YouTube, and every one of those videos carries a caption track you can extract as text. For an analyst who wants to read rather than sit through 70 minutes of audio, that's the fastest path from video to usable material.
+**Financial analysts can pull a full transcript from any earnings call, investor day, or CEO interview posted on YouTube in seconds — free to start — and then search, quote, and feed it straight into an AI model.** Companies increasingly post their quarterly calls, capital markets days, and management interviews to YouTube, and every one of those videos carries a caption track you can extract as text. For an analyst who wants to read rather than sit through 70 minutes of audio, that's the fastest path from video to usable material.
 
 Here's the workflow, the accuracy caveats, and an honest look at where this beats a $20,000-a-seat platform and where it doesn't.
 
@@ -42,14 +42,14 @@ Official 8-K transcripts cover the quarterly call. They don't cover any of the a
 ## The workflow
 
 1. **Find the video** — company IR channel, the conference host's channel, or the news outlet's channel.
-2. **Paste the URL** into [YTTranscript.app](https://yttranscript.app). You get the transcript in seconds, no signup, no extension.
+2. **Paste the URL** into [YTTranscript.app](https://yttranscript.app). You get the transcript in seconds, no extension needed.
 3. **Choose timestamps or clean prose.** Timestamps let you jump back to the exact moment for verification — see [YouTube transcript with timestamps](/youtube-transcript-with-timestamps). Clean prose is better for AI input; see [transcript without timestamps](/youtube-transcript-without-timestamps).
 4. **Export** as TXT for AI tools, DOCX for a research note, or PDF for the file.
 5. **Search it.** Ctrl+F for "guidance," "headwind," "pricing," "attach rate," or whatever your thesis hinges on. [How to search a YouTube transcript](/how-to-search-a-youtube-transcript) covers this properly.
 6. **Feed it to a model.** Paste into ChatGPT or Claude with a targeted prompt. See [YouTube transcript for ChatGPT](/youtube-transcript-for-chatgpt) and [YouTube transcript with Claude](/youtube-transcript-with-claude).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste an earnings call or investor day URL and get the full transcript in seconds — no account required. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste an earnings call or investor day URL and get the full transcript in seconds — 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Honest comparison: how analysts get transcripts

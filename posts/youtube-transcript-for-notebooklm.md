@@ -1,6 +1,6 @@
 ---
 title: "How to Add a YouTube Transcript to NotebookLM (When the URL Won't Import)"
-description: "NotebookLM's YouTube import often fails or stalls. Here's the reliable workaround: paste the transcript as text. Free, no signup, works every time."
+description: "NotebookLM's YouTube import often fails or stalls. Here's the reliable workaround: paste the transcript as text. Free to start, no extension, works every time."
 date: "2026-05-30"
 author: "YTTranscript Team"
 category: "AI Tools"
@@ -21,7 +21,7 @@ faqItems:
   - question: "Does NotebookLM keep the timestamps?"
     answer: "If you paste a transcript that includes timestamps, NotebookLM keeps the text and can reference it, though its inline citations point to your pasted source rather than the live video."
   - question: "Is YTTranscript free for this?"
-    answer: "Yes. YTTranscript's free tier needs no signup or extension and covers 1 transcript a day without an account (2 with a free account), with one-time packs if you need more. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM."
+    answer: "Yes. YTTranscript's free tier needs no extension and covers 1 transcript a day without an account (2 with a free account, which you need to copy the text), with one-time packs if you need more. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM."
 ---
 
 Google **NotebookLM** is one of the best free tools for turning a pile of sources into a searchable, citable knowledge base. It can summarise documents, answer questions with inline citations, and even generate an Audio Overview. NotebookLM now accepts **YouTube URLs** directly as a source — but if you have actually tried it, you know the import frequently fails, stalls for hours, or returns a **"transcript not available"** error.
@@ -49,7 +49,7 @@ The fastest way to extract the text of any YouTube video is [YTTranscript](https
 3. Paste the URL and click **Get Transcript Now**.
 4. Click **Copy** to grab the full transcript, or export it as **TXT**.
 
-This takes about 10 seconds. There is no login, no browser extension, and no cost — which matters when you are processing a whole playlist's worth of videos for a single notebook.
+This takes about 10 seconds. There is no browser extension and no cost (copying needs a free account) — which matters when you are processing a whole playlist's worth of videos for a single notebook.
 
 <div class="cta-box">
   <strong>Try it free:</strong> Grab a clean YouTube transcript in one click before you open NotebookLM. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
@@ -107,6 +107,6 @@ No. NotebookLM explicitly supports pasted text and uploaded documents as sources
 If you paste a transcript that includes timestamps, NotebookLM keeps the text and can reference it, though its inline citations point to your pasted source rather than the live video.
 
 **Is YTTranscript free for this?**
-Yes. YTTranscript's free tier needs no signup or extension and covers 1 transcript a day without an account (2 with a free account), with one-time packs if you need more. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM.
+Yes. YTTranscript's free tier needs no extension and covers 1 transcript a day without an account (2 with a free account, which you need to copy the text), with one-time packs if you need more. Paste a YouTube URL, copy the transcript, and drop it into NotebookLM.
 
 **Stop fighting failed imports — grab the transcript yourself and paste it straight into NotebookLM. [→ Try YTTranscript.app free](https://yttranscript.app)**

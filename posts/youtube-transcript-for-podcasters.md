@@ -31,13 +31,13 @@ Here's exactly how to use YouTube transcripts to multiply the value of every epi
 
 ## Get the Transcript in Seconds
 
-Start here: go to [YTTranscript](https://yttranscript.app), paste your YouTube episode URL, and click Get Transcript. The full text is ready to copy or download as TXT, DOCX, or PDF — no account needed.
+Start here: go to [YTTranscript](https://yttranscript.app), paste your YouTube episode URL, and click Get Transcript. The full text is ready to copy or download as TXT, DOCX, or PDF with a free account.
 
 This works on your own episodes, guest episodes you've been featured on, or any podcast that uploads to YouTube.
 
 <div class="cta-box">
   <strong>Transcribe your podcast episodes for free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript in seconds. No signup required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript in seconds. 1 free a day, or 2 with a free account.
 </div>
 
 ---

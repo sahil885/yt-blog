@@ -45,11 +45,11 @@ You're not creating new content — you're unlocking content you've already made
 
 ## Step 1: Get the Transcript
 
-Go to [YTTranscript](https://yttranscript.app), paste your YouTube video URL, and copy the full transcript. It takes under 10 seconds. No account, no setup.
+Go to [YTTranscript](https://yttranscript.app), paste your YouTube video URL, and copy the full transcript (copying needs a free account). It takes under 10 seconds. No extension, no setup.
 
 <div class="cta-box">
   <strong>Turn your videos into written content — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript instantly. No signup required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript instantly. 1 free a day, or 2 with a free account.
 </div>
 
 ---
@@ -101,7 +101,7 @@ Pull transcripts from your competitors' most-viewed videos and look for:
 
 <div class="cta-box">
   <strong>Extract insights from any YouTube video</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — free, instant, no account needed. Get the full transcript of any YouTube video in seconds.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — free to start, no extension needed. Get the full transcript of any YouTube video in seconds.
 </div>
 
 ---

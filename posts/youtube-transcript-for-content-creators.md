@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcripts for Creators: Repurpose Fast"
-description: "Turn videos into blog posts, captions, and show notes. Extract clean YouTube transcripts in one click — free to start, no signup."
+description: "Turn videos into blog posts, captions, and show notes. Extract clean YouTube transcripts in one click — free to start, no extension."
 date: "2026-05-27"
 author: "YTTranscript Team"
 category: "Use Cases"
@@ -15,7 +15,7 @@ faqItems:
   - question: "Can I use a YouTube transcript to repurpose my own videos?"
     answer: "Yes. Paste your video URL into YTTranscript.app to get the full transcript in seconds. You can then edit it into a blog post, email newsletter, or social media thread without rewriting from scratch."
   - question: "Do I need a YouTube account or extension to get my transcript?"
-    answer: "No. YTTranscript.app works entirely in the browser — no login, no Chrome extension, no account required. Just paste the URL and copy the text."
+    answer: "No extension. YTTranscript.app works entirely in the browser. You can read 1 transcript a day without an account; a free account lets you copy the text and get 2 a day."
   - question: "What export formats does YTTranscript support?"
     answer: "You can export the transcript as plain TXT, DOCX (Word), or PDF. TXT is best for pasting into AI tools; DOCX is useful if you want to edit the content into a polished article."
   - question: "Can I get transcripts for other people's YouTube videos too?"
@@ -54,10 +54,10 @@ You don't need any software installed or an account anywhere. [YTTranscript.app]
 3. The full transcript appears immediately
 4. Copy the text or download it as TXT, DOCX, or PDF
 
-That's the entire workflow. No login, no extension, and 1 free transcript a day (2 with a free account). See also the step-by-step guide at [/how-to-get-a-youtube-transcript](/how-to-get-a-youtube-transcript) if you want more detail on different methods.
+That's the entire workflow. No extension, and 1 free transcript a day (2 with a free account, which you need to copy the text). See also the step-by-step guide at [/how-to-get-a-youtube-transcript](/how-to-get-a-youtube-transcript) if you want more detail on different methods.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get your full transcript instantly — no account needed. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get your full transcript instantly — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Turning a Transcript into a Blog Post
@@ -134,7 +134,7 @@ All of these start the same way — copy from [YTTranscript.app](https://yttrans
 Yes. Paste your video URL into YTTranscript.app to get the full transcript in seconds. You can then edit it into a blog post, email newsletter, or social media thread without rewriting from scratch.
 
 **Do I need a YouTube account or extension to get my transcript?**
-No. YTTranscript.app works entirely in the browser — no login, no Chrome extension, no account required. Just paste the URL and copy the text.
+No extension. YTTranscript.app works entirely in the browser. You can read 1 transcript a day without an account; a free account lets you copy the text and get 2 a day.
 
 **What export formats does YTTranscript support?**
 You can export the transcript as plain TXT, DOCX (Word), or PDF. TXT is best for pasting into AI tools; DOCX is useful if you want to edit the content into a polished article.
@@ -147,4 +147,4 @@ Yes. There is no time limit. Long-form videos — hour-long podcasts, full webin
 
 ---
 
-**Stop leaving your video content on the table.** Every video you publish already contains your best ideas in text form — you just need to pull them out. Start with [YTTranscript.app](https://yttranscript.app) — free, instant, no account needed.
+**Stop leaving your video content on the table.** Every video you publish already contains your best ideas in text form — you just need to pull them out. Start with [YTTranscript.app](https://yttranscript.app) — free to start, no extension needed.

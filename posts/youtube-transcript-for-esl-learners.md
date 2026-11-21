@@ -50,7 +50,7 @@ Here's how to use YouTube transcripts to accelerate your language learning.
 
 <div class="cta-box">
   <strong>Get transcripts for any YouTube video — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript instantly. No signup, works on any device.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full transcript instantly. No extension, works on any device.
 </div>
 
 ---
@@ -97,7 +97,7 @@ If you want to compare an English video to a translation, YTTranscript can pull 
 
 <div class="cta-box">
   <strong>Start reading along today — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — get the full text of any YouTube video instantly, on any device, with no account required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — get the full text of any YouTube video instantly, on any device, free to start.
 </div>
 
 ---

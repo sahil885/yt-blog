@@ -49,7 +49,7 @@ Here's how journalists and researchers use YouTube transcripts to work faster an
 
 <div class="cta-box">
   <strong>Get the transcript of any YouTube video — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — no account, no extension, works on any browser. Paste a URL and get the full text.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — no extension, works on any browser. Paste a URL and get the full text; a free account lets you copy or download it.
 </div>
 
 ---
@@ -103,7 +103,7 @@ See: [How to Download a YouTube Transcript](/how-to-download-youtube-transcript)
 
 <div class="cta-box">
   <strong>Speed up your research — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> turns any YouTube video into searchable text in seconds. No signup, no extension required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> turns any YouTube video into searchable text in seconds. No extension required.
 </div>
 
 ---

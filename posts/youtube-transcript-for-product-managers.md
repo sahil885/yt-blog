@@ -23,7 +23,7 @@ faqItems:
     answer: "If the video has no caption track, a transcript tool cannot read it. Use a speech-to-text model such as Whisper on the audio instead, which is the correct tool for uncaptioned material."
 ---
 
-**Product managers use YouTube transcripts to turn watching into searchable evidence.** A competitor's 40-minute launch video becomes a 6,000-word document you can search, quote and paste into a model in about as long as it takes to open a new tab. The workflow is simple: **paste the video URL into a transcript tool, get the text, then search or summarize it** — no signup and no video downloading required.
+**Product managers use YouTube transcripts to turn watching into searchable evidence.** A competitor's 40-minute launch video becomes a 6,000-word document you can search, quote and paste into a model in about as long as it takes to open a new tab. The workflow is simple: **paste the video URL into a transcript tool, get the text, then search or summarize it** — no extension and no video downloading required.
 
 The value is not "saving time watching videos." It is that text is *queryable* and video is not. You cannot Cmd+F a demo. You cannot paste a webinar into a PRD.
 
@@ -46,7 +46,7 @@ Transcripts let you extract the **exact vocabulary customers use**, which is wor
 A quoted line from a competitor's CEO, timestamped and attributed, ends arguments faster than an opinion. Grab the transcript [with timestamps](/youtube-transcript-with-timestamps) so every quote is verifiable, then drop it into your doc.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> paste a competitor's demo or keynote URL and get the full transcript in seconds — no account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> paste a competitor's demo or keynote URL and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Honest comparison: how to get the text
@@ -61,7 +61,7 @@ A quoted line from a competitor's CEO, timestamped and attributed, ends argument
 
 **The honest trade-off:** if a video has no caption track, transcript tools that read captions — including YTTranscript — cannot help, and Whisper or an upload-based transcription service is genuinely the better choice. See [what to do when a YouTube video has no transcript](/youtube-video-no-transcript). For the overwhelming majority of business, tech and creator content, captions exist, and reading them is far faster than re-transcribing audio you already have text for.
 
-YouTube's own panel is free and fine for a single video, but it is fiddly to copy cleanly, includes timestamp noise, and is painful on a phone. [YTTranscript](https://yttranscript.app) takes a pasted URL and returns clean text with **TXT, DOCX and PDF export**, with no login and no extension. It has a **free tier plus a paid option** for heavier volume.
+YouTube's own panel is free and fine for a single video, but it is fiddly to copy cleanly, includes timestamp noise, and is painful on a phone. [YTTranscript](https://yttranscript.app) takes a pasted URL and returns clean text with **TXT, DOCX and PDF export** (free account), with no extension. It has a **free tier plus a paid option** for heavier volume.
 
 ## A practical PM workflow
 
@@ -80,7 +80,7 @@ YouTube's own panel is free and fine for a single video, but it is fiddly to cop
 
 ## The verdict
 
-**For product managers doing competitive and user research on YouTube, a URL-based transcript tool is the right default** — the source is almost always captioned, and the round trip is seconds rather than minutes. [YTTranscript](https://yttranscript.app) fits that job well: no signup, no extension, works on a phone between meetings, exports cleanly into a doc.
+**For product managers doing competitive and user research on YouTube, a URL-based transcript tool is the right default** — the source is almost always captioned, and the round trip is seconds rather than minutes. [YTTranscript](https://yttranscript.app) fits that job well: no extension, works on a phone between meetings, exports cleanly into a doc.
 
 **Use something else when:** the video has no captions (use Whisper), you need speaker-separated meeting notes from your own calls (use a meeting tool like Fireflies or Otter — see our [Otter.ai alternatives comparison](/otter-ai-alternatives)), or you are editing video rather than reading it (use Descript).
 

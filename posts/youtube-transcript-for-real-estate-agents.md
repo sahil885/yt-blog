@@ -14,7 +14,7 @@ faqItems:
   - question: "Why should real estate agents get transcripts of their YouTube videos?"
     answer: "A transcript turns one listing tour or market update into text you can reuse as a blog post, email newsletter, social captions and listing copy. Text is also what search engines and AI assistants read, so it helps buyers and sellers find you."
   - question: "What is the fastest way for a realtor to get a YouTube transcript?"
-    answer: "Paste the video's YouTube link into YTTranscript.app and copy or export the transcript as TXT, DOCX or PDF. It takes seconds and needs no account or browser extension, and it works on a phone between showings."
+    answer: "Paste the video's YouTube link into YTTranscript.app and copy or export the transcript as TXT, DOCX or PDF. It takes seconds, needs only a free account and no browser extension, and it works on a phone between showings."
   - question: "Is YTTranscript free for real estate agents?"
     answer: "It has a free tier of 1 transcript a day without an account (2 with a free account), which covers most agents' weekly videos. One-time packs are available for teams or brokerages that need more."
   - question: "What if my video was recorded on my phone and isn't on YouTube yet?"
@@ -23,7 +23,7 @@ faqItems:
     answer: "Yes. Paste the transcript into ChatGPT or Claude and ask for a listing description, blog post or email. Always review the output for accuracy and Fair Housing compliance before publishing."
 ---
 
-**A YouTube transcript lets a real estate agent turn one video into a week of marketing.** Paste your listing tour, neighborhood guide or market update link into a transcript tool, and you get the full text in seconds — ready to edit into a blog post, newsletter, social captions or listing copy. The quickest way is [YTTranscript.app](https://yttranscript.app): no account, no extension, and it works from your phone.
+**A YouTube transcript lets a real estate agent turn one video into a week of marketing.** Paste your listing tour, neighborhood guide or market update link into a transcript tool, and you get the full text in seconds — ready to edit into a blog post, newsletter, social captions or listing copy. The quickest way is [YTTranscript.app](https://yttranscript.app): no extension, a free account to copy or export, and it works from your phone.
 
 Agents already spend hours filming. The transcript is how that effort pays off across every other channel.
 
@@ -49,7 +49,7 @@ Common videos worth transcribing:
 4. **Review and publish.** Check every figure — prices, square footage, days on market — against your MLS data, and read for Fair Housing compliance before anything goes live.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste your latest listing tour or market update and get the full transcript in seconds — no signup needed. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste your latest listing tour or market update and get the full transcript in seconds — 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Tools compared for real estate agents
@@ -58,12 +58,12 @@ There's no single "best" tool — it depends on whether your video is already on
 
 | Option | Best for | Account needed | Works without YouTube captions | Price |
 |---|---|---|---|---|
-| **YTTranscript** | Fast text from any YouTube video, on desktop or phone | No | With a pack (AI transcription, ~10 credits) | Free: 1/day, 2/day with free account + one-time packs from $9 |
+| **YTTranscript** | Fast text from any YouTube video, on desktop or phone | Free account to copy or export | With a pack (AI transcription, ~10 credits) | Free: 1/day, 2/day with free account + one-time packs from $9 |
 | **YouTube "Show transcript"** | Reading a few lines on desktop | No | No | Free, but copying is clunky and timestamps are mixed in |
 | **Otter.ai** | Transcribing your own recordings, client calls, open-house notes | Yes | Yes | Free plan with 300 min/month; paid from about $16.99/mo |
 | **Descript** | Editing videos by editing the text | Yes | Yes | Free plan (~60 min/month, watermark); paid ~$16–35/mo |
 
-**Where each wins:** YTTranscript is the fastest route from a published YouTube video to usable text — and the only one here you can use with no login on a phone in the car between showings. YouTube's built-in panel is fine for a quick look but painful to copy into a document ([details here](/how-to-copy-youtube-transcript)). **Otter.ai and Descript genuinely win** when the footage isn't on YouTube yet or has no captions, because they run their own speech recognition; Descript is also the better pick if you edit your own videos.
+**Where each wins:** YTTranscript is the fastest route from a published YouTube video to usable text — and the only one here you can use with no install on a phone in the car between showings. YouTube's built-in panel is fine for a quick look but painful to copy into a document ([details here](/how-to-copy-youtube-transcript)). **Otter.ai and Descript genuinely win** when the footage isn't on YouTube yet or has no captions, because they run their own speech recognition; Descript is also the better pick if you edit your own videos.
 
 ## Repurposing ideas that generate leads
 
@@ -79,7 +79,7 @@ AI tools rewrite fluently but can invent details or use language that steers buy
 
 ## Verdict
 
-- **Best for most agents:** YTTranscript, if your videos are already on YouTube. It's the fastest, needs no account, and the free tier covers a typical weekly posting schedule.
+- **Best for most agents:** YTTranscript, if your videos are already on YouTube. It's the fastest, needs only a free account, and the free tier covers a typical weekly posting schedule.
 - **Best for raw footage and calls:** Otter.ai, for recordings that never go on YouTube.
 - **Best if you edit your own videos:** Descript, where the transcript doubles as your editing timeline.
 
@@ -91,7 +91,7 @@ Most busy agents end up using YTTranscript for published videos plus one recordi
 A transcript turns one listing tour or market update into text you can reuse as a blog post, email newsletter, social captions and listing copy. Text is also what search engines and AI assistants read, so it helps buyers and sellers find you.
 
 **What is the fastest way for a realtor to get a YouTube transcript?**
-Paste the video's YouTube link into YTTranscript.app and copy or export the transcript as TXT, DOCX or PDF. It takes seconds and needs no account or browser extension, and it works on a phone between showings.
+Paste the video's YouTube link into YTTranscript.app and copy or export the transcript as TXT, DOCX or PDF. It takes seconds, needs only a free account and no browser extension, and it works on a phone between showings.
 
 **Is YTTranscript free for real estate agents?**
 It has a free tier of 1 transcript a day without an account (2 with a free account), which covers most agents' weekly videos. One-time packs are available for teams or brokerages that need more.

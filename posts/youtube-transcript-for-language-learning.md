@@ -1,6 +1,6 @@
 ---
 title: "YouTube Transcript for Language Learning: Free Ways to Study Faster"
-description: "A free YouTube transcript for language learning lets you shadow, translate, and mine vocabulary from any video — no signup, no extension, works on mobile."
+description: "A free YouTube transcript for language learning lets you shadow, translate, and mine vocabulary from any video — no extension needed, and it works on mobile."
 date: "2026-07-17"
 author: "YTTranscript Team"
 category: "Use Cases"
@@ -13,7 +13,7 @@ keywords:
   - free youtube transcript tool
 faqItems:
   - question: "Is using a YouTube transcript for language learning free?"
-    answer: "Yes. YTTranscript has a free tier with no signup and no extension, so you can pull transcripts at no cost. Paid plans add more for heavy users."
+    answer: "Yes. YTTranscript has a free tier with no extension: 1 transcript a day without an account, or 2 with a free account (needed to copy or download). Paid plans add more for heavy users."
   - question: "What is shadowing and why do I need a transcript?"
     answer: "Shadowing is repeating speech out loud almost in real time. A transcript lets you read along so you learn the correct words and pronunciation instead of guessing."
   - question: "Can I translate the transcript into my native language?"
@@ -24,7 +24,7 @@ faqItems:
     answer: "Videos with clear speech and accurate captions in your target language. You can then export the text as TXT, DOCX, or PDF to review offline."
 ---
 
-Learning a language from native video is one of the most powerful free methods available — but spoken words vanish the moment they're said. A **YouTube transcript for language learning** fixes that. It turns any video into readable, searchable, translatable text you can slow down, repeat, annotate, and review at your own pace. This guide covers the study methods that actually build fluency, and how to pull a clean transcript from any video in seconds — **no signup, no browser extension, free to start**.
+Learning a language from native video is one of the most powerful free methods available — but spoken words vanish the moment they're said. A **YouTube transcript for language learning** fixes that. It turns any video into readable, searchable, translatable text you can slow down, repeat, annotate, and review at your own pace. This guide covers the study methods that actually build fluency, and how to pull a clean transcript from any video in seconds — **no browser extension, free to start**.
 
 ## Why a full transcript beats on-screen captions
 
@@ -76,7 +76,7 @@ The bottleneck for every one of these steps is having the text in front of you �
 
 ## Frequently asked questions
 
-**Is using a YouTube transcript for language learning free?** Yes. YTTranscript has a free tier with no signup and no extension, so you can pull transcripts at no cost. Paid plans add more for heavy users.
+**Is using a YouTube transcript for language learning free?** Yes. YTTranscript has a free tier with no extension: 1 transcript a day without an account, or 2 with a free account (needed to copy or download). Paid plans add more for heavy users.
 
 **What is shadowing and why do I need a transcript?** Shadowing is repeating speech out loud almost in real time. A transcript lets you read along so you learn the correct words and pronunciation instead of guessing.
 

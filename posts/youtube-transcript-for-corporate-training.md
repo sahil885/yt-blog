@@ -21,10 +21,10 @@ faqItems:
   - question: "Are YouTube auto-captions accurate enough for compliance training?"
     answer: "Not on their own. Auto-captions are fine for drafting summaries and quizzes, but anything used for regulated or compliance training should be checked by a human or professionally transcribed."
   - question: "Do employees need an account or extension to use YTTranscript?"
-    answer: "No. YTTranscript runs in the browser with no signup and no extension, which avoids IT approval for new browser add-ons on locked-down work machines."
+    answer: "No extension. YTTranscript runs in the browser (a free account is needed to copy or download), which avoids IT approval for new browser add-ons on locked-down work machines."
 ---
 
-**A YouTube transcript turns a training video into editable text your L&D team can reuse — for job aids, quizzes, SOP drafts and searchable knowledge-base articles.** The fastest workflow is: extract the transcript with a no-signup tool like [YTTranscript](https://yttranscript.app), feed it to an AI assistant to draft learning materials, then have a subject-matter expert review. It turns hours of video-watching into a 15-minute content build.
+**A YouTube transcript turns a training video into editable text your L&D team can reuse — for job aids, quizzes, SOP drafts and searchable knowledge-base articles.** The fastest workflow is: extract the transcript with a no-install tool like [YTTranscript](https://yttranscript.app), feed it to an AI assistant to draft learning materials, then have a subject-matter expert review. It turns hours of video-watching into a 15-minute content build.
 
 Most corporate learning already runs on video — product demos, vendor webinars, leadership talks, your own unlisted onboarding recordings. The problem is that video is hard to skim, search, quote or assess. A transcript fixes all four.
 
@@ -53,7 +53,7 @@ Our guides for [ChatGPT](/youtube-transcript-for-chatgpt) and [Copilot](/youtube
 **5. Publish.** Load into your LMS, wiki, [Notion](/youtube-transcript-to-notion) or Google Docs. Embed the original video alongside the text.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Turn your next training video into an editable DOCX in seconds — no signup, no extension for IT to approve. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Turn your next training video into an editable DOCX in seconds — free account, no extension for IT to approve. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Comparing your transcript options for training content
@@ -70,7 +70,7 @@ A 30-minute video costs about $60 to transcribe with Rev's human service, versus
 
 ## The verdict: which to use
 
-- **Most L&D content builds** (onboarding, product knowledge, soft skills): **YTTranscript**. Fast, no account, no extension to clear with IT, and DOCX export drops straight into a review workflow.
+- **Most L&D content builds** (onboarding, product knowledge, soft skills): **YTTranscript**. Fast, no extension to clear with IT, and DOCX export drops straight into a review workflow.
 - **Compliance, safety or regulated training** where every word matters: **pay for human transcription** (e.g. Rev), or at least have a human verify the captions.
 - **Internal recordings with no captions:** **Whisper** if you have technical help — see our [YTTranscript vs Whisper comparison](/yttranscript-vs-whisper) — or a paid AI service.
 - **Deciding whether a video is worth using at all:** **Ask YouTube** for a quick summary — though it won't give you the text. Details in [Ask YouTube vs a transcript tool](/ask-youtube-vs-youtube-transcript-tool).
@@ -96,6 +96,6 @@ If the video is on YouTube and already has captions, extracting them with YTTran
 Not on their own. Auto-captions are fine for drafting summaries and quizzes, but anything used for regulated or compliance training should be checked by a human or professionally transcribed.
 
 **Do employees need an account or extension to use YTTranscript?**
-No. YTTranscript runs in the browser with no signup and no extension, which avoids IT approval for new browser add-ons on locked-down work machines.
+No extension. YTTranscript runs in the browser (a free account is needed to copy or download), which avoids IT approval for new browser add-ons on locked-down work machines.
 
-**Turn any training video into editable text in seconds — no signup, no extension. [Try YTTranscript.app →](https://yttranscript.app)**
+**Turn any training video into editable text in seconds — no extension needed. [Try YTTranscript.app →](https://yttranscript.app)**

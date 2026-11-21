@@ -56,10 +56,10 @@ Running Whisper on a video that already has a caption track is wasted compute. U
 
 ### 4. Manual collection — underrated for small corpora
 
-If your knowledge base is 30 curated videos rather than a whole channel, building it by hand is faster than debugging proxy rotation. Paste each URL into [YTTranscript](https://yttranscript.app), export TXT, drop the files into your loader. No account, no API key, no IP blocks. It has a free tier plus a paid option, so it is not an unlimited scraper — but for a fixed research corpus it removes an entire class of infrastructure problem.
+If your knowledge base is 30 curated videos rather than a whole channel, building it by hand is faster than debugging proxy rotation. Paste each URL into [YTTranscript](https://yttranscript.app), export TXT (free account), drop the files into your loader. No API key, no IP blocks. It has a free tier plus a paid option, so it is not an unlimited scraper — but for a fixed research corpus it removes an entire class of infrastructure problem.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Grab clean transcript text from any YouTube URL — no signup, no API key, no rate limits to debug. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Grab clean transcript text from any YouTube URL — no API key, no rate limits to debug. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Chunking: what actually changes retrieval quality

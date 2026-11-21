@@ -20,7 +20,7 @@ faqItems:
   - question: "How do lawyers use YouTube transcripts for CLE?"
     answer: "Legal professionals use YouTube transcripts to take notes from CLE webinars and lectures posted on YouTube, search for specific topics within long recordings, and create written summaries for reference."
   - question: "Is there a free tool to transcribe legal YouTube videos?"
-    answer: "Yes. YTTranscript is free, requires no account, and works on any public YouTube video. It's suitable for research and note-taking from legal lectures, hearings, and expert testimony videos."
+    answer: "Yes. YTTranscript is free to start (1 transcript a day without an account; a free account lets you copy or download), and works on any public YouTube video. It's suitable for research and note-taking from legal lectures, hearings, and expert testimony videos."
 ---
 
 Legal work is increasingly documented on video. Court hearings streamed on YouTube, deposition excerpts posted online, expert witness interviews, CLE webinars, bar association lectures — the volume of legally relevant video content is substantial. Manually watching hours of footage to find a specific statement is inefficient. Transcripts make that content searchable in seconds.
@@ -44,7 +44,7 @@ Get the transcript from [YTTranscript](https://yttranscript.app) in seconds, dow
 
 <div class="cta-box">
   <strong>Transcribe any legal YouTube video — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full text in seconds. No account or extension required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the full text in seconds. No extension required; 1 free a day, or 2 with a free account.
 </div>
 
 ### Research and Case Preparation
@@ -96,7 +96,7 @@ See: [How to Download a YouTube Transcript](/how-to-download-youtube-transcript)
 
 <div class="cta-box">
   <strong>Search hours of legal video in seconds</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — turn any YouTube video into searchable text. Free, instant, no signup required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — turn any YouTube video into searchable text. Free to start, no extension required.
 </div>
 
 ---

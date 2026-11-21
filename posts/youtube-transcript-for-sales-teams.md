@@ -49,7 +49,7 @@ The bottleneck was never access. It was that nobody on a quota has time to watch
 **Step 4 — Run it through an LLM.** Paste the transcripts into ChatGPT or Claude with a specific prompt: *"From these three competitor demo transcripts, list every objection the presenter addresses, every pricing detail mentioned, and the order in which features are introduced."* See [using transcripts with ChatGPT](/youtube-transcript-for-chatgpt) or [with Claude](/youtube-transcript-with-claude) for prompt patterns that work.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste a competitor's demo video URL and get the full transcript as TXT, DOCX, or PDF — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste a competitor's demo video URL and get the full transcript as TXT, DOCX, or PDF — free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Honest tool comparison for this job
@@ -66,7 +66,7 @@ Most "sales transcription" tools are meeting recorders. They're excellent at wha
 
 ## The verdict: who should use what
 
-**Use a URL-based transcript tool like [YTTranscript](https://yttranscript.app)** if your job is competitor and market research on public video. It's the direct fit: paste a URL, get clean text, export to DOCX for the battlecard doc. No signup and no browser extension means you can also run it on a locked-down work laptop or a phone between meetings.
+**Use a URL-based transcript tool like [YTTranscript](https://yttranscript.app)** if your job is competitor and market research on public video. It's the direct fit: paste a URL, get clean text, export to DOCX for the battlecard doc. No browser extension (just a free account) means you can also run it on a locked-down work laptop or a phone between meetings.
 
 **Use Otter.ai or Fireflies** for your own calls — discovery calls, demos you deliver, internal pipeline reviews. Fireflies in particular earns its keep through CRM sync. These are genuinely better than a transcript tool for that job; they're just solving a different problem. If you want the detailed head-to-head, see [YTTranscript vs Otter.ai](/yttranscript-vs-otter-ai).
 
