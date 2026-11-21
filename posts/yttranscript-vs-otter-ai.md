@@ -17,7 +17,7 @@ faqItems:
   - question: "Can Otter.ai transcribe YouTube videos?"
     answer: "Otter.ai is primarily built for live meetings and audio recordings, not YouTube video transcription. You would need to play the YouTube video while Otter.ai records your microphone or system audio — a workaround that's slow and error-prone. YTTranscript directly extracts YouTube captions in seconds."
   - question: "Is Otter.ai free for YouTube transcripts?"
-    answer: "Otter.ai has a free tier for meeting transcription, but using it for YouTube requires workarounds and counts against your monthly transcription minutes. YTTranscript counts transcripts, not minutes: 2 a day are free, and one-time packs cover more."
+    answer: "Otter.ai has a free tier for meeting transcription, but using it for YouTube requires workarounds and counts against your monthly transcription minutes. YTTranscript counts transcripts, not minutes: 1 a day is free (2 with a free account), and one-time packs cover more."
   - question: "What is the best free tool to transcribe YouTube videos?"
     answer: "YTTranscript is the fastest free tool for YouTube transcripts — paste the URL, get the full transcript in seconds, no account needed. It directly uses YouTube's existing captions rather than re-transcribing audio."
 ---
@@ -43,7 +43,7 @@ For YouTube, the workflow is awkward: you have to either play the video out loud
 
 <div class="cta-box">
   <strong>Transcribe any YouTube video instantly — free</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> pulls the transcript directly from YouTube's captions. No re-recording, no minute limits, no account required.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> pulls the transcript directly from YouTube's captions. No re-recording, no minute limits.
 </div>
 
 ---
@@ -71,7 +71,7 @@ For YouTube, the workflow is awkward: you have to either play the video out loud
 
 Otter.ai's free plan gives you 300 transcription minutes per month. A 1-hour YouTube video uses 60 of those minutes. If you're doing research across multiple long videos, you'll burn through your monthly allowance quickly.
 
-YTTranscript has no such limit. Because it reads YouTube's existing caption data rather than re-transcribing audio, it doesn't consume any recording time. It counts transcripts rather than minutes: 2 a day are free, and one-time packs cover more.
+YTTranscript has no such limit. Because it reads YouTube's existing caption data rather than re-transcribing audio, it doesn't consume any recording time. It counts transcripts rather than minutes: 1 a day is free (2 with a free account), and one-time packs cover more.
 
 ---
 
@@ -103,7 +103,7 @@ YTTranscript is the right choice whenever you need the text from a YouTube video
 
 <div class="cta-box">
   <strong>Get any YouTube transcript in seconds</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> is purpose-built for YouTube — paste a URL, copy the transcript. Free, no account, no minute limits.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> is purpose-built for YouTube — paste a URL, copy the transcript. Free to start, no minute limits.
 </div>
 
 ---

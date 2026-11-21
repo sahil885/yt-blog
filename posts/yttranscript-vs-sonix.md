@@ -27,7 +27,7 @@ If you need a YouTube transcript fast, you've probably landed on both **YTTransc
 
 ## What Each Tool Actually Does
 
-**YTTranscript** is a dedicated YouTube transcript extractor. You paste a YouTube URL, and within seconds you get the full transcript — with or without timestamps. No account. No upload. No credit card. Export as TXT, DOCX, or PDF, or copy straight to your clipboard.
+**YTTranscript** is a dedicated YouTube transcript extractor. You paste a YouTube URL, and within seconds you get the full transcript — with or without timestamps. No upload. No credit card. With a free account, export as TXT, DOCX, or PDF, or copy straight to your clipboard.
 
 **Sonix** is a professional transcription platform for audio and video files. It's designed for podcasters, journalists, and production teams who need high-accuracy transcripts of their own recordings, with speaker identification, collaborative editing, and integrations to tools like Adobe Premiere and Zoom.
 
@@ -62,7 +62,7 @@ Use [YTTranscript](https://yttranscript.app) when:
 For the vast majority of use cases — getting a transcript from a video you found on YouTube — YTTranscript is faster, simpler, and free with no strings attached.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in seconds — no account needed. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## When to Use Sonix

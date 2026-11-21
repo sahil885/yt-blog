@@ -34,8 +34,8 @@ youtube-transcript.ai is a web-based transcript tool that combines transcript ex
 Like many AI-wrapped tools in this space, it monetizes through a freemium model — basic features are free, but volume and advanced features require a paid plan.
 
 <div class="cta-box">
-  <strong>No account, no extension</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> gives you the full transcript of any YouTube video instantly — free to start, no signup required.
+  <strong>No extension, free to start</strong><br>
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> gives you the full transcript of any YouTube video instantly — 1 free a day, or 2 with a free account.
 </div>
 
 ---
@@ -88,11 +88,11 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 
 ## The Bottom Line
 
-For most users, the biggest advantage of youtube-transcript.ai — AI summaries — can be replicated by pasting a transcript into ChatGPT. What you can't replicate elsewhere is what YTTranscript uniquely offers: instant transcripts, no account, and file downloads in three formats.
+For most users, the biggest advantage of youtube-transcript.ai — AI summaries — can be replicated by pasting a transcript into ChatGPT. What you can't replicate elsewhere is what YTTranscript uniquely offers: instant transcripts and file downloads in three formats.
 
 <div class="cta-box">
   <strong>Ready for the faster alternative?</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — free, instant, no account needed. Paste a YouTube URL and copy or download your transcript now.
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — free to start, instant. Paste a YouTube URL and get your transcript now; a free account lets you copy or download it.
 </div>
 
 ---

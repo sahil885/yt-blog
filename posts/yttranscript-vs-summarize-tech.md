@@ -17,7 +17,7 @@ faqItems:
   - question: "Is Summarize.tech free?"
     answer: "It has a free tier plus a paid subscription, reported in 2026 in the range of roughly $10–16/month for higher-volume plans. Check their site for current pricing before you subscribe."
   - question: "What is the best Summarize.tech alternative for getting the actual text?"
-    answer: "YTTranscript is the closest alternative if what you want is the verbatim transcript. It needs no signup and no extension, and exports to TXT, DOCX, or PDF, with a free tier plus a paid option."
+    answer: "YTTranscript is the closest alternative if what you want is the verbatim transcript. It needs no extension, and exports to TXT, DOCX, or PDF with a free account, with a free tier plus a paid option."
   - question: "Can I get a summary from a transcript instead?"
     answer: "Yes, and it is usually better. Pull the full transcript, paste it into ChatGPT, Claude, or Gemini, and ask for the summary you actually want — you control the length, the focus, and the format."
   - question: "Which is more accurate, a summary tool or a transcript tool?"
@@ -53,7 +53,7 @@ Paste the same URL into **YTTranscript** and you get the complete transcript, wi
 Both are paste-a-URL web tools with no install, so neither wins on convenience. The real trade-off is fidelity versus speed.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get the complete, exportable transcript of any YouTube video — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get the complete, exportable transcript of any YouTube video — no extension; exports with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Where Summarize.tech genuinely wins
@@ -82,7 +82,7 @@ Practical guides for each: [YouTube transcript for ChatGPT](/youtube-transcript-
 
 **Choose Summarize.tech if** your only goal is deciding whether a long video deserves your time, you want zero configuration, and you will never need to quote it.
 
-**Choose YTTranscript if** you need the actual words — for citation, search, research, repurposing, or as input to an AI model you already pay for. It requires no account and no extension, works on mobile, exports to TXT, DOCX, and PDF, and has a free tier with a paid option for heavier use.
+**Choose YTTranscript if** you need the actual words — for citation, search, research, repurposing, or as input to an AI model you already pay for. It requires no extension, works on mobile, exports to TXT, DOCX, and PDF with a free account, and has a free tier with a paid option for heavier use.
 
 **Choose both if** you are screening at volume: summarize to triage, then transcribe the handful of videos that earn a closer read. They are complements more often than competitors.
 
@@ -97,7 +97,7 @@ No. Summarize.tech produces a condensed AI summary broken into timestamped secti
 It has a free tier plus a paid subscription, reported in 2026 in the range of roughly $10–16/month for higher-volume plans. Check their site for current pricing before you subscribe.
 
 **What is the best Summarize.tech alternative for getting the actual text?**
-YTTranscript is the closest alternative if what you want is the verbatim transcript. It needs no signup and no extension, and exports to TXT, DOCX, or PDF, with a free tier plus a paid option.
+YTTranscript is the closest alternative if what you want is the verbatim transcript. It needs no extension, and exports to TXT, DOCX, or PDF with a free account, with a free tier plus a paid option.
 
 **Can I get a summary from a transcript instead?**
 Yes, and it is usually better. Pull the full transcript, paste it into ChatGPT, Claude, or Gemini, and ask for the summary you actually want — you control the length, the focus, and the format.
@@ -105,4 +105,4 @@ Yes, and it is usually better. Pull the full transcript, paste it into ChatGPT, 
 **Which is more accurate, a summary tool or a transcript tool?**
 A transcript tool is more faithful because it reproduces what was said. Any summary, including Summarize.tech's, is a lossy interpretation and can drop nuance, caveats, or numbers.
 
-**Get the full text of any YouTube video in seconds — no signup, no extension. [Try YTTranscript.app free →](https://yttranscript.app)**
+**Get the full text of any YouTube video in seconds — no extension. [Try YTTranscript.app free →](https://yttranscript.app)**

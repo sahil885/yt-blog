@@ -20,10 +20,10 @@ faqItems:
   - question: "Which is more accurate, YTTranscript or Trint?"
     answer: "For videos with good existing captions, both land in a similar range because the underlying speech is clean. Trint's own ASR generally wins on messy, multi-speaker audio and raw recordings that have no captions at all."
   - question: "What is the best Trint alternative for YouTube-only work?"
-    answer: "For pulling, cleaning, and exporting YouTube transcripts specifically, a no-signup web tool like YTTranscript is the cheaper and faster fit. For interview and podcast audio you recorded yourself, look at Trint, Sonix, or Whisper instead."
+    answer: "For pulling, cleaning, and exporting YouTube transcripts specifically, a free-to-start web tool like YTTranscript is the cheaper and faster fit. For interview and podcast audio you recorded yourself, look at Trint, Sonix, or Whisper instead."
 ---
 
-**YTTranscript and Trint solve different problems that look identical from the outside.** YTTranscript is a no-signup web tool that pulls the transcript from a YouTube URL in seconds and exports it as TXT, DOCX, or PDF. Trint is a full transcription and editing platform built for newsrooms, priced at roughly **$80–$100 per seat per month**, that transcribes raw audio and video you upload and gives teams a collaborative editor on top. If your source material is a YouTube link, YTTranscript is almost always the right tool. If your source material is a recorded interview with four people talking over each other, Trint earns its price.
+**YTTranscript and Trint solve different problems that look identical from the outside.** YTTranscript is a free-to-start web tool that pulls the transcript from a YouTube URL in seconds and exports it as TXT, DOCX, or PDF. Trint is a full transcription and editing platform built for newsrooms, priced at roughly **$80–$100 per seat per month**, that transcribes raw audio and video you upload and gives teams a collaborative editor on top. If your source material is a YouTube link, YTTranscript is almost always the right tool. If your source material is a recorded interview with four people talking over each other, Trint earns its price.
 
 Here's the honest breakdown.
 
@@ -44,7 +44,7 @@ So the real question isn't "which tool is better." It's **"does my source alread
 | Free option | Free tier + paid option | 7-day trial only, no permanent free plan |
 | Entry price | Free tier; paid upgrade available | ~$80/seat/mo Starter (~$52/mo annual) |
 | Full-featured price | Paid tier | ~$100/seat/mo Advanced (~$60/mo annual) |
-| Monthly file limits | 2 transcripts/day free, then one-time packs | 7 files/mo on Starter; unlimited on Advanced |
+| Monthly file limits | 1/day free (2 with a free account), then one-time packs | 7 files/mo on Starter; unlimited on Advanced |
 | Works from a YouTube URL | Yes, natively | Requires upload or import |
 | Transcribes audio with no captions | No | Yes |
 | Speaker identification | Limited | Yes, strong |
@@ -67,14 +67,14 @@ Give credit where it's due. Trint is a serious product and three things justify 
 **Source material without captions.** This is the big one. Trint doesn't care where the audio came from.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get a clean, exportable transcript in seconds — no account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get a clean, exportable transcript in seconds — no extension; exports with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Where YTTranscript wins
 
 **Cost, obviously.** Trint's Advanced tier runs roughly $720–$1,200 per seat per year depending on billing. A five-person team is looking at several thousand dollars annually. YTTranscript has a free tier that covers most individual use and a paid option if you need more — the gap isn't close.
 
-**Speed and friction.** No signup, no upload, no waiting for a processing queue. Paste a URL, get text. When you're pulling transcripts from twenty videos for a research pass, that difference compounds fast. See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) for the basic flow.
+**Speed and friction.** No upload, no waiting for a processing queue. Paste a URL, get text. When you're pulling transcripts from twenty videos for a research pass, that difference compounds fast. See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) for the basic flow.
 
 **Trint's Starter file cap.** Seven files a month is restrictive if YouTube research is a daily habit. You'd be pushed to Advanced almost immediately.
 
@@ -84,7 +84,7 @@ Give credit where it's due. Trint is a serious product and three things justify 
 
 ## The verdict
 
-**Choose YTTranscript if** your source is YouTube, you work alone or in a small team, you want transcripts as input for notes, research, or AI tools, and you don't want a per-seat subscription. Free tier plus paid option, no account, no extension.
+**Choose YTTranscript if** your source is YouTube, you work alone or in a small team, you want transcripts as input for notes, research, or AI tools, and you don't want a per-seat subscription. Free tier plus paid option, no extension.
 
 **Choose Trint if** you're a newsroom or media team, you transcribe raw recorded audio and video regularly, you need speaker labels on messy multi-speaker files, and you need several people editing the same transcript. The price is defensible at that level of use.
 
@@ -107,6 +107,6 @@ YTTranscript has a free tier plus a paid option. The free tier covers typical in
 For videos with good existing captions, both land in a similar range because the underlying speech is clean. Trint's own ASR generally wins on messy, multi-speaker audio and raw recordings that have no captions at all.
 
 **What is the best Trint alternative for YouTube-only work?**
-For pulling, cleaning, and exporting YouTube transcripts specifically, a no-signup web tool like YTTranscript is the cheaper and faster fit. For interview and podcast audio you recorded yourself, look at Trint, Sonix, or Whisper instead.
+For pulling, cleaning, and exporting YouTube transcripts specifically, a free-to-start web tool like YTTranscript is the cheaper and faster fit. For interview and podcast audio you recorded yourself, look at Trint, Sonix, or Whisper instead.
 
 **Stop paying newsroom prices for YouTube transcripts. [Try YTTranscript.app free →](https://yttranscript.app)**

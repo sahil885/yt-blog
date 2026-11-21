@@ -18,9 +18,9 @@ faqItems:
   - question: "Does YTTranscript require a Chrome extension?"
     answer: "No. YTTranscript is fully browser-based and works on any device — desktop, mobile, or tablet — without installing any extension."
   - question: "Is Tactiq free?"
-    answer: "Tactiq has a free tier, but transcript exports are restricted on the free plan. An account is required for full functionality. YTTranscript's free tier needs no account and includes every export format (1 transcript a day without an account, 2 with a free account)."
+    answer: "Tactiq has a free tier, but transcript exports are restricted on the free plan. An account is required for full functionality. YTTranscript's free account includes every export format and 2 transcripts a day (1 a day to read without an account)."
   - question: "Can YTTranscript download transcripts as DOCX or PDF?"
-    answer: "Yes. YTTranscript supports TXT, DOCX, and PDF download formats, all free with no signup. Tactiq's free tier has limited export options."
+    answer: "Yes. YTTranscript supports TXT, DOCX, and PDF download formats, all free with a free account. Tactiq's free tier has limited export options."
   - question: "Does Tactiq work on mobile?"
     answer: "Tactiq is a Chrome extension — it works in the Chrome browser on desktop. YTTranscript works in any browser on any device including mobile and tablet."
 ---
@@ -48,7 +48,7 @@ Two of the most popular YouTube transcript tools in 2026 are YTTranscript and Ta
 
 **What makes it stand out:**
 - Works in any browser on any device — no extension, no installation
-- No account, no email, no credit card — ever
+- No credit card, and no account needed to read a transcript
 - Download as TXT, DOCX, or PDF on the free tier
 - Results in 2-4 seconds for most videos
 - Mobile-friendly — works perfectly on phone and tablet
@@ -59,7 +59,7 @@ Two of the most popular YouTube transcript tools in 2026 are YTTranscript and Ta
 - No Chrome extension for integrated in-page experience
 
 <div class="cta-box">
-  <strong>Try YTTranscript free:</strong> No extension, no account. Paste any YouTube URL and get the full transcript in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
+  <strong>Try YTTranscript free:</strong> No extension; 1 free a day, or 2 with a free account. Paste any YouTube URL and get the full transcript in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
 </div>
 
 ## Tactiq: The Multi-Platform Extension
@@ -104,4 +104,4 @@ For the majority of users — anyone who wants a clean YouTube transcript with d
 
 Tactiq earns its place for teams who need live call transcription across multiple platforms and are willing to pay for the integrated experience. If your need is purely YouTube transcripts, it's more complexity than necessary.
 
-**[→ Try YTTranscript free — no extension, no account, transcript in seconds](https://yttranscript.app)**
+**[→ Try YTTranscript free — no extension, transcript in seconds](https://yttranscript.app)**

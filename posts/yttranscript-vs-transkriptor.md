@@ -13,11 +13,11 @@ keywords:
   - free youtube transcript tool comparison
 faqItems:
   - question: "Is YTTranscript better than Transkriptor?"
-    answer: "For YouTube transcripts specifically, YTTranscript is faster, fully free, and requires no account. Transkriptor is better if you need to transcribe audio files or non-YouTube video with strong multilingual support."
+    answer: "For YouTube transcripts specifically, YTTranscript is faster, free to start, and needs no extension. Transkriptor is better if you need to transcribe audio files or non-YouTube video with strong multilingual support."
   - question: "Is Transkriptor free?"
     answer: "Transkriptor has a limited free trial but is primarily a paid service. After the trial, plans start at around $4.99/month. YTTranscript has a permanent free tier (1 transcript a day without an account, 2 with a free account) instead of a trial, plus one-time packs rather than a subscription."
   - question: "Does Transkriptor require an account?"
-    answer: "Yes. Transkriptor requires creating an account. YTTranscript requires no account, email, or signup at any point."
+    answer: "Yes. Transkriptor requires creating an account. YTTranscript lets you read 1 transcript a day without an account; copying, downloads and a second daily transcript need a free account."
   - question: "How many languages does Transkriptor support?"
     answer: "Transkriptor supports 100+ languages. YTTranscript extracts whatever captions exist on the YouTube video, so language support depends on whether YouTube has generated captions in that language."
   - question: "Can Transkriptor transcribe YouTube videos?"
@@ -39,7 +39,7 @@ Transkriptor and YTTranscript overlap in one key area: both can get you the tran
 | Download DOCX | Yes (free) | Yes (paid) |
 | Download PDF | Yes (free) | Yes (paid) |
 | Download SRT | No | Yes |
-| Free tier | 2 transcripts/day, no signup | Limited trial |
+| Free tier | 1/day free, 2/day with a free account | Limited trial |
 | Mobile app | Browser-based | iOS and Android |
 
 ## YTTranscript: Fast, Free, YouTube-Focused
@@ -48,7 +48,7 @@ Transkriptor and YTTranscript overlap in one key area: both can get you the tran
 
 **Strengths:**
 - Permanent free tier (1 transcript a day without an account, 2 with a free account), no trial, no credit card
-- No account or email required
+- No account needed to read a transcript
 - Works in any browser on any device including mobile
 - TXT, DOCX, and PDF downloads all free
 - Results in under 5 seconds
@@ -59,7 +59,7 @@ Transkriptor and YTTranscript overlap in one key area: both can get you the tran
 - No SRT/VTT file export for subtitle use
 
 <div class="cta-box">
-  <strong>Try YTTranscript free:</strong> No account, no trial. Paste any YouTube URL and get the transcript in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try YTTranscript free:</strong> No trial; 1 free a day, or 2 with a free account. Paste any YouTube URL and get the transcript in seconds. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Transkriptor: Multi-Format Transcription With Strong Language Support
@@ -98,7 +98,7 @@ For English and major European languages, the difference is typically minimal. S
 **Choose YTTranscript if you:**
 - Need YouTube transcripts and nothing else
 - Don't want to pay a subscription for something free
-- Want zero friction — no account, no signup, instant results
+- Want zero friction — no install, instant results
 - Use multiple download formats and want them all free
 
 **Choose Transkriptor if you:**
@@ -114,4 +114,4 @@ For YouTube transcripts, **YTTranscript is the clear choice on every dimension t
 
 Transkriptor's strengths — broad language support, audio file transcription, and SRT export — make it a better fit for professional transcription workflows that go beyond YouTube, particularly for multilingual content. If YouTube is your primary use case, you don't need to pay for it.
 
-**[→ Try YTTranscript free — instant YouTube transcripts, no account, no subscription](https://yttranscript.app)**
+**[→ Try YTTranscript free — instant YouTube transcripts, no extension, no subscription](https://yttranscript.app)**

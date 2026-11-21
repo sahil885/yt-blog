@@ -13,11 +13,11 @@ keywords:
   - best free youtube transcript tool no signup
 faqItems:
   - question: "Is YTTranscript better than Notta for YouTube transcripts?"
-    answer: "For YouTube-only use with no account or usage limits, YTTranscript is the better choice. Notta is better for users who need transcription across multiple formats — Zoom calls, uploaded audio, meetings — and who can work within its monthly limits."
+    answer: "For YouTube-only use, YTTranscript is the better choice. Notta is better for users who need transcription across multiple formats — Zoom calls, uploaded audio, meetings — and who can work within its monthly limits."
   - question: "What are Notta's free tier limits?"
     answer: "Notta's free tier includes 120 minutes of transcription per month. After that, you need to upgrade to a paid plan starting at $8.17/month (billed annually), or $13.49 month to month."
   - question: "Does Notta require an account?"
-    answer: "Yes. Notta requires creating an account and logging in. YTTranscript requires no account at any point."
+    answer: "Yes. Notta requires creating an account and logging in. YTTranscript lets you read 1 transcript a day without an account; copying, downloads and a second daily transcript need a free account."
   - question: "Is Notta more accurate than YTTranscript?"
     answer: "Notta claims up to 98% accuracy on its AI engine. YTTranscript uses YouTube's own caption data — accuracy depends on whether the video has auto-generated or manual captions. For videos with good quality captions, the output is comparable."
   - question: "Can Notta transcribe YouTube videos?"
@@ -31,7 +31,7 @@ Notta and YTTranscript both let you turn YouTube content into text — but they 
 | Feature | YTTranscript | Notta |
 |---|---|---|
 | Account required | No | Yes |
-| Free tier limit | 2 transcripts/day | 120 minutes/month |
+| Free tier limit | 1/day free, 2/day with a free account | 120 minutes/month |
 | YouTube transcript | Yes | Yes |
 | Audio/video file upload | No | Yes |
 | Zoom / meeting transcription | No | Yes |
@@ -43,13 +43,13 @@ Notta and YTTranscript both let you turn YouTube content into text — but they 
 | Mobile app | Browser-based | iOS and Android app |
 | Price for full access | One-time packs from $9 | From $8.17/month (billed annually) |
 
-## YTTranscript: No Signup, No Friction
+## YTTranscript: No Extension, No Friction
 
-[YTTranscript](https://yttranscript.app) is purpose-built for YouTube. Paste a URL, get the transcript — in seconds, for free, without creating an account. The free tier covers 1 transcript a day without an account (2 with a free account) in every export format, and one-time packs (from $9 for 100 transcripts, credits never expire) cover heavier use.
+[YTTranscript](https://yttranscript.app) is purpose-built for YouTube. Paste a URL, get the transcript — in seconds, for free. The free tier covers 1 transcript a day without an account (2 with a free account, which also unlocks every export format), and one-time packs (from $9 for 100 transcripts, credits never expire) cover heavier use.
 
 **Strengths:**
 - 1 free transcript a day (2 with a free account), then one-time packs instead of a subscription
-- No account required, ever
+- No account needed to read a transcript
 - TXT, DOCX, and PDF downloads included on the free tier
 - Works on mobile browsers with no app install
 - Fast: 2–4 seconds for most videos
@@ -60,7 +60,7 @@ Notta and YTTranscript both let you turn YouTube content into text — but they 
 - Uses YouTube's existing captions; AI transcription for caption-less videos uses paid credits
 
 <div class="cta-box">
-  <strong>Try YTTranscript free:</strong> 2 free YouTube transcripts a day, no account, no subscription. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try YTTranscript free:</strong> 1 free YouTube transcript a day, 2 with a free account, no subscription. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Notta: More Versatile, More Restricted on Free
@@ -112,8 +112,8 @@ For well-captioned YouTube videos, the difference in practice is often marginal.
 
 ## Verdict
 
-For pure YouTube transcript use, **YTTranscript wins on simplicity and cost**. There's no account, 1 transcript a day is free without an account (2 with a free account), and heavier use costs a one-time pack rather than a subscription.
+For pure YouTube transcript use, **YTTranscript wins on simplicity and cost**. 1 transcript a day is free without an account (2 with a free account), and heavier use costs a one-time pack rather than a subscription.
 
 Notta is the better choice for professionals who need a multi-platform transcription tool covering meetings, audio files, and YouTube in one place — and who are willing to pay for it.
 
-**[→ Try YTTranscript free — YouTube transcripts in seconds, no account, no subscription](https://yttranscript.app)**
+**[→ Try YTTranscript free — YouTube transcripts in seconds, no extension, no subscription](https://yttranscript.app)**

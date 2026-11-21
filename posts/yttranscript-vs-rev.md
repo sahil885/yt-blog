@@ -28,7 +28,7 @@ faqItems:
 
 ## The core difference
 
-YTTranscript extracts a YouTube video's **existing captions** and gives you clean text in seconds — free, no signup. It's perfect when a video already has captions (which is almost all of YouTube).
+YTTranscript extracts a YouTube video's **existing captions** and gives you clean text in seconds — free to start. It's perfect when a video already has captions (which is almost all of YouTube).
 
 Rev **transcribes audio from scratch**, using either AI or human transcribers, and charges per minute. That's valuable when there are no captions to start with, or when you need certified, publication-grade accuracy. It requires an account.
 
@@ -37,7 +37,7 @@ Rev **transcribes audio from scratch**, using either AI or human transcribers, a
 | Feature | YTTranscript | Rev |
 |---|---|---|
 | Account required | No | Yes |
-| Free tier | 2 transcripts/day, no signup | ~45 min/month AI |
+| Free tier | 1/day free, 2/day with a free account | ~45 min/month AI |
 | Price after free | One-time packs from $9 (100 transcripts) | ~$0.25/min AI; ~$1.99/min human |
 | Speed | 2-5 seconds | Minutes (AI) to hours (human) |
 | Source | Existing YouTube captions | Processes the raw audio |
@@ -49,10 +49,10 @@ Rev **transcribes audio from scratch**, using either AI or human transcribers, a
 
 ## When YTTranscript is the better choice
 
-If you want the text of a YouTube video to read, search, summarize, or feed to AI, YTTranscript is faster and free. There's no per-minute meter, no account, and no waiting — paste a URL and you're done. It's ideal for students, creators, and researchers who process lots of videos and don't need a certified document. Grab the text and [keep the timestamps](/youtube-transcript-with-timestamps) or [download a PDF](/youtube-transcript-to-pdf).
+If you want the text of a YouTube video to read, search, summarize, or feed to AI, YTTranscript is faster and free. There's no per-minute meter and no waiting — paste a URL and you're done. It's ideal for students, creators, and researchers who process lots of videos and don't need a certified document. Grab the text and [keep the timestamps](/youtube-transcript-with-timestamps) or [download a PDF](/youtube-transcript-to-pdf).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get any YouTube transcript in seconds — no signup, no per-minute fees. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get any YouTube transcript in seconds — no per-minute fees; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## When Rev is the better choice

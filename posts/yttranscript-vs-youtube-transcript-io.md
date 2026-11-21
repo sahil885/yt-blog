@@ -32,7 +32,7 @@ Not to be confused with youtube-transcript.ai, a separate tool we cover in [YTTr
 
 | Feature | YTTranscript | youtube-transcript.io |
 |---|---|---|
-| Free allowance | 2 transcripts/day, no signup | 25 tokens/month (1 token = 1 transcript) |
+| Free allowance | 1/day free, 2/day with a free account | 25 tokens/month (1 token = 1 transcript) |
 | Paid model | One-time packs, no subscription | Monthly subscription |
 | Entry paid price | $9 for 100 transcripts | Plus: $9.99/mo for 1,000 |
 | Largest self-serve option | $59 for 4,000 (about 1.5¢ each) | $79.99/mo for 10,000 (about 0.8¢ each) |
@@ -61,7 +61,7 @@ This is the decision that matters, because both tools read the same YouTube capt
 The pattern is simple. youtube-transcript.io's **monthly pool** wins when you need a lot at once or every month. YTTranscript's **daily free tier and non-expiring packs** win when usage is steady but light, or unpredictable: you never pay for a month you didn't use, and there is nothing to remember to cancel.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Get 2 YouTube transcripts a day with no signup, and buy a one-time pack only when you need more. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Get 1 YouTube transcript a day free, or 2 with a free account, and buy a one-time pack only when you need more. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Where youtube-transcript.io wins
@@ -86,7 +86,7 @@ For any video that already has captions, both tools return the same text, becaus
 
 - **You pull transcripts in bulk every month, or through code:** youtube-transcript.io. Bulk jobs, an API and n8n/Make templates are what it is built for, and it's cheaper at scale.
 - **You need one big batch:** youtube-transcript.io Plus for a month, then cancel.
-- **You grab a video or two most days:** YTTranscript's free tier covers it, no account needed.
+- **You grab a video or two most days:** YTTranscript's free tier covers it (two a day with a free account).
 - **Your usage is unpredictable, or you dislike subscriptions:** YTTranscript packs never expire.
 - **The video has no captions:** YTTranscript. youtube-transcript.io can't transcribe it.
 

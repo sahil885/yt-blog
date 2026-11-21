@@ -19,7 +19,7 @@ faqItems:
   - question: "Does Whisper cost money?"
     answer: "Self-hosting Whisper is free but requires setup and your own hardware. OpenAI's hosted Whisper API costs about $0.006 per minute of audio. YTTranscript has a free tier plus paid plans."
   - question: "Do I need to install anything to use YTTranscript?"
-    answer: "No. YTTranscript needs no install, no account, and no extension. It runs in any browser, including on mobile."
+    answer: "No. YTTranscript needs no install and no extension. It runs in any browser, including on mobile."
   - question: "Can Whisper transcribe a video with no captions?"
     answer: "Yes. Because Whisper works from the audio, it can transcribe videos that have no captions, something caption-based tools cannot do."
 ---
@@ -36,7 +36,7 @@ That architectural difference drives everything else — speed, cost, setup, and
 
 ## Setup and effort
 
-With YTTranscript there is **no setup at all**. No install, no Python, no account, no extension. It works on any device, including mobile.
+With YTTranscript there is **no setup at all**. No install, no Python, no extension. It works on any device, including mobile.
 
 Running Whisper yourself is a developer task. You need **Python 3.8+**, the **ffmpeg** library, and a `pip install` of Whisper (or the faster-whisper build). For the accurate large model you'll want a capable machine — the large-v3 model uses roughly 10GB of VRAM, though optimized builds can run it in about 3GB with int8 quantization. None of this is hard for an engineer, but it's a non-starter for most people who just want the text.
 
@@ -50,7 +50,7 @@ YTTranscript returns a transcript almost instantly because it's fetching existin
 
 ## Cost
 
-**YTTranscript has a free tier** with no signup and no install. Whisper is "free" only if you self-host — you still pay in setup time and your own hardware. If you use OpenAI's hosted Whisper API instead, it costs about **$0.006 per minute** of audio, which is cheap per video but scales with volume.
+**YTTranscript has a free tier** with no install. Whisper is "free" only if you self-host — you still pay in setup time and your own hardware. If you use OpenAI's hosted Whisper API instead, it costs about **$0.006 per minute** of audio, which is cheap per video but scales with volume.
 
 ## Accuracy
 
@@ -87,7 +87,7 @@ For most day-to-day needs — students, marketers, researchers, and creators pul
 
 **Does Whisper cost money?** Self-hosting Whisper is free but requires setup and your own hardware. OpenAI's hosted Whisper API costs about $0.006 per minute of audio. YTTranscript has a free tier plus paid plans.
 
-**Do I need to install anything to use YTTranscript?** No. YTTranscript needs no install, no account, and no extension. It runs in any browser, including on mobile.
+**Do I need to install anything to use YTTranscript?** No. YTTranscript needs no install and no extension. It runs in any browser, including on mobile.
 
 **Can Whisper transcribe a video with no captions?** Yes. Because Whisper works from the audio, it can transcribe videos that have no captions — something caption-based tools cannot do.
 
