@@ -13,7 +13,7 @@ keywords:
   - free youtube transcript no signup
 faqItems:
   - question: "What is the best free YouTube transcript generator?"
-    answer: "For most people, YTTranscript: paste a link and get the full transcript in seconds with no signup or extension, then copy it or download TXT, DOCX or PDF. The free tier is 1 transcript a day without an account and 2 with a free account."
+    answer: "For most people, YTTranscript: paste a link and get the full transcript in seconds with no extension, then copy it or download TXT, DOCX or PDF with a free account. The free tier is 1 transcript a day without an account and 2 with a free account."
   - question: "Is there a free YouTube transcriber with no signup?"
     answer: "Yes. YTTranscript (1 a day without an account), DownSub (subtitle files as SRT, TXT or VTT) and YouTube's own Show transcript panel all work without signing up. YouTube's panel has no download button."
   - question: "How do I transcribe a YouTube video to text for free?"
@@ -24,7 +24,7 @@ faqItems:
     answer: "Yes. In YTTranscript, switch timestamps off and download the transcript as TXT, DOCX or PDF. YouTube's own panel lets you hide timestamps on desktop but has no download option."
 ---
 
-**The best free YouTube transcript generator for most people is [YTTranscript](https://yttranscript.app): paste a link, get the full transcript in seconds, and copy it or download TXT, DOCX or PDF, with no signup and no extension.** Its free tier is 1 transcript a day without an account (2 with a free account). If you need more free volume, **youtube-transcript.io** gives 25 a month, **DownSub** is best for free subtitle files, and **Whisper** is the free option for videos with no captions.
+**The best free YouTube transcript generator for most people is [YTTranscript](https://yttranscript.app): paste a link, get the full transcript in seconds, and copy it or download TXT, DOCX or PDF with a free account. No extension needed.** Its free tier is 1 transcript a day without an account (2 with a free account). If you need more free volume, **youtube-transcript.io** gives 25 a month, **DownSub** is best for free subtitle files, and **Whisper** is the free option for videos with no captions.
 
 *Last updated: November 18, 2026. Free limits and prices verified November 2026.*
 
@@ -42,7 +42,7 @@ Almost every "free YouTube transcriber" has a catch: a monthly cap, a required a
 
 | Tool | Free limit | Account required | Extension required | Output formats | Works on mobile |
 |---|---|---|---|---|---|
-| **YTTranscript** | 1/day (2/day with free account) | No | No | Copy, TXT, DOCX, PDF | Yes |
+| **YTTranscript** | 1/day (2/day with free account) | No to read; free account to copy or download | No | Copy, TXT, DOCX, PDF | Yes |
 | **YouTube "Show transcript"** | No limit | No | No | View and copy by hand | Yes, view only on the app |
 | **DownSub** | Free | No | No | SRT, TXT, VTT | Browser |
 | **youtube-transcript.io** | 25/month | Not to try (site says no sign-up) | No (extension optional) | Copy, download | Browser |
@@ -63,7 +63,7 @@ Almost every "free YouTube transcriber" has a catch: a monthly cap, a required a
 **Trade-off:** the free daily limit is small. If you need dozens of free transcripts a month, a monthly-quota tool below fits better.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube link and transcribe the video to text in seconds — no signup, no extension, TXT, DOCX or PDF download. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube link and transcribe the video to text in seconds — no extension; 1 free a day, or 2 with a free account for TXT, DOCX or PDF download. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 2. YouTube's Show transcript: best free option for one-off reading
@@ -92,7 +92,7 @@ Every tool above reads YouTube's existing captions. If a video has none, OpenAI'
 
 ## Verdict: which free YouTube transcriber should you use?
 
-- **If you want text from a video right now with no signup,** use YTTranscript, because it's link-to-file in seconds with no account or extension.
+- **If you want text from a video right now,** use YTTranscript, because it's link-to-text in seconds with no extension (a free account adds copying and downloads).
 - **If you just want to read along once,** use YouTube's Show transcript, because it's built in with no daily cap.
 - **If you need an SRT or VTT file,** use DownSub, because it's free and exports subtitle formats directly.
 - **If you need 10–25 free transcripts a month,** use youtube-transcript.io (25) or Tactiq (10).
@@ -105,7 +105,7 @@ Want paid options too? Our [best YouTube transcript tools for 2026](/best-youtub
 ## Frequently Asked Questions
 
 **What is the best free YouTube transcript generator?**
-For most people, YTTranscript: paste a link and get the full transcript in seconds with no signup or extension, then copy it or download TXT, DOCX or PDF. The free tier is 1 transcript a day without an account and 2 with a free account.
+For most people, YTTranscript: paste a link and get the full transcript in seconds with no extension, then copy it or download TXT, DOCX or PDF with a free account. The free tier is 1 transcript a day without an account and 2 with a free account.
 
 **Is there a free YouTube transcriber with no signup?**
 Yes. YTTranscript (1 a day without an account), DownSub (subtitle files as SRT, TXT or VTT) and YouTube's own Show transcript panel all work without signing up. YouTube's panel has no download button.

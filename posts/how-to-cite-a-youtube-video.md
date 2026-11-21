@@ -21,7 +21,7 @@ faqItems:
   - question: "Who counts as the author of a YouTube video?"
     answer: "In APA and Chicago, the channel/account that uploaded the video is treated as the author. In MLA, you can lead with the creator if they differ from the uploader, then credit the uploader after the title."
   - question: "How can a transcript help me cite a video correctly?"
-    answer: "A transcript lets you copy the exact wording of a quote instead of mishearing it, and a timestamped version gives you the precise time to cite. YTTranscript pulls both free, with no signup."
+    answer: "A transcript lets you copy the exact wording of a quote instead of mishearing it, and a timestamped version gives you the precise time to cite. YTTranscript pulls both free (copying needs a free account)."
 ---
 
 Citing a YouTube video trips people up because a video has no page numbers and the "author" isn't obvious. This guide gives you **copy-paste templates and examples for APA, MLA, and Chicago**, plus the one trick that makes quoting accurate: working from the **transcript** instead of your memory of what was said.
@@ -61,14 +61,14 @@ If the **creator differs from the uploader**, you can lead with the creator: Cre
 **Footnote:** TED, "The Secret to Giving Great Feedback," YouTube video, 10:42, November 13, 2019, https://www.youtube.com/watch?v=example.
 
 <div class="cta-box">
-  <strong>Quote it accurately:</strong> Pull the full transcript with timestamps free — copy the exact wording and the exact time, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Quote it accurately:</strong> Pull the full transcript with timestamps free — copy the exact wording and the exact time with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Quote Accurately: Work From the Transcript
 
 The most common citation mistake isn't the format — it's **misquoting** the video. Transcribing from memory or pausing repeatedly leads to small errors that undermine your work. Instead, pull the [transcript with timestamps](/youtube-transcript-with-timestamps) and you get two things at once: the **exact wording** to quote and the **exact timestamp** to cite.
 
-The workflow is simple. Open [YTTranscript](https://yttranscript.app), paste the video URL, and get the full transcript free — then find your quote, copy the precise text, and note the timestamp shown next to it. It works on any device with no account or extension.
+The workflow is simple. Open [YTTranscript](https://yttranscript.app), paste the video URL, and get the full transcript free — then find your quote, copy the precise text, and note the timestamp shown next to it. It works on any device with no extension; copying needs a free account.
 
 This is why students and academics keep a transcript open while writing. For more on this, see our guides for [researchers](/youtube-transcript-for-researchers) and [students](/youtube-transcript-for-students), who use transcripts to quote precisely, scan for evidence, and cite with confidence. If you only need the words and not the times, you can also grab a clean copy [without timestamps](/youtube-transcript-without-timestamps).
 
@@ -94,6 +94,6 @@ Yes, for direct quotes you should include the timestamp of the quoted moment so 
 In APA and Chicago, the channel/account that uploaded the video is treated as the author. In MLA, you can lead with the creator if they differ from the uploader, then credit the uploader after the title.
 
 **How can a transcript help me cite a video correctly?**
-A transcript lets you copy the exact wording of a quote instead of mishearing it, and a timestamped version gives you the precise time to cite. YTTranscript pulls both free, with no signup.
+A transcript lets you copy the exact wording of a quote instead of mishearing it, and a timestamped version gives you the precise time to cite. YTTranscript pulls both free (copying needs a free account).
 
 **[→ Get an accurate, timestamped YouTube transcript free with YTTranscript.app](https://yttranscript.app)**

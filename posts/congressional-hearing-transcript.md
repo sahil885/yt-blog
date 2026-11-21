@@ -55,10 +55,10 @@ One more middle option if your organization has access: Leadership Connect offer
 
 **Step 2: Give the replay time to caption.** Captions on a finished livestream aren't instant. YouTube processes the replay first, which typically takes a few hours and can stretch to a day for very long sessions. More in our guide to [YouTube live stream transcripts](/youtube-live-stream-transcript).
 
-**Step 3: Paste the URL into [YTTranscript](https://yttranscript.app).** You get the full text with timestamps in seconds, ready to copy or export as TXT, DOCX or PDF. There's no signup and no extension, and one transcript a day is free without an account (two with a free account). If a video has no captions, YTTranscript can AI-generate a transcript instead, using about 10 credits from a pack.
+**Step 3: Paste the URL into [YTTranscript](https://yttranscript.app).** You get the full text with timestamps in seconds, ready to copy or export as TXT, DOCX or PDF with a free account. There's no extension, and one transcript a day is free without an account (two with a free account). If a video has no captions, YTTranscript can AI-generate a transcript instead, using about 10 credits from a pack.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste a hearing's YouTube link and get a searchable, timestamped transcript in seconds, with no signup and no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste a hearing's YouTube link and get a searchable, timestamped transcript in seconds, with no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 **Step 4: Add speaker names.** Auto-captions don't say who is talking, and a hearing has many speakers. Use the timestamps with the committee's witness list and the video to attribute the exchanges you need. Our [speaker labels guide](/youtube-transcript-with-speaker-labels) shows a fast AI-assisted method.

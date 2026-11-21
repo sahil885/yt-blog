@@ -1,6 +1,6 @@
 ---
 title: "How to Get a YouTube Transcript From a Link — No Extension Needed (2026)"
-description: "Get the full transcript of any YouTube video straight from the link — no browser extension, no signup. Paste the URL, copy the text. Here's the fastest way."
+description: "Get the full transcript of any YouTube video straight from the link — no browser extension. Paste the URL, copy the text with a free account. The fastest way."
 date: "2026-07-27"
 author: "YTTranscript Team"
 category: "How-To"
@@ -12,7 +12,7 @@ keywords:
   - youtube transcript without extension
 faqItems:
   - question: "Can I get a YouTube transcript without installing an extension?"
-    answer: "Yes. Paste the video URL into a web-based tool like YTTranscript and it returns the full transcript in your browser. No extension, no signup, and it works on any device."
+    answer: "Yes. Paste the video URL into a web-based tool like YTTranscript and it returns the full transcript in your browser. No extension, 1 free a day without an account, and it works on any device."
   - question: "Why avoid a browser extension?"
     answer: "Extensions only work in the browser they are installed in, often want broad permissions, and don't help on a phone or a locked-down work computer. A web tool that reads the link avoids all of that."
   - question: "Does this work on mobile?"
@@ -20,10 +20,10 @@ faqItems:
   - question: "What if the video has no captions?"
     answer: "A link-based transcript tool reads YouTube's caption track, so it needs captions (auto or manual) to exist. If a video has none, you need an audio-transcription tool like Whisper instead."
   - question: "Is it free?"
-    answer: "YTTranscript has a free tier plus a paid option, with no signup and no extension required. For most single videos the free tier is enough."
+    answer: "YTTranscript has a free tier plus a paid option, with no extension required. For most single videos the free tier is enough."
 ---
 
-**You do not need a browser extension to get a YouTube transcript.** Copy the video's link, paste it into a web-based transcript tool like [YTTranscript](https://yttranscript.app), and you get the full text in a few seconds — no install, no signup, on any device. Extensions are one way to do this, but they are the slower, higher-friction option for most people.
+**You do not need a browser extension to get a YouTube transcript.** Copy the video's link, paste it into a web-based transcript tool like [YTTranscript](https://yttranscript.app), and you get the full text in a few seconds — no install, on any device. Extensions are one way to do this, but they are the slower, higher-friction option for most people.
 
 Here's the fastest link-based method, plus when an extension might still make sense.
 
@@ -36,7 +36,7 @@ Here's the fastest link-based method, plus when an extension might still make se
 That's it — no extension was installed at any point, and nothing was added to your browser.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube link and get the full transcript — no extension, no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube link and get the full transcript — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Link-based tool vs browser extension
@@ -67,7 +67,7 @@ For the everyday task of getting a transcript from a YouTube link, a **web tool 
 ## Frequently asked questions
 
 **Can I get a YouTube transcript without installing an extension?**
-Yes. Paste the video URL into a web-based tool like YTTranscript and it returns the full transcript in your browser. No extension, no signup, and it works on any device.
+Yes. Paste the video URL into a web-based tool like YTTranscript and it returns the full transcript in your browser. No extension, 1 free a day without an account, and it works on any device.
 
 **Why avoid a browser extension?**
 Extensions only work in the browser they are installed in, often want broad permissions, and don't help on a phone or a locked-down work computer. A web tool that reads the link avoids all of that.
@@ -79,6 +79,6 @@ Yes. Because it runs in the browser and only needs the video link, the same meth
 A link-based transcript tool reads YouTube's caption track, so it needs captions (auto or manual) to exist. If a video has none, you need an audio-transcription tool like Whisper instead.
 
 **Is it free?**
-YTTranscript has a free tier plus a paid option, with no signup and no extension required. For most single videos the free tier is enough.
+YTTranscript has a free tier plus a paid option, with no extension required. For most single videos the free tier is enough.
 
 **Skip the install — [get any YouTube transcript free at YTTranscript.app](https://yttranscript.app), straight from the link.**

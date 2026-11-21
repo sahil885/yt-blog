@@ -24,7 +24,7 @@ faqItems:
     answer: "YTTranscript can AI-generate a transcript for a caption-less video (about 10 credits), and NoteGPT offers AI transcription too. DownSub Premium can also convert video or audio to subtitles. SaveSubs, yt-dlp, youtube-transcript.io and YouTube's own panel only return captions that already exist."
 ---
 
-**The best DownSub alternative depends on what you download.** For YouTube transcripts you want to read, edit or send, **YTTranscript** is the closest swap: paste a URL, get clean text, export TXT, DOCX, PDF or SRT, with 1 free transcript a day (2 with a free account) and no signup. For subtitle files from sites like Viki or Dailymotion, **SaveSubs** is the nearest free equivalent. For bulk or scripted downloads, **yt-dlp** is free and open source. And if you need Viki, WeTV or iQIYI subtitles regularly, DownSub itself is still hard to beat, especially with Premium at $5/month.
+**The best DownSub alternative depends on what you download.** For YouTube transcripts you want to read, edit or send, **YTTranscript** is the closest swap: paste a URL, get clean text, export TXT, DOCX, PDF or SRT with a free account, and 1 free transcript a day to read without one (2 with a free account). For subtitle files from sites like Viki or Dailymotion, **SaveSubs** is the nearest free equivalent. For bulk or scripted downloads, **yt-dlp** is free and open source. And if you need Viki, WeTV or iQIYI subtitles regularly, DownSub itself is still hard to beat, especially with Premium at $5/month.
 
 DownSub is a free subtitle downloader for YouTube and 50+ other video sites. It exports SRT, VTT and TXT without an account, and its Premium plan adds playlist downloads, AI translation into 100+ languages, AI summaries and an API. Here's how the alternatives compare.
 
@@ -33,7 +33,7 @@ DownSub is a free subtitle downloader for YouTube and 50+ other video sites. It 
 | Tool | Free tier | Paid option | Sites | Exports | Best for |
 |---|---|---|---|---|---|
 | **DownSub** (baseline) | Single subtitle downloads, no account | Premium $5/mo | YouTube + 50 more | SRT, VTT, TXT | Streaming-site subtitles |
-| **YTTranscript** | 2 transcripts/day, no signup | One-time packs from $9 | YouTube | TXT, DOCX, PDF, SRT | Readable YouTube transcripts |
+| **YTTranscript** | 1/day, 2/day with free account | One-time packs from $9 | YouTube | TXT, DOCX, PDF, SRT | Readable YouTube transcripts |
 | **SaveSubs** | Free, donation-supported | None | YouTube, Viki, Facebook, Dailymotion, more | SRT and more | Free multi-site subtitles |
 | **yt-dlp** | Free, open source | None | Thousands of sites | SRT, VTT | Bulk and scripted downloads |
 | **YouTube "Show transcript"** | Free | None | YouTube | Copy and paste only | One-off reading |
@@ -52,7 +52,7 @@ DownSub does its core job well, so the reasons to switch are usually specific:
 - **You only use YouTube.** If you never touch Viki or WeTV, a YouTube-focused tool can give you a simpler workflow and better export options.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get a clean transcript as TXT, DOCX, PDF or SRT, with no signup and no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get a clean transcript as TXT, DOCX, PDF or SRT with a free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 1. YTTranscript: best for readable YouTube transcripts

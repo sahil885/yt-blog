@@ -50,12 +50,12 @@ Paid platforms are faster and cleaner across hundreds of tickers, but they're pr
 ## How to transcribe an earnings call from YouTube
 
 1. **Find the replay.** Search YouTube for "[company] Q3 2026 earnings call", or check the company's IR channel.
-2. **Paste the URL into [YTTranscript](https://yttranscript.app).** No signup or extension needed. Keep [timestamps](/youtube-transcript-with-timestamps) on so every quote links back to a moment in the call.
+2. **Paste the URL into [YTTranscript](https://yttranscript.app).** No extension needed. Keep [timestamps](/youtube-transcript-with-timestamps) on so every quote links back to a moment in the call.
 3. **Search for what matters.** Ctrl+F for "guidance", "margin", "tariff" or a segment name; see [how to search a transcript](/how-to-search-a-youtube-transcript).
 4. **Analyze.** Paste the text into [ChatGPT](/youtube-transcript-for-chatgpt) or [Claude](/youtube-transcript-with-claude) and ask for guidance changes, analyst concerns, and quote-by-quote comparisons with last quarter's call.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste an earnings call or investor day link and get the full transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste an earnings call or investor day link and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Accuracy: check the numbers

@@ -19,7 +19,7 @@ faqItems:
   - question: "Can I take notes from a YouTube video without watching it?"
     answer: "Yes. If the video has captions you can read the transcript directly and skip playback entirely. This works well for lectures, interviews and talks, but poorly for tutorials where the visuals carry the information."
   - question: "What is the best free tool for turning YouTube videos into notes?"
-    answer: "For getting the raw text, a no-signup transcript tool like YTTranscript is the quickest starting point. For turning that text into structured notes, pasting it into ChatGPT, Claude or NotebookLM works well and costs nothing on their free tiers."
+    answer: "For getting the raw text, a transcript tool like YTTranscript is the quickest starting point. For turning that text into structured notes, pasting it into ChatGPT, Claude or NotebookLM works well and costs nothing on their free tiers."
   - question: "How do I keep timestamps in my YouTube notes?"
     answer: "Export the transcript with timestamps included, then keep the timestamp next to any point you may need to revisit. That lets you jump straight back to the exact moment in the video instead of scrubbing."
 ---
@@ -36,7 +36,7 @@ The transcript-first approach separates those steps. Get the text, then decide w
 
 ## The Transcript-First Workflow
 
-1. **Copy the video URL** and paste it into a transcript tool to get the full text. [YTTranscript](https://yttranscript.app) does this without a signup or extension — see [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) for the step-by-step.
+1. **Copy the video URL** and paste it into a transcript tool to get the full text. [YTTranscript](https://yttranscript.app) does this with no extension (a free account lets you copy the text) — see [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) for the step-by-step.
 2. **Skim the transcript** for structure. Most talks have three to five real ideas buried in filler.
 3. **Highlight or cut** everything that isn't a claim, example, or number you want to keep.
 4. **Rewrite in your own words.** This is where the learning actually happens.
@@ -99,9 +99,9 @@ After, in most cases. Note taking while watching splits your attention and force
 Yes. If the video has captions you can read the transcript directly and skip playback entirely. This works well for lectures, interviews and talks, but poorly for tutorials where the visuals carry the information.
 
 **What is the best free tool for turning YouTube videos into notes?**
-For getting the raw text, a no-signup transcript tool like YTTranscript is the quickest starting point. For turning that text into structured notes, pasting it into ChatGPT, Claude or NotebookLM works well and costs nothing on their free tiers.
+For getting the raw text, a transcript tool like YTTranscript is the quickest starting point. For turning that text into structured notes, pasting it into ChatGPT, Claude or NotebookLM works well and costs nothing on their free tiers.
 
 **How do I keep timestamps in my YouTube notes?**
 Export the transcript with timestamps included, then keep the timestamp next to any point you may need to revisit. That lets you jump straight back to the exact moment in the video instead of scrubbing.
 
-**[→ Start with the transcript — get any YouTube video's text free at YTTranscript.app, no signup or extension needed](https://yttranscript.app)**
+**[→ Start with the transcript — get any YouTube video's text free at YTTranscript.app, no extension needed](https://yttranscript.app)**

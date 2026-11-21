@@ -12,7 +12,7 @@ keywords:
   - research video transcription tool
 faqItems:
   - question: "What is the best YouTube transcript tool for researchers?"
-    answer: "For pulling citable text from public YouTube videos, YTTranscript is the fastest: paste a link, get a timestamped transcript, and export TXT, DOCX or PDF with no account. Pair it with Gemini Notebook (formerly NotebookLM) when you need to question many sources with citations."
+    answer: "For pulling citable text from public YouTube videos, YTTranscript is the fastest: paste a link, get a timestamped transcript, and export TXT, DOCX or PDF with a free account. Pair it with Gemini Notebook (formerly NotebookLM) when you need to question many sources with citations."
   - question: "What is the best YouTube transcript tool for teams?"
     answer: "It depends on volume. Small teams can share a YTTranscript credit pack, since packs are one-time purchases rather than per-seat subscriptions. Teams pulling thousands of transcripts a month or automating the work are better served by youtube-transcript.io and its API."
   - question: "Can I cite a YouTube transcript in academic work?"
@@ -23,7 +23,7 @@ faqItems:
     answer: "Speech-to-text tools: YTTranscript can AI-generate a transcript for about 10 credits with a pack, and Whisper is a free self-hosted option. Gemini Notebook and caption-based tools cannot transcribe audio that has no caption track."
 ---
 
-**The best YouTube transcript tool for researchers is the one that gets you clean, timestamped, citable text fastest — for most researchers that's [YTTranscript](https://yttranscript.app)**, which needs no account and exports TXT, DOCX or PDF. **For teams, the right pick depends on volume:** a shared one-time credit pack covers most small teams, while groups pulling thousands of transcripts a month should use an API tool like youtube-transcript.io.
+**The best YouTube transcript tool for researchers is the one that gets you clean, timestamped, citable text fastest — for most researchers that's [YTTranscript](https://yttranscript.app)**, which needs no extension and exports TXT, DOCX or PDF with a free account. **For teams, the right pick depends on volume:** a shared one-time credit pack covers most small teams, while groups pulling thousands of transcripts a month should use an API tool like youtube-transcript.io.
 
 Below: six tools compared honestly, and which one fits your research or team workflow.
 
@@ -50,7 +50,7 @@ Below: six tools compared honestly, and which one fits your research or team wor
 
 ## 1. YTTranscript — best overall for researchers
 
-Paste a link, get the transcript in seconds, toggle timestamps, export **TXT, DOCX or PDF**. No signup means a research assistant can start on any machine, including a locked-down university laptop with no extensions allowed. Packs add a saved library and **AI translation into 16 languages**, useful for non-English sources ([non-English transcripts](/youtube-transcript-non-english)). If a video has no captions, a pack can AI-generate the transcript for about 10 credits.
+Paste a link, get the transcript in seconds, toggle timestamps, export **TXT, DOCX or PDF**. No extension means a research assistant can start on any machine (a free account adds copying and downloads), including a locked-down university laptop with no extensions allowed. Packs add a saved library and **AI translation into 16 languages**, useful for non-English sources ([non-English transcripts](/youtube-transcript-non-english)). If a video has no captions, a pack can AI-generate the transcript for about 10 credits.
 
 **Limits:** no bulk playlist button and no team seats or admin controls.
 
@@ -97,7 +97,7 @@ More on research workflows: [YouTube transcripts for researchers](/youtube-trans
 ## FAQ
 
 **What is the best YouTube transcript tool for researchers?**
-For pulling citable text from public YouTube videos, YTTranscript is the fastest: paste a link, get a timestamped transcript, and export TXT, DOCX or PDF with no account. Pair it with Gemini Notebook (formerly NotebookLM) when you need to question many sources with citations.
+For pulling citable text from public YouTube videos, YTTranscript is the fastest: paste a link, get a timestamped transcript, and export TXT, DOCX or PDF with a free account. Pair it with Gemini Notebook (formerly NotebookLM) when you need to question many sources with citations.
 
 **What is the best YouTube transcript tool for teams?**
 It depends on volume. Small teams can share a YTTranscript credit pack, since packs are one-time purchases rather than per-seat subscriptions. Teams pulling thousands of transcripts a month or automating the work are better served by youtube-transcript.io and its API.

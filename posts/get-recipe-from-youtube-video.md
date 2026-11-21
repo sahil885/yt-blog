@@ -47,7 +47,7 @@ Most of what you need is in what the cook **says out loud**: ingredients, rough 
 That last line matters. **If the cook never says an amount aloud, the AI may invent one** unless you tell it not to. Fill any gaps by glancing at the video.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> paste a cooking video link and get the full transcript in seconds, ready to turn into a recipe — no signup, works on your phone. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> paste a cooking video link and get the full transcript in seconds, ready to turn into a recipe — 1 free a day, works on your phone. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 It works for [YouTube Shorts](/youtube-shorts-transcript) too, and from your phone browser in the kitchen — see [YouTube transcripts on mobile](/youtube-transcript-on-mobile). For more prompt ideas, read [using YouTube transcripts with ChatGPT](/youtube-transcript-for-chatgpt) or [with Claude](/youtube-transcript-with-claude).
@@ -61,7 +61,7 @@ Apps like **ReciMe**, **Honeydew** and **Pestle** can import from a YouTube link
 | Method | Cost | Account needed | Accuracy of amounts | Saves to a cookbook | Best for |
 |---|---|---|---|---|---|
 | **Description / blog link** | Free | No | Best (creator's own recipe) | No | Any video that has one |
-| **YTTranscript + AI chatbot** | Free tier: 2 transcripts/day; packs from $9 | No (YTTranscript) | Good when amounts are spoken | Copy to Notes/Docs | Occasional recipes, Shorts, no-description videos |
+| **YTTranscript + AI chatbot** | Free: 1/day, 2/day with free account; packs from $9 | Free account to copy (YTTranscript) | Good when amounts are spoken | Copy to Notes/Docs | Occasional recipes, Shorts, no-description videos |
 | **ReciMe** | Free: 5 saved recipes; Premium $59.99/yr | Yes | Varies by video | Yes | Heavy savers who want meal plans |
 | **Honeydew** | Free tier; $6.99/mo or $39.99/yr | Yes | Varies by video | Yes | iOS/Android users importing from social |
 | **Pestle** | 15 free recipes; Pro $24.99/yr | Yes | Varies by video | Yes | Apple-only households |

@@ -52,12 +52,12 @@ Rules on cameras in courtrooms vary widely by jurisdiction, and most federal tri
 ## How to transcribe a hearing video
 
 1. **Find the recording** on the court's or agency's YouTube channel and copy the link.
-2. **Paste it into [YTTranscript](https://yttranscript.app).** No signup, no extension. Keep [timestamps](/youtube-transcript-with-timestamps) on so every quote points to a moment you can replay.
+2. **Paste it into [YTTranscript](https://yttranscript.app).** No extension needed. Keep [timestamps](/youtube-transcript-with-timestamps) on so every quote points to a moment you can replay.
 3. **Search it** for a party name, a statute or a judge's question; see [how to search a transcript](/how-to-search-a-youtube-transcript).
 4. **Export** to Word or PDF for your file notes ([to Word](/youtube-transcript-to-word), [to PDF](/youtube-transcript-to-pdf)), or paste the text into an AI tool for a first-pass summary. Review anything client-facing yourself.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste an oral argument or hearing link and get a searchable, timestamped working transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste an oral argument or hearing link and get a searchable, timestamped working transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Accuracy limits to know

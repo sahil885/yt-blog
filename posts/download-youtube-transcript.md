@@ -1,6 +1,6 @@
 ---
 title: "Download YouTube Transcript: Save Any Video as TXT, PDF or DOCX"
-description: "Download a YouTube transcript free — save any video's text as TXT, DOCX, PDF, or SRT. No signup, no extension. Works on desktop and mobile. Full 2026 guide."
+description: "Download a YouTube transcript free — save any video's text as TXT, DOCX, PDF, or SRT. Free account, no extension. Works on desktop and mobile. Full 2026 guide."
 date: "2026-06-14"
 author: "YTTranscript Team"
 category: "Guide"
@@ -23,7 +23,7 @@ howToSteps:
     text: "Name it with the video title and date so you can find and cite it later."
 faqItems:
   - question: "How do I download a YouTube transcript?"
-    answer: "Paste the video URL into yttranscript.app, click Get Transcript Now, then choose Download and pick TXT, DOCX, or PDF. It's free with no signup."
+    answer: "Paste the video URL into yttranscript.app, click Get Transcript Now, then choose Download and pick TXT, DOCX, or PDF. It's free with a free account."
   - question: "What formats can I download a YouTube transcript in?"
     answer: "YTTranscript exports TXT (plain text), DOCX (Word), and PDF. You can also produce SRT subtitle files for captioning."
   - question: "Can I download a YouTube transcript with timestamps?"
@@ -43,10 +43,10 @@ Reading a transcript on screen is useful, but **downloading** it is what makes i
 3. **Choose a format** — TXT, DOCX, or PDF.
 4. **Save the file** with a clear name.
 
-No account, no extension. For a fuller walkthrough, see [how to download a YouTube transcript](/how-to-download-youtube-transcript).
+Downloads need a free account; no extension. For a fuller walkthrough, see [how to download a YouTube transcript](/how-to-download-youtube-transcript).
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Download any YouTube transcript as TXT, DOCX, or PDF in seconds — no signup. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Download any YouTube transcript as TXT, DOCX, or PDF in seconds — free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Which format should you download?
@@ -75,7 +75,7 @@ Instead of a file, you can also send transcripts directly into [Notion](/youtube
 ## Frequently asked questions
 
 **How do I download a YouTube transcript?**
-Paste the video URL into yttranscript.app, click Get Transcript Now, then choose Download and pick TXT, DOCX, or PDF. It's free with no signup.
+Paste the video URL into yttranscript.app, click Get Transcript Now, then choose Download and pick TXT, DOCX, or PDF. It's free with a free account.
 
 **What formats can I download a YouTube transcript in?**
 YTTranscript exports TXT (plain text), DOCX (Word), and PDF. You can also produce SRT subtitle files for captioning.

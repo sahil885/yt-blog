@@ -1,6 +1,6 @@
 ---
 title: "How to Download a YouTube Transcript as TXT, DOCX, or PDF"
-description: "Learn how to download the full text transcript from any YouTube video as a TXT file, Word document, or PDF — free, no login required."
+description: "Learn how to download the full text transcript from any YouTube video as a TXT file, Word document, or PDF — free with a free account, no extension."
 date: "2026-07-27"
 author: "YTTranscript Team"
 category: "How-To"
@@ -18,14 +18,14 @@ howToSteps:
   - name: "Get the video URL"
     text: "Navigate to the YouTube video you want to transcribe. Copy the full URL from your browser address bar."
   - name: "Open YTTranscript"
-    text: "Go to yttranscript.app. No account or browser extension needed."
+    text: "Go to yttranscript.app. No browser extension needed; downloads need a free account."
   - name: "Paste and generate"
     text: "Paste the URL into the input field and click Get Transcript Now. The full text appears within a few seconds."
   - name: "Choose your download format and download"
     text: "Use the download options to save as TXT (plain text), DOCX (Word document), or PDF. The file downloads instantly to your device."
 faqItems:
   - question: "Is downloading a YouTube transcript free?"
-    answer: "Yes. YTTranscript includes downloads in every format on its free tier (1 transcript a day with no signup, 2 with a free account), with one-time packs if you need more."
+    answer: "Yes. YTTranscript includes downloads in every format on its free tier (with a free account, 2 transcripts a day; 1 a day to read without one), with one-time packs if you need more."
   - question: "Can I download a transcript from a private YouTube video?"
     answer: "No. The tool can only access public videos. Private or age-restricted videos are not accessible."
   - question: "Will the downloaded transcript include timestamps?"
@@ -48,7 +48,7 @@ Depending on the tool you use, YouTube transcripts can be saved as:
 | **DOCX** | Word documents — easy to edit, format, and share |
 | **PDF** | Read-only, print-ready — great for archiving or sharing |
 
-[YTTranscript](https://yttranscript.app) supports all three formats from a single transcript extraction — free to start, with no signup required. Here's how.
+[YTTranscript](https://yttranscript.app) supports all three formats from a single transcript extraction — free with a free account. Here's how.
 
 ## How to Download a YouTube Transcript (Step by Step)
 
@@ -58,7 +58,7 @@ Navigate to the YouTube video you want to transcribe. Copy the full URL from you
 
 **Step 2: Open YTTranscript**
 
-Go to [yttranscript.app](https://yttranscript.app). No account or browser extension needed.
+Go to [yttranscript.app](https://yttranscript.app). No browser extension needed; downloads need a free account.
 
 **Step 3: Paste and generate**
 
@@ -105,7 +105,7 @@ Long videos (3+ hours) produce very long transcripts — sometimes 20,000+ words
 ## Frequently Asked Questions
 
 **Is downloading a YouTube transcript free?**
-Yes — [YTTranscript](https://yttranscript.app) includes downloads in every format on its free tier (1 transcript a day with no signup, 2 with a free account), with one-time packs if you need more.
+Yes — [YTTranscript](https://yttranscript.app) includes downloads in every format on its free tier (with a free account, 2 transcripts a day; 1 a day to read without one), with one-time packs if you need more.
 
 **Can I download a transcript from a private YouTube video?**
 No. The tool can only access public videos. Private or age-restricted videos are not accessible.
@@ -121,6 +121,6 @@ Yes. DOCX files can be opened directly in Google Docs, Apple Pages, LibreOffice,
 
 ---
 
-Downloading a YouTube transcript takes about 15 seconds from start to finish. Whether you need a plain TXT for quick reference, a DOCX to edit and annotate, or a PDF to share and archive — [YTTranscript](https://yttranscript.app) handles all three formats for free, with no account needed.
+Downloading a YouTube transcript takes about 15 seconds from start to finish. Whether you need a plain TXT for quick reference, a DOCX to edit and annotate, or a PDF to share and archive — [YTTranscript](https://yttranscript.app) handles all three formats for free with a free account.
 
-**[→ Download your YouTube transcript now — TXT, DOCX, or PDF, free, no login](https://yttranscript.app)**
+**[→ Download your YouTube transcript now — TXT, DOCX, or PDF, free account, no extension](https://yttranscript.app)**

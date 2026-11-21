@@ -13,7 +13,7 @@ keywords:
   - cheaper than descript
 faqItems:
   - question: "What is the best free Descript alternative?"
-    answer: "It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no account and no extension — you paste a URL and get text. For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all."
+    answer: "It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no extension and no account to start — you paste a URL and get text. For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all."
   - question: "How much does Descript cost in 2026?"
     answer: "Descript has a free plan, then Hobbyist at $16/user/month billed annually ($24 monthly), Creator at $24/user/month annually ($35 monthly), and Business at $50/user/month annually ($65 monthly). Transcription hours are capped per plan, and AI credits can add overage costs."
   - question: "Why do people look for Descript alternatives?"
@@ -24,7 +24,7 @@ faqItems:
     answer: "For difficult audio, Rev's human transcription (about $1.99 per minute) is the most accurate option, and Whisper large-v3 is the strongest automated one. For YouTube videos that already have captions, accuracy gaps between tools are small because they all read the same caption track."
 ---
 
-**The best Descript alternative depends on one question: are you editing video, or do you just need the words?** Descript is a video editor that happens to transcribe — if you only wanted the text, you are paying editor prices for a transcript. For YouTube URLs, a no-signup tool like **YTTranscript** gets you there in seconds. For uploaded audio files, **Otter** or **TurboScribe** cost far less. For broadcast-grade accuracy, **Rev** still wins. Descript itself remains the right answer only if you genuinely edit video by editing text.
+**The best Descript alternative depends on one question: are you editing video, or do you just need the words?** Descript is a video editor that happens to transcribe — if you only wanted the text, you are paying editor prices for a transcript. For YouTube URLs, a no-extension tool like **YTTranscript** gets you there in seconds. For uploaded audio files, **Otter** or **TurboScribe** cost far less. For broadcast-grade accuracy, **Rev** still wins. Descript itself remains the right answer only if you genuinely edit video by editing text.
 
 Descript's 2026 pricing is a free plan, then **Hobbyist at $16/user/month billed annually ($24 monthly)**, **Creator at $24/user/month annually ($35 monthly)** and **Business at $50/user/month annually ($65 monthly)**. Each tier caps transcription hours, and AI credit top-ups can push the real bill above the sticker price. This guide compares the seven alternatives worth considering and says plainly who each one is for.
 
@@ -32,7 +32,7 @@ Descript's 2026 pricing is a free plan, then **Hobbyist at $16/user/month billed
 
 | Tool | Free tier | Paid entry price | Account needed | Best for |
 |---|---|---|---|---|
-| **YTTranscript** | Free tier, no signup | Paid tier available | No | YouTube URLs — fastest path to text |
+| **YTTranscript** | Free: 1/day, 2/day with free account | Paid tier available | No | YouTube URLs — fastest path to text |
 | **Descript** | Limited free plan | $16/user/mo annual ($24 monthly) | Yes | Editing video and audio by editing text |
 | **Otter.ai** | 300 min/mo, 30 min per convo, 3 lifetime uploads | Paid Pro tier | Yes | Live meetings and shared team notes |
 | **TurboScribe** | 3 files/day, 30 min each | $10/mo annual ($20 monthly) | Yes | Bulk file uploads, long recordings |
@@ -51,12 +51,12 @@ If your actual job is *reading, quoting, searching or summarising* what was said
 
 ## Best for YouTube videos: YTTranscript
 
-If your source is a YouTube link, Descript is the long way round: download the video, upload it, wait for processing, burn transcription hours. [YTTranscript](https://yttranscript.app) skips all of that — paste the URL, get the full transcript, copy it or export to TXT, DOCX or PDF. **No account, no browser extension, works on mobile.** It has a free tier plus a paid option, so it is not unlimited, but for YouTube-specific work it is the shortest path from video to text.
+If your source is a YouTube link, Descript is the long way round: download the video, upload it, wait for processing, burn transcription hours. [YTTranscript](https://yttranscript.app) skips all of that — paste the URL, get the full transcript, copy it or export to TXT, DOCX or PDF with a free account. **No browser extension, works on mobile.** It has a free tier plus a paid option, so it is not unlimited, but for YouTube-specific work it is the shortest path from video to text.
 
 The honest limitation: it works on YouTube URLs, not on your own local recordings. If you need to transcribe a Zoom file sitting on your desktop, use one of the upload tools below. See [how to get a YouTube transcript](/how-to-get-a-youtube-transcript) for the step-by-step, or the [YouTube transcript generator](/youtube-transcript-generator) page.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in seconds — no signup, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in seconds — no extension; 1 free a day, or 2 with a free account. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## Best for uploaded files on a budget: TurboScribe and Otter
@@ -77,7 +77,7 @@ If your output is a caption file rather than a document, **Happy Scribe** (about
 
 ## The verdict
 
-- **Just need the text from a YouTube video?** [YTTranscript](https://yttranscript.app). No signup, no install, seconds not minutes.
+- **Just need the text from a YouTube video?** [YTTranscript](https://yttranscript.app). No install, seconds not minutes.
 - **Transcribing uploaded files cheaply?** TurboScribe at $10/month annually.
 - **Recording live meetings?** Otter, free tier first.
 - **Accuracy is legally or medically critical?** Rev human transcription.
@@ -90,7 +90,7 @@ The mistake worth avoiding is paying an editor subscription for a task that ends
 ## Frequently asked questions
 
 **What is the best free Descript alternative?**
-It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no account and no extension — you paste a URL and get text. For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all.
+It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no extension and no account to start — you paste a URL and get text. For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all.
 
 **How much does Descript cost in 2026?**
 Descript has a free plan, then Hobbyist at $16/user/month billed annually ($24 monthly), Creator at $24/user/month annually ($35 monthly), and Business at $50/user/month annually ($65 monthly). Transcription hours are capped per plan, and AI credits can add overage costs.

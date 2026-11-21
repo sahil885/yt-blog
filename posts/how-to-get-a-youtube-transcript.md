@@ -17,7 +17,7 @@ howToSteps:
   - name: "Copy the YouTube video URL"
     text: "Navigate to the YouTube video and copy the full URL from your browser address bar."
   - name: "Open YTTranscript"
-    text: "Go to yttranscript.app in any browser. No account or extension required."
+    text: "Go to yttranscript.app in any browser. No extension required."
   - name: "Paste the URL and click Get Transcript Now"
     text: "Paste the URL into the input field and click Get Transcript Now. The full transcript appears within 2-5 seconds."
   - name: "Copy or download the transcript"
@@ -32,7 +32,7 @@ faqItems:
   - question: "How long does it take to get a YouTube transcript?"
     answer: "With YTTranscript, the transcript typically appears in 2-5 seconds for most videos."
   - question: "Is it free to get a YouTube transcript?"
-    answer: "Yes. YTTranscript's free tier needs no signup and covers 1 transcript a day without an account (2 with a free account) in every format. One-time packs are available if you need more."
+    answer: "Yes. YTTranscript's free tier covers 1 transcript a day to read without an account, or 2 a day with a free account, which also unlocks copying and every download format. One-time packs are available if you need more."
   - question: "Do all YouTube videos have transcripts?"
     answer: "Most do. YouTube auto-generates captions for the vast majority of videos. Very old videos or those where the creator has disabled captions may not have a transcript available."
   - question: "Does this work for long videos or whole playlists?"
@@ -49,7 +49,7 @@ A YouTube transcript is the full text of everything spoken in a video. It's gene
 
 Transcripts are useful for taking notes without watching a full video multiple times, research and quoting exact phrases without rewinding, using with AI tools like ChatGPT or Claude to summarize or ask questions, making content accessible for people who are deaf or hard of hearing, and content repurposing — turning a video into a blog post or social media content.
 
-## Method 1: Use YTTranscript (Fastest — No Signup)
+## Method 1: Use YTTranscript (Fastest — No Extension)
 
 The quickest way to get a YouTube transcript is [YTTranscript](https://yttranscript.app), a free tool that extracts the full text from any public YouTube video in seconds.
 
@@ -61,10 +61,10 @@ The quickest way to get a YouTube transcript is [YTTranscript](https://yttranscr
 
 Within a few seconds, the full transcript appears on screen. You can copy the entire text to your clipboard with one click, download it as a TXT, DOCX, or PDF file, or use it directly in ChatGPT, Notion, Google Docs, or any other tool.
 
-No account required. No browser extension. No credit card.
+No browser extension. No credit card. Copying and downloads need a free account.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in under 10 seconds — no login, no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste any YouTube URL and get the full transcript in under 10 seconds — no extension, 1 free transcript a day (2 with a free account). <a href="https://yttranscript.app">→ Get your transcript at YTTranscript.app</a>
 </div>
 
 ## Method 2: YouTube's Built-in Transcript Feature
@@ -83,7 +83,7 @@ On desktop, a panel opens beside the video with the full transcript and timestam
 
 | Method | Speed | Download | Mobile | No Account |
 |---|---|---|---|---|
-| YTTranscript | Instant | TXT/DOCX/PDF | Yes | Yes |
+| YTTranscript | Instant | TXT/DOCX/PDF (free account) | Yes | Yes, to read |
 | YouTube built-in | Manual copy | No download | View only | Yes |
 
 For most people, [YTTranscript](https://yttranscript.app) is the best option. It's faster, cleaner, and gives you a downloadable file.
@@ -132,10 +132,10 @@ Auto-generated transcripts are typically 85-95% accurate for clear English audio
 With YTTranscript, the transcript typically appears in 2-5 seconds for most videos.
 
 **Is it free?**
-Yes. YTTranscript's free tier needs no signup and covers 1 transcript a day without an account (2 with a free account) in every format. One-time packs are available if you need more.
+Yes. YTTranscript's free tier covers 1 transcript a day to read without an account, or 2 a day with a free account, which also unlocks copying and every download format. One-time packs are available if you need more.
 
 ---
 
 Getting a YouTube transcript is one of those small things that, once you know how to do it, you'll wonder how you ever lived without it. Whether you're a student taking notes, a creator repurposing content, or a researcher pulling quotes — the transcript is your shortcut.
 
-**[→ Try YTTranscript free — get any YouTube video as text in 10 seconds, no login required](https://yttranscript.app)**
+**[→ Try YTTranscript free — get any YouTube video as text in 10 seconds, no extension needed](https://yttranscript.app)**

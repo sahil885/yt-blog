@@ -50,14 +50,14 @@ Playlists add a second problem: **repetition**. Twenty pastes is fine; 400 is a 
 
 ## 1. YTTranscript — best for long single videos and small-to-mid playlists
 
-Paste the URL, get the full transcript, download **TXT, DOCX or PDF**, with timestamps on or off. A 40,000-word livestream transcript comes back as fast as a 5-minute clip. No signup, no extension, and it works on a phone.
+Paste the URL, get the full transcript, download **TXT, DOCX or PDF**, with timestamps on or off. A 40,000-word livestream transcript comes back as fast as a 5-minute clip. No extension, it works on a phone, and a free account unlocks downloads.
 
 **The honest limit:** there's no one-click playlist button. You open each video and paste its link, which takes seconds per video. For 10–100 videos that's a short session; our [playlist transcript guide](/how-to-download-youtube-playlist-transcripts) shows the fastest routine.
 
 If a long video has no captions, a pack lets YTTranscript **AI-generate the transcript for about 10 credits**.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste a 3-hour podcast or lecture link and get the whole transcript in seconds — no signup, no length cap. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Try it free:</strong> Paste a 3-hour podcast or lecture link and get the whole transcript in seconds — no length cap, 1 free a day. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
 ## 2. youtube-transcript.io — best for bulk playlists and automation
@@ -88,7 +88,7 @@ Packs also add a saved transcript library and AI translation into 16 languages. 
 
 ## Verdict
 
-- **Long single videos (lectures, hearings, podcasts):** YTTranscript. Seconds per video, no cap, no account.
+- **Long single videos (lectures, hearings, podcasts):** YTTranscript. Seconds per video, no cap, no extension.
 - **Playlists up to ~100 videos, occasional use:** YTTranscript with a $9 Starter pack.
 - **Hundreds of videos every month, or automation:** youtube-transcript.io.
 - **Free bulk and you're comfortable in a terminal:** yt-dlp.
@@ -113,4 +113,4 @@ With YTTranscript, a one-time Starter pack costs $9 for 100 transcripts and cred
 **What if a long video has no captions?**
 You need speech-to-text. With a pack, YTTranscript can AI-generate a transcript for about 10 credits; Whisper is a free self-hosted option if you're comfortable downloading the audio and running it yourself.
 
-**Got a 3-hour video or a full playlist to get through? [Start free at YTTranscript.app](https://yttranscript.app) — no signup needed.**
+**Got a 3-hour video or a full playlist to get through? [Start free at YTTranscript.app](https://yttranscript.app) — no extension needed.**
