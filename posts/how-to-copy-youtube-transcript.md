@@ -1,6 +1,6 @@
 ---
-title: "How to Copy a YouTube Transcript (Fastest Method, No Signup)"
-description: "The fastest way to copy a YouTube transcript — no extension, no account, works on any video. Step-by-step guide with the best free tools."
+title: "How to Copy a YouTube Transcript (Fastest Method, 2026)"
+description: "The fastest way to copy a YouTube transcript on desktop or phone, with no extension. Step-by-step guide with the best free tools, updated November 2026."
 date: "2026-05-10"
 author: "YTTranscript Team"
 category: "How-To Guides"
@@ -12,7 +12,7 @@ keywords:
   - youtube transcript text copy
   - get youtube transcript text
   - copy captions from youtube video
-  - youtube transcript no signup
+  - how to copy youtube transcript on phone
 ogImage: ""
 howToName: "How to Copy a YouTube Transcript"
 howToSteps:
@@ -23,12 +23,12 @@ howToSteps:
   - name: "Click Get Transcript"
     text: "Click the button and wait 2–3 seconds for the transcript to load."
   - name: "Copy the transcript"
-    text: "Click 'Copy' to copy the entire transcript to your clipboard. You can also toggle timestamps on or off before copying."
+    text: "Sign in with a free account, then click 'Copy' to copy the entire transcript to your clipboard. You can also toggle timestamps on or off before copying."
 faqItems:
   - question: "How do I copy a YouTube transcript?"
     answer: "The fastest method: go to yttranscript.app, paste the YouTube URL, click Get Transcript, then click Copy. The full transcript is in your clipboard in under 10 seconds."
   - question: "Can I copy a YouTube transcript without an account?"
-    answer: "Yes. YTTranscript requires no account, no login, and no browser extension. Just paste the URL and copy the text."
+    answer: "Yes, by hand: open Show transcript under a YouTube video on desktop and select the text. For a one-tap copy of the whole transcript, YTTranscript needs a free account; without one you can still read 1 transcript a day."
   - question: "How do I copy a YouTube transcript on mobile?"
     answer: "Open yttranscript.app in your mobile browser (Safari or Chrome), paste the YouTube video URL, tap Get Transcript, then tap Copy. It works the same on phone and tablet."
   - question: "Why can't I copy the transcript directly on YouTube?"
@@ -45,18 +45,18 @@ Here's the fastest way to copy any YouTube transcript cleanly, in one click, on 
 
 ## The Fastest Method: YTTranscript
 
-**Time required: under 30 seconds. No account, no extension.**
+**Time required: under 30 seconds. No extension; copying needs a free account.**
 
 1. Go to **[yttranscript.app](https://yttranscript.app)**
 2. Copy the YouTube video URL (e.g. `youtube.com/watch?v=dQw4w9WgXcQ`)
 3. Paste it into the input field and click **Get Transcript**
-4. Click **Copy** — the full transcript is now in your clipboard
+4. Sign in with a free account if you haven't, then click **Copy** — the full transcript is now in your clipboard
 
 That's it. You can now paste it anywhere — ChatGPT, Notion, Google Docs, your notes app, an email, wherever.
 
 <div class="cta-box">
-  <strong>Try it now — free, no signup</strong><br>
-  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and copy the transcript in seconds. No signup, no extension, works on any browser.
+  <strong>Try it now — free</strong><br>
+  <a href="https://yttranscript.app" target="_blank" rel="noopener noreferrer">YTTranscript</a> — paste any YouTube URL and get the transcript in seconds. Create a free account to copy it (2 a day free). No extension, works on any browser.
 </div>
 
 ---
@@ -79,7 +79,9 @@ The same method works on iPhone and Android:
 1. Open **[yttranscript.app](https://yttranscript.app)** in Safari or Chrome on your phone
 2. Paste the YouTube video URL
 3. Tap **Get Transcript**
-4. Tap **Copy**
+4. Sign in with a free account (needed to copy), then tap **Copy**
+
+For the YouTube app's own transcript panel and more phone tips, see [how to copy or view a YouTube transcript on your phone](/youtube-transcript-on-mobile).
 
 The copied text will be in your mobile clipboard, ready to paste into any app.
 
