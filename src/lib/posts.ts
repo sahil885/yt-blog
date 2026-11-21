@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import remarkGfm from "remark-gfm";
 import html from "remark-html";
+import { tagProductLinks } from "./utm";
 
 const postsDirectory = path.join(process.cwd(), "posts");
 
@@ -66,7 +67,7 @@ export async function getPostData(slug: string): Promise<Post> {
     .use(remarkGfm)
     .use(html, { sanitize: false })
     .process(matterResult.content);
-  const contentHtml = processedContent.toString();
+  const contentHtml = tagProductLinks(processedContent.toString(), slug);
   return {
     slug,
     contentHtml,

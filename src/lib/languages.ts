@@ -264,11 +264,11 @@ export function languagePageSlug(l: Language): string {
 }
 
 export function languageTitle(l: Language): string {
-  return `${l.name} YouTube Transcript — Free, No Signup (${l.native})`;
+  return `${l.name} YouTube Transcript — Free, No Extension (${l.native})`;
 }
 
 export function languageDescription(l: Language): string {
-  return `Get a free ${l.name} (${l.native}) YouTube transcript in seconds — no signup, no extension. Copy or download the full ${l.name} text, then translate or summarize it.`;
+  return `Get a free ${l.name} (${l.native}) YouTube transcript in seconds — no extension. Read the full ${l.name} text free, then copy it with a free account to translate or summarize.`;
 }
 
 export function languageSteps(l: Language): HowToStep[] {
@@ -287,7 +287,7 @@ export function languageSteps(l: Language): HowToStep[] {
     },
     {
       name: `Copy or download the ${l.name} text`,
-      text: `Copy the text or download it as TXT, DOCX, or PDF — then translate or summarize it however you like.`,
+      text: `Sign in with a free account to copy the text or download it as TXT, DOCX, or PDF — then translate or summarize it however you like.`,
     },
   ];
 }
@@ -296,11 +296,11 @@ export function languageFaq(l: Language): FaqItem[] {
   return [
     {
       question: `Can I get a ${l.name} transcript from any YouTube video?`,
-      answer: `Yes. If the video has ${l.name} captions (manual or auto-generated), YTTranscript extracts the full text in seconds — free and with no signup.`,
+      answer: `Yes. If the video has ${l.name} captions (manual or auto-generated), YTTranscript extracts the full text in seconds, free.`,
     },
     {
       question: `Is the ${l.name} YouTube transcript free?`,
-      answer: `Yes. YTTranscript's free tier gives you 2 transcripts a day with no account and no extension. If you need more ${l.name} transcripts, you can buy a one-time pack (no subscription), and credits never expire.`,
+      answer: `Yes. YTTranscript's free tier gives you 1 transcript a day without an account, or 2 a day (with copying) on a free account, and no extension is needed. If you need more ${l.name} transcripts, you can buy a one-time pack (no subscription), and credits never expire.`,
     },
     {
       question: `Can I translate the ${l.name} transcript to English?`,

@@ -10,7 +10,7 @@ export interface Cluster {
 }
 
 export const CLUSTERS: Cluster[] = [
-  { key: "how-to", title: "How-To & Guides", blurb: "Step-by-step guides to get, copy, download, and convert YouTube transcripts — free and with no signup.", categories: ["How-To", "How-To Guides", "Guide"], color: "bg-blue-50 text-blue-700" },
+  { key: "how-to", title: "How-To & Guides", blurb: "Step-by-step guides to get, copy, download, and convert YouTube transcripts — free to try.", categories: ["How-To", "How-To Guides", "Guide"], color: "bg-blue-50 text-blue-700" },
   { key: "ai-tools", title: "AI Tools", blurb: "Feed YouTube transcripts into ChatGPT, Claude, Gemini, Perplexity, Copilot and more for instant summaries and notes.", categories: ["AI Tools"], color: "bg-orange-50 text-orange-700" },
   { key: "use-cases", title: "Use Cases", blurb: "How students, researchers, marketers, lawyers, podcasters and other pros put transcripts to work.", categories: ["Use Cases"], color: "bg-emerald-50 text-emerald-700" },
   { key: "workflows", title: "Integrations & Workflows", blurb: "Turn transcripts into Notion notes, Google Docs, blog posts, newsletters, threads, flashcards and more.", categories: ["Productivity", "Content Creation", "Developer Guides"], color: "bg-violet-50 text-violet-700" },
