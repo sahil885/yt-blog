@@ -3,7 +3,7 @@
 // tools) goes through here, including links inside post markdown (see
 // tagProductLinks, applied in getPostData).
 //   utm_source=blog · utm_medium=cta · utm_campaign=<post slug or page>
-//   utm_content=<placement: top-banner, bottom-cta, inline, header, …>
+//   utm_content=<placement: top, inline, table, end; header/footer for site nav>
 
 const PRODUCT_HOSTS = [
   "yttranscript.app",
@@ -35,11 +35,22 @@ export function ctaUrl(url: string, campaign: string, content?: string): string 
 }
 
 // Rewrites href="https://yttranscript.app…" (and sister sites) in rendered
-// post HTML. blog.yttranscript.app is not in PRODUCT_HOSTS, so internal
-// links are untouched.
-export function tagProductLinks(html: string, campaign: string): string {
+// post HTML. Links inside a <table> get utm_content=table, all others inline.
+// blog.yttranscript.app is not in PRODUCT_HOSTS, so internal links are
+// untouched.
+function tagHrefs(html: string, campaign: string, content: string): string {
   return html.replace(
     /href="(https?:\/\/[^"]+)"/g,
-    (match, url: string) => `href="${ctaUrl(url.replace(/&amp;/g, "&"), campaign, "inline").replace(/&/g, "&amp;")}"`
+    (_m, url: string) =>
+      `href="${ctaUrl(url.replace(/&amp;/g, "&"), campaign, content).replace(/&/g, "&amp;")}"`
   );
+}
+
+export function tagProductLinks(html: string, campaign: string): string {
+  return html
+    .split(/(<table[\s\S]*?<\/table>)/g)
+    .map((part) =>
+      tagHrefs(part, campaign, part.startsWith("<table") ? "table" : "inline")
+    )
+    .join("");
 }
