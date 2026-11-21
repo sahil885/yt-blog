@@ -51,11 +51,11 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
             Get any {lang.name} YouTube transcript in seconds
           </p>
           <p className="text-xs text-gray-500 mt-0.5">
-            1 free transcript a day · Free account to copy text and get 2 a day · No extension
+            1 free transcript a day, 2 with a free account · No extension · Download as TXT, DOCX or PDF
           </p>
         </div>
         <a
-          href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "top-banner")}
+          href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "top")}
           target="_blank"
           rel="noopener noreferrer"
           className="shrink-0 bg-red-600 hover:bg-red-700 text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-colors"
@@ -120,7 +120,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
             <tr>
               <td>YTTranscript</td>
               <td>2-5 seconds</td>
-              <td>Free: 1/day, or 2/day with a free account</td>
+              <td>1/day free, 2/day with a free account</td>
               <td>Yes (TXT, DOCX, PDF)</td>
             </tr>
             <tr>
@@ -170,7 +170,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
         <p>
           <strong>
             Ready to extract {lang.name} text from any video?{" "}
-            <a href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "inline-end")}>
+            <a href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "inline")}>
               Get your free {lang.name} YouTube transcript at YTTranscript.app →
             </a>
           </strong>
@@ -200,12 +200,11 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           Ready to get your {lang.name} transcript?
         </p>
         <p className="text-sm text-gray-500 mb-5">
-          Paste any YouTube URL and read the full transcript in seconds, with no
-          extension. Free: 1 transcript a day without an account, or create a
-          free account to copy the text and get 2 a day.
+          Paste any YouTube URL and get the full text in seconds. No extension
+          needed. 1 free transcript a day, or 2 a day with a free account.
         </p>
         <a
-          href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "bottom-cta")}
+          href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "end")}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-full transition-colors"
