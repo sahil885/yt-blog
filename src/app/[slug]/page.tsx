@@ -23,6 +23,7 @@ import {
 import LanguageArticle from "@/components/LanguageArticle";
 import SummarizerCTA from "@/components/SummarizerCTA";
 import RelatedPosts from "@/components/RelatedPosts";
+import { ctaUrl } from "@/lib/utm";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -308,14 +309,14 @@ export default async function PostPage({ params }: Props) {
         <div className="bg-red-50 border border-red-100 rounded-xl p-5 mb-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
           <div>
             <p className="font-semibold text-gray-900 text-sm">
-              Get any YouTube transcript instantly — free
+              Get any YouTube transcript in seconds
             </p>
             <p className="text-xs text-gray-500 mt-0.5">
-              No signup · No extension · Copy or download as TXT, DOCX, PDF
+              1 free transcript a day · Free account to copy text and get 2 a day · No extension
             </p>
           </div>
           <a
-            href="https://yttranscript.app"
+            href={ctaUrl("https://yttranscript.app", post.slug, "top-banner")}
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 bg-red-600 hover:bg-red-700 text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-colors"
@@ -329,7 +330,7 @@ export default async function PostPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
 
-        {showSummarizer && <SummarizerCTA />}
+        {showSummarizer && <SummarizerCTA campaign={post.slug} />}
 
         <RelatedPosts posts={related} />
 
@@ -338,11 +339,12 @@ export default async function PostPage({ params }: Props) {
             Ready to get your YouTube transcript?
           </p>
           <p className="text-sm text-gray-500 mb-5">
-            Paste any YouTube URL and get the full text in seconds — no account,
-            no extension. The free tier covers 2 transcripts a day.
+Paste any YouTube URL and read the full transcript in seconds, with no
+            extension. Free: 1 transcript a day without an account, or create a
+            free account to copy the text and get 2 a day.
           </p>
           <a
-            href="https://yttranscript.app"
+            href={ctaUrl("https://yttranscript.app", post.slug, "bottom-cta")}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-full transition-colors"
