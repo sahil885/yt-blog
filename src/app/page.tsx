@@ -1,3 +1,4 @@
+import { ctaUrl } from "@/lib/utm";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getSortedPostsData, type PostMeta } from "@/lib/posts";
@@ -7,7 +8,7 @@ import { LANGUAGES, languagePageSlug } from "@/lib/languages";
 export const metadata: Metadata = {
   title: "YTTranscript Blog — YouTube Transcript Guides & Tips",
   description:
-    "Free step-by-step guides on getting YouTube transcripts, using them with ChatGPT, downloading as PDF, and more. No signup required.",
+    "Free step-by-step guides on getting YouTube transcripts, using them with ChatGPT, downloading as PDF, and more. Free to try.",
   alternates: { canonical: "https://blog.yttranscript.app" },
 };
 
@@ -55,10 +56,10 @@ export default function Home() {
           transcripts — for students, creators, and AI users.
         </p>
         <a
-          href="https://yttranscript.app"
+          href={ctaUrl("https://yttranscript.app", "blog-home", "hero")}
           className="inline-flex items-center gap-2 mt-6 bg-red-600 hover:bg-red-700 text-white font-semibold px-6 py-3 rounded-full transition-colors text-sm"
         >
-          Try YTTranscript Free — No Signup →
+          Try YTTranscript Free →
         </a>
       </div>
 
@@ -123,7 +124,7 @@ export default function Home() {
         <div className="mb-6">
           <h2 className="text-2xl font-bold text-gray-900 mb-1">By Language</h2>
           <p className="text-sm text-gray-500 max-w-2xl">
-            Get a YouTube transcript in your language — free, no signup.
+            Get a YouTube transcript in your language — free to try.
           </p>
         </div>
         <div className="flex flex-wrap gap-2">
@@ -151,7 +152,7 @@ export default function Home() {
           </p>
         </div>
         <a
-          href="https://ytsummarizer.app"
+          href={ctaUrl("https://ytsummarizer.app", "blog-home", "summarizer")}
           target="_blank"
           rel="noopener noreferrer"
           className="shrink-0 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 rounded-full transition-colors text-sm"
@@ -166,11 +167,11 @@ export default function Home() {
           Ready to get your transcript?
         </h2>
         <p className="text-gray-500 mb-6 text-sm">
-          Paste any YouTube URL and get the full transcript in seconds. Free,
-          instant, no login required.
+          Paste any YouTube URL and read the full transcript in seconds. 1 free
+          transcript a day; a free account lets you copy the text and get 2 a day.
         </p>
         <a
-          href="https://yttranscript.app"
+          href={ctaUrl("https://yttranscript.app", "blog-home", "bottom-cta")}
           className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-full transition-colors"
         >
           Get Your YouTube Transcript →

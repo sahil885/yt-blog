@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { ctaUrl } from "@/lib/utm";
 import Script from "next/script";
 import "./globals.css";
 import Link from "next/link";
@@ -65,7 +66,7 @@ export default function RootLayout({
             <nav className="flex items-center gap-3 sm:gap-6 text-sm font-medium text-gray-600">
               <Link href="/" className="hover:text-gray-900 transition-colors">Articles</Link>
               <a
-                href="https://ytsummarizer.app"
+                href={ctaUrl("https://ytsummarizer.app", "site-nav", "header")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gray-900 transition-colors"
@@ -73,7 +74,7 @@ export default function RootLayout({
                 Summarizer
               </a>
               <a
-                href="https://transcribetok.com"
+                href={ctaUrl("https://transcribetok.com", "site-nav", "header")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gray-900 transition-colors whitespace-nowrap"
@@ -81,7 +82,7 @@ export default function RootLayout({
                 TikTok<span className="hidden sm:inline"> Transcript</span>
               </a>
               <a
-                href="https://yttranscript.app"
+                href={ctaUrl("https://yttranscript.app", "site-nav", "header")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-red-600 hover:bg-red-700 text-white px-4 py-1.5 rounded-full text-sm transition-colors"
@@ -100,8 +101,8 @@ export default function RootLayout({
           <div className="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500">
             <p>© {new Date().getFullYear()} YTTranscript. Free YouTube transcript tool.</p>
             <div className="flex items-center gap-6">
-              <a href="https://yttranscript.app" className="hover:text-gray-900 transition-colors">Tool</a>
-              <a href="https://transcribetok.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900 transition-colors">TikTok Transcript</a>
+              <a href={ctaUrl("https://yttranscript.app", "site-nav", "footer")} className="hover:text-gray-900 transition-colors">Tool</a>
+              <a href={ctaUrl("https://transcribetok.com", "site-nav", "footer")} target="_blank" rel="noopener noreferrer" className="hover:text-gray-900 transition-colors">TikTok Transcript</a>
               <a href="https://yttranscript.app/privacy" className="hover:text-gray-900 transition-colors">Privacy</a>
               <a href="https://yttranscript.app/terms" className="hover:text-gray-900 transition-colors">Terms</a>
             </div>
