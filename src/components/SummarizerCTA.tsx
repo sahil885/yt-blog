@@ -3,7 +3,9 @@
 // Deliberately INDIGO so it reads as a different action from the red
 // transcript CTAs used everywhere else on the blog.
 
-export default function SummarizerCTA() {
+import { ctaUrl } from "@/lib/utm";
+
+export default function SummarizerCTA({ campaign = "blog" }: { campaign?: string }) {
   return (
     <div className="mt-12 rounded-2xl border border-indigo-100 bg-indigo-50 p-6 sm:p-7">
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
@@ -18,7 +20,7 @@ export default function SummarizerCTA() {
           </p>
         </div>
         <a
-          href="https://ytsummarizer.app"
+          href={ctaUrl("https://ytsummarizer.app", campaign, "summarizer-cta")}
           target="_blank"
           rel="noopener noreferrer"
           className="shrink-0 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-colors"

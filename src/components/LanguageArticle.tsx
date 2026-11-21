@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ctaUrl } from "@/lib/utm";
 import {
   type Language,
   LANGUAGES,
@@ -35,26 +36,26 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           <span>3 min read</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-4">
-          {lang.name} YouTube Transcript: Free, No Signup
+          {lang.name} YouTube Transcript: Free, No Extension
         </h1>
         <p className="text-xl text-gray-500 leading-relaxed">
           Extract a {lang.name} ({lang.native}) YouTube transcript in seconds —
-          free, no account, no extension. Copy or download the full text, then
-          translate or summarize it.
+          free, no extension. Read the full text, copy it with a free account,
+          then translate or summarize it.
         </p>
       </header>
 
       <div className="bg-red-50 border border-red-100 rounded-xl p-5 mb-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
         <div>
           <p className="font-semibold text-gray-900 text-sm">
-            Get any {lang.name} YouTube transcript instantly — free
+            Get any {lang.name} YouTube transcript in seconds
           </p>
           <p className="text-xs text-gray-500 mt-0.5">
-            No signup · No extension · Copy or download as TXT, DOCX, PDF
+            1 free transcript a day · Free account to copy text and get 2 a day · No extension
           </p>
         </div>
         <a
-          href="https://yttranscript.app"
+          href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "top-banner")}
           target="_blank"
           rel="noopener noreferrer"
           className="shrink-0 bg-red-600 hover:bg-red-700 text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-colors"
@@ -87,8 +88,8 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
 
         <div className="cta-box">
           <strong>Try it free:</strong> Paste any {lang.name} YouTube URL and get
-          the full transcript in seconds — no account needed.{" "}
-          <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+          the full transcript in seconds — 1 free a day, no extension.{" "}
+          <a href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "inline")}>→ Try YTTranscript.app</a>
         </div>
 
         <h2>{lang.name} auto-captions: what to expect</h2>
@@ -119,7 +120,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
             <tr>
               <td>YTTranscript</td>
               <td>2-5 seconds</td>
-              <td>Free tier (2/day), no signup</td>
+              <td>Free: 1/day, or 2/day with a free account</td>
               <td>Yes (TXT, DOCX, PDF)</td>
             </tr>
             <tr>
@@ -169,7 +170,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
         <p>
           <strong>
             Ready to extract {lang.name} text from any video?{" "}
-            <a href="https://yttranscript.app">
+            <a href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "inline-end")}>
               Get your free {lang.name} YouTube transcript at YTTranscript.app →
             </a>
           </strong>
@@ -199,11 +200,12 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           Ready to get your {lang.name} transcript?
         </p>
         <p className="text-sm text-gray-500 mb-5">
-          Paste any YouTube URL and get the full text in seconds — no account,
-          no extension. The free tier covers 2 transcripts a day.
+          Paste any YouTube URL and read the full transcript in seconds, with no
+          extension. Free: 1 transcript a day without an account, or create a
+          free account to copy the text and get 2 a day.
         </p>
         <a
-          href="https://yttranscript.app"
+          href={ctaUrl("https://yttranscript.app", languagePageSlug(lang), "bottom-cta")}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-full transition-colors"
