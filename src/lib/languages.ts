@@ -10,11 +10,21 @@ export interface Language {
   native: string; // endonym, e.g. "Español"
   intro: string; // unique 2-3 sentence opener
   note: string; // unique auto-caption / usage note
+  // Date this language's own content (intro, note, name) last changed,
+  // YYYY-MM-DD. Update it whenever you edit this entry. Used for the
+  // sitemap <lastmod> together with LANGUAGE_TEMPLATE_UPDATED.
+  updated: string;
 }
+
+// Date the shared language-page template last changed: LanguageArticle.tsx
+// and the shared title/description/steps/FAQ functions below. Update it
+// whenever either changes, because every language page's content changes too.
+export const LANGUAGE_TEMPLATE_UPDATED = "2026-11-21";
 
 export const LANGUAGES: Language[] = [
   {
     slug: "spanish",
+    updated: "2026-06-14",
     name: "Spanish",
     native: "Español",
     intro:
@@ -23,6 +33,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "hindi",
+    updated: "2026-06-14",
     name: "Hindi",
     native: "हिन्दी",
     intro:
@@ -31,6 +42,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "portuguese",
+    updated: "2026-06-14",
     name: "Portuguese",
     native: "Português",
     intro:
@@ -39,6 +51,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "arabic",
+    updated: "2026-06-14",
     name: "Arabic",
     native: "العربية",
     intro:
@@ -47,6 +60,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "french",
+    updated: "2026-06-14",
     name: "French",
     native: "Français",
     intro:
@@ -55,6 +69,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "german",
+    updated: "2026-06-14",
     name: "German",
     native: "Deutsch",
     intro:
@@ -63,6 +78,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "japanese",
+    updated: "2026-06-14",
     name: "Japanese",
     native: "日本語",
     intro:
@@ -71,6 +87,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "korean",
+    updated: "2026-06-14",
     name: "Korean",
     native: "한국어",
     intro:
@@ -79,6 +96,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "indonesian",
+    updated: "2026-06-14",
     name: "Indonesian",
     native: "Bahasa Indonesia",
     intro:
@@ -87,6 +105,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "russian",
+    updated: "2026-06-14",
     name: "Russian",
     native: "Русский",
     intro:
@@ -95,6 +114,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "turkish",
+    updated: "2026-06-14",
     name: "Turkish",
     native: "Türkçe",
     intro:
@@ -103,6 +123,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "vietnamese",
+    updated: "2026-06-14",
     name: "Vietnamese",
     native: "Tiếng Việt",
     intro:
@@ -111,6 +132,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "italian",
+    updated: "2026-06-14",
     name: "Italian",
     native: "Italiano",
     intro:
@@ -119,6 +141,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "chinese",
+    updated: "2026-06-14",
     name: "Chinese",
     native: "中文",
     intro:
@@ -127,6 +150,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "urdu",
+    updated: "2026-09-30",
     name: "Urdu",
     native: "اردو",
     intro:
@@ -135,6 +159,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "thai",
+    updated: "2026-06-24",
     name: "Thai",
     native: "ไทย",
     intro:
@@ -143,6 +168,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "tamil",
+    updated: "2026-06-24",
     name: "Tamil",
     native: "தமிழ்",
     intro:
@@ -151,6 +177,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "telugu",
+    updated: "2026-06-24",
     name: "Telugu",
     native: "తెలుగు",
     intro:
@@ -159,6 +186,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "bengali",
+    updated: "2026-06-24",
     name: "Bengali",
     native: "বাংলা",
     intro:
@@ -167,6 +195,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "marathi",
+    updated: "2026-09-30",
     name: "Marathi",
     native: "मराठी",
     intro:
@@ -175,6 +204,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "gujarati",
+    updated: "2026-09-30",
     name: "Gujarati",
     native: "ગુજરાતી",
     intro:
@@ -183,6 +213,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "kannada",
+    updated: "2026-09-30",
     name: "Kannada",
     native: "ಕನ್ನಡ",
     intro:
@@ -191,6 +222,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "malayalam",
+    updated: "2026-09-30",
     name: "Malayalam",
     native: "മലയാളം",
     intro:
@@ -199,6 +231,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "punjabi",
+    updated: "2026-09-30",
     name: "Punjabi",
     native: "ਪੰਜਾਬੀ",
     intro:
@@ -207,6 +240,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "polish",
+    updated: "2026-06-24",
     name: "Polish",
     native: "Polski",
     intro:
@@ -215,6 +249,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "dutch",
+    updated: "2026-06-24",
     name: "Dutch",
     native: "Nederlands",
     intro:
@@ -223,6 +258,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "filipino",
+    updated: "2026-06-24",
     name: "Filipino",
     native: "Filipino",
     intro:
@@ -231,6 +267,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "persian",
+    updated: "2026-06-24",
     name: "Persian",
     native: "فارسی",
     intro:
@@ -239,6 +276,7 @@ export const LANGUAGES: Language[] = [
   },
   {
     slug: "ukrainian",
+    updated: "2026-06-24",
     name: "Ukrainian",
     native: "Українська",
     intro:
@@ -248,6 +286,12 @@ export const LANGUAGES: Language[] = [
 ];
 
 const SUFFIX = "-youtube-transcript";
+
+// Real last-change date for a language page: the later of its own content
+// date and the shared template date. Never the build time.
+export function languageLastModified(l: Language): string {
+  return l.updated > LANGUAGE_TEMPLATE_UPDATED ? l.updated : LANGUAGE_TEMPLATE_UPDATED;
+}
 
 export function getAllLanguageSlugs(): string[] {
   return LANGUAGES.map((l) => `${l.slug}${SUFFIX}`);
