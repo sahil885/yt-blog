@@ -1,5 +1,6 @@
 ---
 title: "Best YouTube Transcript Chrome Extensions (2026), Plus a No-Install Option"
+seoTitle: "Best YouTube Transcript Chrome Extensions (2026)"
 description: "The best Chrome extensions for copying YouTube transcripts in 2026, compared on free limits, features and privacy, plus a no-install option that works on any browser and phone."
 date: "2026-05-10"
 author: "YTTranscript Team"

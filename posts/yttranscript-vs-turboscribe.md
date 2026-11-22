@@ -1,5 +1,6 @@
 ---
 title: "TurboScribe for YouTube vs YTTranscript (2026): Which Is Better for YouTube Videos?"
+seoTitle: "TurboScribe for YouTube vs YTTranscript (2026)"
 description: "YTTranscript vs TurboScribe compared on speed, price, accuracy, and signup. Which is best for YouTube transcripts in 2026? An honest side-by-side breakdown."
 date: "2026-06-24"
 author: "YTTranscript Team"
