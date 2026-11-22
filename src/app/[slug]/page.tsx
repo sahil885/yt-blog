@@ -74,14 +74,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const ogImages = post.ogImage
       ? [{ url: post.ogImage, width: 1200, height: 630 }]
       : [DEFAULT_OG];
+    const metaTitle = post.seoTitle ?? post.title;
     return {
-      title: post.title,
+      title: metaTitle,
       description: post.description,
       keywords: post.keywords,
       authors: [{ name: post.author }],
       alternates: { canonical: `${SITE_URL}/${slug}` },
       openGraph: {
-        title: post.title,
+        title: metaTitle,
         description: post.description,
         type: "article",
         publishedTime: post.date,
@@ -91,7 +92,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
       twitter: {
         card: "summary_large_image",
-        title: post.title,
+        title: metaTitle,
         description: post.description,
         images: [ogImages[0].url],
       },
