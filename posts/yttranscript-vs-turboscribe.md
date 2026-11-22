@@ -34,7 +34,7 @@ faqItems:
 
 *Last updated: November 22, 2026. TurboScribe features and prices checked on turboscribe.ai in November 2026.*
 
-Here is the side-by-side breakdown.
+Here's the side-by-side breakdown.
 
 ## At a Glance
 
