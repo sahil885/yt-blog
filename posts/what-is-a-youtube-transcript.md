@@ -24,7 +24,7 @@ faqItems:
     answer: "The fastest way is to go to YTTranscript.app, paste the YouTube video URL, and get the full text in seconds. No extension required; a free account lets you copy or download it."
 ---
 
-If you've ever wanted to read, search, copy, or use the spoken content of a YouTube video as text — that's exactly what a YouTube transcript gives you.
+If you've ever wanted to read, search, copy, or use the spoken content of a YouTube video as text — that's exactly what a YouTube transcript gives you. The fastest way to get one is a free [YouTube transcript generator](/youtube-transcript-generator).
 
 Here's what it is, how YouTube creates it, and why it's one of the most underused tools available to anyone who watches YouTube.
 

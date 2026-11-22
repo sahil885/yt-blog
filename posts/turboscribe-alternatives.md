@@ -13,7 +13,7 @@ keywords:
   - youtube transcript tool
 faqItems:
   - question: "What is the best free TurboScribe alternative?"
-    answer: "For YouTube videos specifically, YTTranscript is the fastest free alternative because it needs no account, no install, and pulls the transcript straight from a URL. For general audio and video files, Otter's free tier (300 minutes/month) is the more generous option."
+    answer: "For YouTube videos specifically, YTTranscript is the fastest free alternative because it needs no install and pulls the transcript straight from a URL (no account to read; a free account to copy or download). For general audio and video files, Otter's free tier (300 minutes/month) is the more generous option."
   - question: "Why do people look for TurboScribe alternatives?"
     answer: "The two most common reasons are the free plan's cap of 3 transcriptions per day at 30 minutes each, and the fact that TurboScribe is built around file uploads rather than one-click YouTube URLs."
   - question: "How much does TurboScribe cost in 2026?"
@@ -97,7 +97,7 @@ Most people searching for a TurboScribe alternative are actually trying to get t
 ## FAQ
 
 **What is the best free TurboScribe alternative?**
-For YouTube videos specifically, YTTranscript is the fastest free alternative because it needs no account, no install, and pulls the transcript straight from a URL. For general audio and video files, Otter's free tier (300 minutes/month) is the more generous option.
+For YouTube videos specifically, YTTranscript is the fastest free alternative because it needs no install and pulls the transcript straight from a URL (no account to read; a free account to copy or download). For general audio and video files, Otter's free tier (300 minutes/month) is the more generous option.
 
 **Why do people look for TurboScribe alternatives?**
 The two most common reasons are the free plan's cap of 3 transcriptions per day at 30 minutes each, and the fact that TurboScribe is built around file uploads rather than one-click YouTube URLs.

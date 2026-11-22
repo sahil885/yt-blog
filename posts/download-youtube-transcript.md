@@ -34,7 +34,7 @@ faqItems:
     answer: "Yes. The free tier gives you 1 transcript a day without an account (2 with a free account), and one-time packs are available if you need more."
 ---
 
-Reading a transcript on screen is useful, but **downloading** it is what makes it permanent: a file you can keep, edit, print, cite, and share. This guide covers how to **download a YouTube transcript** for free in any format — TXT, DOCX, PDF, or SRT — and which format to pick for which job.
+Reading a transcript on screen is useful, but **downloading** it is what makes it permanent: a file you can keep, edit, print, cite, and share. This guide covers how to **download a YouTube transcript** for free in any format — TXT, DOCX, PDF, or SRT — and which format to pick for which job. If you haven't pulled the text yet, start with a free [YouTube transcript generator](/youtube-transcript-generator).
 
 ## How to download a YouTube transcript (free)
 

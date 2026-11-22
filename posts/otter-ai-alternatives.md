@@ -20,7 +20,7 @@ faqItems:
   - question: "Which Otter.ai alternative is cheapest for high volume?"
     answer: "TurboScribe's Unlimited plan at $10/month billed annually ($20 monthly) removes the daily cap entirely, which makes it the cheapest option for people transcribing many long files."
   - question: "Is there an Otter.ai alternative that needs no account?"
-    answer: "Yes. YTTranscript pulls a YouTube transcript from a pasted link without a login or browser extension. Most meeting-focused alternatives, including Otter, require an account."
+    answer: "Yes, for reading: YTTranscript shows a YouTube transcript from a pasted link without a login or browser extension (copying or downloading needs a free account). Most meeting-focused alternatives, including Otter, require an account."
 ---
 
 **The best Otter.ai alternative depends on what you are transcribing.** For live meetings, Fireflies.ai is the closest like-for-like swap and its free plan includes unlimited transcription. For bulk audio and video files, TurboScribe is the cheapest at $10/month billed annually. For **YouTube videos specifically, Otter is the wrong tool entirely** — it cannot accept a YouTube URL, so a link-based tool like [YTTranscript](https://yttranscript.app) gets you the text in seconds instead of minutes.
@@ -126,6 +126,6 @@ Not from a URL. You have to download the video or audio first and upload the fil
 TurboScribe's Unlimited plan at $10/month billed annually ($20 monthly) removes the daily cap entirely, which makes it the cheapest option for people transcribing many long files.
 
 **Is there an Otter.ai alternative that needs no account?**
-Yes. YTTranscript pulls a YouTube transcript from a pasted link without a login or browser extension. Most meeting-focused alternatives, including Otter, require an account.
+Yes, for reading: YTTranscript shows a YouTube transcript from a pasted link without a login or browser extension (copying or downloading needs a free account). Most meeting-focused alternatives, including Otter, require an account.
 
 **If your transcripts start on YouTube, start here instead — [paste a link and get the text free at YTTranscript.app](https://yttranscript.app).**

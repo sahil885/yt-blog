@@ -45,7 +45,7 @@ Here's how journalists and researchers use YouTube transcripts to work faster an
 2. Paste the YouTube video URL
 3. Click Get Transcript — the full text appears in seconds
 4. Toggle timestamps on to see when each segment occurs
-5. Copy or download as TXT, DOCX, or PDF
+5. Copy or download as TXT, DOCX, or PDF (free account needed)
 
 <div class="cta-box">
   <strong>Get the transcript of any YouTube video — free</strong><br>

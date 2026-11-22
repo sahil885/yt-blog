@@ -13,13 +13,13 @@ keywords:
   - cheaper than descript
 faqItems:
   - question: "What is the best free Descript alternative?"
-    answer: "It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no extension and no account to start — you paste a URL and get text. For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all."
+    answer: "It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no extension and no account to start — you paste a URL and read the text (a free account lets you copy or download it). For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all."
   - question: "How much does Descript cost in 2026?"
     answer: "Descript has a free plan, then Hobbyist at $16/user/month billed annually ($24 monthly), Creator at $24/user/month annually ($35 monthly), and Business at $50/user/month annually ($65 monthly). Transcription hours are capped per plan, and AI credits can add overage costs."
   - question: "Why do people look for Descript alternatives?"
     answer: "Three reasons dominate: price for solo users, the transcription-hour caps and AI credit top-ups, and the fact that Descript is a full video editor when many people only wanted the transcript text."
   - question: "Is there a Descript alternative that doesn't require an account?"
-    answer: "Yes. YTTranscript pulls transcripts from a YouTube URL with no signup and no browser extension. Descript, Otter, Rev, Sonix, TurboScribe and Happy Scribe all require an account before you can transcribe anything."
+    answer: "Yes. YTTranscript shows a transcript from a YouTube URL with no account and no browser extension (a free account lets you copy or download it). Descript, Otter, Rev, Sonix, TurboScribe and Happy Scribe all require an account before you can transcribe anything."
   - question: "What is the most accurate Descript alternative?"
     answer: "For difficult audio, Rev's human transcription (about $1.99 per minute) is the most accurate option, and Whisper large-v3 is the strongest automated one. For YouTube videos that already have captions, accuracy gaps between tools are small because they all read the same caption track."
 ---
@@ -90,7 +90,7 @@ The mistake worth avoiding is paying an editor subscription for a task that ends
 ## Frequently asked questions
 
 **What is the best free Descript alternative?**
-It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no extension and no account to start — you paste a URL and get text. For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all.
+It depends on your source. For YouTube videos, YTTranscript is the fastest free option because it needs no extension and no account to start — you paste a URL and read the text (a free account lets you copy or download it). For uploaded audio files, Otter's free tier (300 minutes per month) is more generous, and self-hosted Whisper is free with no cap at all.
 
 **How much does Descript cost in 2026?**
 Descript has a free plan, then Hobbyist at $16/user/month billed annually ($24 monthly), Creator at $24/user/month annually ($35 monthly), and Business at $50/user/month annually ($65 monthly). Transcription hours are capped per plan, and AI credits can add overage costs.
@@ -99,7 +99,7 @@ Descript has a free plan, then Hobbyist at $16/user/month billed annually ($24 m
 Three reasons dominate: price for solo users, the transcription-hour caps and AI credit top-ups, and the fact that Descript is a full video editor when many people only wanted the transcript text.
 
 **Is there a Descript alternative that doesn't require an account?**
-Yes. YTTranscript pulls transcripts from a YouTube URL with no signup and no browser extension. Descript, Otter, Rev, Sonix, TurboScribe and Happy Scribe all require an account before you can transcribe anything.
+Yes. YTTranscript shows a transcript from a YouTube URL with no account and no browser extension (a free account lets you copy or download it). Descript, Otter, Rev, Sonix, TurboScribe and Happy Scribe all require an account before you can transcribe anything.
 
 **What is the most accurate Descript alternative?**
 For difficult audio, Rev's human transcription (about $1.99 per minute) is the most accurate option, and Whisper large-v3 is the strongest automated one. For YouTube videos that already have captions, accuracy gaps between tools are small because they all read the same caption track.

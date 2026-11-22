@@ -36,7 +36,7 @@ faqItems:
     answer: "Yes. DOCX files are the standard Microsoft Word format and can be opened directly in Google Docs, Apple Pages, LibreOffice, and all major word processors."
 ---
 
-Once you've extracted a YouTube transcript, you'll often want to save it as a file — for offline access, sharing with colleagues, storing in your research folder, or uploading to another tool. This guide covers exactly how to download a YouTube transcript in the format that suits you best.
+Once you've extracted a YouTube transcript with a [YouTube transcript generator](/youtube-transcript-generator), you'll often want to save it as a file — for offline access, sharing with colleagues, storing in your research folder, or uploading to another tool. This guide covers exactly how to download a YouTube transcript in the format that suits you best.
 
 ## What Download Formats Are Available?
 

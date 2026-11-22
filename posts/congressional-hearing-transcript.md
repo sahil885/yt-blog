@@ -23,7 +23,7 @@ faqItems:
   - question: "Are Senate hearings on YouTube?"
     answer: "Usually not on official committee channels: Senate committees webcast on their own websites and Congress.gov. But high-profile Senate hearings are often streamed in full on YouTube by outlets such as PBS NewsHour, while House committees stream their hearings to committee-run YouTube channels."
   - question: "Does this work for long videos or whole playlists?"
-    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download) a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 **The fastest free way to get a congressional hearing transcript is to pull the auto-captions from the hearing's YouTube video, which is usually possible within hours of the hearing ending.** The official transcript, published by the Government Publishing Office on GovInfo and Congress.gov, is the authoritative record, but it often takes months to appear and some hearings are never printed at all. If you need a verbatim transcript within the hour, that is what paid services like **CQ Transcripts** and **Bloomberg Government** sell.
@@ -96,7 +96,7 @@ Packs also add a saved transcript library, AI translation into 16 languages, and
 ## Frequently asked questions
 
 **Does this work for long videos or whole playlists?**
-Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download) a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **How long does it take for an official congressional hearing transcript to be published?**
 Often months, and sometimes years. The Congressional Research Service notes that printed hearings often are not published for months, and each committee decides whether and when to publish, so some hearings are never printed. Witness statements usually appear online much sooner.

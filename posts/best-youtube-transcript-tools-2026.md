@@ -22,7 +22,7 @@ faqItems:
   - question: "Which YouTube transcript tool is best for research?"
     answer: "Use YTTranscript to pull clean, timestamped, citable text from each video, and Gemini Notebook (formerly NotebookLM) to ask questions across many sources with citations. Together they cover extraction and analysis."
   - question: "Is there a free YouTube transcript tool with no signup?"
-    answer: "Yes. YTTranscript gives 1 free transcript a day with no account, and YouTube's own Show transcript panel is free with no limit but is awkward to copy and can't download files."
+    answer: "Yes. YTTranscript lets you read 1 free transcript a day with no account (a free account lets you copy or download and gives you 2 a day), and YouTube's own Show transcript panel is free with no limit but is awkward to copy and can't download files."
 ---
 
 **The best YouTube transcript tool for most people in 2026 is [YTTranscript](https://yttranscript.app):** paste a link, get the full transcript in seconds, and download it as TXT, DOCX or PDF with a free account — no extension. It's free for 1 transcript a day without an account (2 with a free account), and one-time packs start at **$9 for 100 transcripts**. Other tools win specific jobs: **youtube-transcript.io** for bulk playlists, **Gemini Notebook** for analysis across sources, **Tactiq** if you also transcribe meetings, and **Whisper** for videos with no captions.
@@ -120,6 +120,6 @@ For hundreds of videos at once, youtube-transcript.io offers bulk playlist extra
 Use YTTranscript to pull clean, timestamped, citable text from each video, and Gemini Notebook (formerly NotebookLM) to ask questions across many sources with citations. Together they cover extraction and analysis.
 
 **Is there a free YouTube transcript tool with no signup?**
-Yes. YTTranscript gives 1 free transcript a day with no account, and YouTube's own Show transcript panel is free with no limit but is awkward to copy and can't download files.
+Yes. YTTranscript lets you read 1 free transcript a day with no account (a free account lets you copy or download and gives you 2 a day), and YouTube's own Show transcript panel is free with no limit but is awkward to copy and can't download files.
 
 **Ready to try the top pick? [Get your first transcript free at YTTranscript.app](https://yttranscript.app) — no extension needed.**

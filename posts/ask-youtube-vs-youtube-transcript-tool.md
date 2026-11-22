@@ -53,7 +53,7 @@ The trade-off: a transcript tool doesn't *interpret* anything. You get raw text.
 | Feature | Ask YouTube | YTTranscript | YouTube "Show transcript" panel |
 |---|---|---|---|
 | What you get | AI answers & summaries | Full word-for-word transcript | Full transcript, on screen |
-| Account required | Yes (signed-in) | No | No |
+| Account required | Yes (signed-in) | No to read; free account to copy/download | No |
 | Works on every video | No — select videos | Any public video with captions | Any video with captions |
 | Export as file | No | TXT, DOCX, PDF | No (manual copy only) |
 | Exact quotes | Paraphrased | Yes | Yes |

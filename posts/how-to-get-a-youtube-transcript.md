@@ -36,10 +36,10 @@ faqItems:
   - question: "Do all YouTube videos have transcripts?"
     answer: "Most do. YouTube auto-generates captions for the vast majority of videos. Very old videos or those where the creator has disabled captions may not have a transcript available."
   - question: "Does this work for long videos or whole playlists?"
-    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download) a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
-**To get a YouTube transcript, paste the video URL into a free tool like [YTTranscript](https://yttranscript.app) and copy the text — it takes about ten seconds.** You can also use YouTube's built-in transcript on desktop. Below are three free methods, plus how to do it on [mobile](/youtube-transcript-on-mobile), [with timestamps](/youtube-transcript-with-timestamps), from a [Short](/youtube-shorts-transcript), or [for ChatGPT](/youtube-transcript-for-chatgpt).
+**To get a YouTube transcript, paste the video URL into a free [YouTube transcript generator](/youtube-transcript-generator) like [YTTranscript](https://yttranscript.app) and copy the text — it takes about ten seconds.** You can also use YouTube's built-in transcript on desktop. Below are three free methods, plus how to do it on [mobile](/youtube-transcript-on-mobile), [with timestamps](/youtube-transcript-with-timestamps), from a [Short](/youtube-shorts-transcript), or [for ChatGPT](/youtube-transcript-for-chatgpt).
 
 Getting a transcript from a YouTube video used to mean manually typing out everything you heard. Today, it takes about ten seconds. This guide walks you through every method — from YouTube's own built-in feature to free online tools — so you can pick what works best for your situation.
 
@@ -81,7 +81,7 @@ On desktop, a panel opens beside the video with the full transcript and timestam
 
 ## Which Method Should You Use?
 
-| Method | Speed | Download | Mobile | No Account |
+| Method | Speed | Download | Mobile | No account to read |
 |---|---|---|---|---|
 | YTTranscript | Instant | TXT/DOCX/PDF (free account) | Yes | Yes, to read |
 | YouTube built-in | Manual copy | No download | View only | Yes |
@@ -117,7 +117,7 @@ Packs also add a saved transcript library, AI translation into 16 languages, and
 ## Frequently Asked Questions
 
 **Does this work for long videos or whole playlists?**
-Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download) a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Can I get a transcript of a private YouTube video?**
 No. Transcript tools can only access public videos.

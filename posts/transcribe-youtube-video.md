@@ -23,7 +23,7 @@ howToSteps:
     text: "Copy it or download as TXT, DOCX, or PDF."
 faqItems:
   - question: "How do I transcribe a YouTube video for free?"
-    answer: "Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full transcription in seconds — free, with no signup or software."
+    answer: "Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full transcription in seconds, free and with no software; a free account lets you copy or download it."
   - question: "Do I need software to transcribe a YouTube video?"
     answer: "No. YTTranscript runs in your browser, so there's nothing to download or install. It even works on your phone."
   - question: "How accurate is the transcription?"
@@ -80,7 +80,7 @@ YTTranscript transcribes [non-English videos](/youtube-transcript-non-english) a
 ## Frequently asked questions
 
 **How do I transcribe a YouTube video for free?**
-Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full transcription in seconds — free, with no signup or software.
+Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full transcription in seconds, free and with no software; a free account lets you copy or download it.
 
 **Do I need software to transcribe a YouTube video?**
 No. YTTranscript runs in your browser, so there's nothing to download or install. It even works on your phone.

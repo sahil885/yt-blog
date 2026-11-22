@@ -24,7 +24,7 @@ faqItems:
     answer: "Yes. In YTTranscript, switch timestamps off and download the transcript as TXT, DOCX or PDF. YouTube's own panel lets you hide timestamps on desktop but has no download option."
 ---
 
-**The best free YouTube transcript generator for most people is [YTTranscript](https://yttranscript.app): paste a link, get the full transcript in seconds, and copy it or download TXT, DOCX or PDF with a free account. No extension needed.** Its free tier is 1 transcript a day without an account (2 with a free account). If you need more free volume, **youtube-transcript.io** gives 25 a month, **DownSub** is best for free subtitle files, and **Whisper** is the free option for videos with no captions.
+**The best free [YouTube transcript generator](/youtube-transcript-generator) for most people is [YTTranscript](https://yttranscript.app): paste a link, get the full transcript in seconds, and copy it or download TXT, DOCX or PDF with a free account. No extension needed.** Its free tier is 1 transcript a day without an account (2 with a free account). If you need more free volume, **youtube-transcript.io** gives 25 a month, **DownSub** is best for free subtitle files, and **Whisper** is the free option for videos with no captions.
 
 *Last updated: November 18, 2026. Free limits and prices verified November 2026.*
 
@@ -42,7 +42,7 @@ Almost every "free YouTube transcriber" has a catch: a monthly cap, a required a
 
 | Tool | Free limit | Account required | Extension required | Output formats | Works on mobile |
 |---|---|---|---|---|---|
-| **YTTranscript** | 1/day (2/day with free account) | No to read; free account to copy or download | No | Copy, TXT, DOCX, PDF | Yes |
+| **YTTranscript** | 1/day (2/day with free account) | No to read; free account to copy/download | No | Copy, TXT, DOCX, PDF | Yes |
 | **YouTube "Show transcript"** | No limit | No | No | View and copy by hand | Yes, view only on the app |
 | **DownSub** | Free | No | No | SRT, TXT, VTT | Browser |
 | **youtube-transcript.io** | 25/month | Not to try (site says no sign-up) | No (extension optional) | Copy, download | Browser |

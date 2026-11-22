@@ -23,7 +23,7 @@ faqItems:
     answer: "YTTranscript has a free tier plus a paid option, with no extension required. For most single videos the free tier is enough."
 ---
 
-**You do not need a browser extension to get a YouTube transcript.** Copy the video's link, paste it into a web-based transcript tool like [YTTranscript](https://yttranscript.app), and you get the full text in a few seconds — no install, on any device. Extensions are one way to do this, but they are the slower, higher-friction option for most people.
+**You do not need a browser extension to get a YouTube transcript.** Copy the video's link, paste it into a web-based transcript tool like [YTTranscript](https://yttranscript.app), and you get the full text in a few seconds — no install, on any device. Extensions are one way to do this, but they are the slower, higher-friction option for most people. If you do want a button inside YouTube, compare the [best YouTube transcript Chrome extensions](/youtube-transcript-chrome-extension).
 
 Here's the fastest link-based method, plus when an extension might still make sense.
 
@@ -31,7 +31,7 @@ Here's the fastest link-based method, plus when an extension might still make se
 
 1. **Copy the video link.** On the YouTube page, copy the URL from the address bar, or tap **Share → Copy link** in the mobile app. Any standard `youtube.com/watch?v=...` or `youtu.be/...` link works.
 2. **Paste it into YTTranscript.** Open [yttranscript.app](https://yttranscript.app), paste the link, and submit. It reads the video's caption track and returns the full transcript.
-3. **Copy or export.** Read it on screen, copy it to your clipboard, or export to TXT, DOCX, or PDF. You can also toggle [timestamps](/youtube-transcript-with-timestamps) on or off.
+3. **Copy or export.** Read it on screen with no account, or sign in with a free account to copy it to your clipboard or export to TXT, DOCX, or PDF. You can also toggle [timestamps](/youtube-transcript-with-timestamps) on or off.
 
 That's it — no extension was installed at any point, and nothing was added to your browser.
 

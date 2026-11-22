@@ -13,7 +13,7 @@ keywords:
   - youtube live stream to text free
 faqItems:
   - question: "Can I get a transcript of a YouTube live stream?"
-    answer: "Yes — once the stream has ended and YouTube has processed captions for the replay. Paste the video URL into YTTranscript.app and you get the full transcript free, with no signup or extension."
+    answer: "Yes — once the stream has ended and YouTube has processed captions for the replay. Paste the video URL into YTTranscript.app and you get the full transcript free, with no extension."
   - question: "Why is there no transcript right after a live stream ends?"
     answer: "YouTube generates auto-captions for the replay after the stream finishes. Short streams are usually processed within hours; very long streams can take 24–48 hours. Check back later if the transcript isn't available yet."
   - question: "Can I get a transcript while the stream is still live?"
@@ -82,7 +82,7 @@ The only real trick to live stream transcripts is patience: let YouTube finish p
 ## FAQ
 
 **Can I get a transcript of a YouTube live stream?**
-Yes — once the stream has ended and YouTube has processed captions for the replay. Paste the video URL into YTTranscript.app and you get the full transcript free, with no signup or extension.
+Yes — once the stream has ended and YouTube has processed captions for the replay. Paste the video URL into YTTranscript.app and you get the full transcript free, with no extension.
 
 **Why is there no transcript right after a live stream ends?**
 YouTube generates auto-captions for the replay after the stream finishes. Short streams are usually processed within hours; very long streams can take 24–48 hours. Check back later if the transcript isn't available yet.

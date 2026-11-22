@@ -112,7 +112,7 @@ YTTranscript extracts whichever captions are available. For videos with both, it
 They're the same data — the text of what was spoken. Subtitles display over the video; a transcript is the same text as a standalone document.
 
 **Can I download YouTube subtitles for free?**
-Yes. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day with no signup (2 with a free account), and sells one-time packs if you need more.
+Yes. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day to read with no account; downloading needs a free account, which also gives you 2 a day. It sells one-time packs if you need more.
 
 **Can I download subtitles in other languages?**
 Yes. If the video has captions in another language, you can extract those.

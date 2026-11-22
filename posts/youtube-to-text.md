@@ -24,7 +24,7 @@ howToSteps:
     text: "Copy the text or download it as TXT, DOCX, or PDF."
 faqItems:
   - question: "How do I convert a YouTube video to text for free?"
-    answer: "Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full text in seconds, free, with no signup or extension."
+    answer: "Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full text in seconds, free and with no extension; a free account lets you copy or download it."
   - question: "Is there a free YouTube to text converter?"
     answer: "Yes. YTTranscript converts any YouTube video to text, gives you 1 free transcript a day without an account (2 with a free account), and lets you download the result as TXT, DOCX, or PDF with a free account."
   - question: "Can I convert YouTube to text on my phone?"
@@ -35,7 +35,7 @@ faqItems:
     answer: "Yes. Download it as a TXT or DOCX file, or copy it into any editor, and edit freely."
 ---
 
-Sometimes you don't want to watch a video — you want to **read** it. Converting **YouTube to text** lets you skim, search, quote, and reuse the content of any video in seconds. This guide shows you the fastest free way to do it, and what you can do with the text once you have it.
+Sometimes you don't want to watch a video — you want to **read** it. Converting **YouTube to text** lets you skim, search, quote, and reuse the content of any video in seconds. This guide shows you the fastest free way to do it with a [YouTube transcript generator](/youtube-transcript-generator), and what you can do with the text once you have it.
 
 ## What "YouTube to text" actually means
 
@@ -82,7 +82,7 @@ Once your text is ready, you can [download it as a PDF](/youtube-transcript-to-p
 ## Frequently asked questions
 
 **How do I convert a YouTube video to text for free?**
-Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full text in seconds, free, with no signup or extension.
+Paste the video URL into yttranscript.app and click Get Transcript Now. You get the full text in seconds, free and with no extension; a free account lets you copy or download it.
 
 **Is there a free YouTube to text converter?**
 Yes. YTTranscript converts any YouTube video to text, gives you 1 free transcript a day without an account (2 with a free account), and lets you download the result as TXT, DOCX, or PDF with a free account.
