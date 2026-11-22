@@ -1,6 +1,10 @@
 import { MetadataRoute } from "next";
 import { getSortedPostsData } from "@/lib/posts";
-import { getAllLanguageSlugs } from "@/lib/languages";
+import {
+  LANGUAGES,
+  languagePageSlug,
+  languageLastModified,
+} from "@/lib/languages";
 
 const SITE_URL = "https://blog.yttranscript.app";
 
@@ -14,14 +18,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  const languageEntries: MetadataRoute.Sitemap = getAllLanguageSlugs().map(
-    (slug) => ({
-      url: `${SITE_URL}/${slug}`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
-    })
-  );
+  // Language pages use the date their content last changed (see
+  // languageLastModified), not the build time, so <lastmod> stays truthful.
+  const languageEntries: MetadataRoute.Sitemap = LANGUAGES.map((lang) => ({
+    url: `${SITE_URL}/${languagePageSlug(lang)}`,
+    lastModified: new Date(languageLastModified(lang)),
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
 
   return [
     {
