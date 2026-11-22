@@ -56,7 +56,7 @@ export default function Home() {
           transcripts — for students, creators, and AI users.
         </p>
         <a
-          href={ctaUrl("https://yttranscript.app", "blog-home", "hero")}
+          href={ctaUrl("https://yttranscript.app", "blog-home", "top")}
           className="inline-flex items-center gap-2 mt-6 bg-red-600 hover:bg-red-700 text-white font-semibold px-6 py-3 rounded-full transition-colors text-sm"
         >
           Try YTTranscript Free →
@@ -167,11 +167,11 @@ export default function Home() {
           Ready to get your transcript?
         </h2>
         <p className="text-gray-500 mb-6 text-sm">
-          Paste any YouTube URL and read the full transcript in seconds. 1 free
-          transcript a day; a free account lets you copy the text and get 2 a day.
+          Paste any YouTube URL and get the full text in seconds. No extension
+          needed. 1 free transcript a day, or 2 a day with a free account.
         </p>
         <a
-          href={ctaUrl("https://yttranscript.app", "blog-home", "bottom-cta")}
+          href={ctaUrl("https://yttranscript.app", "blog-home", "end")}
           className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-full transition-colors"
         >
           Get Your YouTube Transcript →
