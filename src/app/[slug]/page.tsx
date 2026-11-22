@@ -312,11 +312,11 @@ export default async function PostPage({ params }: Props) {
               Get any YouTube transcript in seconds
             </p>
             <p className="text-xs text-gray-500 mt-0.5">
-              1 free transcript a day · Free account to copy text and get 2 a day · No extension
+              1 free transcript a day, 2 with a free account · No extension · Download as TXT, DOCX or PDF
             </p>
           </div>
           <a
-            href={ctaUrl("https://yttranscript.app", post.slug, "top-banner")}
+            href={ctaUrl("https://yttranscript.app", post.slug, "top")}
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 bg-red-600 hover:bg-red-700 text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-colors"
@@ -339,12 +339,11 @@ export default async function PostPage({ params }: Props) {
             Ready to get your YouTube transcript?
           </p>
           <p className="text-sm text-gray-500 mb-5">
-Paste any YouTube URL and read the full transcript in seconds, with no
-            extension. Free: 1 transcript a day without an account, or create a
-            free account to copy the text and get 2 a day.
+            Paste any YouTube URL and get the full text in seconds. No extension
+            needed. 1 free transcript a day, or 2 a day with a free account.
           </p>
           <a
-            href={ctaUrl("https://yttranscript.app", post.slug, "bottom-cta")}
+            href={ctaUrl("https://yttranscript.app", post.slug, "end")}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-full transition-colors"
