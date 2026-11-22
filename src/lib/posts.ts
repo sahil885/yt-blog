@@ -21,6 +21,8 @@ export interface HowToStep {
 export interface PostMeta {
   slug: string;
   title: string;
+  // Optional shorter <title>/og:title/twitter:title; the H1 keeps `title`.
+  seoTitle?: string;
   description: string;
   date: string;
   author: string;
