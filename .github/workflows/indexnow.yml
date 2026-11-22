@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the deployed commit
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.deployment.sha }}
           fetch-depth: 0
@@ -94,7 +94,10 @@ jobs:
             -H "Content-Type: application/json; charset=utf-8" --data @payload.json || echo "000")
           echo "IndexNow HTTP status: ${STATUS}"
           [ -s response.txt ] && { echo "Response body:"; cat response.txt; echo; }
-          if [ "$STATUS" != "200" ]; then
-            echo "::warning::IndexNow returned HTTP ${STATUS} (expected 200). Pages are deployed; only the ping is affected."
+          # 200 = OK, 202 = accepted (key validation pending); both are success.
+          if [ "$STATUS" = "200" ] || [ "$STATUS" = "202" ]; then
+            echo "IndexNow accepted the submission."
+          else
+            echo "::warning::IndexNow returned HTTP ${STATUS} (expected 200 or 202). Pages are deployed; only the ping is affected."
           fi
           exit 0
