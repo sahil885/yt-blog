@@ -28,7 +28,7 @@ If you've searched for the best way to turn a YouTube video into text, you've pr
 
 ## The core difference: captions vs. audio transcription
 
-**YTTranscript** reads the captions that already exist on a YouTube video and hands them to you as clean, formatted text — instantly, in your browser, with no account. Because the captions are already generated, there's nothing to process; you [paste a link and get the transcript](/how-to-get-a-youtube-transcript) in a second or two.
+**YTTranscript** reads the captions that already exist on a YouTube video and hands them to you as clean, formatted text — instantly, in your browser, with no account to read (a free account lets you copy or download). Because the captions are already generated, there's nothing to process; you [paste a link and get the transcript](/how-to-get-a-youtube-transcript) in a second or two.
 
 **Whisper** ignores existing captions and transcribes the audio from scratch using a machine-learning model. It's an **automatic speech recognition (ASR)** system that OpenAI released as open source under an MIT license. To use it on a YouTube video, you download the audio (usually with a tool like yt-dlp), then run it through Whisper on your own computer or via OpenAI's paid API.
 
@@ -62,7 +62,7 @@ In practice, though, the vast majority of YouTube videos already have captions, 
 
 | Feature | YTTranscript | Whisper (self-hosted) |
 |---|---|---|
-| Account required | No | No (but setup needed) |
+| Account required | No to read; free account to copy/download | No (but setup needed) |
 | Install / technical setup | None | Python, ffmpeg, model |
 | Works on mobile | Yes | No (needs a computer) |
 | Speed | Instant | Seconds to minutes |

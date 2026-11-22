@@ -32,7 +32,7 @@ That distinction matters more than any feature list, so it is worth being blunt 
 
 Paste a YouTube URL into **Summarize.tech** and you get a paragraph or two of overview followed by section-by-section bullets with timestamps — a skimmable map of a long video. The text is paraphrased by an AI model, not transcribed. You cannot lift a quote from it and be confident the speaker said those words in that order.
 
-Paste the same URL into **YTTranscript** and you get the complete transcript, with or without [timestamps](/youtube-transcript-with-timestamps), ready to copy or download as TXT, DOCX, or PDF. It is the raw material. What you do with it — summarize, translate, quote, index, annotate — is up to you.
+Paste the same URL into **YTTranscript** and you get the complete transcript, with or without [timestamps](/youtube-transcript-with-timestamps), ready to copy or download as TXT, DOCX, or PDF with a free account. It is the raw material. What you do with it — summarize, translate, quote, index, annotate — is up to you.
 
 ## Honest comparison
 
@@ -42,7 +42,7 @@ Paste the same URL into **YTTranscript** and you get the complete transcript, wi
 | Word-for-word accuracy | Yes — reproduces the spoken text | No — condensed and paraphrased |
 | Timestamps | Full, per-line | Section-level only |
 | Export formats | TXT, DOCX, PDF | Copy from the page |
-| Account required | No | Not required for basic use |
+| Account required | No to read; free account to copy/download | Not required for basic use |
 | Browser extension | None | None |
 | Works on mobile | Yes | Yes |
 | Handles multi-hour videos | Yes | Yes |

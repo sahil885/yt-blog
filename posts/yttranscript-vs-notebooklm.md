@@ -57,7 +57,7 @@ Here's the honest part: **YTTranscript reads the same caption track.** If a vide
 
 | Feature | YTTranscript | NotebookLM / Gemini Notebook |
 |---|---|---|
-| Account required | No | Yes — Google account |
+| Account required | No to read; free account to copy/download | Yes — Google account |
 | Install or extension | None | None (web app) |
 | Transcribes audio itself | No — reads the caption track | No — reads the caption track |
 | Works on private/unlisted videos | No | No |

@@ -16,14 +16,14 @@ faqItems:
   - question: "What is youtube-transcript.ai?"
     answer: "youtube-transcript.ai is a web tool that extracts YouTube transcripts and offers AI-powered summaries. It requires an account for full access and has usage limits on its free tier."
   - question: "Is YTTranscript free compared to youtube-transcript.ai?"
-    answer: "YTTranscript gives you 1 free transcript a day with no account (2 with a free account) required, plus one-time packs if you need more. youtube-transcript.ai has a free tier but restricts the number of transcripts you can process."
+    answer: "YTTranscript gives you 1 free transcript a day with no account (2 a day with a free account, which you need to copy or download), plus one-time packs if you need more. youtube-transcript.ai has a free tier but restricts the number of transcripts you can process."
   - question: "Which tool gives cleaner transcripts?"
     answer: "Both tools pull from YouTube's auto-generated captions. YTTranscript lets you toggle timestamps on or off and download as TXT, DOCX, or PDF for a clean output."
 ---
 
 ## Quick Verdict
 
-Both tools extract YouTube transcripts from public videos. The difference is friction: **YTTranscript works instantly with no account**, while youtube-transcript.ai requires signing up and imposes limits on the free tier. For pure transcript extraction, YTTranscript is the faster, simpler choice.
+Both tools extract YouTube transcripts from public videos. The difference is friction: **YTTranscript shows a transcript instantly with no account** (a free account lets you copy or download it), while youtube-transcript.ai requires signing up and imposes limits on the free tier. For pure transcript extraction, YTTranscript is the faster, simpler choice.
 
 ---
 
@@ -44,7 +44,7 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 
 | Feature | YTTranscript | youtube-transcript.ai |
 |---|---|---|
-| **Account required** | No | Yes |
+| **Account required** | No to read; free account to copy/download | Yes |
 | **Free usage limit** | None | Yes |
 | **Transcript copy** | Yes | Yes |
 | **Download TXT** | Yes | Limited |
@@ -73,7 +73,7 @@ Like many AI-wrapped tools in this space, it monetizes through a freemium model 
 ## Which Should You Choose?
 
 **Choose YTTranscript if:**
-- You want zero friction — no account, works now
+- You want low friction — read with no account, works now
 - You need to download the transcript as a file
 - You process multiple videos regularly
 - You use Firefox, Safari, or mobile

@@ -16,7 +16,7 @@ faqItems:
   - question: "Does Sonix offer a free plan?"
     answer: "Sonix offers 30 free minutes on sign-up, but you must create an account. After that, transcription is billed at $10/hour (pay-as-you-go) or $5/hour on the Premium plan ($22/user/month)."
   - question: "Which tool is better for quick YouTube transcript extraction?"
-    answer: "YTTranscript is faster for YouTube-specific transcripts. Paste the URL and get the full transcript in seconds — no account, no upload, no waiting. Sonix requires you to upload audio/video files separately."
+    answer: "YTTranscript is faster for YouTube-specific transcripts. Paste the URL and read the full transcript in seconds — no account to read, no upload, no waiting (a free account lets you copy or download it). Sonix requires you to upload audio/video files separately."
   - question: "Can YTTranscript transcribe non-YouTube audio or video files?"
     answer: "No. YTTranscript is purpose-built for YouTube URLs. For transcribing your own audio or video files, you'd need a tool like Sonix or an alternative."
   - question: "Which tool supports more languages?"
@@ -37,7 +37,7 @@ They're not the same category of tool. Here's a side-by-side:
 
 | Feature | YTTranscript | Sonix |
 |---|---|---|
-| Account required | ❌ No | ✅ Yes |
+| Account required | No to read; free account to copy/download | ✅ Yes |
 | Free tier | ✅ Fully free | ⚠️ 30 min trial only |
 | Works with YouTube URLs | ✅ Yes | ❌ No — requires file upload |
 | Works with your own audio/video | ❌ No | ✅ Yes |
@@ -126,7 +126,7 @@ It has a free tier: 1 transcript a day without an account (2 with a free account
 Sonix offers 30 free minutes on sign-up, but you must create an account. After that, transcription is billed at $10/hour (pay-as-you-go) or $5/hour on the Premium plan ($22/user/month).
 
 **Which tool is better for quick YouTube transcript extraction?**
-YTTranscript is faster for YouTube-specific transcripts. Paste the URL and get the full transcript in seconds — no account, no upload, no waiting. Sonix requires you to upload audio/video files separately.
+YTTranscript is faster for YouTube-specific transcripts. Paste the URL and read the full transcript in seconds — no account to read, no upload, no waiting (a free account lets you copy or download it). Sonix requires you to upload audio/video files separately.
 
 **Can YTTranscript transcribe non-YouTube audio or video files?**
 No. YTTranscript is purpose-built for YouTube URLs. For transcribing your own audio or video files, you'd need a tool like Sonix or an alternative.
@@ -136,4 +136,4 @@ YTTranscript surfaces transcripts in 100+ languages (whatever YouTube provides).
 
 ---
 
-**Ready to get your YouTube transcript in seconds?** No account, no upload, 1 free transcript a day (2 with a free account). **[→ Try YTTranscript.app](https://yttranscript.app)**
+**Ready to get your YouTube transcript in seconds?** No upload, 1 free transcript a day with no account, or 2 with a free account (needed to copy or download). **[→ Try YTTranscript.app](https://yttranscript.app)**

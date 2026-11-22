@@ -17,7 +17,7 @@ faqItems:
   - question: "How much does Recall cost in 2026?"
     answer: "Recall has a free plan with 10 AI summaries per month and unlimited saves. Plus is $10 per month and Max is $38 per month, both billed yearly, with monthly billing also available."
   - question: "Do I need an account to use YTTranscript or Recall?"
-    answer: "YTTranscript needs no account and no extension — paste a URL and get the transcript, with 1 free transcript a day (2 with a free account) and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it."
+    answer: "YTTranscript needs no extension and no account to read — paste a URL and get the transcript (a free account lets you copy or download it), with 1 free transcript a day (2 with a free account) and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it."
   - question: "Is a transcript or an AI summary better for research?"
     answer: "Use the full transcript when you need exact quotes, citations or text to paste into your own AI tool. Use a summary when you only need the gist and want to file it away for later."
   - question: "Can I use both tools together?"
@@ -41,7 +41,7 @@ It's a strong product for people who consume a lot of material and want one sear
 | Feature | YTTranscript | Recall |
 |---|---|---|
 | Main output | Full word-for-word transcript | AI summary (concise or detailed) |
-| Account required | No | Yes (personal knowledge base) |
+| Account required | No to read; free account to copy/download | Yes (personal knowledge base) |
 | Install / extension | None — any browser | Optional extension (Chrome, Safari, Edge, Firefox), web app, iOS/Android |
 | Free tier | 1/day free, 2/day with a free account | 10 AI summaries/month, unlimited saves |
 | Paid pricing | One-time packs from $9 | Plus $10/mo, Max $38/mo (billed yearly) |
@@ -98,7 +98,7 @@ YTTranscript gives you the full word-for-word transcript of a YouTube video and 
 Recall has a free plan with 10 AI summaries per month and unlimited saves. Plus is $10 per month and Max is $38 per month, both billed yearly, with monthly billing also available.
 
 **Do I need an account to use YTTranscript or Recall?**
-YTTranscript needs no account and no extension — paste a URL and get the transcript, with 1 free transcript a day (2 with a free account) and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it.
+YTTranscript needs no extension and no account to read — paste a URL and get the transcript (a free account lets you copy or download it), with 1 free transcript a day (2 with a free account) and one-time packs for more. Recall stores everything in a personal knowledge base, so you sign up to use it.
 
 **Is a transcript or an AI summary better for research?**
 Use the full transcript when you need exact quotes, citations or text to paste into your own AI tool. Use a summary when you only need the gist and want to file it away for later.

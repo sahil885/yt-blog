@@ -30,7 +30,7 @@ Transkriptor and YTTranscript overlap in one key area: both can get you the tran
 
 | Feature | YTTranscript | Transkriptor |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Price | Free | Paid (from ~$4.99/month) |
 | YouTube transcript | Yes | Yes |
 | Audio/video file upload | No | Yes |

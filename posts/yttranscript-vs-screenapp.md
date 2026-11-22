@@ -30,7 +30,7 @@ YTTranscript and ScreenApp both let you get a YouTube transcript for free — bu
 
 | Feature | YTTranscript | ScreenApp |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Setup time | Zero (paste URL, done) | Account creation required |
 | YouTube transcript | Yes | Yes |
 | Screen recording transcription | No | Yes |
@@ -101,4 +101,4 @@ For the large majority of users — anyone who wants a YouTube transcript quickl
 
 ScreenApp earns its place for users who need transcription across multiple media types (not just YouTube) and who want an integrated workflow with built-in AI tools. If YouTube transcripts are your main need, it's more complexity than the job requires.
 
-**[→ Try YTTranscript free — paste any YouTube URL, get the transcript in seconds, no account required](https://yttranscript.app)**
+**[→ Try YTTranscript free — paste any YouTube URL, read the transcript in seconds](https://yttranscript.app)**

@@ -13,7 +13,7 @@ keywords:
   - free youtube transcript no watermark
 faqItems:
   - question: "Is VEED or YTTranscript better for getting a YouTube transcript?"
-    answer: "If you only want the text of a YouTube video, YTTranscript is faster — paste a URL, get the transcript, no account and no watermark. VEED is better when you also need to edit the video, burn styled captions onto it, or translate subtitles into other languages."
+    answer: "If you only want the text of a YouTube video, YTTranscript is faster — paste a URL and read the transcript with no account and no watermark (a free account lets you copy or download it). VEED is better when you also need to edit the video, burn styled captions onto it, or translate subtitles into other languages."
   - question: "Can VEED transcribe a YouTube video from a URL?"
     answer: "VEED lets you bring in a video by URL for content you own, then run auto-subtitles on it. It is designed around uploading and editing your own footage, not around pulling text out of someone else's public video."
   - question: "Does VEED have a free plan for subtitles?"
@@ -32,7 +32,7 @@ Here's the honest breakdown.
 
 | Feature | YTTranscript | VEED |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Install or extension | None | None (browser app) |
 | Primary purpose | YouTube transcripts | Video editing + captions |
 | Paste any public YouTube URL | Yes | Built around your own uploads |
@@ -63,7 +63,7 @@ The trade-offs are equally real:
 
 [YTTranscript](https://yttranscript.app) does one job: turn a YouTube video into readable, exportable text, fast.
 
-- **No signup, no extension, no app.** Paste the link, read the transcript.
+- **No extension, no app, no account to read.** Paste the link, read the transcript; a free account lets you copy or download it.
 - **Works on any public YouTube video**, not just videos you own.
 - **Works on mobile** — same flow in Safari or Chrome on a phone, which matters if you're watching on one device and writing on another. See [how to get a YouTube transcript on mobile](/youtube-transcript-on-mobile).
 - **Exports to TXT, DOCX, and PDF**, with no watermark.
@@ -96,7 +96,7 @@ If your job is text, start with [YTTranscript](https://yttranscript.app). If you
 ## FAQ
 
 **Is VEED or YTTranscript better for getting a YouTube transcript?**
-If you only want the text of a YouTube video, YTTranscript is faster — paste a URL, get the transcript, no account and no watermark. VEED is better when you also need to edit the video, burn styled captions onto it, or translate subtitles into other languages.
+If you only want the text of a YouTube video, YTTranscript is faster — paste a URL and read the transcript with no account and no watermark (a free account lets you copy or download it). VEED is better when you also need to edit the video, burn styled captions onto it, or translate subtitles into other languages.
 
 **Can VEED transcribe a YouTube video from a URL?**
 VEED lets you bring in a video by URL for content you own, then run auto-subtitles on it. It is designed around uploading and editing your own footage, not around pulling text out of someone else's public video.

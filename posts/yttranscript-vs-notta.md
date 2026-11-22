@@ -1,6 +1,6 @@
 ---
 title: "YTTranscript vs Notta: Which YouTube Transcript Tool Should You Use?"
-description: "Notta caps its free plan at 120 minutes a month and 3 minutes per conversation. YTTranscript gives 1 free YouTube transcript a day with no signup (2 with a free account). Which fits?"
+description: "Notta caps its free plan at 120 minutes a month and 3 minutes per conversation. YTTranscript gives 1 free YouTube transcript a day with no account (2 with a free account). Which fits?"
 date: "2026-05-25"
 author: "YTTranscript Team"
 category: "Comparisons"
@@ -30,7 +30,7 @@ Notta and YTTranscript both let you turn YouTube content into text — but they 
 
 | Feature | YTTranscript | Notta |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Free tier limit | 1/day free, 2/day with a free account | 120 minutes/month |
 | YouTube transcript | Yes | Yes |
 | Audio/video file upload | No | Yes |
@@ -84,7 +84,7 @@ Notta is a broader transcription platform. Beyond YouTube, it handles uploaded a
 
 Notta's biggest drawback for regular YouTube use is the 120-minute monthly cap on its free tier. At an average YouTube video length of 10–15 minutes, that's 8–12 videos per month before hitting the limit. For students, researchers, or content creators who pull transcripts regularly, this cap arrives quickly.
 
-YTTranscript works differently: 2 free transcripts every day, and one-time packs whose credits never expire when you need more.
+YTTranscript works differently: 1 free transcript every day without an account, or 2 with a free account, and one-time packs whose credits never expire when you need more.
 
 ## When Notta's Accuracy Advantage Matters
 

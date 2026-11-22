@@ -15,7 +15,7 @@ keywords:
 ogImage: ""
 faqItems:
   - question: "Is NoteGPT free?"
-    answer: "NoteGPT has a free tier but limits the number of summaries and transcripts you can generate per day. YTTranscript gives you 1 free transcript a day with no account (2 with a free account), plus one-time packs for more."
+    answer: "NoteGPT has a free tier but limits the number of summaries and transcripts you can generate per day. YTTranscript gives you 1 free transcript a day with no account (2 a day with a free account, which you need to copy or download), plus one-time packs for more."
   - question: "Does NoteGPT require an account?"
     answer: "Yes, NoteGPT requires you to create an account before you can use its transcript and summary features. YTTranscript lets you read 1 transcript a day without an account; copying, downloads and a second daily transcript need a free account."
   - question: "Can YTTranscript summarize YouTube videos?"
@@ -55,7 +55,7 @@ YTTranscript is a free web tool focused on one thing: extracting and delivering 
 
 | Feature | YTTranscript | NoteGPT |
 |---|---|---|
-| **Account required** | No | Yes |
+| **Account required** | No to read; free account to copy/download | Yes |
 | **Free tier limits** | None | Yes (daily cap) |
 | **Copy transcript** | Yes | Yes |
 | **Download as TXT** | Yes | No |

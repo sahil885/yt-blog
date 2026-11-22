@@ -32,7 +32,7 @@ Two of the most popular YouTube transcript tools in 2026 are YTTranscript and Ta
 | Feature | YTTranscript | Tactiq |
 |---|---|---|
 | Setup required | None | Chrome extension install |
-| Account required | No | Yes (for full features) |
+| Account required | No to read; free account to copy/download | Yes (for full features) |
 | Works on mobile | Yes | No (extension only) |
 | Download TXT | Yes (free) | Limited on free tier |
 | Download DOCX | Yes (free) | No |

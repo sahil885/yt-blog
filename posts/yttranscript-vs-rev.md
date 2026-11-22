@@ -36,7 +36,7 @@ Rev **transcribes audio from scratch**, using either AI or human transcribers, a
 
 | Feature | YTTranscript | Rev |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Free tier | 1/day free, 2/day with a free account | ~45 min/month AI |
 | Price after free | One-time packs from $9 (100 transcripts) | ~$0.25/min AI; ~$1.99/min human |
 | Speed | 2-5 seconds | Minutes (AI) to hours (human) |

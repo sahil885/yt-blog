@@ -36,7 +36,7 @@ Happy Scribe is a **paid subtitling and transcription platform**. It accepts You
 
 | Feature | YTTranscript | Happy Scribe |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Free tier | 1/day free, 2/day with a free account | ~10-minute trial |
 | Price after free | One-time packs from $9 (100 transcripts) | From ~$17/month (Basic) |
 | Speed | 2-5 seconds | Minutes |

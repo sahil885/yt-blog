@@ -39,7 +39,7 @@ So the real question isn't "which tool is better." It's **"does my source alread
 
 | Feature | YTTranscript | Trint |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Browser extension or install | None | None (web app) |
 | Free option | Free tier + paid option | 7-day trial only, no permanent free plan |
 | Entry price | Free tier; paid upgrade available | ~$80/seat/mo Starter (~$52/mo annual) |
