@@ -1,0 +1,100 @@
+name: IndexNow ping
+
+# Runs after Vercel reports a successful Production deployment, so the
+# changed pages are already live when Bing is notified.
+on:
+  deployment_status:
+
+permissions:
+  contents: read
+  deployments: read
+
+jobs:
+  indexnow:
+    if: github.event.deployment_status.state == 'success' && github.event.deployment.environment == 'Production'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the deployed commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.deployment.sha }}
+          fetch-depth: 0
+
+      - name: Collect changed URLs and ping IndexNow
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          REPO: ${{ github.repository }}
+          CURRENT_SHA: ${{ github.event.deployment.sha }}
+          CURRENT_ID: ${{ github.event.deployment.id }}
+          SITE: https://blog.yttranscript.app
+          HOST: blog.yttranscript.app
+        run: |
+          set -uo pipefail
+
+          # Previous successful Production deployment (newest first, skipping this one).
+          PREV_SHA=""
+          for row in $(gh api "repos/${REPO}/deployments?environment=Production&per_page=30" \
+                         --jq '.[] | "\(.id):\(.sha)"'); do
+            id="${row%%:*}"; sha="${row##*:}"
+            [ "$id" = "$CURRENT_ID" ] && continue
+            [ "$sha" = "$CURRENT_SHA" ] && continue
+            state=$(gh api "repos/${REPO}/deployments/${id}/statuses?per_page=1" --jq '.[0].state' 2>/dev/null || true)
+            if [ "$state" = "success" ]; then PREV_SHA="$sha"; break; fi
+          done
+          echo "Current deploy: ${CURRENT_SHA}"
+          echo "Previous successful Production deploy: ${PREV_SHA:-none found}"
+
+          : > urls.txt
+          if [ -n "$PREV_SHA" ] && git diff --name-only --diff-filter=d "$PREV_SHA" "$CURRENT_SHA" -- posts/ > changed.txt 2>/dev/null; then
+            echo "Changed post files:"; cat changed.txt
+            sed -n 's#^posts/\(.*\)\.md$#'"${SITE}"'/\1#p' changed.txt >> urls.txt
+          else
+            echo "::warning::Could not diff against the previous successful deploy (none found or git diff failed); using sitemap URLs with lastmod in the last 3 days."
+            curl -fsS "${SITE}/sitemap.xml" -o sitemap.xml && python3 - <<'PY' >> urls.txt
+          import re, datetime
+          xml = open("sitemap.xml").read()
+          cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=3)
+          for block in re.findall(r"<url>(.*?)</url>", xml, re.S):
+              loc = re.search(r"<loc>(.*?)</loc>", block)
+              mod = re.search(r"<lastmod>(.*?)</lastmod>", block)
+              if not (loc and mod):
+                  continue
+              d = datetime.datetime.fromisoformat(mod.group(1).strip().replace("Z", "+00:00"))
+              if d.tzinfo is None:
+                  d = d.replace(tzinfo=datetime.timezone.utc)
+              if d >= cutoff:
+                  print(loc.group(1).strip())
+          PY
+          fi
+          printf '%s\n' "${SITE}/" "${SITE}/sitemap.xml" >> urls.txt
+          sort -u urls.txt -o urls.txt
+
+          echo "URLs to submit ($(wc -l < urls.txt)):"; cat urls.txt
+
+          if [ -z "${INDEXNOW_KEY}" ]; then
+            echo "::warning::INDEXNOW_KEY secret is not set; skipping the IndexNow ping (URLs above were not sent)."
+            exit 0
+          fi
+
+          python3 - <<'PY' > payload.json
+          import json, os
+          key = os.environ["INDEXNOW_KEY"]
+          site = os.environ["SITE"]
+          urls = [u.strip() for u in open("urls.txt") if u.strip()]
+          print(json.dumps({
+              "host": os.environ["HOST"],
+              "key": key,
+              "keyLocation": f"{site}/{key}.txt",
+              "urlList": urls,
+          }))
+          PY
+
+          STATUS=$(curl -sS -o response.txt -w '%{http_code}' -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" --data @payload.json || echo "000")
+          echo "IndexNow HTTP status: ${STATUS}"
+          [ -s response.txt ] && { echo "Response body:"; cat response.txt; echo; }
+          if [ "$STATUS" != "200" ]; then
+            echo "::warning::IndexNow returned HTTP ${STATUS} (expected 200). Pages are deployed; only the ping is affected."
+          fi
+          exit 0
