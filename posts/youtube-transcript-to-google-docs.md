@@ -31,7 +31,7 @@ faqItems:
   - question: "Does Google Docs have any AI features for working with transcripts?"
     answer: "Yes. Google Docs includes Gemini AI integration (in Workspace accounts) that can summarise, reformat, and help you edit the transcript text once it's in the document."
   - question: "Is this free?"
-    answer: "Yes. YTTranscript has a free tier (1 transcript a day with no signup, 2 with a free account), and Google Docs is free with a Google account."
+    answer: "Yes. YTTranscript has a free tier (1 transcript a day with no account, 2 with a free account, which you need to copy or download), and Google Docs is free with a Google account."
 ---
 
 Google Docs is where millions of people write, collaborate, and organise information. If you're already working in Docs — taking notes, writing a report, drafting an article — it makes sense to bring your YouTube transcript there directly, rather than having it live in a separate tool.
@@ -101,7 +101,7 @@ Yes. Once it's a Google Doc, share with anyone using the standard Google share l
 Google Workspace accounts with Gemini integration can use AI directly inside Google Docs to summarise and edit the transcript.
 
 **Is this free?**
-Yes. YTTranscript has a free tier (1 transcript a day with no signup, 2 with a free account), and Google Docs is free with a Google account.
+Yes. YTTranscript has a free tier (1 transcript a day with no account, 2 with a free account, which you need to copy or download), and Google Docs is free with a Google account.
 
 ---
 

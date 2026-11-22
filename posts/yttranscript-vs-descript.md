@@ -36,7 +36,7 @@ Descript is a **paid editing suite**. Transcription is the entry point, but the 
 
 | Feature | YTTranscript | Descript |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Free tier | 1/day free, 2/day with a free account | ~60 min/month, watermark, limited AI credits |
 | Price after free | One-time packs from $9 (100 transcripts) | ~$16-35/month (billed annually) |
 | Get a transcript | Paste URL, 2-5 seconds | Import media, then transcribe |

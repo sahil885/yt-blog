@@ -58,7 +58,7 @@ You have a few ways to get transcript text for SEO. Here's an honest comparison 
 
 | Feature | YTTranscript | YouTube built-in captions | Whisper (self-host) |
 |---|---|---|---|
-| Account required | No | No | No (technical setup) |
+| Account required | No to read; free account to copy/download | No | No (technical setup) |
 | Install / setup | None | None | Python + model download |
 | Full transcript export | TXT, DOCX, PDF | Manual copy, messy | Yes (raw text/SRT) |
 | Timestamps | Yes (optional) | Yes | Yes |

@@ -35,7 +35,9 @@ faqItems:
     answer: "No. YTTranscript is a website, not an extension — there is nothing to install and nothing running in your browser."
 ---
 
-A **YouTube transcript generator** turns the spoken audio of any video into readable text in seconds. Instead of rewatching a 40-minute video to find one point, you read the transcript, search it, copy it, or feed it to an AI tool. This is the complete guide to generating, downloading, and using YouTube transcripts — all for free.
+A **YouTube transcript generator** turns the spoken words of any video into readable text in seconds. **To get a YouTube transcript, paste the video's URL into a YouTube transcript generator like [YTTranscript](https://yttranscript.app) and click Get Transcript Now:** you can read the full text free (1 transcript a day with no account), and a free account lets you copy or download it as TXT, DOCX, PDF or SRT and gives you 2 a day. Instead of rewatching a 40-minute video to find one point, you read the transcript, search it, copy it, or feed it to an AI tool. This is the complete guide to generating, downloading, and using YouTube transcripts.
+
+*Last updated: November 22, 2026.*
 
 This page is the hub. Each section links to a focused step-by-step guide if you want to go deeper.
 
@@ -76,7 +78,7 @@ This is where a transcript becomes powerful. Once you have the text, you can:
 
 | Feature | YTTranscript | YouTube's built-in transcript | Most other generators |
 |---|---|---|---|
-| Account required | No | No | Often yes |
+| Account required | No to read; free account to copy/download | No | Often yes |
 | Browser extension | No | N/A | Often yes |
 | Clean, copyable text | Yes | Cluttered with timestamps | Varies |
 | Download TXT / DOCX / PDF | Yes | No | Some |

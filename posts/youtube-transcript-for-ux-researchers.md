@@ -48,7 +48,7 @@ Researchers usually already own a repository or a meeting transcriber. Those too
 
 | Tool | Handles YouTube URLs | Account required | Tagging / synthesis | Best for |
 |---|---|---|---|---|
-| **YTTranscript** | Yes, paste and go | No | No | Getting text out of public video fast |
+| **YTTranscript** | Yes, paste and go | No to read; free account to copy/download | No | Getting text out of public video fast |
 | **Dovetail** | No | Yes | Yes, purpose-built | Coding, tagging, insight repositories |
 | **Otter.ai** | No | Yes | Light (summaries) | Live moderated sessions and team notes |
 | **Descript** | Upload / import | Yes | No | Turning clips into highlight reels |

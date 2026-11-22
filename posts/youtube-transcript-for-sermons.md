@@ -60,7 +60,7 @@ You can also **fuel social media** by lifting a powerful quote for a graphic or 
 
 | Feature | YTTranscript | Typical sermon service |
 |---|---|---|
-| Account required | No | Usually yes |
+| Account required | No to read; free account to copy/download | Usually yes |
 | Price | Free | Per-minute or subscription |
 | Works from a YouTube link | Yes | Sometimes |
 | Speed | Seconds | Minutes to hours |

@@ -61,7 +61,7 @@ It's genuinely the right choice in two cases: when a video has **no caption trac
 | | YTTranscript (web) | YouTube's panel | Mac app / Whisper |
 |---|---|---|---|
 | Install required | None | None | Yes |
-| Account required | No | No (YouTube login optional) | Varies |
+| Account required | No to read; free account to copy/download | No (YouTube login optional) | Varies |
 | Time to transcript | ~10 seconds | ~15 seconds to open, longer to copy | Minutes |
 | Clean copyable text | Yes | Awkward — manual selection | Yes |
 | Export TXT / DOCX / PDF | Yes | No | Varies |

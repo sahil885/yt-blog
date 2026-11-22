@@ -23,7 +23,7 @@ faqItems:
   - question: "What if the video has no transcript?"
     answer: "Some videos have captions disabled. In that case there is no text to extract, so you would need a video with captions available."
   - question: "Does this work for long videos or whole playlists?"
-    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download); one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 You found the perfect video — a lecture, a tutorial, an interview — and now you want it as an editable **Word document** you can highlight, annotate, and share. Maybe you're writing notes, building a report, or quoting a source. Whatever the reason, getting a **YouTube transcript into a .docx file** should take seconds, not an afternoon of copying and reformatting.
@@ -60,7 +60,7 @@ The problem? YouTube's panel pastes **a timestamp on every single line**, so you
 
 | Feature | YTTranscript | YouTube copy-paste | Typical paid converter |
 |---|---|---|---|
-| Account required | No | No | Usually yes |
+| Account required | No to read; free account to copy/download | No | Usually yes |
 | Direct .docx export | Yes | No (manual paste) | Sometimes |
 | Removes per-line timestamps | Yes | No | Varies |
 | Works on mobile | Yes | No | Varies |
@@ -90,7 +90,7 @@ Packs also add a saved transcript library, AI translation into 16 languages, and
 ## Frequently Asked Questions
 
 **Does this work for long videos or whole playlists?**
-Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download); one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Can I convert a YouTube transcript to Word for free?**
 Yes. [YTTranscript](https://yttranscript.app) pulls the full transcript and exports a .docx file at no cost with a free account; no extension required.

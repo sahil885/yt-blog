@@ -42,7 +42,7 @@ The short version: DownSub gives you the file. YTTranscript gives you the text.
 
 | Feature | YTTranscript.app | DownSub |
 |---|---|---|
-| Account required | No | No |
+| Account required | No to read; free account to copy/download | No |
 | Browser extension required | No | No |
 | Export as plain TXT | Yes | Yes |
 | Export as DOCX (Word) | Yes | No |

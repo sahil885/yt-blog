@@ -23,7 +23,7 @@ faqItems:
   - question: "What is the best free tool to transcribe a YouTube video without captions?"
     answer: "OpenAI's Whisper model (run via a free tool like Whisper.cpp or a web app) is the best free option for AI transcription without existing captions. It's more work to set up than YTTranscript but handles captionless audio well."
   - question: "Does this work for long videos or whole playlists?"
-    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
+    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download) a day; one-time packs from $9 for 100 transcripts cover bigger jobs."
 ---
 
 You've pasted a YouTube URL into a transcript tool and gotten nothing — no text, just a message that no transcript is available. It's a frustrating experience, especially when you can clearly hear the person speaking.
@@ -114,7 +114,7 @@ Packs also add a saved transcript library, AI translation into 16 languages, and
 ## Frequently Asked Questions
 
 **Does this work for long videos or whole playlists?**
-Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1–2 transcripts a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
+Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download) a day; one-time packs from $9 for 100 transcripts cover bigger jobs.
 
 **Why does a YouTube video have no transcript?**
 Most commonly: auto-captions haven't generated yet (wait 24 hours), the creator disabled captions, or the audio quality wasn't sufficient for YouTube's speech recognition.

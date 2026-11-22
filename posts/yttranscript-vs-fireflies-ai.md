@@ -15,7 +15,7 @@ faqItems:
   - question: "Can Fireflies.ai transcribe a YouTube video?"
     answer: "Yes. Fireflies lets you upload a YouTube video file or add it through its Uploads feature, and uploads can be up to 150 minutes long. But YouTube is not its main use case — Fireflies is designed to join and transcribe live meetings."
   - question: "Which is better for YouTube transcripts, YTTranscript or Fireflies.ai?"
-    answer: "For YouTube specifically, YTTranscript is faster because you paste a URL and get text in seconds with no account, no bot and no upload step. Fireflies is the better tool if most of your transcription is Zoom, Meet or Teams calls."
+    answer: "For YouTube specifically, YTTranscript is faster because you paste a URL and read the text in seconds with no account, no bot and no upload step (a free account lets you copy or download it). Fireflies is the better tool if most of your transcription is Zoom, Meet or Teams calls."
   - question: "Does Fireflies.ai have a free plan?"
     answer: "Yes. Fireflies has a free plan with unlimited transcription but only 400 minutes of storage per team, a 2-hour per-meeting recording cap, and restrictions on transcript downloads. Paid plans start around $10 per user per month billed annually."
   - question: "Do I need to create an account to use YTTranscript?"
@@ -37,7 +37,7 @@ YTTranscript does one thing: it pulls the transcript from a YouTube URL. There's
 | Feature | YTTranscript | Fireflies.ai |
 |---|---|---|
 | Primary use case | YouTube videos | Live meetings (Zoom, Meet, Teams) |
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Browser extension or bot | Neither | Notetaker bot for meetings |
 | YouTube transcript from URL | Yes, paste and go | Via Uploads feature |
 | Upload length cap | N/A — reads YouTube captions | 150 minutes per upload |
@@ -73,7 +73,7 @@ Being honest about this matters:
 
 ## Where YTTranscript Wins
 
-- **No account and no extension.** You can be reading a transcript within about ten seconds of copying a URL.
+- **No extension, and no account to read.** You can be reading a transcript within about ten seconds of copying a URL; a free account lets you copy or download it.
 - **No upload step or length cap.** Long videos don't need to be uploaded or split; Fireflies caps uploads at 150 minutes.
 - **Clean exports on the free tier.** TXT, DOCX and PDF. Fireflies restricts downloads on Free.
 - **Mobile browser friendly.** Works from a phone without installing anything — see [getting YouTube transcripts on mobile](/youtube-transcript-on-mobile).
@@ -101,7 +101,7 @@ If you're weighing other options too, our [best YouTube transcript tools of 2026
 Yes. Fireflies lets you upload a YouTube video file or add it through its Uploads feature, and uploads can be up to 150 minutes long. But YouTube is not its main use case — Fireflies is designed to join and transcribe live meetings.
 
 **Which is better for YouTube transcripts, YTTranscript or Fireflies.ai?**
-For YouTube specifically, YTTranscript is faster because you paste a URL and get text in seconds with no account, no bot and no upload step. Fireflies is the better tool if most of your transcription is Zoom, Meet or Teams calls.
+For YouTube specifically, YTTranscript is faster because you paste a URL and read the text in seconds with no account, no bot and no upload step (a free account lets you copy or download it). Fireflies is the better tool if most of your transcription is Zoom, Meet or Teams calls.
 
 **Does Fireflies.ai have a free plan?**
 Yes. Fireflies has a free plan with unlimited transcription but only 400 minutes of storage per team, a 2-hour per-meeting recording cap, and restrictions on transcript downloads. Paid plans start around $10 per user per month billed annually.

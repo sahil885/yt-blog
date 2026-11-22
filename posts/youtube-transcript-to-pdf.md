@@ -79,7 +79,7 @@ Give the file a clear name — the video title plus the date works well — so y
 
 | Feature | YTTranscript | Chrome Extension (e.g. YT2PDF) | AI PDF Tools (e.g. ScreenApp) |
 |---|---|---|---|
-| Account required | No | No | Yes (free trial then paid) |
+| Account required | No to read; free account to copy/download | No | Yes (free trial then paid) |
 | Browser extension needed | No | Yes | No |
 | Works on mobile | Yes | No (desktop only) | Limited |
 | Direct PDF export | Yes | Yes | Yes |

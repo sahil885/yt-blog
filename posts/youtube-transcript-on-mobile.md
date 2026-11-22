@@ -1,5 +1,5 @@
 ---
-title: "How to Copy or View a YouTube Transcript on Your Phone"
+title: "How to Copy or View a YouTube Transcript on Your Phone (iPhone & Android)"
 description: "How to copy a YouTube transcript on your phone, or just view it in the app: tap the title, then Show transcript. Step-by-step for iPhone and Android."
 date: "2026-09-30"
 author: "YTTranscript Team"
@@ -38,7 +38,7 @@ faqItems:
 ---
 **To copy a YouTube transcript on your phone, tap Share → Copy link in the YouTube app, open [YTTranscript](https://yttranscript.app) in your phone's browser, paste the link and tap Get Transcript Now, then sign in with a free account and tap Copy.** The YouTube app itself only lets you *view* the transcript: tap the title (iPhone) or "...more" (Android), scroll down and tap **Show transcript**. It has no button to copy or download the whole thing.
 
-*Last updated: November 21, 2026.*
+*Last updated: November 22, 2026.*
 
 ## How to copy a YouTube transcript on your phone
 
@@ -77,7 +77,7 @@ The in-app transcript is built for reading along. There's no button to copy the 
 | Tap a line to jump in the video | Yes | No |
 | Copy the whole transcript | No one-tap option | Yes, with a free account |
 | Download as TXT, DOCX or PDF | No | Yes |
-| Account required | No | No to read; free account to copy |
+| Account required | No | No to read; free account to copy/download |
 | Cost | Free | 1 free a day, 2 with a free account, then one-time packs |
 
 *Checked November 2026.*

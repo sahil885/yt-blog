@@ -69,7 +69,7 @@ In Anki, choose File → Import, select your text file, set the field separator 
 
 | Feature | YTTranscript + AI | Dedicated "YouTube to Anki" apps |
 |---|---|---|
-| Account required | No | Usually yes |
+| Account required | No to read; free account to copy/download | Usually yes |
 | Cost | Free | Free tier often capped at 3–5 min videos |
 | Video length limit | None | Common on free plans |
 | Control over card wording | Full (you edit the prompt) | Limited |

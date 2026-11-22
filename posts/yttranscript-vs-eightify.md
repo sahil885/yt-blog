@@ -37,7 +37,7 @@ Below is an honest, feature-by-feature breakdown so you can pick the right one.
 
 | Feature | YTTranscript | Eightify |
 |---|---|---|
-| Account required | No | Yes |
+| Account required | No to read; free account to copy/download | Yes |
 | Install / extension | None (web) | Chrome extension + mobile app |
 | Primary output | Full transcript | AI summary + key insights |
 | Full verbatim transcript | Yes | Partial / secondary |

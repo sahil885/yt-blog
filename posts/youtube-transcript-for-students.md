@@ -18,7 +18,7 @@ faqItems:
   - question: "Can I use transcripts for online course videos not on YouTube?"
     answer: "YTTranscript works specifically with YouTube. For videos on other platforms like Coursera or Udemy, check if the platform has a built-in transcript feature."
   - question: "Is this free for students?"
-    answer: "Yes. YTTranscript gives you 1 free transcript a day with no account needed (2 with a free account). If you need more, one-time packs start at $9 for 100 transcripts and never expire."
+    answer: "Yes. YTTranscript gives you 1 free transcript a day with no account (2 a day with a free account, which you need to copy or download). If you need more, one-time packs start at $9 for 100 transcripts and never expire."
   - question: "What if the transcript has errors?"
     answer: "Auto-generated transcripts occasionally mishear words, especially technical terms or proper nouns. Always cross-check key facts against the original video. For important academic work, use videos with human-written captions where possible."
   - question: "Can I download the transcript to keep?"
@@ -41,14 +41,14 @@ This is the same workflow professional researchers, journalists, and writers use
 
 ## Step 1: Find Your Video and Get the Transcript
 
-Whether it's a university lecture, a Crash Course episode, a YouTube tutorial, or a TED Talk — if it's on YouTube, you can get a free transcript with no account required.
+Whether it's a university lecture, a Crash Course episode, a YouTube tutorial, or a TED Talk — if it's on YouTube, you can read a free transcript with no account (a free account lets you copy or download it).
 
 1. Copy the video URL from your browser
 2. Open [YTTranscript](https://yttranscript.app)
 3. Paste the URL and click **Get Transcript Now**
 4. The full text appears within seconds
 
-No account needed. Works on your phone, tablet, or laptop.
+No account needed to read it; a free account lets you copy or download. Works on your phone, tablet, or laptop.
 
 <div class="cta-box">
   <strong>Get any lecture transcript instantly:</strong> Paste the YouTube URL and have the full text in seconds — 1 free a day, or 2 with a free account; no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app now</a>
@@ -107,7 +107,7 @@ Most do — YouTube auto-generates captions for the vast majority of videos. Som
 YTTranscript works specifically with YouTube. For videos on other platforms (Coursera, Udemy, etc.), check if the platform has a built-in transcript feature.
 
 **Is this free?**
-Yes. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day with no account needed (2 with a free account). If you need more, one-time packs start at $9 for 100 transcripts and never expire.
+Yes. [YTTranscript](https://yttranscript.app) gives you 1 free transcript a day with no account (2 a day with a free account, which you need to copy or download). If you need more, one-time packs start at $9 for 100 transcripts and never expire.
 
 **What if the transcript has errors?**
 Auto-generated transcripts occasionally mishear words, especially technical terms or proper nouns. Always cross-check key facts against the original video.
