@@ -1,124 +1,110 @@
 ---
-title: "How to Translate a YouTube Transcript to English (Free Method)"
-description: "Watching a video in Spanish, French, or any other language? Get the full transcript and translate it to English in seconds — no paid tools needed."
+title: "How to Translate a YouTube Transcript (Into 16 Languages)"
+seoTitle: "How to Translate a YouTube Transcript (2026)"
+description: "Translate a YouTube transcript into English or another language: YouTube's free auto-translate, a free translator, or YTTranscript's 16-language translation."
 date: "2026-05-25"
 author: "YTTranscript Team"
 category: "Guide"
-readingTime: "5 min read"
+readingTime: "7 min read"
 keywords:
+  - translate youtube transcript
+  - youtube transcript in another language
   - translate youtube transcript to english
-  - youtube transcript translation
-  - youtube video in spanish transcript english
   - translate youtube captions
-  - youtube foreign language transcript translation
-howToName: "How to Translate a YouTube Transcript to English"
+  - youtube transcript translation
+howToName: "How to Translate a YouTube Transcript"
 howToSteps:
   - name: "Get the transcript in the original language"
-    text: "Go to yttranscript.app, paste the YouTube video URL, and get the full transcript in the video's original language."
-  - name: "Copy the transcript"
-    text: "Click Copy to copy the full text to your clipboard."
-  - name: "Translate with an AI or translation tool"
-    text: "Paste the transcript into ChatGPT, Claude, or DeepL and ask for an English translation."
-  - name: "Review and use"
-    text: "The translated transcript is ready to read, copy, or use for notes, research, or content."
+    text: "Open Show transcript on YouTube, or paste the video link into YTTranscript to get the full transcript."
+  - name: "Choose how to translate it"
+    text: "Use YouTube's free auto-translate to read translated captions while you watch, paste the text into a translator such as Google Translate, or use YTTranscript's translation into 16 languages (needs a pack)."
+  - name: "Save the translated text"
+    text: "Copy the translated text into a document, or upload a DOCX of the transcript to Google Translate's Documents tab to translate the whole file."
 faqItems:
   - question: "How do I translate a YouTube transcript to English?"
-    answer: "Get the transcript in the original language using YTTranscript, then paste it into ChatGPT, Claude, or DeepL and ask for a translation. The whole process takes under 2 minutes."
-  - question: "Can YouTube auto-translate its transcripts?"
-    answer: "YouTube has an auto-translate feature for its built-in captions — you can switch the CC language in the video player. However, this only works while watching and doesn't let you extract or download the translated text. YTTranscript + an AI gives you the text in any language."
-  - question: "What is the best free tool to translate a YouTube transcript?"
-    answer: "For most languages, ChatGPT or Claude produce the most natural translations. DeepL is excellent for European languages and preserves nuance better than Google Translate for complex text."
-  - question: "Does this work for any language?"
-    answer: "Yes — as long as the video has captions in its original language (which most public YouTube videos do), you can extract the transcript and translate it to English or any other language."
-  - question: "Can I translate timestamps too?"
-    answer: "Yes. YTTranscript includes timestamps in the transcript. AI translation tools preserve them alongside the translated text, so you can still navigate to specific moments in the video."
+    answer: "Get the transcript (YouTube's Show transcript panel or YTTranscript), then paste it into a translator such as Google Translate, or use YTTranscript's built-in translation, which needs a pack. To just read along, turn on YouTube's auto-translate captions."
+  - question: "Can YouTube translate a video's transcript?"
+    answer: "YouTube can auto-translate captions on screen: turn on CC, open Settings, choose Subtitles, then Auto-translate and a language. It only works on videos that already have captions, and it doesn't give you translated text to copy or download."
+  - question: "Can I get a YouTube transcript in another language for free?"
+    answer: "Yes. YouTube's auto-translate captions are free, and you can paste a transcript into Google Translate for free, about 5,000 characters at a time. YTTranscript's translation into 16 languages needs a pack."
+  - question: "Which languages can YTTranscript translate a transcript into?"
+    answer: "16: English, Spanish, French, German, Portuguese, Italian, Dutch, Chinese (Simplified), Japanese, Korean, Hindi, Arabic, Russian, Turkish, Indonesian and Vietnamese. Translation needs a pack."
+  - question: "Can ChatGPT translate a YouTube video?"
+    answer: "It can translate a transcript you paste in. In our November 2026 test it refused to give a full verbatim transcript from a link, so get the transcript first, then paste it in for translation."
 ---
 
-YouTube hosts an enormous amount of valuable content in languages other than English — Spanish lectures, French documentaries, German interviews, Hindi explainers, Japanese tutorials. But if your reading fluency in that language is limited, the transcript alone doesn't help much.
+**To translate a YouTube transcript, first get the transcript in the original language (YouTube's free "Show transcript" panel or [YTTranscript](https://yttranscript.app)), then translate it: paste it into a free translator such as Google Translate, or use YTTranscript's built-in translation into 16 languages, which needs a pack.** If you only want to read along while you watch, YouTube's own auto-translate captions are free, but they don't give you text you can copy or download.
 
-The solution is quick: get the transcript in the original language, then translate it. Here's exactly how, with free tools.
+*Last updated: November 2026.*
 
-## Why Not Just Use YouTube's Built-In Auto-Translate?
+## Option 1: YouTube's auto-translate captions (free)
 
-YouTube does offer an auto-translate feature for captions. You can switch the CC language in the video player settings while watching. But there are two significant limitations:
+On a computer: turn on captions with the **CC** button, click **Settings** (the gear), choose **Subtitles/CC**, then **Auto-translate**, and pick a language. On the phone app: open the video's settings, tap **Captions**, then **Auto-translate**.
 
-1. **You can't extract or download the translated text.** The translation only appears as live captions overlaid on the video while you watch — you can't copy or save it.
-2. **Quality is inconsistent.** YouTube's auto-translation is serviceable for getting the gist of content but often produces awkward phrasing, especially for complex or technical speech.
+- **Good for:** reading along in your language while you watch.
+- **Limits:** it only works on videos that already have captions (uploaded or auto-generated), the translation is machine quality, and you can't copy or download the translated text.
 
-Extracting the original transcript and running it through a dedicated AI translation gives you downloadable text with better quality.
+## Option 2: Copy the transcript into a translator (free)
 
-## Step 1: Get the Transcript in the Original Language
+1. **Get the transcript.** Open **Show transcript** under the video and copy it, or paste the link into YTTranscript (1 free transcript a day without an account; a free account lets you copy and download, and gives 2 a day). Turn timestamps off for cleaner translation.
+2. **Paste it into a translator.** Google Translate's text box takes about 5,000 characters at a time, so paste a long transcript in chunks.
+3. **Or translate the whole file.** Download the transcript as a DOCX or PDF, then upload it to Google Translate's **Documents** tab on a computer (DOCX, PDF, PPTX and XLSX up to 10 MB) and download the translated version.
 
-Go to [YTTranscript.app](https://yttranscript.app), paste the YouTube video URL, and click **Get Transcript Now**. The transcript appears in the video's original language — Spanish, French, German, Hindi, Japanese, Arabic, or whatever the video is in.
+AI assistants such as ChatGPT or Claude can also translate a transcript you paste in, and often read more naturally than word-by-word translation. They can't fetch the full transcript from a link, though, so paste the text ([what ChatGPT can and can't do with YouTube](/youtube-transcript-for-chatgpt)).
 
-Click **Copy** to copy the full text to your clipboard.
+## Option 3: YTTranscript's translation (16 languages, needs a pack)
+
+With a pack, YTTranscript can translate the transcript for you, so you skip the copy-paste and chunking, then export it as TXT, DOCX, PDF or SRT, with timestamps on or off. Packs start from $9 for 100, are one-time, and credits never expire.
+
+It translates into these **16 languages**:
+
+| | | | |
+|---|---|---|---|
+| English | Spanish | French | German |
+| Portuguese | Italian | Dutch | Chinese (Simplified) |
+| Japanese | Korean | Hindi | Arabic |
+| Russian | Turkish | Indonesian | Vietnamese |
 
 <div class="cta-box">
-  <strong>Get any YouTube transcript in any language:</strong> Paste the URL and get the full text in seconds — free, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Get the transcript first:</strong> paste any YouTube link to read the full transcript free, then translate it, or translate it into 16 languages with a pack. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
-## Step 2: Translate With an AI or Translation Tool
+## Translation options compared
 
-**Option A: ChatGPT or Claude (Best for quality and context)**
+| Option | Free limit | Paid | Languages | Downloadable translated text |
+|---|---|---|---|---|
+| **YouTube auto-translate** | Free | None | Many | No, on-screen captions only |
+| **Google Translate** | Free; about 5,000 characters per paste, documents up to 10 MB | None | 100+ | Yes |
+| **NoteGPT** | 15 quotas a month | Pro from $9.99/mo | 40+ | Yes |
+| **YTTranscript** | Transcript free (1 a day); translation needs a pack | Packs from $9 for 100 | 16 | Yes: TXT, DOCX, PDF or SRT |
 
-Paste the transcript into [ChatGPT](https://chatgpt.com) or [Claude](https://claude.ai) with this prompt:
+*Checked November 2026.*
 
-> *"Please translate the following YouTube transcript from [language] to English. Preserve the meaning and natural flow of the speech, and keep the timestamps intact."*
+**Verdict:** to understand a video while watching, use YouTube's auto-translate. For a one-off translated document, copy the transcript into Google Translate (or upload the DOCX). If you translate transcripts regularly into one of the 16 supported languages, YTTranscript's translation saves the chunking and gives you a ready file.
 
-ChatGPT and Claude both handle nuanced translation well, including colloquialisms, technical vocabulary, and conversational tone. This is the best option for transcripts where accuracy and readability matter.
+## Keeping timestamps through translation
 
-**Option B: DeepL (Best for European languages)**
+If you need to jump back to moments in the video, keep timestamps on when you get the transcript. Translators usually leave `0:00`-style timestamps alone, so they survive. For subtitles in another language, export SRT and translate the text lines while keeping the timing lines unchanged ([YouTube transcript to SRT](/youtube-transcript-to-srt)).
 
-[DeepL](https://deepl.com) is widely considered the most accurate machine translation tool for European languages — particularly French, German, Spanish, Italian, Portuguese, Dutch, Polish, and Russian. It handles idiomatic expressions and complex sentence structures better than Google Translate.
+## What if the video has no captions?
 
-Paste the transcript into DeepL, select English as the target language, and download or copy the result.
-
-**Option C: Google Translate (Quick, broad coverage)**
-
-Google Translate supports over 130 languages and is the most accessible option. For major world languages, quality is good. For less common languages or highly technical content, the other options above are more reliable.
-
-## Preserving Timestamps Through Translation
-
-If you got a timestamped transcript from YTTranscript, AI tools generally preserve timestamps alongside the translated text. Your prompt can reinforce this:
-
-> *"Translate this from [language] to English. Keep all timestamps in their original format [0:00] exactly where they appear in the text."*
-
-This lets you still navigate to specific moments in the original video even when reading the English translation.
-
-## Translating Non-English Transcripts for Research
-
-If you're using foreign-language YouTube content for research — academic papers, journalism, qualitative analysis — translating the transcript via AI is a legitimate intermediate step. A few best practices:
-
-- **Note that the translation is machine-generated** in your methodology if publishing
-- **Verify key quotes** against the original language audio or a human translator for anything you intend to cite verbatim
-- **Use Claude or ChatGPT** over Google Translate for academic content — they handle technical vocabulary and nuanced phrasing much better
-
-See our guide on [YouTube transcripts for researchers](/youtube-transcript-for-researchers) for the broader research workflow.
-
-## What Languages Does This Work For?
-
-As long as the YouTube video has captions in its original language — which most public videos do — this workflow handles any language. YTTranscript extracts the caption data regardless of language. The translation quality then depends on how well the AI or translation tool handles that language pair.
-
-For major world languages (Spanish, French, German, Portuguese, Italian, Japanese, Korean, Chinese, Arabic, Hindi), all three translation options above work reliably. For less widely spoken languages, quality varies — Claude and ChatGPT tend to handle them better than older machine translation tools.
-
-For the reverse — getting transcripts from English YouTube videos and translating them into other languages — the same workflow applies in the opposite direction.
+Nothing can be translated until a transcript exists. YTTranscript can make an AI transcript from the audio for about 10 credits (needs a pack); see [what to do when a video has no transcript](/youtube-video-no-transcript). For non-English videos with captions, our [non-English YouTube transcripts guide](/youtube-transcript-non-english) has language-specific tips, and our [YouTube transcript generator](/youtube-transcript-generator) guide covers the basics.
 
 ## Frequently Asked Questions
 
 **How do I translate a YouTube transcript to English?**
-Get the transcript in the original language with YTTranscript, paste it into ChatGPT, Claude, or DeepL, and ask for an English translation. Under 2 minutes total.
+Get the transcript (YouTube's Show transcript panel or YTTranscript), then paste it into a translator such as Google Translate, or use YTTranscript's built-in translation, which needs a pack. To just read along, turn on YouTube's auto-translate captions.
 
-**Does YouTube auto-translate its transcripts?**
-It auto-translates captions for live viewing only — you can't extract or download the translated text from YouTube directly.
+**Can YouTube translate a video's transcript?**
+YouTube can auto-translate captions on screen: turn on CC, open Settings, choose Subtitles, then Auto-translate and a language. It only works on videos that already have captions, and it doesn't give you translated text to copy or download.
 
-**What's the best free translation tool?**
-ChatGPT or Claude for quality and context; DeepL for European languages specifically; Google Translate for quick access to 130+ languages.
+**Can I get a YouTube transcript in another language for free?**
+Yes. YouTube's auto-translate captions are free, and you can paste a transcript into Google Translate for free, about 5,000 characters at a time. YTTranscript's translation into 16 languages needs a pack.
 
-**Can I keep the timestamps in the translation?**
-Yes — tell the AI to preserve timestamps as part of your prompt and they'll carry through to the translated version.
+**Which languages can YTTranscript translate a transcript into?**
+16: English, Spanish, French, German, Portuguese, Italian, Dutch, Chinese (Simplified), Japanese, Korean, Hindi, Arabic, Russian, Turkish, Indonesian and Vietnamese. Translation needs a pack.
 
----
+**Can ChatGPT translate a YouTube video?**
+It can translate a transcript you paste in. In our November 2026 test it refused to give a full verbatim transcript from a link, so get the transcript first, then paste it in for translation.
 
-A language barrier in a YouTube video is no longer a research dead end. Extract the transcript, translate it with an AI, and the full content of almost any public YouTube video is accessible to you in English — in under two minutes, for free.
-
-**[→ Get any YouTube transcript in any language at YTTranscript.app — free, no extension needed](https://yttranscript.app)**
+**[Get any YouTube transcript at YTTranscript.app, then translate it →](https://yttranscript.app)**

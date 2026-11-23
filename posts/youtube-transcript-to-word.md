@@ -1,110 +1,107 @@
 ---
-title: "How to Convert a YouTube Transcript to Word (Free)"
-description: "Convert any YouTube transcript to Word in seconds. Free tool that exports a clean .docx file you can edit, highlight, and share. Works on your phone too."
+title: "How to Download a YouTube Transcript as a Word Document (DOCX)"
+seoTitle: "YouTube Transcript to Word (DOCX Download)"
+description: "Download a YouTube transcript as a Word document: copy it from YouTube into Word for free, or export a clean DOCX file from YTTranscript with a free account."
 date: "2026-11-14"
 author: "YTTranscript Team"
 category: "How-To"
-readingTime: "6 min read"
+readingTime: "7 min read"
 keywords:
   - youtube transcript to word
+  - download youtube transcript as word document
   - youtube transcript to docx
   - convert youtube transcript to word document
   - save youtube transcript as word
-  - youtube to word
 faqItems:
+  - question: "How do I download a YouTube transcript as a Word document?"
+    answer: "Paste the video link into YTTranscript, sign in with a free account and choose DOCX to download a Word file. Or, for free with no account, open Show transcript on YouTube, copy the text and paste it into Word."
   - question: "Can I convert a YouTube transcript to Word for free?"
-    answer: "Yes. YTTranscript pulls the full transcript and exports a .docx file at no cost with a free account; no extension required."
-  - question: "Does the Word file include timestamps?"
-    answer: "You choose. Export a clean text version for readable paragraphs, or keep timestamps if you need to reference specific moments in the video."
-  - question: "Will this work on my phone?"
-    answer: "Yes. YTTranscript runs in any mobile browser and, unlike YouTube's built-in transcript panel, lets you download the text as a Word file."
-  - question: "Is the transcript editable once it's in Word?"
-    answer: "Completely. The exported .docx is normal Word text you can edit, format, highlight, and comment on in Word, Google Docs, or LibreOffice."
-  - question: "What if the video has no transcript?"
-    answer: "Some videos have captions disabled. In that case there is no text to extract, so you would need a video with captions available."
-  - question: "Does this work for long videos or whole playlists?"
-    answer: "Yes. Caption-based transcripts come back in seconds even for 3-hour videos, and for playlists you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download); one-time packs from $9 for 100 transcripts cover bigger jobs."
+    answer: "Yes. Copying from YouTube's Show transcript panel into Word is free. YTTranscript's DOCX export is free too: a free account lets you copy and download, and gives 2 a day."
+  - question: "How do I remove timestamps from a YouTube transcript in Word?"
+    answer: "Easiest is to turn timestamps off before you export (YTTranscript has an on/off toggle, and YouTube's panel has Toggle timestamps on desktop). If they're already in Word, use Find and Replace with wildcards to delete them."
+  - question: "Why does my pasted YouTube transcript have a line break every few words?"
+    answer: "YouTube splits captions into short timed lines. In Word, use Find and Replace to turn the line breaks into spaces, then add paragraph breaks where the speaker changes topic."
+  - question: "Can ChatGPT give me a YouTube transcript as a Word file?"
+    answer: "No. In our November 2026 test ChatGPT refused to give a full verbatim transcript, so it can't give you a DOCX of it either. Get the transcript from YouTube or YTTranscript first."
 ---
 
-You found the perfect video — a lecture, a tutorial, an interview — and now you want it as an editable **Word document** you can highlight, annotate, and share. Maybe you're writing notes, building a report, or quoting a source. Whatever the reason, getting a **YouTube transcript into a .docx file** should take seconds, not an afternoon of copying and reformatting.
+**To download a YouTube transcript as a Word document, paste the video link into [YTTranscript](https://yttranscript.app), sign in with a free account and export it as DOCX; the file opens straight in Microsoft Word, Google Docs or Pages.** For a free, no-account route, open the video's **Show transcript** panel on YouTube, copy the text and paste it into Word; it works, but you'll need to clean up the line breaks and timestamps yourself (tips below).
 
-This guide shows you the fastest free way to convert any **YouTube transcript to Word**, walks through the manual method, and compares the two so you can pick the right one.
+*Last updated: November 2026.*
 
-## Why Save a YouTube Transcript as a Word Document
+## Method 1: Direct DOCX export from YTTranscript
 
-A plain transcript is useful, but a **Word document** is where the real work happens. Once the text is in a .docx file you can highlight key passages and add comments, restructure the text into headings and quotes, run spell-check, track changes, and share an editable copy with colleagues, students, or clients.
+1. **Copy the YouTube link** from the address bar or the Share button.
+2. **Paste it into [YTTranscript](https://yttranscript.app)** and click **Get Transcript Now**. The full text appears in seconds.
+3. **Choose timestamps on or off.** Off gives you clean paragraphs for a document; on is handy for notes you'll check against the video.
+4. **Download as DOCX** (a free account is needed to copy and download). TXT, PDF and SRT are there too.
 
-Word is also the format most people already use for reports, essays, and meeting notes. If you're turning a video into written work, **.docx is usually the finish line** — which is exactly why exporting straight to Word saves you a conversion step. Prefer a different format? You can also send a transcript to [PDF](/youtube-transcript-to-pdf), [Google Docs](/youtube-transcript-to-google-docs), or [Markdown](/youtube-transcript-to-markdown).
-
-## The Fastest Way: YouTube Transcript to Word in 3 Steps
-
-The quickest route is a free transcript tool that exports DOCX directly. With **[YTTranscript](https://yttranscript.app)** there's no extension and no software to install, just a free account:
-
-1. **Copy the YouTube video URL** from your browser's address bar or the Share button.
-2. **Paste it into [YTTranscript.app](https://yttranscript.app)** and let it pull the full transcript in seconds.
-3. **Click Export → DOCX** to download a clean Word document, ready to open in Microsoft Word, Google Docs, or LibreOffice.
-
-That's it. No "create your free account" wall, no credit card, no 10-minute trial timer. The transcript comes out as plain, readable paragraphs you can format however you like. Need the times too? Grab a version [with timestamps](/youtube-transcript-with-timestamps) first, then export.
+The free tier is 1 free transcript a day without an account; a free account lets you copy and download, and gives 2 a day. If you're building a library of documents, packs start from $9 for 100, one-time, and credits never expire.
 
 <div class="cta-box">
-  <strong>Try it free:</strong> Paste any YouTube link and download a clean Word (.docx) transcript in seconds — free account, no extension. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
+  <strong>Skip the copy-paste clean-up:</strong> paste any YouTube link and download a ready-to-edit Word file (DOCX), with timestamps on or off. <a href="https://yttranscript.app">→ Try YTTranscript.app</a>
 </div>
 
-## The Manual Method (and Why It's Painful)
+## Method 2: Copy from YouTube into Word (free)
 
-You can technically do this without any tool, but it's fiddly. On desktop, open the video on YouTube, click the **⋯ more** menu under the video, choose **Show transcript**, then select the text, copy it, and paste it into Word.
+1. On a computer, open the video and click **...more** under it to expand the description.
+2. Scroll down and click **Show transcript**. The transcript opens beside the video.
+3. To drop the timestamps, click the three-dot menu at the top of the transcript panel and choose **Toggle timestamps**.
+4. Click at the start of the transcript, scroll to the end and Shift-click to select it all, then copy.
+5. In Word, paste with **Keep Text Only** (right-click → Paste Options) so you don't carry over YouTube's styling.
+6. Save as a .docx file.
 
-The problem? YouTube's panel pastes **a timestamp on every single line**, so you end up with something like "0:14 welcome back everyone 0:17 today we're going to…" running down the page. Cleaning that up by hand means deleting hundreds of timestamps or wrestling with Find & Replace. You also can't open the transcript panel on your phone, and there's no real "export" — just copy and paste. For anything longer than a few minutes, it's far faster to [download the transcript](/how-to-download-youtube-transcript) as a finished file. If you're new to transcripts entirely, start with [how to get a YouTube transcript](/how-to-get-a-youtube-transcript).
+This is free and needs no account, but it's slow for long videos, and the text arrives as dozens of short caption lines. The [copy guide](/how-to-copy-youtube-transcript) has more detail.
 
-## YTTranscript vs Other Ways to Get a Word Document
+**No Word?** Paste the text into Google Docs and choose **File → Download → Microsoft Word (.docx)**.
 
-| Feature | YTTranscript | YouTube copy-paste | Typical paid converter |
-|---|---|---|---|
-| Account required | No to read; free account to copy/download | No | Usually yes |
-| Direct .docx export | Yes | No (manual paste) | Sometimes |
-| Removes per-line timestamps | Yes | No | Varies |
-| Works on mobile | Yes | No | Varies |
-| Price | Free | Free | Paid / freemium |
-| Extension needed | No | No | Sometimes |
+## Ways to get a YouTube transcript into Word, compared
 
-The manual method is free but messy; paid converters add a Word export but usually behind a signup or paywall. **[YTTranscript](https://yttranscript.app)** sits in the sweet spot: free, clean output, and a real DOCX download with a free account.
+| Method | Free tier | Account needed | Word (DOCX) file | Timestamps |
+|---|---|---|---|---|
+| **YTTranscript** | 1 free transcript a day; 2 a day with a free account | Free account to copy and download | Direct DOCX export | On or off |
+| **YouTube Show transcript + Word** | Free, no limit | No | You paste and save it yourself | Toggle on desktop |
+| **Google Docs** (paste, then download) | Free | Google account | File → Download → .docx | Whatever you paste |
+| **DownSub** | Free downloads, no account | No | No; TXT, SRT or VTT | Subtitle-style lines |
+| **NoteGPT** | 15 quotas a month | Yes | No; TXT or SRT download | Not stated |
 
-## Tips for Formatting Your Transcript in Word
+*Checked November 2026.*
 
-Once your transcript is in Word, a few quick moves make it genuinely useful. **Add headings** to break the text into sections — Word's Styles menu turns those into a navigable outline. **Use Find & Replace** to fix a repeated filler word or a misheard name in one pass. **Turn key lines into block quotes** if you're citing the video in an essay or article, and remember to [cite the YouTube video](/how-to-cite-a-youtube-video) properly. Finally, **keep the source link** at the top of the document so you can jump back to the original anytime.
+**Verdict:** if you need one transcript occasionally and don't mind tidying it, copy from YouTube for free. If you want a clean, editable Word file in one step, or you do this often, export the DOCX from YTTranscript. If you actually need subtitle files, use SRT instead ([YouTube transcript to SRT](/youtube-transcript-to-srt)).
 
-From there, the same file can become a study sheet, a blog draft, or a client deliverable. Turning a video into an article? See [YouTube video to blog post](/youtube-video-to-blog-post).
+## Clean formatting tips for a transcript in Word
 
-For a 3-hour lecture or hearing, Word handles 30,000+ words fine — see [how to transcribe a long YouTube video](/how-to-transcribe-a-long-youtube-video) for splitting it into sections. If you need on-screen captions rather than a document, [convert the transcript to an SRT file](/youtube-transcript-to-srt) instead.
+**Remove timestamps.** The easiest fix is before you export: turn timestamps off in YTTranscript, or use **Toggle timestamps** in YouTube's panel. If they're already in your document, open **Find and Replace**, tick **Use wildcards**, search for `[0-9]{1,2}:[0-9]{2}` (and `[0-9]{1,2}:[0-9]{2}:[0-9]{2}` for videos over an hour), and replace with nothing.
 
-## Need more than free?
+**Join caption lines into paragraphs.** Captions break every few words. In **Find and Replace**, search for `^p` (paragraph mark) and replace with a single space to make one block of text. Then add paragraph breaks by hand wherever the speaker changes topic. If the document already has real paragraphs you want to keep, first replace `^p^p` with a placeholder like `###`, then `^p` with a space, then `###` with `^p`.
 
-YTTranscript's free tier is **1 transcript a day without an account, or 2 a day with a free account**. If you're building a library of Word documents, buy a one-time pack — no subscription, credits never expire, and there's a 30-day money-back guarantee:
+**Tidy the spacing.** Replace two spaces with one, repeating until Word finds none.
 
-- **Starter — $9** for 100 transcripts (9¢ each)
-- **Pro — $16** for 500 transcripts (3.2¢ each)
-- **Power — $34** for 1,500 transcripts (2.3¢ each)
+**Add structure.** Use Word's Heading styles for section titles so the Navigation pane gives you a clickable outline, and keep the video link at the top so you can [cite the YouTube video](/how-to-cite-a-youtube-video) later.
 
-Packs also add a saved transcript library, AI translation into 16 languages, and AI transcription for videos with no captions (about 10 credits each). The jobs that usually need a pack: [getting transcripts for a whole playlist](/how-to-download-youtube-playlist-transcripts), [working through long 3–10 hour videos](/how-to-transcribe-a-long-youtube-video), and [turning transcripts into SRT caption files](/youtube-transcript-to-srt).
+**Long videos.** Word handles a 3-hour transcript (30,000+ words) fine. See [how to transcribe a long YouTube video](/how-to-transcribe-a-long-youtube-video) for splitting it into sections.
+
+## Why not ask ChatGPT for the Word file?
+
+In our November 2026 test, ChatGPT summarized a pasted YouTube link but refused to give the full word-for-word transcript, citing copyright, so it can't give you a DOCX of it either. Get the transcript first, then use ChatGPT on the text if you want a summary ([what ChatGPT can and can't do with YouTube](/youtube-transcript-for-chatgpt)).
+
+For every other way to use a [YouTube transcript generator](/youtube-transcript-generator), see our full guide.
 
 ## Frequently Asked Questions
 
-**Does this work for long videos or whole playlists?**
-Yes. Caption-based transcripts come back in seconds even for [3-hour videos](/how-to-transcribe-a-long-youtube-video), and for [playlists](/how-to-download-youtube-playlist-transcripts) you paste each video's URL in turn. The free tier covers 1 transcript a day without an account or 2 with a free account (needed to copy or download); one-time packs from $9 for 100 transcripts cover bigger jobs.
+**How do I download a YouTube transcript as a Word document?**
+Paste the video link into YTTranscript, sign in with a free account and choose DOCX to download a Word file. Or, for free with no account, open Show transcript on YouTube, copy the text and paste it into Word.
 
 **Can I convert a YouTube transcript to Word for free?**
-Yes. [YTTranscript](https://yttranscript.app) pulls the full transcript and exports a .docx file at no cost with a free account; no extension required.
+Yes. Copying from YouTube's Show transcript panel into Word is free. YTTranscript's DOCX export is free too: a free account lets you copy and download, and gives 2 a day.
 
-**Does the Word file include timestamps?**
-You choose. Export a clean text version for readable paragraphs, or keep timestamps if you need to reference specific moments in the video.
+**How do I remove timestamps from a YouTube transcript in Word?**
+Easiest is to turn timestamps off before you export (YTTranscript has an on/off toggle, and YouTube's panel has Toggle timestamps on desktop). If they're already in Word, use Find and Replace with wildcards to delete them.
 
-**Will this work on my phone?**
-Yes — YTTranscript runs in any mobile browser and, unlike YouTube's built-in transcript panel, lets you download the text as a Word file.
+**Why does my pasted YouTube transcript have a line break every few words?**
+YouTube splits captions into short timed lines. In Word, use Find and Replace to turn the line breaks into spaces, then add paragraph breaks where the speaker changes topic.
 
-**Is the transcript editable once it's in Word?**
-Completely. The exported .docx is normal Word text you can edit, format, highlight, and comment on in Word, Google Docs, or LibreOffice.
+**Can ChatGPT give me a YouTube transcript as a Word file?**
+No. In our November 2026 test ChatGPT refused to give a full verbatim transcript, so it can't give you a DOCX of it either. Get the transcript from YouTube or YTTranscript first.
 
-**What if the video has no transcript?**
-Some videos have captions disabled, which means there's no text to extract. Here's [what to do when a YouTube video has no transcript](/youtube-video-no-transcript).
-
-**Ready to convert your first video? [Get your YouTube transcript as a Word document free at YTTranscript.app →](https://yttranscript.app)**
+**[Download your YouTube transcript as a Word file at YTTranscript.app →](https://yttranscript.app)**
