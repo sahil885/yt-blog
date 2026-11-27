@@ -100,6 +100,8 @@ Paste a Shorts link into YTTranscript exactly the same way to get its transcript
 
 No. Chrome on iPhone and Android doesn't support extensions, so extension-based transcript tools only work on desktop. YTTranscript runs as a normal web page, so it works in any mobile browser. See [whether you need a YouTube transcript Chrome extension](/youtube-transcript-chrome-extension).
 
+Comparing options? See the [best YouTube transcript apps for iPhone and Android](/best-youtube-transcript-app-for-iphone-and-android).
+
 ## Frequently asked questions
 
 **How do I copy a YouTube transcript on my phone?**
